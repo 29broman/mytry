@@ -26,7 +26,8 @@ TARGET_CHANNELS = [
     'ZiggoSport.nl', 'ZiggoSport2.nl', 'ZiggoSport3.nl', 'ZiggoSport4.nl', 'ZiggoSport5.nl', 'ZiggoSport6.nl',
     'Arenasport1.hr', 'Arena3Premium.ba', 'CanalPlusFoot.fr', 'CanalPlusLive3.fr', 'CanalPlusPremierLeague.fr',
     'CanalPlusSport.fr', 'CanalPlusSport360.fr', 'DigiSport1.ro', 'DigiSport2.ro', 'DigiSport3.ro', 'DigiSport4.ro',
-    'NovasportsPremierLeague.gr', 'SkySportAustria1.at', 'SkySportPremierLeague.de', 'Sky Sport Calcio.it', 'Sky Sport MotoGP.it'
+    'NovasportsPremierLeague.gr', 'SkySportAustria1.at', 'SkySportPremierLeague.de', 'Sky Sport Calcio.it', 'Sky Sport MotoGP.it',
+    'DAZN1.pt', 'DAZN2.pt', 'DAZN3.pt', 'DAZN4.pt'
 ]
 TARGET_SET = set(TARGET_CHANNELS)
 
@@ -41,6 +42,7 @@ SUFFIX_TO_LANG = {
     '.at': 'de',
     '.de': 'de',
     '.it': 'it',
+    '.pt': 'pt',
 }
 
 OVERRIDES = {
