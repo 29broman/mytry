@@ -58,7 +58,14 @@ def get_lang_for_channel(ch: str) -> str:
 
 def download_epg():
     print(f'Downloading fresh EPG from {EPG_URL} ...')
-    req = urllib.request.Request(EPG_URL, headers={'User-Agent': 'Mozilla/5.0'})
+    req = urllib.request.Request(
+        EPG_URL,
+        headers={
+            'User-Agent': 'Mozilla/5.0',
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+        },
+    )
     with urllib.request.urlopen(req, timeout=60) as resp:
         data = resp.read()
     with open(INPUT_XML, 'wb') as f:
