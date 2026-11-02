@@ -2110,3 +2110,215 @@
 | 2026-11-04 01:30 UTC | 2026-11-04 01:55 UTC | GP Qatar | Penultimate round of the 2023 World Championship: from Losail to Qatar, the MotoGP race. In the front row Marini, Di Giannantonio and A. Marquez. TC: Meda-Sanchini. |
 | 2026-11-04 01:55 UTC | 2026-11-04 02:55 UTC | Malaysia | Connections from the paddock, comments from our guests in the studio, the emotions of the parties in the garage. These are the ingredients of the new episode of Race Anatomy |
 
+## DAZN1.pt (62 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-01 00:00 UTC | 2026-11-01 02:00 UTC | Bundesliga | S1 — Schalke 04 x RB LeipzigWatch the Bundesliga game between Schalke 04 x RB Leipzig. |
+| 2026-11-01 02:00 UTC | 2026-11-01 04:00 UTC | Tottenham Hotspur x Crystal Palace - Premier League | S1 — Tottenham Hotspur x Crystal PalaceWatch the Premier League game between Tottenham Hotspur x Crystal Palace. |
+| 2026-11-01 04:00 UTC | 2026-11-01 06:00 UTC | ACD Gulpilhares x AD Sanjoanense - Hockey - Elite Cup Women | S1 — ACD Gulpilhares x AD SanjoanenseWatch the Women's Elite Cup game between ACD Gulpilhares x AD Sanjoanense. |
+| 2026-11-01 06:00 UTC | 2026-11-01 06:15 UTC | Rich Moment | S1 E42Paulo Rico and Maria Fernandes bring you 'Rico Momento', successor to 'Rico Mundial', which brought you curious stories about the biggest football tournament in the world. Now, we continue to do so, but for DAZN teams and competitions. |
+| 2026-11-01 06:15 UTC | 2026-11-01 06:25 UTC | Europa League | S1 — Omonia Nicosia x BenficaWatch the UEFA Europa League game between Omonia Nicosia x Benfica. |
+| 2026-11-01 06:25 UTC | 2026-11-01 06:35 UTC | Champions League | S1 — Porto x PSVWatch the UEFA Champions League game between Porto x PSV. |
+| 2026-11-01 06:35 UTC | 2026-11-01 07:00 UTC | LaLiga Rookies | S1 E3LaLiga Rookies. |
+| 2026-11-01 07:00 UTC | 2026-11-01 09:00 UTC | LaLiga EA Sports | S1 — Levante x Atl. MadridWatch the LALIGA game between Levante x Atl. Madrid. |
+| 2026-11-01 09:00 UTC | 2026-11-01 09:25 UTC | The Evolution of Goalkeepers - Premier League Stories | S1 — The Evolution of GoalkeepersThe role of the goalkeeper has changed over the years, especially in the Premier League. See how the position has evolved and what it will be like in the future. |
+| 2026-11-01 09:25 UTC | 2026-11-01 10:00 UTC | UCL Magazine | S1 E9The summaries, reports, exclusive interviews and the best images from the UEFA Champions League. |
+| 2026-11-01 10:00 UTC | 2026-11-01 10:15 UTC | Bundesliga Clubs | S1 E2 — BayernWatch the Bundesliga Clubs. |
+| 2026-11-01 10:15 UTC | 2026-11-01 12:10 UTC | Bundesliga | S1 — Bayern München x Borussia DortmundWatch the Bundesliga game between Bayern München x Borussia Dortmund. |
+| 2026-11-01 12:10 UTC | 2026-11-01 12:25 UTC | Bundesliga Clubs | S1 E1 — DortmundWatch the Bundesliga Clubs. |
+| 2026-11-01 12:25 UTC | 2026-11-01 14:30 UTC | 2. Bundesliga | S1 — St. Pauli x NürnbergWatch the 2 Bundesliga game between St. Pauli x Nürnberg. |
+| 2026-11-01 14:30 UTC | 2026-11-01 15:05 UTC | Premier League - The Big Interview | S1 E10 — Romeo LaviaThe best interviews from the Premier League. |
+| 2026-11-01 15:05 UTC | 2026-11-01 16:00 UTC | Marcus Stewart - 'The Fight of My Life' - Premier League Stories | S1 — Marcus Stewart - 'The Fight of My Life'The story of overcoming Marcus Stewart, a former Ipswich Town and Sunderland player who, at the age of 49, was diagnosed with Motor Neurone Disease. |
+| 2026-11-01 16:00 UTC | 2026-11-01 19:00 UTC | Liverpool x Arsenal - Premier League | S1 — Liverpool x ArsenalWatch the Premier League game between Liverpool x Arsenal. |
+| 2026-11-01 19:00 UTC | 2026-11-01 19:30 UTC | Diogo Jota - Premier League Stories | S1 — Diogo Jota Watch Premier League Stories. |
+| 2026-11-01 19:30 UTC | 2026-11-01 19:50 UTC | No Emission | S1 E2No Emission. |
+| 2026-11-01 19:50 UTC | 2026-11-01 22:00 UTC | LaLiga EA Sports | S1 — Athletic Club x Real SociedadWatch the LALIGA game between Athletic Club x Real Sociedad. |
+| 2026-11-01 22:00 UTC | 2026-11-02 00:30 UTC | LaLiga EA Sports | S1 — Racing de Santander x Real MadridWatch the LALIGA game between Racing De Santander x Real Madrid. |
+| 2026-11-02 00:30 UTC | 2026-11-02 00:55 UTC | NFL Extra | S1 E5Watch the best of American football on NFL Extra. |
+| 2026-11-02 00:55 UTC | 2026-11-02 01:20 UTC | NFL Extra | S1 E6Watch the best of American football on NFL Extra. |
+| 2026-11-02 01:20 UTC | 2026-11-02 04:50 UTC | NFL | S1 — Commanders x EaglesWatch the NFL game between Commanders x Eagles. |
+| 2026-11-02 04:50 UTC | 2026-11-02 05:05 UTC | NFL Extra | S1 E7Watch the best of American football on NFL Extra. |
+| 2026-11-02 05:05 UTC | 2026-11-02 05:35 UTC | Granit Xhaka - Premier League Stories | S1 — Granit XhakaXhaka's story proves that perseverance can define a legacy as much as success. |
+| 2026-11-02 05:35 UTC | 2026-11-02 05:45 UTC | Champions League | S1 — Porto x PSVWatch the UEFA Champions League game between Porto x PSV. |
+| 2026-11-02 05:45 UTC | 2026-11-02 06:00 UTC | Europa League | S1 — Omonia Nicosia x BenficaWatch the UEFA Europa League game between Omonia Nicosia x Benfica. |
+| 2026-11-02 06:00 UTC | 2026-11-02 07:50 UTC | Bundesliga | S1 — Eintracht Frankfurt x Hamburg SVWatch the Bundesliga game between Eintracht Frankfurt x Hamburg SV. |
+| 2026-11-02 07:50 UTC | 2026-11-02 08:05 UTC | Bundesliga Clubs | S1 E8 — HamburgWatch the Bundesliga Clubs. |
+| 2026-11-02 08:05 UTC | 2026-11-02 08:40 UTC | UCL Magazine | S1 E9The summaries, reports, exclusive interviews and the best images from the UEFA Champions League. |
+| 2026-11-02 08:40 UTC | 2026-11-02 10:30 UTC | Champions League | S1 — Fenerbahçe x Slavia PrahaWatch the UEFA Champions League game between Fenerbahçe x Slavia Praha. |
+| 2026-11-02 10:30 UTC | 2026-11-02 10:45 UTC | Champions League | S1 — Porto x PSVWatch the UEFA Champions League game between Porto x PSV. |
+| 2026-11-02 10:45 UTC | 2026-11-02 11:00 UTC | Bundesliga Clubs | S1 E18 — PaderbornWatch the Bundesliga Clubs. |
+| 2026-11-02 11:00 UTC | 2026-11-02 13:00 UTC | Bundesliga | S1 — Borussia M'gladbach x PaderbornWatch the Bundesliga game between Borussia M'Gladbach x Paderborn. |
+| 2026-11-02 13:00 UTC | 2026-11-02 15:00 UTC | Manchester City x Brighton & Hove Albion - Premier League | S1 — Manchester City x Brighton & Hove AlbionWatch the Premier League game between Manchester City x Brighton & Hove Albion. |
+| 2026-11-02 15:00 UTC | 2026-11-02 17:00 UTC | LaLiga EA Sports | S1 — Getafe x SevillaWatch the LALIGA game between Getafe x Sevilla. |
+| 2026-11-02 17:00 UTC | 2026-11-02 19:00 UTC | Chelsea x Manchester United - Premier League | S1 — Chelsea x Manchester UnitedWatch the Premier League game between Chelsea x Manchester United. |
+| 2026-11-02 19:00 UTC | 2026-11-02 19:50 UTC | Top or not really | S1 E31Top or not really. |
+| 2026-11-02 19:50 UTC | 2026-11-02 22:00 UTC | Newcastle United x Everton - Premier League | S1 — Newcastle United x EvertonWatch the Premier League game between Newcastle United x Everton. |
+| 2026-11-02 22:00 UTC | 2026-11-03 00:00 UTC | Liverpool x Arsenal - Premier League | S1 — Liverpool x ArsenalWatch the Premier League game between Liverpool x Arsenal. |
+| 2026-11-03 00:00 UTC | 2026-11-03 02:00 UTC | LaLiga EA Sports | S1 — Deportivo de La Coruña x OsasunaWatch the LALIGA game between Deportivo De La Coruña x Osasuna. |
+| 2026-11-03 02:00 UTC | 2026-11-03 04:00 UTC | LaLiga Hypermotion | S1 — Mallorca x CádizWatch the LALIGA Hypermotion game between Mallorca x Cádiz. |
+| 2026-11-03 04:00 UTC | 2026-11-03 06:00 UTC | Feyenoord x Fortuna Sittard - Eredivisie | S1 — Feyenoord x Fortuna SittardWatch the Eredivisie game between Feyenoord x Fortuna Sittard. |
+| 2026-11-03 06:00 UTC | 2026-11-03 08:00 UTC | 2. Bundesliga | S1 — Kaiserslautern x Hertha BSCWatch the 2 Bundesliga game between Kaiserlautern x Hertha BSC. |
+| 2026-11-03 08:00 UTC | 2026-11-03 10:00 UTC | Brentford x Nottingham Forest - Premier League | S1 — Brentford x Nottingham ForestWatch the Premier League game between Brentford x Nottingham Forest. |
+| 2026-11-03 10:00 UTC | 2026-11-03 12:00 UTC | LaLiga EA Sports | S1 — Athletic Club x Real SociedadWatch the LALIGA game between Athletic Club x Real Sociedad. |
+| 2026-11-03 12:00 UTC | 2026-11-03 14:05 UTC | No Emission | S1 — Tue 3-Nov, 12:00No Broadcast. |
+| 2026-11-03 14:05 UTC | 2026-11-03 14:55 UTC | UEL/UECL Magazine 2026/2027 | S1 E4UEL/UECL Magazine 2026/2027. |
+| 2026-11-03 14:55 UTC | 2026-11-03 17:10 UTC | UEFA Youth League | S1 — Atl. Madrid x Bayern MünchenWatch the UEFA Youth League game between Atl. Madrid x Bayern München. |
+| 2026-11-03 17:10 UTC | 2026-11-03 17:35 UTC | Premier League - The Big Interview | S1 E10 — Romeo LaviaThe best interviews from the Premier League. |
+| 2026-11-03 17:35 UTC | 2026-11-03 19:30 UTC | Champions League | S1 — Galatasaray x StuttgartWatch the UEFA Champions League game between Galatasaray x Stuttgart. |
+| 2026-11-03 19:30 UTC | 2026-11-03 22:00 UTC | Champions League | S1 — Manchester United x RomaWatch the UEFA Champions League game between Manchester United x Roma. |
+| 2026-11-03 22:00 UTC | 2026-11-03 22:30 UTC | Fabricio Collocini - Premier League Stories | S1 — Fabricio CollociniFabricio Collocini - Premier League Stories. |
+| 2026-11-03 22:30 UTC | 2026-11-03 22:45 UTC | Europa League | S1 — Omonia Nicosia x BenficaWatch the UEFA Europa League game between Omonia Nicosia x Benfica. |
+| 2026-11-03 22:45 UTC | 2026-11-04 00:45 UTC | LaLiga EA Sports | S1 — Racing de Santander x Real MadridWatch the LALIGA game between Racing De Santander x Real Madrid. |
+| 2026-11-04 00:45 UTC | 2026-11-04 02:45 UTC | Champions League | S1 — Feyenoord x InterWatch the UEFA Champions League game between Feyenoord x Inter. |
+| 2026-11-04 02:45 UTC | 2026-11-04 03:45 UTC | Premier League - Matchday Summaries | S1 E9 — RD 09Watch the best moments of this Premier League journey. |
+| 2026-11-04 03:45 UTC | 2026-11-04 05:40 UTC | Champions League | S1 — Atl. Madrid x Bayern MünchenWatch the UEFA Champions League game between Atl. Madrid x Bayern München. |
+| 2026-11-04 05:40 UTC | 2026-11-04 06:00 UTC | LaLiga Rookies | S1 E3LaLiga Rookies. |
+| 2026-11-04 06:00 UTC | 2026-11-04 08:00 UTC | Feyenoord x Fortuna Sittard - Eredivisie | S1 — Feyenoord x Fortuna SittardWatch the Eredivisie game between Feyenoord x Fortuna Sittard. |
+| 2026-11-04 08:00 UTC | 2026-11-04 10:00 UTC | Champions League | S1 — LASK x Slovan BratislavaWatch the UEFA Champions League match between LASK x Slovan Bratislava. |
+
+## DAZN2.pt (49 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-01 00:00 UTC | 2026-11-01 02:00 UTC | Hull City x Ipswich Town - Premier League | S1 — Hull City x Ipswich TownWatch the Premier League game between Hull City x Ipswich Town. |
+| 2026-11-01 02:00 UTC | 2026-11-01 04:00 UTC | Ajax x AZ - Eredivisie | S1 — Ajax x AZAWatch the Eredivisie game between Ajax x AZ. |
+| 2026-11-01 04:00 UTC | 2026-11-01 06:00 UTC | 2. Bundesliga | S1 — Kaiserslautern x Hertha BSCWatch the 2 Bundesliga game between Kaiserlautern x Hertha BSC. |
+| 2026-11-01 06:00 UTC | 2026-11-01 08:00 UTC | Coventry City x Sunderland - Premier League | S1 — Coventry City x SunderlandWatch the Premier League game between Coventry City x Sunderland. |
+| 2026-11-01 08:00 UTC | 2026-11-01 08:30 UTC | Coventry Rising - Premier League Stories | S1 — Coventry RisingWatch Premier League Stories. |
+| 2026-11-01 08:30 UTC | 2026-11-01 08:45 UTC | Bundesliga Clubs | S1 E14 — HoffenheimWatch the Bundesliga Clubs. |
+| 2026-11-01 08:45 UTC | 2026-11-01 09:00 UTC | Bundesliga Clubs | S1 E13 — Werder BremenWatch Bundesliga Clubs. |
+| 2026-11-01 09:00 UTC | 2026-11-01 11:00 UTC | Bundesliga | S1 — Werder Bremen x HoffenheimWatch the Bundesliga game between Werder Bremen x Hoffenheim. |
+| 2026-11-01 11:00 UTC | 2026-11-01 12:50 UTC | LaLiga EA Sports | S1 — Barcelona x AlavésWatch the LALIGA game between Barcelona x Alavés. |
+| 2026-11-01 12:50 UTC | 2026-11-01 15:05 UTC | LaLiga EA Sports | S1 — Getafe x SevillaWatch the LALIGA game between Getafe x Sevilla. |
+| 2026-11-01 15:05 UTC | 2026-11-01 17:20 UTC | LaLiga EA Sports | S1 — Racing de Santander x Real MadridWatch the LALIGA game between Racing De Santander x Real Madrid. |
+| 2026-11-01 17:20 UTC | 2026-11-01 19:40 UTC | LaLiga EA Sports | S1 — Elche x ValenciaWatch the LALIGA game between Elche x Valencia. |
+| 2026-11-01 19:40 UTC | 2026-11-01 19:55 UTC | Europa League | S1 — Omonia Nicosia x BenficaWatch the UEFA Europa League game between Omonia Nicosia x Benfica. |
+| 2026-11-01 19:55 UTC | 2026-11-01 22:00 UTC | No Emission | S1 E4No Emission. |
+| 2026-11-01 22:00 UTC | 2026-11-02 00:00 UTC | Liverpool x Arsenal - Premier League | S1 — Liverpool x ArsenalWatch the Premier League game between Liverpool x Arsenal. |
+| 2026-11-02 00:00 UTC | 2026-11-02 02:00 UTC | Bundesliga | S1 — Union Berlin x KölnWatch the Bundesliga game between Union Berlin x Kõln. |
+| 2026-11-02 02:00 UTC | 2026-11-02 04:00 UTC | LaLiga EA Sports | S1 — Athletic Club x Real SociedadWatch the LALIGA game between Athletic Club x Real Sociedad. |
+| 2026-11-02 04:00 UTC | 2026-11-02 06:00 UTC | 2. Bundesliga | S1 — St. Pauli x NürnbergWatch the 2 Bundesliga game between St. Pauli x Nürnberg. |
+| 2026-11-02 06:00 UTC | 2026-11-02 07:00 UTC | UCL Summaries 2026/27 | S1 E3 — Journey 3UCL Summaries 2026/27. |
+| 2026-11-02 07:00 UTC | 2026-11-02 09:00 UTC | LaLiga EA Sports | S1 — Real Betis x MálagaWatch the LALIGA game between Real Betis x Málaga. |
+| 2026-11-02 09:00 UTC | 2026-11-02 11:00 UTC | Hull City x Ipswich Town - Premier League | S1 — Hull City x Ipswich TownWatch the Premier League game between Hull City x Ipswich Town. |
+| 2026-11-02 11:00 UTC | 2026-11-02 13:00 UTC | LaLiga EA Sports | S1 — Rayo Vallecano x Celta de VigoWatch the LALIGA game between Rayo Vallecano x Celta De Vigo. |
+| 2026-11-02 13:00 UTC | 2026-11-02 15:00 UTC | Bundesliga | S1 — Bayer Leverkusen x StuttgartWatch the Bundesliga game between Bayer Leverkusen x Stuttgart. |
+| 2026-11-02 15:00 UTC | 2026-11-02 17:00 UTC | Tottenham Hotspur x Crystal Palace - Premier League | S1 — Tottenham Hotspur x Crystal PalaceWatch the Premier League game between Tottenham Hotspur x Crystal Palace. |
+| 2026-11-02 17:00 UTC | 2026-11-02 19:00 UTC | Bundesliga | S1 — Bayern München x Borussia DortmundWatch the Bundesliga game between Bayern München x Borussia Dortmund. |
+| 2026-11-02 19:00 UTC | 2026-11-02 19:50 UTC | UEL/UECL Magazine 2026/2027 | S1 E4UEL/UECL Magazine 2026/2027. |
+| 2026-11-02 19:50 UTC | 2026-11-02 22:00 UTC | LaLiga EA Sports | S1 — Deportivo de La Coruña x OsasunaWatch the LALIGA game between Deportivo De La Coruña x Osasuna. |
+| 2026-11-02 22:00 UTC | 2026-11-03 00:00 UTC | LaLiga EA Sports | S1 — Barcelona x AlavésWatch the LALIGA game between Barcelona x Alavés. |
+| 2026-11-03 00:00 UTC | 2026-11-03 02:00 UTC | Newcastle United x Everton - Premier League | S1 — Newcastle United x EvertonWatch the Premier League game between Newcastle United x Everton. |
+| 2026-11-03 02:00 UTC | 2026-11-03 04:00 UTC | 2. Bundesliga | S1 — Arminia Bielefeld x Eintracht BraunschweigWatch the 2 Bundesliga game between Arminia Bielefeld x Eintracht Braunschweig. |
+| 2026-11-03 04:00 UTC | 2026-11-03 06:00 UTC | AFC Bournemouth x Leeds United - Premier League | S1 — AFC Bournemouth x Leeds UnitedWatch the Premier League game between AFC Bournemouth x Leeds United. |
+| 2026-11-03 06:00 UTC | 2026-11-03 07:00 UTC | UEL/UECL Magazine 2026/2027 | S1 E4UEL/UECL Magazine 2026/2027. |
+| 2026-11-03 07:00 UTC | 2026-11-03 09:00 UTC | LaLiga Hypermotion | S1 — Mallorca x CádizWatch the LALIGA Hypermotion game between Mallorca x Cádiz. |
+| 2026-11-03 09:00 UTC | 2026-11-03 11:00 UTC | Ajax x AZ - Eredivisie | S1 — Ajax x AZAWatch the Eredivisie game between Ajax x AZ. |
+| 2026-11-03 11:00 UTC | 2026-11-03 13:00 UTC | Newcastle United x Everton - Premier League | S1 — Newcastle United x EvertonWatch the Premier League game between Newcastle United x Everton. |
+| 2026-11-03 13:00 UTC | 2026-11-03 14:00 UTC | No Emission | S1 — Tue 3-Nov, 13:00No Broadcast. |
+| 2026-11-03 14:00 UTC | 2026-11-03 16:00 UTC | LaLiga EA Sports | S1 — Deportivo de La Coruña x OsasunaWatch the LALIGA game between Deportivo De La Coruña x Osasuna. |
+| 2026-11-03 16:00 UTC | 2026-11-03 18:00 UTC | Manchester City x Brighton & Hove Albion - Premier League | S1 — Manchester City x Brighton & Hove AlbionWatch the Premier League game between Manchester City x Brighton & Hove Albion. |
+| 2026-11-03 18:00 UTC | 2026-11-03 19:50 UTC | LaLiga EA Sports | S1 — Barcelona x AlavésWatch the LALIGA game between Barcelona x Alavés. |
+| 2026-11-03 19:50 UTC | 2026-11-03 22:00 UTC | Champions League | S1 — Barcelona v Aston VillaWatch the UEFA Champions League game between Barcelona v Aston Villa. |
+| 2026-11-03 22:00 UTC | 2026-11-03 23:00 UTC | Premier League - Matchday Summaries | S1 E9 — RD 09See all the goals and hear from the protagonists of another round of the Premier League. |
+| 2026-11-03 23:00 UTC | 2026-11-04 01:00 UTC | Champions League | S1 — Galatasaray x StuttgartWatch the UEFA Champions League game between Galatasaray x Stuttgart. |
+| 2026-11-04 01:00 UTC | 2026-11-04 03:00 UTC | Champions League | S1 — Bodø / Glimt v LilleWatch the UEFA Champions League game between Bodø/Glimt v Lille. |
+| 2026-11-04 03:00 UTC | 2026-11-04 05:00 UTC | Champions League | S1 — Manchester United x RomaWatch the UEFA Champions League game between Manchester United x Roma. |
+| 2026-11-04 05:00 UTC | 2026-11-04 05:30 UTC | Fabricio Collocini - Premier League Stories | S1 — Fabricio CollociniFabricio Collocini - Premier League Stories. |
+| 2026-11-04 05:30 UTC | 2026-11-04 05:45 UTC | Europa League | S1 — Omonia Nicosia x BenficaWatch the UEFA Europa League game between Omonia Nicosia x Benfica. |
+| 2026-11-04 05:45 UTC | 2026-11-04 06:00 UTC | Rich Moment | S1 E42Paulo Rico and Maria Fernandes bring you 'Rico Momento', successor to 'Rico Mundial', which brought you curious stories about the biggest football tournament in the world. Now, we continue to do so, but for DAZN teams and competitions. |
+| 2026-11-04 06:00 UTC | 2026-11-04 08:00 UTC | UEFA Youth League | S1 — Atl. Madrid x Bayern MünchenWatch the UEFA Youth League game between Atl. Madrid x Bayern München. |
+| 2026-11-04 08:00 UTC | 2026-11-04 09:50 UTC | Aston Villa x Fulham - Premier League | S1 — Aston Villa x FulhamWatch the Premier League game between Aston Villa x Fulham. |
+
+## DAZN3.pt (81 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-01 01:00 UTC | 2026-11-01 01:40 UTC | No Emission | S1 — Sun 1-Nov, 01:00No Broadcast. |
+| 2026-11-01 01:40 UTC | 2026-11-01 02:20 UTC | No Emission | S1 — Sun 1-Nov, 01:40No Broadcast. |
+| 2026-11-01 02:20 UTC | 2026-11-01 03:00 UTC | No Emission | S1 — Sun 1-Nov, 02:20No Broadcast. |
+| 2026-11-01 03:00 UTC | 2026-11-01 03:40 UTC | No Emission | S1 — Sun 1-Nov, 03:00No Broadcast. |
+| 2026-11-01 03:40 UTC | 2026-11-01 04:20 UTC | No Emission | S1 — Sun 1-Nov, 03:40No Broadcast. |
+| 2026-11-01 04:20 UTC | 2026-11-01 05:00 UTC | No Emission | S1 — Sun 1-Nov, 04:20No Broadcast. |
+| 2026-11-01 05:00 UTC | 2026-11-01 05:40 UTC | No Emission | S1 — Sun 1-Nov, 05:00No Broadcast. |
+| 2026-11-01 05:40 UTC | 2026-11-01 06:20 UTC | No Emission | S1 — Sun 1-Nov, 05:40No Broadcast. |
+| 2026-11-01 06:20 UTC | 2026-11-01 07:00 UTC | No Emission | S1 — Sun 1-Nov, 06:20 No Broadcast. |
+| 2026-11-01 07:00 UTC | 2026-11-01 07:40 UTC | No Emission | S1 — Sun 1-Nov, 07:00No Broadcast. |
+| 2026-11-01 07:40 UTC | 2026-11-01 08:20 UTC | No Emission | S1 — Sun 1-Nov, 07:40 No Broadcast. |
+| 2026-11-01 08:20 UTC | 2026-11-01 09:00 UTC | No Emission | S1 — Sun 1-Nov, 08:20 No Broadcast. |
+| 2026-11-01 09:00 UTC | 2026-11-01 09:40 UTC | No Emission | S1 — Sun 1-Nov, 09:00No Broadcast. |
+| 2026-11-01 09:40 UTC | 2026-11-01 10:00 UTC | No Emission | S1 — Sun 1-Nov, 09:40 No Broadcast. |
+| 2026-11-01 10:00 UTC | 2026-11-01 10:30 UTC | NFL Extra | S1 E1Watch the best of American football on NFL Extra. |
+| 2026-11-01 10:30 UTC | 2026-11-01 11:00 UTC | Premier League - The Big Interview | S1 E10 — Romeo LaviaWatch the Premier League - The Big Interview. |
+| 2026-11-01 11:00 UTC | 2026-11-01 11:25 UTC | UCL Magazine | S1 E9The summaries, reports, exclusive interviews and the best images from the UEFA Champions League. |
+| 2026-11-01 11:25 UTC | 2026-11-01 13:50 UTC | Liga Endesa | S1 — Real Madrid x CB San Pablo BurgosWatch the Liga ACB game between Real Madrid x CB San Pablo Burgos. |
+| 2026-11-01 13:50 UTC | 2026-11-01 14:15 UTC | Bundesliga Clubs | S1 E9 — KölnWatch the Bundesliga Clubs. |
+| 2026-11-01 14:15 UTC | 2026-11-01 14:20 UTC | Bundesliga Clubs | S1 E7 — Union BerlinWatch the Bundesliga Clubs. |
+| 2026-11-01 14:20 UTC | 2026-11-01 16:20 UTC | Bundesliga | S1 — Union Berlin x KölnWatch the Bundesliga game between Union Berlin x Kõln. |
+| 2026-11-01 16:20 UTC | 2026-11-01 18:25 UTC | Bundesliga | S1 — Eintracht Frankfurt x Hamburg SVWatch the Bundesliga game between Eintracht Frankfurt x Hamburg SV. |
+| 2026-11-01 18:25 UTC | 2026-11-01 21:00 UTC | Esgueira x Sporting CP - Liga Betclic Basquetebol Feminino | S1 — Esgueira x Sporting CPWatch the Betclic Basketball Women's League game between Esgueira x Sporting CP. |
+| 2026-11-01 21:00 UTC | 2026-11-01 23:00 UTC | No Emission | S1 E4No Emission. |
+| 2026-11-01 23:00 UTC | 2026-11-02 01:00 UTC | LaLiga EA Sports | S1 — Getafe x SevillaWatch the LALIGA game between Getafe x Sevilla. |
+| 2026-11-02 01:00 UTC | 2026-11-02 01:40 UTC | No Emission | S1 — Mon 2-Nov, 01:00No Broadcast. |
+| 2026-11-02 01:40 UTC | 2026-11-02 02:20 UTC | No Emission | S1 — Mon 2-Nov, 01:40No Broadcast. |
+| 2026-11-02 02:20 UTC | 2026-11-02 03:00 UTC | No Emission | S1 — Mon 2-Nov, 02:20No Broadcast. |
+| 2026-11-02 03:00 UTC | 2026-11-02 03:40 UTC | No Emission | S1 — Mon 2-Nov, 03:00No Broadcast. |
+| 2026-11-02 03:40 UTC | 2026-11-02 04:20 UTC | No Emission | S1 — Mon 2-Nov, 03:40No Broadcast. |
+| 2026-11-02 04:20 UTC | 2026-11-02 05:00 UTC | No Emission | S1 — Mon 2-Nov, 04:20No Broadcast. |
+| 2026-11-02 05:00 UTC | 2026-11-02 05:40 UTC | No Emission | S1 — Mon 2-Nov, 05:00No Broadcast. |
+| 2026-11-02 05:40 UTC | 2026-11-02 06:20 UTC | No Emission | S1 — Mon 2-Nov, 05:40No Broadcast. |
+| 2026-11-02 06:20 UTC | 2026-11-02 07:00 UTC | No Emission | S1 — Mon 2-Nov, 06:20No Broadcast. |
+| 2026-11-02 07:00 UTC | 2026-11-02 07:40 UTC | No Emission | S1 — Mon 2-Nov, 07:00No Broadcast. |
+| 2026-11-02 07:40 UTC | 2026-11-02 08:20 UTC | No Emission | S1 — Mon 2-Nov, 07:40No Broadcast. |
+| 2026-11-02 08:20 UTC | 2026-11-02 09:00 UTC | No Emission | S1 — Mon 2-Nov, 08:20No Broadcast. |
+| 2026-11-02 09:00 UTC | 2026-11-02 09:40 UTC | No Emission | S1 — Mon 2-Nov, 09:00No Broadcast. |
+| 2026-11-02 09:40 UTC | 2026-11-02 10:00 UTC | No Emission | S1 — Mon 2-Nov, 09:40No Broadcast. |
+| 2026-11-02 10:00 UTC | 2026-11-02 13:00 UTC | NFL | S1 — Rams x ChargersWatch the NFL game between Rams x Chargers. |
+| 2026-11-02 13:00 UTC | 2026-11-02 15:00 UTC | No Emission | S1 E4No Emission. |
+| 2026-11-02 15:00 UTC | 2026-11-02 17:00 UTC | Braga x Sporting - Men's Basketball League Betclic | S1 — Braga x SportingWatch the Betclic Basketball Men's League game between Braga x Sporting. |
+| 2026-11-02 17:00 UTC | 2026-11-02 17:30 UTC | UCL Magazine | S1 E9The summaries, reports, exclusive interviews and the best images from the UEFA Champions League. |
+| 2026-11-02 17:30 UTC | 2026-11-02 18:00 UTC | Marcus Stewart - 'The Fight of My Life' - Premier League Stories | S1 — Marcus Stewart - 'The Fight of My Life'The story of overcoming Marcus Stewart, a former Ipswich Town and Sunderland player who, at the age of 49, was diagnosed with Motor Neurone Disease. |
+| 2026-11-02 18:00 UTC | 2026-11-02 19:55 UTC | No Emission | S1 E4No Emission. |
+| 2026-11-02 19:55 UTC | 2026-11-02 22:00 UTC | LaLiga Hypermotion | S1 — Mallorca x CádizWatch the LALIGA Hypermotion game between Mallorca x Cádiz. |
+| 2026-11-02 22:00 UTC | 2026-11-03 00:00 UTC | Benfica x Barcelos - Liga Betclic Women's Basketball | S1 — Benfica x BarcelosWatch the Betclic Basketball Women's League game between Benfica x Barcelos. |
+| 2026-11-03 00:00 UTC | 2026-11-03 01:00 UTC | Top or not really | S1 E31Top or not really. |
+| 2026-11-03 01:00 UTC | 2026-11-03 01:40 UTC | No Emission | S1 — Tue 3-Nov, 01:00No Broadcast. |
+| 2026-11-03 01:40 UTC | 2026-11-03 02:20 UTC | No Emission | S1 — Tue 3-Nov, 01:40No Broadcast. |
+| 2026-11-03 02:20 UTC | 2026-11-03 03:00 UTC | No Emission | S1 — Tue 3-Nov, 02:20No Broadcast. |
+| 2026-11-03 03:00 UTC | 2026-11-03 03:40 UTC | No Emission | S1 — Tue 3-Nov, 03:00No Broadcast. |
+| 2026-11-03 03:40 UTC | 2026-11-03 04:20 UTC | No Emission | S1 — Tue 3-Nov, 03:40No Broadcast. |
+| 2026-11-03 04:20 UTC | 2026-11-03 05:00 UTC | No Emission | S1 — Tue 3-Nov, 04:20No Broadcast. |
+| 2026-11-03 05:00 UTC | 2026-11-03 05:40 UTC | No Emission | S1 — Tue 3-Nov, 05:00No Broadcast. |
+| 2026-11-03 05:40 UTC | 2026-11-03 06:20 UTC | No Emission | S1 — Tue 3-Nov, 05:40No Broadcast. |
+| 2026-11-03 06:20 UTC | 2026-11-03 07:00 UTC | No Emission | S1 — Tue 3-Nov, 06:20No Broadcast. |
+| 2026-11-03 07:00 UTC | 2026-11-03 07:40 UTC | No Emission | S1 — Tue 3-Nov, 07:00No Broadcast. |
+| 2026-11-03 07:40 UTC | 2026-11-03 08:20 UTC | No Emission | S1 — Tue 3-Nov, 07:40No Broadcast. |
+| 2026-11-03 08:20 UTC | 2026-11-03 09:00 UTC | No Emission | S1 — Tue 3-Nov, 08:20No Broadcast. |
+| 2026-11-03 09:00 UTC | 2026-11-03 09:40 UTC | No Emission | S1 — Tue 3-Nov, 09:00No Broadcast. |
+| 2026-11-03 09:40 UTC | 2026-11-03 10:00 UTC | No Emission | S1 — Tue 3-Nov, 09:40No Broadcast. |
+| 2026-11-03 10:00 UTC | 2026-11-03 13:00 UTC | NFL | S1 — Commanders x EaglesWatch the NFL game between Commanders x Eagles. |
+| 2026-11-03 13:00 UTC | 2026-11-03 15:00 UTC | Liga Endesa | S1 — Malaga x BarçaWatch the Liga ACB game between Malaga x Barça. |
+| 2026-11-03 15:00 UTC | 2026-11-03 17:00 UTC | Esgueira x Sporting CP - Liga Betclic Basquetebol Feminino | S1 — Esgueira x Sporting CPWatch the Betclic Basketball Women's League game between Esgueira x Sporting CP. |
+| 2026-11-03 17:00 UTC | 2026-11-03 19:00 UTC | SL Benfica x EL Azemeis - Hockey - Elite Cup Women | S1 — SL Benfica x EL AzemeisWatch the Women's Elite Cup game between SL Benfica x El Azemeis. |
+| 2026-11-03 19:00 UTC | 2026-11-03 20:00 UTC | Bundesliga - Summaries | S1 E8 — Journey 8Bundesliga - Summaries. |
+| 2026-11-03 20:00 UTC | 2026-11-03 22:00 UTC | Champions League | S1 — Atl. Madrid x Bayern MünchenWatch the UEFA Champions League game between Atl. Madrid x Bayern München. |
+| 2026-11-03 22:00 UTC | 2026-11-03 23:50 UTC | UEFA Youth League | S1 — Atl. Madrid x Bayern MünchenWatch the UEFA Youth League game between Atl. Madrid x Bayern München. |
+| 2026-11-03 23:50 UTC | 2026-11-04 01:40 UTC | Chelsea x Manchester United - Premier League | S1 — Chelsea x Manchester UnitedWatch the Premier League game between Chelsea x Manchester United. |
+| 2026-11-04 01:40 UTC | 2026-11-04 02:20 UTC | No Emission | S1 — Wed 4-Nov, 01:40No Broadcast. |
+| 2026-11-04 02:20 UTC | 2026-11-04 03:00 UTC | No Emission | S1 — Wed 4-Nov, 02:20No Broadcast. |
+| 2026-11-04 03:00 UTC | 2026-11-04 03:40 UTC | No Emission | S1 — Wed 4-Nov, 03:00No Broadcast. |
+| 2026-11-04 03:40 UTC | 2026-11-04 04:20 UTC | No Emission | S1 — Wed 4-Nov, 03:40No Broadcast. |
+| 2026-11-04 04:20 UTC | 2026-11-04 05:00 UTC | No Emission | S1 — Wed 4-Nov, 04:20No Broadcast. |
+| 2026-11-04 05:00 UTC | 2026-11-04 05:40 UTC | No Emission | S1 — Wed 4-Nov, 05:00No Broadcast. |
+| 2026-11-04 05:40 UTC | 2026-11-04 06:20 UTC | No Emission | S1 — Wed 4-Nov, 05:40No Broadcast. |
+| 2026-11-04 06:20 UTC | 2026-11-04 07:00 UTC | No Emission | S1 — Wed 4-Nov, 06:20No Broadcast. |
+| 2026-11-04 07:00 UTC | 2026-11-04 07:40 UTC | No Emission | S1 — Wed 4-Nov, 07:00No Broadcast. |
+| 2026-11-04 07:40 UTC | 2026-11-04 08:20 UTC | No Emission | S1 — Wed 4-Nov, 07:40No Broadcast. |
+| 2026-11-04 08:20 UTC | 2026-11-04 09:00 UTC | No Emission | S1 — Wed 4-Nov, 08:20No Broadcast. |
+
+## DAZN4.pt (0 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+
