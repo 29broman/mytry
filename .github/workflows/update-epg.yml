@@ -1,9 +1,11 @@
-name: Daily EPG Translation (27 Channels to English)
+name: Daily EPG Translation (English)
 
 on:
   schedule:
-    # 06:00 AM WIB (Asia/Jakarta, UTC+7) = 23:00 UTC previous day
-    - cron: '0 23 * * *'
+    # 05:00 AM WIB (Asia/Jakarta, UTC+7) = 22:00 UTC
+    - cron: '0 22 * * *'
+    # 08:00 PM / 20:00 WIB (Asia/Jakarta, UTC+7) = 13:00 UTC
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:
