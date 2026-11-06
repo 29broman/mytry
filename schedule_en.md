@@ -2331,77 +2331,6 @@
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-03 04:00 UTC | 2026-11-03 04:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 04:05 UTC | 2026-11-03 04:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 04:30 UTC | 2026-11-03 05:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 05:00 UTC | 2026-11-03 05:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 05:30 UTC | 2026-11-03 06:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 06:00 UTC | 2026-11-03 06:05 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 06:05 UTC | 2026-11-03 06:30 UTC | Top Issue | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 06:30 UTC | 2026-11-03 07:00 UTC | Top Issue | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 07:00 UTC | 2026-11-03 07:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 07:05 UTC | 2026-11-03 07:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 07:30 UTC | 2026-11-03 08:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 08:00 UTC | 2026-11-03 08:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 08:05 UTC | 2026-11-03 08:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
-| 2026-11-03 08:30 UTC | 2026-11-03 09:00 UTC | Prioritas Indonesia | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 09:00 UTC | 2026-11-03 09:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 09:05 UTC | 2026-11-03 09:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 09:30 UTC | 2026-11-03 10:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 10:00 UTC | 2026-11-03 10:20 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 10:20 UTC | 2026-11-03 10:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 10:30 UTC | 2026-11-03 11:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 11:00 UTC | 2026-11-03 11:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 11:30 UTC | 2026-11-03 12:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 12:00 UTC | 2026-11-03 12:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 12:05 UTC | 2026-11-03 12:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 12:30 UTC | 2026-11-03 12:45 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 12:45 UTC | 2026-11-03 13:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 13:00 UTC | 2026-11-03 13:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 13:05 UTC | 2026-11-03 13:30 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
-| 2026-11-03 13:30 UTC | 2026-11-03 14:00 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
-| 2026-11-03 14:00 UTC | 2026-11-03 14:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 14:05 UTC | 2026-11-03 14:30 UTC | Top Economy | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 14:30 UTC | 2026-11-03 15:00 UTC | Top Economy | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 15:00 UTC | 2026-11-03 15:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 15:05 UTC | 2026-11-03 15:30 UTC | Metro Xinwen | Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV. |
-| 2026-11-03 15:30 UTC | 2026-11-03 16:00 UTC | Metro Sport | Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda. |
-| 2026-11-03 16:00 UTC | 2026-11-03 16:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 16:05 UTC | 2026-11-03 16:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 16:30 UTC | 2026-11-03 17:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 17:00 UTC | 2026-11-03 17:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 17:05 UTC | 2026-11-03 17:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 17:30 UTC | 2026-11-03 18:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 18:00 UTC | 2026-11-03 18:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 18:05 UTC | 2026-11-03 18:15 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 18:15 UTC | 2026-11-03 18:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-03 18:30 UTC | 2026-11-03 19:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 19:00 UTC | 2026-11-03 19:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 19:05 UTC | 2026-11-03 19:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 19:30 UTC | 2026-11-03 20:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
-| 2026-11-03 20:00 UTC | 2026-11-03 20:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 20:05 UTC | 2026-11-03 20:30 UTC | Kick Andy | Talk show yang dipandu oleh Andy F. Noya ini merupakan program Metro TV yang paling ditunggu. Kisah yang digali Andy dari setiap tamunya dapat menghibur dan menginspirasi Anda. |
-| 2026-11-03 20:30 UTC | 2026-11-03 21:00 UTC | Kick Andy | Talk show yang dipandu oleh Andy F. Noya ini merupakan program Metro TV yang paling ditunggu. Kisah yang digali Andy dari setiap tamunya dapat menghibur dan menginspirasi Anda. |
-| 2026-11-03 21:00 UTC | 2026-11-03 21:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 21:05 UTC | 2026-11-03 21:30 UTC | Metro Xinwen | Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV. |
-| 2026-11-03 21:30 UTC | 2026-11-03 22:00 UTC | Prioritas Indonesia | Menghadirkan program-program terbaik spesial hanya untuk anda. |
-| 2026-11-03 22:00 UTC | 2026-11-03 22:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-03 22:05 UTC | 2026-11-03 22:30 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
-| 2026-11-03 22:30 UTC | 2026-11-03 23:00 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
-| 2026-11-03 23:00 UTC | 2026-11-03 23:30 UTC | Metro Sport | Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda. |
-| 2026-11-03 23:30 UTC | 2026-11-04 00:00 UTC | Go Healthy | Program acara untuk membantu Anda merasakan yang terbaik. Karena ketika Anda memiliki kesehatan. Anda dapat fokus pada segala hal lain dalam hidup Anda. |
-| 2026-11-04 00:00 UTC | 2026-11-04 00:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-04 00:05 UTC | 2026-11-04 00:30 UTC | Editorial Media Indonesia | Sebuah program acara berita di Metro TV yang menyajikan informasi langsung dari ruang redaksi harian surat kabar besar tanah air, Media Indonesia. |
-| 2026-11-04 00:30 UTC | 2026-11-04 01:00 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
-| 2026-11-04 01:00 UTC | 2026-11-04 01:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-04 01:05 UTC | 2026-11-04 01:30 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
-| 2026-11-04 01:30 UTC | 2026-11-04 02:00 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
-| 2026-11-04 02:00 UTC | 2026-11-04 02:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-04 02:05 UTC | 2026-11-04 02:30 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
-| 2026-11-04 02:30 UTC | 2026-11-04 03:00 UTC | Zona Bisnis | Program berita yang menampilkan berbagai perkembangan dunia ekonomi dan pasar saham internasional. |
-| 2026-11-04 03:00 UTC | 2026-11-04 03:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
-| 2026-11-04 03:05 UTC | 2026-11-04 03:30 UTC | Zona Bisnis | Program berita yang menampilkan berbagai perkembangan dunia ekonomi dan pasar saham internasional. |
-| 2026-11-04 03:30 UTC | 2026-11-04 04:00 UTC | Go Healthy | Program acara untuk membantu Anda merasakan yang terbaik. Karena ketika Anda memiliki kesehatan. Anda dapat fokus pada segala hal lain dalam hidup Anda. |
 | 2026-11-04 04:00 UTC | 2026-11-04 04:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
 | 2026-11-04 04:05 UTC | 2026-11-04 04:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
 | 2026-11-04 04:30 UTC | 2026-11-04 05:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
@@ -2439,57 +2368,78 @@
 | 2026-11-04 15:30 UTC | 2026-11-04 16:00 UTC | Metro Sport | Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda. |
 | 2026-11-04 16:00 UTC | 2026-11-04 16:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
 | 2026-11-04 16:05 UTC | 2026-11-04 16:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-04 16:30 UTC | 2026-11-04 16:59 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
-| 2026-11-05 00:00 UTC | 2026-11-05 00:05 UTC | Headline News |  |
-| 2026-11-05 00:05 UTC | 2026-11-05 00:30 UTC | Primetime News |  |
-| 2026-11-05 00:30 UTC | 2026-11-05 01:00 UTC | Primetime News |  |
-| 2026-11-05 01:00 UTC | 2026-11-05 01:05 UTC | Headline News |  |
-| 2026-11-05 01:05 UTC | 2026-11-05 01:15 UTC | Primetime News |  |
-| 2026-11-05 01:15 UTC | 2026-11-05 01:30 UTC | Primetime News |  |
-| 2026-11-05 01:30 UTC | 2026-11-05 02:00 UTC | Metro Hari Ini |  |
-| 2026-11-05 02:00 UTC | 2026-11-05 02:05 UTC | Headline News |  |
-| 2026-11-05 02:05 UTC | 2026-11-05 02:30 UTC | Metro Hari Ini |  |
-| 2026-11-05 02:30 UTC | 2026-11-05 03:00 UTC | Metro Hari Ini |  |
-| 2026-11-05 03:00 UTC | 2026-11-05 03:05 UTC | Headline News |  |
-| 2026-11-05 03:05 UTC | 2026-11-05 03:30 UTC | I'm Possible |  |
-| 2026-11-05 03:30 UTC | 2026-11-05 04:00 UTC | I'm Possible |  |
-| 2026-11-05 04:00 UTC | 2026-11-05 04:05 UTC | Headline News |  |
-| 2026-11-05 04:05 UTC | 2026-11-05 04:30 UTC | Metro Xinwen |  |
-| 2026-11-05 04:30 UTC | 2026-11-05 05:00 UTC | Prioritas Indonesia |  |
-| 2026-11-05 05:00 UTC | 2026-11-05 05:05 UTC | Headline News |  |
-| 2026-11-05 05:05 UTC | 2026-11-05 05:30 UTC | Top News |  |
-| 2026-11-05 05:30 UTC | 2026-11-05 06:00 UTC | Top News |  |
-| 2026-11-05 06:00 UTC | 2026-11-05 06:30 UTC | Metro Sport |  |
-| 2026-11-05 06:30 UTC | 2026-11-05 07:00 UTC | Go Healthy |  |
-| 2026-11-05 07:00 UTC | 2026-11-05 07:05 UTC | Headline News |  |
-| 2026-11-05 07:05 UTC | 2026-11-05 07:30 UTC | Editorial Media Indonesia |  |
-| 2026-11-05 07:30 UTC | 2026-11-05 08:00 UTC | Selamat Pagi Indonesia |  |
-| 2026-11-05 08:00 UTC | 2026-11-05 08:05 UTC | Headline News |  |
-| 2026-11-05 08:05 UTC | 2026-11-05 08:30 UTC | Selamat Pagi Indonesia |  |
-| 2026-11-05 08:30 UTC | 2026-11-05 09:00 UTC | Selamat Pagi Indonesia |  |
-| 2026-11-05 09:00 UTC | 2026-11-05 09:05 UTC | Headline News |  |
-| 2026-11-05 09:05 UTC | 2026-11-05 09:30 UTC | Selamat Pagi Indonesia |  |
-| 2026-11-05 09:30 UTC | 2026-11-05 10:00 UTC | Zona Bisnis |  |
-| 2026-11-05 10:00 UTC | 2026-11-05 10:05 UTC | Headline News |  |
-| 2026-11-05 10:05 UTC | 2026-11-05 10:30 UTC | Zona Bisnis |  |
-| 2026-11-05 10:30 UTC | 2026-11-05 11:00 UTC | Go Healthy |  |
-| 2026-11-05 11:00 UTC | 2026-11-05 11:05 UTC | Headline News |  |
-| 2026-11-05 11:05 UTC | 2026-11-05 11:30 UTC | Metro Siang |  |
-| 2026-11-05 11:30 UTC | 2026-11-05 12:00 UTC | Metro Siang |  |
-| 2026-11-05 12:00 UTC | 2026-11-05 12:30 UTC | Metro Siang |  |
-| 2026-11-05 12:30 UTC | 2026-11-05 13:00 UTC | Metro Siang |  |
-| 2026-11-05 13:00 UTC | 2026-11-05 13:05 UTC | Metro Siang |  |
-| 2026-11-05 13:05 UTC | 2026-11-05 13:30 UTC | Cover Both Side |  |
-| 2026-11-05 13:30 UTC | 2026-11-05 14:00 UTC | Cover Both Side |  |
-| 2026-11-05 14:00 UTC | 2026-11-05 14:05 UTC | Headline News |  |
-| 2026-11-05 14:05 UTC | 2026-11-05 14:30 UTC | Metro Siang |  |
-| 2026-11-05 14:30 UTC | 2026-11-05 15:00 UTC | Metro Siang |  |
-| 2026-11-05 15:00 UTC | 2026-11-05 15:05 UTC | Headline News |  |
-| 2026-11-05 15:05 UTC | 2026-11-05 15:30 UTC | Metro Siang |  |
-| 2026-11-05 15:30 UTC | 2026-11-05 16:00 UTC | Prioritas Indonesia |  |
-| 2026-11-05 16:00 UTC | 2026-11-05 16:05 UTC | Headline News |  |
-| 2026-11-05 16:05 UTC | 2026-11-05 16:30 UTC | Metro Hari Ini |  |
-| 2026-11-05 16:30 UTC | 2026-11-05 17:00 UTC | Metro Hari Ini |  |
+| 2026-11-04 16:30 UTC | 2026-11-04 17:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-04 17:00 UTC | 2026-11-04 17:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 17:05 UTC | 2026-11-04 17:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-04 17:30 UTC | 2026-11-04 18:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-04 18:00 UTC | 2026-11-04 18:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 18:05 UTC | 2026-11-04 18:15 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-04 18:15 UTC | 2026-11-04 18:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-04 18:30 UTC | 2026-11-04 19:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-04 19:00 UTC | 2026-11-04 19:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 19:05 UTC | 2026-11-04 19:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-04 19:30 UTC | 2026-11-04 20:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-04 20:00 UTC | 2026-11-04 20:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 20:05 UTC | 2026-11-04 20:30 UTC | I’Mpossible | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-04 20:30 UTC | 2026-11-04 21:00 UTC | I’Mpossible | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-04 21:00 UTC | 2026-11-04 21:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 21:05 UTC | 2026-11-04 21:30 UTC | Metro Xinwen | Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV. |
+| 2026-11-04 21:30 UTC | 2026-11-04 22:00 UTC | Prioritas Indonesia | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-04 22:00 UTC | 2026-11-04 22:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-04 22:05 UTC | 2026-11-04 22:30 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
+| 2026-11-04 22:30 UTC | 2026-11-04 23:00 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
+| 2026-11-04 23:00 UTC | 2026-11-04 23:30 UTC | Metro Sport | Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda. |
+| 2026-11-04 23:30 UTC | 2026-11-05 00:00 UTC | Go Healthy | Program acara untuk membantu Anda merasakan yang terbaik. Karena ketika Anda memiliki kesehatan. Anda dapat fokus pada segala hal lain dalam hidup Anda. |
+| 2026-11-05 00:00 UTC | 2026-11-05 00:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 00:05 UTC | 2026-11-05 00:30 UTC | Editorial Media Indonesia | Sebuah program acara berita di Metro TV yang menyajikan informasi langsung dari ruang redaksi harian surat kabar besar tanah air, Media Indonesia. |
+| 2026-11-05 00:30 UTC | 2026-11-05 01:00 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
+| 2026-11-05 01:00 UTC | 2026-11-05 01:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 01:05 UTC | 2026-11-05 01:30 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
+| 2026-11-05 01:30 UTC | 2026-11-05 02:00 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
+| 2026-11-05 02:00 UTC | 2026-11-05 02:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 02:05 UTC | 2026-11-05 02:30 UTC | Selamat Pagi Indonesia | Mari saksikan Selamat Pagi Indonesia. Talk show yang dikemas dengan ringan dan unik. Dari perbincangan pembawa acara dan narasumber dan Anda bisa mengetahui berita terkini dan seru. |
+| 2026-11-05 02:30 UTC | 2026-11-05 03:00 UTC | Zona Bisnis | Program berita yang menampilkan berbagai perkembangan dunia ekonomi dan pasar saham internasional. |
+| 2026-11-05 03:00 UTC | 2026-11-05 03:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 03:05 UTC | 2026-11-05 03:30 UTC | Zona Bisnis | Program berita yang menampilkan berbagai perkembangan dunia ekonomi dan pasar saham internasional. |
+| 2026-11-05 03:30 UTC | 2026-11-05 04:00 UTC | Go Healthy | Program acara untuk membantu Anda merasakan yang terbaik. Karena ketika Anda memiliki kesehatan. Anda dapat fokus pada segala hal lain dalam hidup Anda. |
+| 2026-11-05 04:00 UTC | 2026-11-05 04:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 04:05 UTC | 2026-11-05 04:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 04:30 UTC | 2026-11-05 05:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 05:00 UTC | 2026-11-05 05:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 05:30 UTC | 2026-11-05 06:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 06:00 UTC | 2026-11-05 06:05 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 06:05 UTC | 2026-11-05 06:30 UTC | Cover Both Side | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-05 06:30 UTC | 2026-11-05 07:00 UTC | Cover Both Side | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-05 07:00 UTC | 2026-11-05 07:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 07:05 UTC | 2026-11-05 07:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 07:30 UTC | 2026-11-05 08:00 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 08:00 UTC | 2026-11-05 08:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 08:05 UTC | 2026-11-05 08:30 UTC | Metro Siang | Mari saksikan Metro Siang. Program berita yang menyajikan berita terkini mengenai politik - ekonomi - sosial serta berbagai peristiwa menarik lainnya. |
+| 2026-11-05 08:30 UTC | 2026-11-05 09:00 UTC | Prioritas Indonesia | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-05 09:00 UTC | 2026-11-05 09:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 09:05 UTC | 2026-11-05 09:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-05 09:30 UTC | 2026-11-05 10:00 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-05 10:00 UTC | 2026-11-05 10:20 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-05 10:20 UTC | 2026-11-05 10:30 UTC | Metro Hari Ini | Metro Hari Ini merupakan program berita unggulan yang menyajikan berbagai kabar utama sepanjang hari. Program ini juga disertai laporan langsung dari biro-biro redaksi Metro TV di sejumlah wilayah Indonesia. |
+| 2026-11-05 10:30 UTC | 2026-11-05 11:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 11:00 UTC | 2026-11-05 11:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 11:30 UTC | 2026-11-05 12:00 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 12:00 UTC | 2026-11-05 12:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 12:05 UTC | 2026-11-05 12:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 12:30 UTC | 2026-11-05 12:45 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 12:45 UTC | 2026-11-05 13:00 UTC | Parlemen Update | Menghadirkan program-program terbaik spesial hanya untuk anda. |
+| 2026-11-05 13:00 UTC | 2026-11-05 13:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 13:05 UTC | 2026-11-05 13:30 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
+| 2026-11-05 13:30 UTC | 2026-11-05 14:00 UTC | Top News | Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV. |
+| 2026-11-05 14:00 UTC | 2026-11-05 14:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 14:05 UTC | 2026-11-05 14:30 UTC | Kontroversi | Berbagai situasi saat ini yang dapat memicu timbulnya konflik. |
+| 2026-11-05 14:30 UTC | 2026-11-05 15:00 UTC | Kontroversi | Berbagai situasi saat ini yang dapat memicu timbulnya konflik. |
+| 2026-11-05 15:00 UTC | 2026-11-05 15:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 15:05 UTC | 2026-11-05 15:30 UTC | Metro Xinwen | Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV. |
+| 2026-11-05 15:30 UTC | 2026-11-05 16:00 UTC | Metro Sport | Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda. |
+| 2026-11-05 16:00 UTC | 2026-11-05 16:05 UTC | Headline News | Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional. |
+| 2026-11-05 16:05 UTC | 2026-11-05 16:30 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
+| 2026-11-05 16:30 UTC | 2026-11-05 16:59 UTC | Primetime News | Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial. |
 | 2026-11-06 00:00 UTC | 2026-11-06 00:05 UTC | Headline News |  |
 | 2026-11-06 00:05 UTC | 2026-11-06 00:30 UTC | Primetime News |  |
 | 2026-11-06 00:30 UTC | 2026-11-06 01:00 UTC | Primetime News |  |
@@ -2790,35 +2740,61 @@
 | 2026-11-11 16:00 UTC | 2026-11-11 16:05 UTC | Headline News |  |
 | 2026-11-11 16:05 UTC | 2026-11-11 16:30 UTC | Metro Hari Ini |  |
 | 2026-11-11 16:30 UTC | 2026-11-11 17:00 UTC | Metro Hari Ini |  |
+| 2026-11-12 00:00 UTC | 2026-11-12 00:05 UTC | Headline News |  |
+| 2026-11-12 00:05 UTC | 2026-11-12 00:30 UTC | Primetime News |  |
+| 2026-11-12 00:30 UTC | 2026-11-12 01:00 UTC | Primetime News |  |
+| 2026-11-12 01:00 UTC | 2026-11-12 01:05 UTC | Headline News |  |
+| 2026-11-12 01:05 UTC | 2026-11-12 01:15 UTC | Primetime News |  |
+| 2026-11-12 01:15 UTC | 2026-11-12 01:30 UTC | Primetime News |  |
+| 2026-11-12 01:30 UTC | 2026-11-12 02:00 UTC | Metro Hari Ini |  |
+| 2026-11-12 02:00 UTC | 2026-11-12 02:05 UTC | Headline News |  |
+| 2026-11-12 02:05 UTC | 2026-11-12 02:30 UTC | Metro Hari Ini |  |
+| 2026-11-12 02:30 UTC | 2026-11-12 03:00 UTC | Metro Hari Ini |  |
+| 2026-11-12 03:00 UTC | 2026-11-12 03:05 UTC | Headline News |  |
+| 2026-11-12 03:05 UTC | 2026-11-12 03:30 UTC | I'm Possible |  |
+| 2026-11-12 03:30 UTC | 2026-11-12 04:00 UTC | I'm Possible |  |
+| 2026-11-12 04:00 UTC | 2026-11-12 04:05 UTC | Headline News |  |
+| 2026-11-12 04:05 UTC | 2026-11-12 04:30 UTC | Metro Xinwen |  |
+| 2026-11-12 04:30 UTC | 2026-11-12 05:00 UTC | Prioritas Indonesia |  |
+| 2026-11-12 05:00 UTC | 2026-11-12 05:05 UTC | Headline News |  |
+| 2026-11-12 05:05 UTC | 2026-11-12 05:30 UTC | Top News |  |
+| 2026-11-12 05:30 UTC | 2026-11-12 06:00 UTC | Top News |  |
+| 2026-11-12 06:00 UTC | 2026-11-12 06:30 UTC | Metro Sport |  |
+| 2026-11-12 06:30 UTC | 2026-11-12 07:00 UTC | Go Healthy |  |
+| 2026-11-12 07:00 UTC | 2026-11-12 07:05 UTC | Headline News |  |
+| 2026-11-12 07:05 UTC | 2026-11-12 07:30 UTC | Editorial Media Indonesia |  |
+| 2026-11-12 07:30 UTC | 2026-11-12 08:00 UTC | Selamat Pagi Indonesia |  |
+| 2026-11-12 08:00 UTC | 2026-11-12 08:05 UTC | Headline News |  |
+| 2026-11-12 08:05 UTC | 2026-11-12 08:30 UTC | Selamat Pagi Indonesia |  |
+| 2026-11-12 08:30 UTC | 2026-11-12 09:00 UTC | Selamat Pagi Indonesia |  |
+| 2026-11-12 09:00 UTC | 2026-11-12 09:05 UTC | Headline News |  |
+| 2026-11-12 09:05 UTC | 2026-11-12 09:30 UTC | Selamat Pagi Indonesia |  |
+| 2026-11-12 09:30 UTC | 2026-11-12 10:00 UTC | Zona Bisnis |  |
+| 2026-11-12 10:00 UTC | 2026-11-12 10:05 UTC | Headline News |  |
+| 2026-11-12 10:05 UTC | 2026-11-12 10:30 UTC | Zona Bisnis |  |
+| 2026-11-12 10:30 UTC | 2026-11-12 11:00 UTC | Go Healthy |  |
+| 2026-11-12 11:00 UTC | 2026-11-12 11:05 UTC | Headline News |  |
+| 2026-11-12 11:05 UTC | 2026-11-12 11:30 UTC | Metro Siang |  |
+| 2026-11-12 11:30 UTC | 2026-11-12 12:00 UTC | Metro Siang |  |
+| 2026-11-12 12:00 UTC | 2026-11-12 12:30 UTC | Metro Siang |  |
+| 2026-11-12 12:30 UTC | 2026-11-12 13:00 UTC | Metro Siang |  |
+| 2026-11-12 13:00 UTC | 2026-11-12 13:05 UTC | Metro Siang |  |
+| 2026-11-12 13:05 UTC | 2026-11-12 13:30 UTC | Cover Both Side |  |
+| 2026-11-12 13:30 UTC | 2026-11-12 14:00 UTC | Cover Both Side |  |
+| 2026-11-12 14:00 UTC | 2026-11-12 14:05 UTC | Headline News |  |
+| 2026-11-12 14:05 UTC | 2026-11-12 14:30 UTC | Metro Siang |  |
+| 2026-11-12 14:30 UTC | 2026-11-12 15:00 UTC | Metro Siang |  |
+| 2026-11-12 15:00 UTC | 2026-11-12 15:05 UTC | Headline News |  |
+| 2026-11-12 15:05 UTC | 2026-11-12 15:30 UTC | Metro Siang |  |
+| 2026-11-12 15:30 UTC | 2026-11-12 16:00 UTC | Prioritas Indonesia |  |
+| 2026-11-12 16:00 UTC | 2026-11-12 16:05 UTC | Headline News |  |
+| 2026-11-12 16:05 UTC | 2026-11-12 16:30 UTC | Metro Hari Ini |  |
+| 2026-11-12 16:30 UTC | 2026-11-12 17:00 UTC | Metro Hari Ini |  |
 
-## KompasTV.id (85 programmes)
+## KompasTV.id (207 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-03 04:00 UTC | 2026-11-03 06:00 UTC | Kompas Siang | Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara. |
-| 2026-11-03 06:00 UTC | 2026-11-03 07:00 UTC | Sapa Indonesia Siang | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
-| 2026-11-03 07:00 UTC | 2026-11-03 07:30 UTC | Laporan Khusus | Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir |
-| 2026-11-03 07:30 UTC | 2026-11-03 08:00 UTC | Jurnal Nusantara | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
-| 2026-11-03 08:00 UTC | 2026-11-03 08:30 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
-| 2026-11-03 08:30 UTC | 2026-11-03 09:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
-| 2026-11-03 09:00 UTC | 2026-11-03 10:30 UTC | Kompas Petang | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
-| 2026-11-03 10:30 UTC | 2026-11-03 12:30 UTC | Sapa Indonesia Malam | Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri. |
-| 2026-11-03 12:30 UTC | 2026-11-03 13:30 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
-| 2026-11-03 13:30 UTC | 2026-11-03 14:30 UTC | Kompas Malam | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
-| 2026-11-03 14:30 UTC | 2026-11-03 15:00 UTC | Laporan Khusus | Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir |
-| 2026-11-03 15:00 UTC | 2026-11-03 16:00 UTC | B-Talk | Bincang - bincang dengan para ahli tentang bisnis dan ekonomi. |
-| 2026-11-03 16:00 UTC | 2026-11-03 16:30 UTC | Berkas Kompas | Mengulas seputar isu-isu terkini, skandal publik, berbagai ketidakadilan dan ketimpangan, kemiskinan, hingga kasus-kasus kejahatan yang tengah menjadi perbincangan hangat di tengah masyarakat. |
-| 2026-11-03 16:30 UTC | 2026-11-03 17:00 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
-| 2026-11-03 17:00 UTC | 2026-11-03 17:30 UTC | Kompas Sport | Kompas Sport akan menghadirkan cuplikan-cuplikan berita tentang dunia olahraga, klub terkenal dan para pemain-pemainnya, baik dari dalam ataupun luar negeri. |
-| 2026-11-03 17:30 UTC | 2026-11-03 18:30 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
-| 2026-11-03 18:30 UTC | 2026-11-03 19:30 UTC | Kompas Petang | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
-| 2026-11-03 19:30 UTC | 2026-11-03 20:00 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
-| 2026-11-03 20:00 UTC | 2026-11-03 21:00 UTC | Kalam Hati | Saksikan program Kalam Hati yang disampaikan oleh Ustadz dengan memberikan solusi dan manfaat bagi Anda yang merasakan kegelisahan hati. |
-| 2026-11-03 21:00 UTC | 2026-11-03 21:30 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
-| 2026-11-03 21:30 UTC | 2026-11-04 00:00 UTC | Kompas Pagi | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
-| 2026-11-04 00:00 UTC | 2026-11-04 02:30 UTC | Sapa Indonesia Pagi | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
-| 2026-11-04 02:30 UTC | 2026-11-04 03:30 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
-| 2026-11-04 03:30 UTC | 2026-11-04 04:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
 | 2026-11-04 04:00 UTC | 2026-11-04 06:00 UTC | Kompas Siang | Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara. |
 | 2026-11-04 06:00 UTC | 2026-11-04 07:00 UTC | Sapa Indonesia Siang | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
 | 2026-11-04 07:00 UTC | 2026-11-04 07:30 UTC | Laporan Khusus | Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir |
@@ -2832,31 +2808,31 @@
 | 2026-11-04 14:30 UTC | 2026-11-04 15:30 UTC | Kompas Malam | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
 | 2026-11-04 15:30 UTC | 2026-11-04 16:00 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
 | 2026-11-04 16:00 UTC | 2026-11-04 16:30 UTC | Kompas Sport | Kompas Sport akan menghadirkan cuplikan-cuplikan berita tentang dunia olahraga, klub terkenal dan para pemain-pemainnya, baik dari dalam ataupun luar negeri. |
-| 2026-11-04 16:30 UTC | 2026-11-04 16:59 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
-| 2026-11-05 00:00 UTC | 2026-11-05 01:00 UTC | Berita Utama |  |
-| 2026-11-05 01:00 UTC | 2026-11-05 02:30 UTC | Kompas Petang |  |
-| 2026-11-05 02:30 UTC | 2026-11-05 03:00 UTC | Jurnal Merah Putih |  |
-| 2026-11-05 03:00 UTC | 2026-11-05 04:00 UTC | Kalam Hati |  |
-| 2026-11-05 04:00 UTC | 2026-11-05 04:30 UTC | Borgol |  |
-| 2026-11-05 04:30 UTC | 2026-11-05 06:30 UTC | Kompas Pagi |  |
-| 2026-11-05 06:30 UTC | 2026-11-05 07:00 UTC | Jurnal Nusantara |  |
-| 2026-11-05 07:00 UTC | 2026-11-05 09:30 UTC | Sapa Indonesia Pagi |  |
-| 2026-11-05 09:30 UTC | 2026-11-05 10:30 UTC | Berita Utama |  |
-| 2026-11-05 10:30 UTC | 2026-11-05 11:00 UTC | Borgol |  |
-| 2026-11-05 11:00 UTC | 2026-11-05 13:00 UTC | Kompas Siang |  |
-| 2026-11-05 13:00 UTC | 2026-11-05 14:00 UTC | Sapa Indonesia Siang |  |
-| 2026-11-05 14:00 UTC | 2026-11-05 14:30 UTC | Berkas Kompas |  |
-| 2026-11-05 14:30 UTC | 2026-11-05 15:00 UTC | Jurnal Nusantara |  |
-| 2026-11-05 15:00 UTC | 2026-11-05 15:30 UTC | Jurnal Merah Putih |  |
-| 2026-11-05 15:30 UTC | 2026-11-05 16:00 UTC | Borgol |  |
-| 2026-11-05 16:00 UTC | 2026-11-05 17:30 UTC | Kompas Petang |  |
-| 2026-11-05 17:30 UTC | 2026-11-05 19:30 UTC | Sapa Indonesia Malam |  |
-| 2026-11-05 19:30 UTC | 2026-11-05 20:30 UTC | Berita Utama |  |
-| 2026-11-05 20:30 UTC | 2026-11-05 21:30 UTC | Rosi |  |
-| 2026-11-05 21:30 UTC | 2026-11-05 22:30 UTC | Kompas Malam |  |
-| 2026-11-05 22:30 UTC | 2026-11-05 23:00 UTC | Berita Utama |  |
-| 2026-11-05 23:00 UTC | 2026-11-05 23:30 UTC | Kompas Sport |  |
-| 2026-11-05 23:30 UTC | 2026-11-06 00:00 UTC | Kilas Kompas |  |
+| 2026-11-04 16:30 UTC | 2026-11-04 17:00 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
+| 2026-11-04 17:00 UTC | 2026-11-04 18:00 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
+| 2026-11-04 18:00 UTC | 2026-11-04 19:30 UTC | Kompas Petang | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
+| 2026-11-04 19:30 UTC | 2026-11-04 20:00 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
+| 2026-11-04 20:00 UTC | 2026-11-04 21:00 UTC | Kalam Hati | Saksikan program Kalam Hati yang disampaikan oleh Ustadz dengan memberikan solusi dan manfaat bagi Anda yang merasakan kegelisahan hati. |
+| 2026-11-04 21:00 UTC | 2026-11-04 21:30 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-04 21:30 UTC | 2026-11-04 23:30 UTC | Kompas Pagi | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
+| 2026-11-04 23:30 UTC | 2026-11-05 00:00 UTC | Jurnal Nusantara | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
+| 2026-11-05 00:00 UTC | 2026-11-05 02:30 UTC | Sapa Indonesia Pagi | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-05 02:30 UTC | 2026-11-05 03:30 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
+| 2026-11-05 03:30 UTC | 2026-11-05 04:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-05 04:00 UTC | 2026-11-05 06:00 UTC | Kompas Siang | Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara. |
+| 2026-11-05 06:00 UTC | 2026-11-05 07:00 UTC | Sapa Indonesia Siang | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-05 07:00 UTC | 2026-11-05 07:30 UTC | Berkas Kompas | Mengulas seputar isu-isu terkini, skandal publik, berbagai ketidakadilan dan ketimpangan, kemiskinan, hingga kasus-kasus kejahatan yang tengah menjadi perbincangan hangat di tengah masyarakat. |
+| 2026-11-05 07:30 UTC | 2026-11-05 08:00 UTC | Breaking News: Jokowi Tunjukan Ijazah Di Sidang Roy Suryo | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
+| 2026-11-05 08:00 UTC | 2026-11-05 08:29 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
+| 2026-11-05 08:29 UTC | 2026-11-05 09:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-05 09:00 UTC | 2026-11-05 10:30 UTC | Kompas Petang | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
+| 2026-11-05 10:30 UTC | 2026-11-05 12:30 UTC | Sapa Indonesia Malam | Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri. |
+| 2026-11-05 12:30 UTC | 2026-11-05 13:30 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
+| 2026-11-05 13:30 UTC | 2026-11-05 14:30 UTC | Rosi | Program bincang-bincang waktu perdana Indonesia yang dipandu oleh Rosianna Silalahi. |
+| 2026-11-05 14:30 UTC | 2026-11-05 15:30 UTC | Kompas Malam | Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia. |
+| 2026-11-05 15:30 UTC | 2026-11-05 16:00 UTC | Berita Utama | Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat. |
+| 2026-11-05 16:00 UTC | 2026-11-05 16:30 UTC | Kompas Sport | Kompas Sport akan menghadirkan cuplikan-cuplikan berita tentang dunia olahraga, klub terkenal dan para pemain-pemainnya, baik dari dalam ataupun luar negeri. |
+| 2026-11-05 16:30 UTC | 2026-11-05 16:59 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
 | 2026-11-06 00:00 UTC | 2026-11-06 01:00 UTC | Berita Utama |  |
 | 2026-11-06 01:00 UTC | 2026-11-06 02:30 UTC | Kompas Petang |  |
 | 2026-11-06 02:30 UTC | 2026-11-06 03:00 UTC | Jurnal Merah Putih |  |
@@ -2880,4 +2856,150 @@
 | 2026-11-06 22:00 UTC | 2026-11-06 23:00 UTC | Kompas Malam |  |
 | 2026-11-06 23:00 UTC | 2026-11-06 23:30 UTC | Kompas Sport |  |
 | 2026-11-06 23:30 UTC | 2026-11-07 00:00 UTC | Kilas Kompas |  |
+| 2026-11-07 00:00 UTC | 2026-11-07 01:00 UTC | Berita Utama |  |
+| 2026-11-07 01:00 UTC | 2026-11-07 03:00 UTC | Kompas Petang |  |
+| 2026-11-07 03:00 UTC | 2026-11-07 03:30 UTC | Kompas Malam |  |
+| 2026-11-07 03:30 UTC | 2026-11-07 04:00 UTC | Kalam Hati |  |
+| 2026-11-07 04:00 UTC | 2026-11-07 04:30 UTC | Borgol |  |
+| 2026-11-07 04:30 UTC | 2026-11-07 06:30 UTC | Kompas Pagi Akhir Pekan |  |
+| 2026-11-07 06:30 UTC | 2026-11-07 07:00 UTC | Jurnal Nusantara |  |
+| 2026-11-07 07:00 UTC | 2026-11-07 09:00 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-07 09:00 UTC | 2026-11-07 09:30 UTC | Sustenesia |  |
+| 2026-11-07 09:30 UTC | 2026-11-07 10:00 UTC | Kompas Sport |  |
+| 2026-11-07 10:00 UTC | 2026-11-07 11:00 UTC | Berita Utama |  |
+| 2026-11-07 11:00 UTC | 2026-11-07 12:00 UTC | Kompas Siang |  |
+| 2026-11-07 12:00 UTC | 2026-11-07 12:30 UTC | Borgol |  |
+| 2026-11-07 12:30 UTC | 2026-11-07 13:00 UTC | Jurnal Nusantara |  |
+| 2026-11-07 13:00 UTC | 2026-11-07 14:00 UTC | Dipo Investigasi |  |
+| 2026-11-07 14:00 UTC | 2026-11-07 15:00 UTC | Berita Utama |  |
+| 2026-11-07 15:00 UTC | 2026-11-07 16:00 UTC | Cerita Militer |  |
+| 2026-11-07 16:00 UTC | 2026-11-07 18:00 UTC | Kompas Petang |  |
+| 2026-11-07 18:00 UTC | 2026-11-07 18:30 UTC | Laporan Khusus |  |
+| 2026-11-07 18:30 UTC | 2026-11-07 19:00 UTC | Borgol |  |
+| 2026-11-07 19:00 UTC | 2026-11-07 20:00 UTC | Sapa Indonesia Malam |  |
+| 2026-11-07 20:00 UTC | 2026-11-07 21:00 UTC | Berita Utama |  |
+| 2026-11-07 21:00 UTC | 2026-11-07 22:00 UTC | Kompas Malam |  |
+| 2026-11-07 22:00 UTC | 2026-11-07 23:00 UTC | Rosi |  |
+| 2026-11-07 23:00 UTC | 2026-11-07 23:30 UTC | Berkas Kompas |  |
+| 2026-11-07 23:30 UTC | 2026-11-08 00:00 UTC | Kilas Kompas |  |
+| 2026-11-08 00:00 UTC | 2026-11-08 01:00 UTC | Dipo Investigasi |  |
+| 2026-11-08 01:00 UTC | 2026-11-08 02:00 UTC | Satu Meja The Forum |  |
+| 2026-11-08 02:00 UTC | 2026-11-08 03:00 UTC | Berita Utama |  |
+| 2026-11-08 03:00 UTC | 2026-11-08 04:00 UTC | Kompas Malam |  |
+| 2026-11-08 04:00 UTC | 2026-11-08 04:30 UTC | Borgol |  |
+| 2026-11-08 04:30 UTC | 2026-11-08 06:30 UTC | Kompas Pagi Akhir Pekan |  |
+| 2026-11-08 06:30 UTC | 2026-11-08 07:00 UTC | Jurnal Nusantara |  |
+| 2026-11-08 07:00 UTC | 2026-11-08 09:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-08 09:30 UTC | 2026-11-08 10:30 UTC | Berita Utama |  |
+| 2026-11-08 10:30 UTC | 2026-11-08 11:00 UTC | Jalan-Jalan |  |
+| 2026-11-08 11:00 UTC | 2026-11-08 12:00 UTC | Kompas Siang |  |
+| 2026-11-08 12:00 UTC | 2026-11-08 12:30 UTC | Jurnal Nusantara |  |
+| 2026-11-08 12:30 UTC | 2026-11-08 13:00 UTC | Borgol |  |
+| 2026-11-08 13:00 UTC | 2026-11-08 14:00 UTC | Kalam Hati |  |
+| 2026-11-08 14:00 UTC | 2026-11-08 15:00 UTC | Berita Utama |  |
+| 2026-11-08 15:00 UTC | 2026-11-08 15:30 UTC | Laporan Khusus |  |
+| 2026-11-08 15:30 UTC | 2026-11-08 16:00 UTC | Borgol |  |
+| 2026-11-08 16:00 UTC | 2026-11-08 17:30 UTC | Kompas Petang |  |
+| 2026-11-08 17:30 UTC | 2026-11-08 18:00 UTC | Kompas Sepekan |  |
+| 2026-11-08 18:00 UTC | 2026-11-08 19:00 UTC | 60 Menit Spesial Report |  |
+| 2026-11-08 19:00 UTC | 2026-11-08 20:00 UTC | Sapa Indonesia Malam |  |
+| 2026-11-08 20:00 UTC | 2026-11-08 21:00 UTC | Berita Utama |  |
+| 2026-11-08 21:00 UTC | 2026-11-08 22:00 UTC | Kompas Malam |  |
+| 2026-11-08 22:00 UTC | 2026-11-08 22:30 UTC | Borgol |  |
+| 2026-11-08 22:30 UTC | 2026-11-09 00:45 UTC | Eredivisie 2026/27 |  |
+| 2026-11-09 00:45 UTC | 2026-11-09 01:15 UTC | Kompas Sepekan |  |
+| 2026-11-09 01:15 UTC | 2026-11-09 03:00 UTC | Eredivisie 2026/27 |  |
+| 2026-11-09 03:00 UTC | 2026-11-09 04:00 UTC | Kalam Hati |  |
+| 2026-11-09 04:00 UTC | 2026-11-09 04:30 UTC | Borgol |  |
+| 2026-11-09 04:30 UTC | 2026-11-09 06:30 UTC | Kompas Pagi |  |
+| 2026-11-09 06:30 UTC | 2026-11-09 07:00 UTC | Jurnal Nusantara |  |
+| 2026-11-09 07:00 UTC | 2026-11-09 09:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-09 09:30 UTC | 2026-11-09 10:30 UTC | Berita Utama |  |
+| 2026-11-09 10:30 UTC | 2026-11-09 11:00 UTC | Borgol |  |
+| 2026-11-09 11:00 UTC | 2026-11-09 13:00 UTC | Kompas Siang |  |
+| 2026-11-09 13:00 UTC | 2026-11-09 14:00 UTC | Sapa Indonesia Siang |  |
+| 2026-11-09 14:00 UTC | 2026-11-09 14:30 UTC | Berkas Kompas |  |
+| 2026-11-09 14:30 UTC | 2026-11-09 15:00 UTC | Jurnal Nusantara |  |
+| 2026-11-09 15:00 UTC | 2026-11-09 15:30 UTC | Jurnal Merah Putih |  |
+| 2026-11-09 15:30 UTC | 2026-11-09 16:00 UTC | Borgol |  |
+| 2026-11-09 16:00 UTC | 2026-11-09 17:30 UTC | Kompas Petang |  |
+| 2026-11-09 17:30 UTC | 2026-11-09 19:30 UTC | Sapa Indonesia Malam |  |
+| 2026-11-09 19:30 UTC | 2026-11-09 20:30 UTC | Berita Utama |  |
+| 2026-11-09 20:30 UTC | 2026-11-09 21:30 UTC | Dipo Investigasi |  |
+| 2026-11-09 21:30 UTC | 2026-11-09 22:30 UTC | Kompas Malam |  |
+| 2026-11-09 22:30 UTC | 2026-11-09 23:00 UTC | Berita Utama |  |
+| 2026-11-09 23:00 UTC | 2026-11-09 23:30 UTC | Kompas Sport |  |
+| 2026-11-09 23:30 UTC | 2026-11-10 00:00 UTC | Kilas Kompas |  |
+| 2026-11-10 00:00 UTC | 2026-11-10 01:00 UTC | Berita Utama |  |
+| 2026-11-10 01:00 UTC | 2026-11-10 02:00 UTC | Kompas Petang |  |
+| 2026-11-10 02:00 UTC | 2026-11-10 03:00 UTC | Jurnal Merah Putih |  |
+| 2026-11-10 03:00 UTC | 2026-11-10 04:00 UTC | Kalam Hati |  |
+| 2026-11-10 04:00 UTC | 2026-11-10 04:30 UTC | Borgol |  |
+| 2026-11-10 04:30 UTC | 2026-11-10 06:30 UTC | Kompas Pagi |  |
+| 2026-11-10 06:30 UTC | 2026-11-10 07:00 UTC | Jurnal Nusantara |  |
+| 2026-11-10 07:00 UTC | 2026-11-10 09:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-10 09:30 UTC | 2026-11-10 10:30 UTC | Berita Utama |  |
+| 2026-11-10 10:30 UTC | 2026-11-10 11:00 UTC | Borgol |  |
+| 2026-11-10 11:00 UTC | 2026-11-10 13:00 UTC | Kompas Siang |  |
+| 2026-11-10 13:00 UTC | 2026-11-10 14:00 UTC | Sapa Indonesia Siang |  |
+| 2026-11-10 14:00 UTC | 2026-11-10 14:30 UTC | Kompas Sport |  |
+| 2026-11-10 14:30 UTC | 2026-11-10 15:00 UTC | Jurnal Nusantara |  |
+| 2026-11-10 15:00 UTC | 2026-11-10 15:30 UTC | Jurnal Merah Putih |  |
+| 2026-11-10 15:30 UTC | 2026-11-10 16:00 UTC | Borgol |  |
+| 2026-11-10 16:00 UTC | 2026-11-10 17:30 UTC | Kompas Petang |  |
+| 2026-11-10 17:30 UTC | 2026-11-10 19:30 UTC | Sapa Indonesia Malam |  |
+| 2026-11-10 19:30 UTC | 2026-11-10 20:30 UTC | Berita Utama |  |
+| 2026-11-10 20:30 UTC | 2026-11-10 21:30 UTC | Kompas Malam |  |
+| 2026-11-10 21:30 UTC | 2026-11-10 22:00 UTC | Laporan Khusus |  |
+| 2026-11-10 22:00 UTC | 2026-11-10 23:00 UTC | B-Talk |  |
+| 2026-11-10 23:00 UTC | 2026-11-10 23:30 UTC | Berkas Kompas |  |
+| 2026-11-10 23:30 UTC | 2026-11-11 00:00 UTC | Kilas Kompas |  |
+| 2026-11-11 00:00 UTC | 2026-11-11 00:30 UTC | Kompas Sport |  |
+| 2026-11-11 00:30 UTC | 2026-11-11 01:30 UTC | Berita Utama |  |
+| 2026-11-11 01:30 UTC | 2026-11-11 02:30 UTC | Kompas Petang |  |
+| 2026-11-11 02:30 UTC | 2026-11-11 03:00 UTC | Jurnal Merah Putih |  |
+| 2026-11-11 03:00 UTC | 2026-11-11 04:00 UTC | Kalam Hati |  |
+| 2026-11-11 04:00 UTC | 2026-11-11 04:30 UTC | Borgol |  |
+| 2026-11-11 04:30 UTC | 2026-11-11 07:00 UTC | Kompas Pagi |  |
+| 2026-11-11 07:00 UTC | 2026-11-11 09:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-11 09:30 UTC | 2026-11-11 10:30 UTC | Berita Utama |  |
+| 2026-11-11 10:30 UTC | 2026-11-11 11:00 UTC | Borgol |  |
+| 2026-11-11 11:00 UTC | 2026-11-11 13:00 UTC | Kompas Siang |  |
+| 2026-11-11 13:00 UTC | 2026-11-11 14:00 UTC | Sapa Indonesia Siang |  |
+| 2026-11-11 14:00 UTC | 2026-11-11 14:30 UTC | Laporan Khusus |  |
+| 2026-11-11 14:30 UTC | 2026-11-11 15:00 UTC | Jurnal Nusantara |  |
+| 2026-11-11 15:00 UTC | 2026-11-11 15:30 UTC | Jurnal Merah Putih |  |
+| 2026-11-11 15:30 UTC | 2026-11-11 16:00 UTC | Borgol |  |
+| 2026-11-11 16:00 UTC | 2026-11-11 17:30 UTC | Kompas Petang |  |
+| 2026-11-11 17:30 UTC | 2026-11-11 19:30 UTC | Sapa Indonesia Malam |  |
+| 2026-11-11 19:30 UTC | 2026-11-11 20:30 UTC | Berita Utama |  |
+| 2026-11-11 20:30 UTC | 2026-11-11 21:30 UTC | Satu Meja The Forum |  |
+| 2026-11-11 21:30 UTC | 2026-11-11 22:30 UTC | Kompas Malam |  |
+| 2026-11-11 22:30 UTC | 2026-11-11 23:00 UTC | Berita Utama |  |
+| 2026-11-11 23:00 UTC | 2026-11-11 23:30 UTC | Kompas Sport |  |
+| 2026-11-11 23:30 UTC | 2026-11-12 00:00 UTC | Kilas Kompas |  |
+| 2026-11-12 00:00 UTC | 2026-11-12 01:00 UTC | Berita Utama |  |
+| 2026-11-12 01:00 UTC | 2026-11-12 02:30 UTC | Kompas Petang |  |
+| 2026-11-12 02:30 UTC | 2026-11-12 03:00 UTC | Jurnal Merah Putih |  |
+| 2026-11-12 03:00 UTC | 2026-11-12 04:00 UTC | Kalam Hati |  |
+| 2026-11-12 04:00 UTC | 2026-11-12 04:30 UTC | Borgol |  |
+| 2026-11-12 04:30 UTC | 2026-11-12 06:30 UTC | Kompas Pagi |  |
+| 2026-11-12 06:30 UTC | 2026-11-12 07:00 UTC | Jurnal Nusantara |  |
+| 2026-11-12 07:00 UTC | 2026-11-12 09:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-12 09:30 UTC | 2026-11-12 10:30 UTC | Berita Utama |  |
+| 2026-11-12 10:30 UTC | 2026-11-12 11:00 UTC | Borgol |  |
+| 2026-11-12 11:00 UTC | 2026-11-12 13:00 UTC | Kompas Siang |  |
+| 2026-11-12 13:00 UTC | 2026-11-12 14:00 UTC | Sapa Indonesia Siang |  |
+| 2026-11-12 14:00 UTC | 2026-11-12 14:30 UTC | Berkas Kompas |  |
+| 2026-11-12 14:30 UTC | 2026-11-12 15:00 UTC | Jurnal Nusantara |  |
+| 2026-11-12 15:00 UTC | 2026-11-12 15:29 UTC | Jurnal Merah Putih |  |
+| 2026-11-12 15:29 UTC | 2026-11-12 15:59 UTC | Borgol |  |
+| 2026-11-12 16:00 UTC | 2026-11-12 17:30 UTC | Kompas Petang |  |
+| 2026-11-12 17:30 UTC | 2026-11-12 19:30 UTC | Sapa Indonesia Malam |  |
+| 2026-11-12 19:30 UTC | 2026-11-12 20:30 UTC | Berita Utama |  |
+| 2026-11-12 20:30 UTC | 2026-11-12 21:30 UTC | Rosi |  |
+| 2026-11-12 21:30 UTC | 2026-11-12 22:30 UTC | Kompas Malam |  |
+| 2026-11-12 22:30 UTC | 2026-11-12 23:00 UTC | Berita Utama |  |
+| 2026-11-12 23:00 UTC | 2026-11-12 23:30 UTC | Kompas Sport |  |
+| 2026-11-12 23:30 UTC | 2026-11-13 00:00 UTC | Kilas Kompas |  |
 
