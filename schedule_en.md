@@ -52,22 +52,22 @@
 | 2026-11-21 06:00 UTC | 2026-11-21 08:00 UTC | Football - Spanish League: Athletic Bilbao - Espanyol | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. Along with the top teams, the Spanish league is also characterized by the highly technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | Basketball - Euroleague: Barcelona - Red Star | The Euroleague is a competition that began its journey into the world of European basketball under the name European Champions Cup way back in 1958, and the first trophy was won by the ASK Riga team from the then USSR, i.e. today's Latvia. FIBA had the main say in this competition until 2000 when the clubs took control of the competition through their association Eurolegaue Basketball. The format of the competition has changed throughout history and included a group stage followed by eliminations in the playoffs. The winner of this competition is decided at the final tournament called the Final Four. The most successful clubs in this competition are Real Madrid, CSKA Moscow, Maccabi Tel-Aviv, Panathinaikos, Varese, Olympiakos. |
 | 2026-11-21 10:00 UTC | 2026-11-21 12:00 UTC | Basketball - Euroleague: Partizan - Besiktas | The Euroleague is a competition that began its journey into the world of European basketball under the name European Champions Cup way back in 1958, and the first trophy was won by the ASK Riga team from the then USSR, i.e. today's Latvia. FIBA had the main say in this competition until 2000 when the clubs took control of the competition through their association Eurolegaue Basketball. The format of the competition has changed throughout history and included a group stage followed by eliminations in the playoffs. The winner of this competition is decided at the final tournament called the Final Four. The most successful clubs in this competition are Real Madrid, CSKA Moscow, Maccabi Tel-Aviv, Panathinaikos, Varese, Olympiakos. |
-| 2026-11-21 12:00 UTC | 2026-11-21 12:30 UTC | Fudbal - Klasici Premijer Lige | Pogledajte najveća fudbalska uzbuđenja, vrhunske poteze, spektakularne golove i nezaboravne utakmice koje su obeležile istoriju fudbala. Podsećanje na kultne duele, velike igrače i trenutke koji su Premijer ligu svrstali među najatraktivnija i najuzbudljivija fudbalska takmičenja na svetu! |
+| 2026-11-21 12:00 UTC | 2026-11-21 12:30 UTC | Football - Premier League classics | See the greatest football thrills, top moves, spectacular goals and unforgettable matches that marked the history of football. A reminder of iconic duels, great players and moments that made the Premier League one of the most attractive and exciting football competitions in the world! |
 | 2026-11-21 12:30 UTC | 2026-11-21 13:30 UTC | Premier League Studio | A studio where sports experts are guests, express their opinions, analyze and comment on the game. |
-| 2026-11-21 13:30 UTC | 2026-11-21 15:30 UTC | Fudbal - Engleska liga: Manchester City - Fulham | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
+| 2026-11-21 13:30 UTC | 2026-11-21 15:30 UTC | Football - English league: Manchester City - Fulham | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
 | 2026-11-21 15:30 UTC | 2026-11-21 16:00 UTC | Premier League Studio | A studio where sports experts are guests, express their opinions, analyze and comment on the game. |
-| 2026-11-21 16:00 UTC | 2026-11-21 18:00 UTC | Fudbal - Engleska liga: Chelsea - Leeds | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
+| 2026-11-21 16:00 UTC | 2026-11-21 18:00 UTC | Football - English league: Chelsea - Leeds | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
 | 2026-11-21 18:00 UTC | 2026-11-21 18:30 UTC | The Big Interview | Hear interesting interviews with some of the biggest names in the Premier League. Find out all about the thoughts of these famous footballers, their approach to the game, future plans and much more! |
-| 2026-11-21 18:30 UTC | 2026-11-21 20:30 UTC | Fudbal - Engleska liga: Newcastle - Arsenal | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
+| 2026-11-21 18:30 UTC | 2026-11-21 20:30 UTC | Football - English league: Newcastle - Arsenal | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
 | 2026-11-21 20:30 UTC | 2026-11-21 21:00 UTC | They love Serbia | The number of players and coaches who found their happiness in Serbia is not small. They belong to different sports, and here they could see for themselves how true the stories about the famous Serbian hospitality are. Some of them found the love of their life here, found godfathers, friends for life, got citizenship. What is their attitude towards Serbia and what is their life like, find out in our show. |
-| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Fudbal - Španska liga: Real Madrid - Celta | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. Along with the top teams, the Spanish league is also characterized by the highly technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Football - Spanish league: Real Madrid - Celta | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. Along with the top teams, the Spanish league is also characterized by the highly technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 23:00 UTC | 2026-11-21 23:30 UTC | Champions League magazine | Overview of news and events from football fields. The Champions League Magazine show brings news about football players and favorite clubs! |
-| 2026-11-21 23:30 UTC | 2026-11-22 02:00 UTC | Fudbal - Copa Sudamericana: Atletico Mineiro - Boca Junuiors, finale | Copa Sudamericana je takmičenje koje se održava svake godine u organizaciji CONMEBOL - a. Važi za drugo najprestižnije takmičenje u južnoameričkom fudbalu. Klubovi CONCACAF - a su uvršteni između 2004. i 2008. godine. Copa Sudamericana postoji od 2002. da bi ujedinio Copa Merconorte i Copa Mercosur u jedno takmičenje. |
-| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | Fudbal - Nemačka liga: Schalke - Stuttgart | Along with all that Germany has given us throughout history, the Bundesliga also stands proudly. The highest rank of the football competition, founded in 1963, has 18 teams that start the race for the popular plate every August. It was won the most times by Bayern Munich, as many as 24 times. The culture of cheering, full stands and top football is what adorns the Bundesliga from its beginnings, until today. Don't miss every possible opportunity to enjoy Bundesliga matches. You certainly won't regret it. |
-| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Fudbal - Španska liga: Sevilla - Betis | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. Along with the top teams, the Spanish league is also characterized by the highly technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Fudbal - Engleska liga: Newcastle - Arsenal | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
+| 2026-11-21 23:30 UTC | 2026-11-22 02:00 UTC | Football - Copa Sudamericana: Atletico Mineiro - Boca Juniors, final | Copa Sudamericana is a competition held every year organized by CONMEBOL. It is considered the second most prestigious competition in South American football. CONCACAF clubs were included between 2004 and 2008. The Copa Sudamericana has existed since 2002 to unite the Copa Merconorte and Copa Mercosur into one competition. |
+| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | Football - German league: Schalke - Stuttgart | Along with all that Germany has given us throughout history, the Bundesliga also stands proudly. The highest rank of the football competition, founded in 1963, has 18 teams that start the race for the popular plate every August. It was won the most times by Bayern Munich, as many as 24 times. The culture of cheering, full stands and top football is what adorns the Bundesliga from its beginnings, until today. Don't miss every possible opportunity to enjoy Bundesliga matches. You certainly won't regret it. |
+| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Football - Spanish League: Sevilla - Betis | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. Along with the top teams, the Spanish league is also characterized by the highly technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Football - English league: Newcastle - Arsenal | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
 | 2026-11-22 08:00 UTC | 2026-11-22 08:30 UTC | The Big Interview | Hear interesting interviews with some of the biggest names in the Premier League. Find out all about the thoughts of these famous footballers, their approach to the game, future plans and much more! |
-| 2026-11-22 08:30 UTC | 2026-11-22 10:30 UTC | Fudbal - Italijanska liga: Napoli - Torino | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
+| 2026-11-22 08:30 UTC | 2026-11-22 10:30 UTC | Football - Italian League: Napoli - Torino | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
 
 ## Arena PREMIUM 3.rs (69 programmes)
 
@@ -129,19 +129,19 @@
 | 2026-11-21 06:00 UTC | 2026-11-21 06:30 UTC | Bundesliga announcement | The 18 best German clubs compete in the Bundesliga. Follow our show and find out all about the exciting matches that await us in the upcoming round. |
 | 2026-11-21 06:30 UTC | 2026-11-21 08:30 UTC | Football - German league: Bayern - Koln | Along with all that Germany has given us throughout history, the Bundesliga also stands proudly. The highest rank of the football competition, founded in 1963, has 18 teams that start the race for the popular plate every August. It was won the most times by Bayern Munich, as many as 24 times. The culture of cheering, full stands and top football is what adorns the Bundesliga from its beginnings, until today. Don't miss every possible opportunity to enjoy Bundesliga matches. You certainly won't regret it. |
 | 2026-11-21 08:30 UTC | 2026-11-21 10:30 UTC | Football - French league: Troyes - Le Havre | Ligue 1 is the first French professional football league with 20 teams fighting for the title of French champion. It was founded in 1932 and is considered one of the most respected European leagues. The club with the most trophies with ten titles won is AS Saint Etienne, but the Greens have been waiting for a new title since 1981 and the time of the great Michel Platini. The matches of the French league are an unmissable event for every fan of this magnificent game. |
-| 2026-11-21 10:30 UTC | 2026-11-21 12:30 UTC | Košarka - VTB liga: Dynamo - Lokomotiv | The VTB League brings together the best basketball clubs from Eastern and Northern Europe. In addition to the dominant Russian clubs, clubs from Belarus, Estonia, Kazakhstan and Latvia also participate in the league. Throughout the history of the league, which was launched in 2008, other clubs from Lithuania and Ukraine participated. Starting with the 2013-2014 season. The VTB League is also the national championship for Russian clubs, of which the best placed becomes the champion of Russia. In order for clubs to join the league, they must have a hall with a minimum capacity of 3,000 spectators. The name of the VTB League comes from the general sponsor of the league, VTB Bank. FIBA Europe officially recognized the league in 2013. |
+| 2026-11-21 10:30 UTC | 2026-11-21 12:30 UTC | Basketball - VTB league: Dynamo - Lokomotiv | The VTB League brings together the best basketball clubs from Eastern and Northern Europe. In addition to the dominant Russian clubs, clubs from Belarus, Estonia, Kazakhstan and Latvia also participate in the league. Throughout the history of the league, which was launched in 2008, other clubs from Lithuania and Ukraine participated. Starting with the 2013-2014 season. The VTB League is also the national championship for Russian clubs, of which the best placed becomes the champion of Russia. In order for clubs to join the league, they must have a hall with a minimum capacity of 3,000 spectators. The name of the VTB League comes from the general sponsor of the league, VTB Bank. FIBA Europe officially recognized the league in 2013. |
 | 2026-11-21 12:30 UTC | 2026-11-21 13:00 UTC | Football - Italian league | The Italian Serie A is a professional football competition with 20 teams in a two-round league championship. |
-| 2026-11-21 13:00 UTC | 2026-11-21 15:00 UTC | Fudbal - Nemačka 2. liga: Wolfsburg - Kiel | The 2. Bundesliga is regarded as one of the most popular non-top flight football competitions in its own country. The average number of spectators at those matches exceeds some of the first leagues of other football countries, while it is the leader among other leagues. It is right up there with the English Championship in viewership. The concept and format of the league changed over the years, as did the turbulent history of that country. The league became fully professional in the 1970s and was divided into several regions. The current form with a unique second division dates back to 1992. |
-| 2026-11-21 15:00 UTC | 2026-11-21 17:15 UTC | Fudbal - Italijanska liga: Lazio - Lecce | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
-| 2026-11-21 17:15 UTC | 2026-11-21 19:15 UTC | Fudbal - Francuska liga: Nice - PSG | Ligue 1 is the first French professional football league with 20 teams fighting for the title of French champion. It was founded in 1932 and is considered one of the most respected European leagues. The club with the most trophies with ten titles won is AS Saint Etienne, but the Greens have been waiting for a new title since 1981 and the time of the great Michel Platini. The matches of the French league are an unmissable event for every fan of this magnificent game. |
-| 2026-11-21 19:15 UTC | 2026-11-21 21:30 UTC | Košarka - NBA liga: Philadelphia - Milwaukee | The sixth day of June, back in 1946, would forever change the game of basketball. On that day, the world's most elite basketball competition, the NBA League, was founded in New York. 29 teams from the USA and one from Canada start hunting for the legendary ring intended for the NBA champion every fall. The teams are divided into Eastern and Western Conferences, and through 82 games of the regular season, they are chasing one of the eight positions for the playoffs. The conference champions enter the big NBA finals, where they decide on the new champion in a series of a maximum of seven games. The NBA Finals is one of the most followed sports events of the year, which delights all basketball lovers. |
-| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Fudbal - Mozzart Bet Superliga: Crvena zvezda - Radnik | The Serbian Superliga had its premiere in the 2006/2007 season. In today's system, the league has 20 teams and operates according to the two-round competition principle. The history of the Superliga was largely marked by two great Belgrade rivals, Partizan and Crvena zvezda. Historically speaking, in terms of the number of titles won, the red and white team is more successful. |
-| 2026-11-21 23:30 UTC | 2026-11-22 01:30 UTC | Fudbal - Italijanska liga: Napoli - Torino | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
-| 2026-11-22 01:30 UTC | 2026-11-22 03:30 UTC | Fudbal - Engleska liga: Manchester City - Fulham | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
-| 2026-11-22 03:30 UTC | 2026-11-22 05:30 UTC | Fudbal - Italijanska liga: Lazio - Lecce | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
-| 2026-11-22 05:30 UTC | 2026-11-22 06:00 UTC | Iza Forme | Emisija koja kroz zanimljive razgovore i intervjue gledaocima otkriva šta se krije iza sportskog života, dugovečnosti sportske karijere, zdravog načina života, šta je potrebno da bi se postigla mentalna kondicija koja će ispratiti telesnu... Drugim rečima, šta je to sve što čini vrhunskog sportistu i sportistkinju, šta je začin sportskog života? |
-| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Fudbal - Nemačka liga: B. Monchengladbach - Borussia Dortmund | Along with all that Germany has given us throughout history, the Bundesliga also stands proudly. The highest rank of the football competition, founded in 1963, has 18 teams that start the race for the popular plate every August. It was won the most times by Bayern Munich, as many as 24 times. The culture of cheering, full stands and top football is what adorns the Bundesliga from its beginnings, until today. Don't miss every possible opportunity to enjoy Bundesliga matches. You certainly won't regret it. |
-| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Fudbal - Francuska liga: Nice - PSG | Ligue 1 is the first French professional football league with 20 teams fighting for the title of French champion. It was founded in 1932 and is considered one of the most respected European leagues. The club with the most trophies with ten titles won is AS Saint Etienne, but the Greens have been waiting for a new title since 1981 and the time of the great Michel Platini. The matches of the French league are an unmissable event for every fan of this magnificent game. |
+| 2026-11-21 13:00 UTC | 2026-11-21 15:00 UTC | Football - Germany 2nd league: Wolfsburg - Kiel | The 2. Bundesliga is regarded as one of the most popular non-top flight football competitions in its own country. The average number of spectators at those matches exceeds some of the first leagues of other football countries, while it is the leader among other leagues. It is right up there with the English Championship in viewership. The concept and format of the league changed over the years, as did the turbulent history of that country. The league became fully professional in the 1970s and was divided into several regions. The current form with a unique second division dates back to 1992. |
+| 2026-11-21 15:00 UTC | 2026-11-21 17:15 UTC | Football - Italian league: Lazio - Lecce | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
+| 2026-11-21 17:15 UTC | 2026-11-21 19:15 UTC | Football - French League: Nice - PSG | Ligue 1 is the first French professional football league with 20 teams fighting for the title of French champion. It was founded in 1932 and is considered one of the most respected European leagues. The club with the most trophies with ten titles won is AS Saint Etienne, but the Greens have been waiting for a new title since 1981 and the time of the great Michel Platini. The matches of the French league are an unmissable event for every fan of this magnificent game. |
+| 2026-11-21 19:15 UTC | 2026-11-21 21:30 UTC | Basketball - NBA league: Philadelphia - Milwaukee | The sixth day of June, back in 1946, would forever change the game of basketball. On that day, the world's most elite basketball competition, the NBA League, was founded in New York. 29 teams from the USA and one from Canada start hunting for the legendary ring intended for the NBA champion every fall. The teams are divided into Eastern and Western Conferences, and through 82 games of the regular season, they are chasing one of the eight positions for the playoffs. The conference champions enter the big NBA finals, where they decide on the new champion in a series of a maximum of seven games. The NBA Finals is one of the most followed sports events of the year, which delights all basketball lovers. |
+| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Football - Mozart Bet Superliga: Crvena zvezda - Radnik | The Serbian Superliga had its premiere in the 2006/2007 season. In today's system, the league has 20 teams and operates according to the two-round competition principle. The history of the Superliga was largely marked by two great Belgrade rivals, Partizan and Crvena zvezda. Historically speaking, in terms of the number of titles won, the red and white team is more successful. |
+| 2026-11-21 23:30 UTC | 2026-11-22 01:30 UTC | Football - Italian League: Napoli - Torino | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
+| 2026-11-22 01:30 UTC | 2026-11-22 03:30 UTC | Football - English league: Manchester City - Fulham | Every August, 20 teams begin the hunt for the most prized trophy in English football. The English Premier League in the format in which it is played today was founded in 1992 as a continuation of the English League founded back in 1888. The season lasts until May in a two-round system where each team plays 38 games throughout the season. The first winner of the championship is the most trophy English football club, Manchester United. Being the champion of England is the goal that every Premier League player strives for. |
+| 2026-11-22 03:30 UTC | 2026-11-22 05:30 UTC | Football - Italian league: Lazio - Lecce | Serie A is a professional football competition that consists of 20 teams in a two-round league championship. Ever since 1929, when it was founded, Serie A has become synonymous with tactical football. For many years, Italian football was considered the best in Europe due to its quality and a number of great players and coaches. |
+| 2026-11-22 05:30 UTC | 2026-11-22 06:00 UTC | Behind the Form | A show that, through interesting conversations and interviews, reveals to viewers what is hidden behind sports life, the longevity of a sports career, a healthy lifestyle, what is needed to achieve mental fitness that will accompany physical fitness... In other words, what is it that makes a top sportsman and sportswoman, what is the spice of sports life? |
+| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Football - German league: B. Monchengladbach - Borussia Dortmund | Along with all that Germany has given us throughout history, the Bundesliga also stands proudly. The highest rank of the football competition, founded in 1963, has 18 teams that start the race for the popular plate every August. It was won the most times by Bayern Munich, as many as 24 times. The culture of cheering, full stands and top football is what adorns the Bundesliga from its beginnings, until today. Don't miss every possible opportunity to enjoy Bundesliga matches. You certainly won't regret it. |
+| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Football - French League: Nice - PSG | Ligue 1 is the first French professional football league with 20 teams fighting for the title of French champion. It was founded in 1932 and is considered one of the most respected European leagues. The club with the most trophies with ten titles won is AS Saint Etienne, but the Greens have been waiting for a new title since 1981 and the time of the great Michel Platini. The matches of the French league are an unmissable event for every fan of this magnificent game. |
 
 ## Arena Premium 1.rs (64 programmes)
 
@@ -195,22 +195,22 @@
 | 2026-11-21 04:00 UTC | 2026-11-21 06:00 UTC | Athletic Bilbao - Espanyol | Football, clip, SPANISH LEAGUE |
 | 2026-11-21 06:00 UTC | 2026-11-21 08:00 UTC | Barcelona - Red Star | Basketball, recording, EUROLEAGUE |
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | Partizan - Besiktas | Basketball, recording, EUROLEAGUE |
-| 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | Klasici Premijer Lige: Manchester City - Fulham, 2007/08 | Football, clip, ENGLISH LEAGUE |
-| 2026-11-21 10:30 UTC | 2026-11-21 11:30 UTC | PL Studio - Najava kola ep. 12 | Football, live, ENGLISH LEAGUE |
+| 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | Premier League classics: Manchester City - Fulham, 2007/08 | Football, clip, ENGLISH LEAGUE |
+| 2026-11-21 10:30 UTC | 2026-11-21 11:30 UTC | PL Studio - Najava car ep. 12 | Football, live, ENGLISH LEAGUE |
 | 2026-11-21 11:30 UTC | 2026-11-21 13:30 UTC | Manchester City - Fulham | Football, live, ENGLISH LEAGUE |
-| 2026-11-21 13:30 UTC | 2026-11-21 14:00 UTC | PL Studio - Najava kola ep. 12 | Football, live, ENGLISH LEAGUE |
+| 2026-11-21 13:30 UTC | 2026-11-21 14:00 UTC | PL Studio - Najava car ep. 12 | Football, live, ENGLISH LEAGUE |
 | 2026-11-21 14:00 UTC | 2026-11-21 16:00 UTC | Chelsea - Leeds | Football, live, ENGLISH LEAGUE |
-| 2026-11-21 16:00 UTC | 2026-11-21 16:30 UTC | The Big Interview - Alex Scot | Football, clip |
+| 2026-11-21 16:00 UTC | 2026-11-21 16:30 UTC | The Big Interview - Alex Scott | Football, clip |
 | 2026-11-21 16:30 UTC | 2026-11-21 18:30 UTC | Newcastle - Arsenal | Football, live, ENGLISH LEAGUE |
-| 2026-11-21 18:30 UTC | 2026-11-21 19:00 UTC | Oni vole Srbiju ep. 106 | recording |
+| 2026-11-21 18:30 UTC | 2026-11-21 19:00 UTC | They love Serbia ep. 106 | recording |
 | 2026-11-21 19:00 UTC | 2026-11-21 21:00 UTC | Real Madrid - Celta | Football, live, SPANISH LEAGUE |
 | 2026-11-21 21:00 UTC | 2026-11-21 21:30 UTC | Champions League: Magazin ep. 12 | Football, footage, UEFA CHAMPIONS LEAGUE |
-| 2026-11-21 21:30 UTC | 2026-11-22 00:00 UTC | Atletico Mineiro - Boca Juniors, finale | Fudbal, uzivo, COPA SUDAMERICANA |
+| 2026-11-21 21:30 UTC | 2026-11-22 00:00 UTC | Atletico Mineiro - Boca Juniors, final | Football, live, COPA SUDAMERICANA |
 | 2026-11-22 00:00 UTC | 2026-11-22 02:00 UTC | Schalke - Stuttgart | Football, clip, GERMAN LEAGUE |
 | 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | Sevilla - Betis | Football, clip, SPANISH LEAGUE |
 | 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Newcastle - Arsenal | Football, clip, ENGLISH LEAGUE |
-| 2026-11-22 06:00 UTC | 2026-11-22 06:30 UTC | The Big Interview - Alex Scot | Football, clip |
-| 2026-11-22 06:30 UTC | 2026-11-22 08:30 UTC | Napoli - Torino | Football, footage, ITALIAN LEAGUE |
+| 2026-11-22 06:00 UTC | 2026-11-22 06:30 UTC | The Big Interview - Alex Scott | Football, clip |
+| 2026-11-22 06:30 UTC | 2026-11-22 08:30 UTC | Napoli - Turin | Football, footage, ITALIAN LEAGUE |
 
 ## Arena Premium 2.rs (71 programmes)
 
@@ -275,15 +275,15 @@
 | 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | NBA Daily | Basketball, video, NBA |
 | 2026-11-21 10:30 UTC | 2026-11-21 11:30 UTC | Overview of the 13th round | Basketball, recording, EUROLEAGUE |
 | 2026-11-21 11:30 UTC | 2026-11-21 12:00 UTC | Announcement of the 16th round | Football, clip, MOZZARTBET SUPERLIGA |
-| 2026-11-21 12:00 UTC | 2026-11-21 14:00 UTC | Crvena zvezda - Radnik | Football, live, MOZZARTBET SUPERLIGA |
+| 2026-11-21 12:00 UTC | 2026-11-21 14:00 UTC | Red Star - Worker | Football, live, MOZZARTBET SUPERLIGA |
 | 2026-11-21 14:00 UTC | 2026-11-21 16:00 UTC | Bournemouth - Nottingham Forest | Football, live, ENGLISH LEAGUE |
 | 2026-11-21 16:00 UTC | 2026-11-21 18:00 UTC | Parma - Roma | Football, live, ITALIAN LEAGUE |
-| 2026-11-21 18:00 UTC | 2026-11-21 18:45 UTC | Fudbal: Italijanska Liga: TOP 100 Goals | Football, footage, ITALIAN LEAGUE |
-| 2026-11-21 18:45 UTC | 2026-11-21 21:00 UTC | Napoli - Torino | Football, live, ITALIAN LEAGUE |
+| 2026-11-21 18:00 UTC | 2026-11-21 18:45 UTC | Football: Italian League: TOP 100 Goals | Football, footage, ITALIAN LEAGUE |
+| 2026-11-21 18:45 UTC | 2026-11-21 21:00 UTC | Napoli - Turin | Football, live, ITALIAN LEAGUE |
 | 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Philadelphia - Milwaukee | Basketball, video, NBA |
 | 2026-11-21 23:00 UTC | 2026-11-21 23:30 UTC | NBA Action | Basketball, video, NBA |
 | 2026-11-21 23:30 UTC | 2026-11-22 01:30 UTC | PAOK - Aris | Basketball, clip, GREEK LEAGUE |
-| 2026-11-22 01:30 UTC | 2026-11-22 03:00 UTC | Manama, polufinala i finale | Basket 3x3, snimak, FIBA 3x3 World Tour |
+| 2026-11-22 01:30 UTC | 2026-11-22 03:00 UTC | Manama, semi-finals and final | Basketball 3x3, footage, FIBA 3x3 World Tour |
 | 2026-11-22 03:00 UTC | 2026-11-22 04:00 UTC | Overview of the 13th round | Basketball, recording, EUROLEAGUE |
 | 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Turk Telekom - Tofas | Basketball, recording, TURKISH LEAGUE |
 | 2026-11-22 06:00 UTC | 2026-11-22 08:30 UTC | Houston Texans - Indianapolis Colts | American football, clip, NFL |
@@ -354,8 +354,8 @@
 | 2026-11-21 13:00 UTC | 2026-11-21 15:15 UTC | Lazio - Lecce | Football, live, ITALIAN LEAGUE |
 | 2026-11-21 15:15 UTC | 2026-11-21 17:15 UTC | Nice - PSG | Football, live, FRENCH LEAGUE |
 | 2026-11-21 17:15 UTC | 2026-11-21 19:30 UTC | Philadelphia - Milwaukee | Basketball, live, NBA |
-| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Crvena zvezda - Radnik | Football, clip, MOZZARTBET SUPERLIGA |
-| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Napoli - Torino | Football, footage, ITALIAN LEAGUE |
+| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Red Star - Worker | Football, clip, MOZZARTBET SUPERLIGA |
+| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Napoli - Turin | Football, footage, ITALIAN LEAGUE |
 | 2026-11-21 23:30 UTC | 2026-11-22 01:30 UTC | Manchester City - Fulham | Football, clip, ENGLISH LEAGUE |
 | 2026-11-22 01:30 UTC | 2026-11-22 03:30 UTC | Lazio - Lecce | Football, footage, ITALIAN LEAGUE |
 | 2026-11-22 03:30 UTC | 2026-11-22 04:00 UTC | Show: Behind the Form ep. 5 | recording |
@@ -386,9 +386,9 @@
 | 2026-11-19 16:30 UTC | 2026-11-19 17:00 UTC | UEFA Nations League Highlights |  |
 | 2026-11-19 17:00 UTC | 2026-11-19 18:00 UTC | UEFA Nations League Highlights |  |
 | 2026-11-19 18:00 UTC | 2026-11-19 18:30 UTC | UEFA Nations League Highlights |  |
-| 2026-11-19 18:30 UTC | 2026-11-19 19:30 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-19 18:30 UTC | 2026-11-19 19:30 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-19 19:30 UTC | 2026-11-19 21:30 UTC | Tennis: Nitto ATP Finals 2026 | Group Stage: Day 5 |
-| 2026-11-19 21:30 UTC | 2026-11-19 22:30 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-19 21:30 UTC | 2026-11-19 22:30 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-19 22:30 UTC | 2026-11-19 23:00 UTC | ATP Tour: This Week |  |
 | 2026-11-19 23:00 UTC | 2026-11-19 23:30 UTC | PGA European Tour Highlights | DP World Tour Championship |
 | 2026-11-19 23:30 UTC | 2026-11-20 00:00 UTC | The Inside Line |  |
@@ -401,7 +401,7 @@
 | 2026-11-20 05:00 UTC | 2026-11-20 05:30 UTC | Football's Greatest Stage |  |
 | 2026-11-20 05:30 UTC | 2026-11-20 06:00 UTC | Football Nation | Portugal |
 | 2026-11-20 06:00 UTC | 2026-11-20 07:00 UTC | Tennis: Nitto ATP Finals 2026 | Group Stage: Day 5 |
-| 2026-11-20 07:00 UTC | 2026-11-20 08:00 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-20 07:00 UTC | 2026-11-20 08:00 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-20 08:00 UTC | 2026-11-20 08:30 UTC | Grand Prix Insights |  |
 | 2026-11-20 08:30 UTC | 2026-11-20 08:55 UTC | The Inside Line |  |
 | 2026-11-20 08:55 UTC | 2026-11-20 09:45 UTC | Moto3 | GP of Portugal: Free Practice 1 |
@@ -417,7 +417,7 @@
 | 2026-11-20 16:30 UTC | 2026-11-20 17:00 UTC | ATP Tour: This Week |  |
 | 2026-11-20 17:00 UTC | 2026-11-20 20:00 UTC | PGA Tour | The RSM Classic: Day 2 |
 | 2026-11-20 20:00 UTC | 2026-11-20 20:30 UTC | Inside Series A |  |
-| 2026-11-20 20:30 UTC | 2026-11-20 21:30 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-20 20:30 UTC | 2026-11-20 21:30 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-20 21:30 UTC | 2026-11-20 22:45 UTC | Ziggo Sport Race Café |  |
 | 2026-11-20 22:45 UTC | 2026-11-20 23:15 UTC | GP of Portugal: Free Practice 1 (Summary) | GP of Portugal: Free Practice 1 |
 | 2026-11-20 23:15 UTC | 2026-11-20 23:45 UTC | GP of Portugal: Training (Summary) | GP of Portugal: Training |
@@ -435,36 +435,36 @@
 | 2026-11-21 08:35 UTC | 2026-11-21 09:20 UTC | Moto3 | GP of Portugal: Free Practice 2 |
 | 2026-11-21 09:20 UTC | 2026-11-21 10:05 UTC | Moto2 | GP of Portugal: Free Practice 2 |
 | 2026-11-21 10:05 UTC | 2026-11-21 10:45 UTC | MotoGP | GP of Portugal: Free Practice 2 |
-| 2026-11-21 10:45 UTC | 2026-11-21 11:10 UTC | MotoGP | GP van Portugal: Kwalificatie 1 |
-| 2026-11-21 11:10 UTC | 2026-11-21 11:45 UTC | MotoGP | GP van Portugal: Kwalificatie 2 |
-| 2026-11-21 11:45 UTC | 2026-11-21 12:15 UTC | Het Aprilia MotoGP-team |  |
+| 2026-11-21 10:45 UTC | 2026-11-21 11:10 UTC | MotoGP | GP of Portugal: Qualifying 1 |
+| 2026-11-21 11:10 UTC | 2026-11-21 11:45 UTC | MotoGP | GP of Portugal: Qualification 2 |
+| 2026-11-21 11:45 UTC | 2026-11-21 12:15 UTC | The Aprilia MotoGP team |  |
 | 2026-11-21 12:15 UTC | 2026-11-21 12:40 UTC | Hall of Fame dinner |  |
-| 2026-11-21 12:40 UTC | 2026-11-21 13:05 UTC | Moto3 | GP van Portugal: Kwalificatie 1 |
-| 2026-11-21 13:05 UTC | 2026-11-21 13:35 UTC | Moto3 | GP van Portugal: Kwalificatie 2 |
-| 2026-11-21 13:35 UTC | 2026-11-21 14:00 UTC | Moto2 | GP van Portugal: Kwalificatie 1 |
-| 2026-11-21 14:00 UTC | 2026-11-21 14:30 UTC | Moto2 | GP van Portugal: Kwalificatie 2 |
-| 2026-11-21 14:30 UTC | 2026-11-21 15:50 UTC | MotoGP | GP van Portugal: Sprint Race |
-| 2026-11-21 15:50 UTC | 2026-11-21 16:50 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
-| 2026-11-21 16:50 UTC | 2026-11-21 17:00 UTC | Athletic Bilbao - Espanyol (Samenvatting) | Athletic Bilbao - Espanyol |
+| 2026-11-21 12:40 UTC | 2026-11-21 13:05 UTC | Moto3 | GP of Portugal: Qualifying 1 |
+| 2026-11-21 13:05 UTC | 2026-11-21 13:35 UTC | Moto3 | GP of Portugal: Qualification 2 |
+| 2026-11-21 13:35 UTC | 2026-11-21 14:00 UTC | Moto2 | GP of Portugal: Qualifying 1 |
+| 2026-11-21 14:00 UTC | 2026-11-21 14:30 UTC | Moto2 | GP of Portugal: Qualification 2 |
+| 2026-11-21 14:30 UTC | 2026-11-21 15:50 UTC | MotoGP | GP of Portugal: Sprint Race |
+| 2026-11-21 15:50 UTC | 2026-11-21 16:50 UTC | Wes And Raf | About the new Dutch era under Xavi |
+| 2026-11-21 16:50 UTC | 2026-11-21 17:00 UTC | Athletic Bilbao - Espanyol (Summary) | Athletic Bilbao - Espanyol |
 | 2026-11-21 17:00 UTC | 2026-11-21 17:30 UTC | LaLiga Matchday |  |
-| 2026-11-21 17:30 UTC | 2026-11-21 19:30 UTC | Sevilla - Real Betis |  |
+| 2026-11-21 17:30 UTC | 2026-11-21 19:30 UTC | Seville - Real Betis |  |
 | 2026-11-21 19:30 UTC | 2026-11-21 20:00 UTC | LaLiga Matchday |  |
 | 2026-11-21 20:00 UTC | 2026-11-21 22:10 UTC | Real Madrid - Celta de Vigo |  |
-| 2026-11-21 22:10 UTC | 2026-11-21 22:40 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
+| 2026-11-21 22:10 UTC | 2026-11-21 22:40 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
 | 2026-11-21 22:40 UTC | 2026-11-21 23:10 UTC | Round Up |  |
-| 2026-11-21 23:10 UTC | 2026-11-21 23:40 UTC | Ierland - Zuid-Afrika (Samenvatting) | Ierland - Zuid-Afrika |
-| 2026-11-21 23:40 UTC | 2026-11-22 00:10 UTC | Frankrijk - Argentinië (Samenvatting) | Frankrijk - Argentinië |
-| 2026-11-22 00:10 UTC | 2026-11-22 01:10 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 01:10 UTC | 2026-11-22 02:10 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 02:10 UTC | 2026-11-22 02:20 UTC | Como - Cagliari (Samenvatting) | Como - Cagliari |
-| 2026-11-22 02:20 UTC | 2026-11-22 02:30 UTC | Parma - AS Roma (Samenvatting) | Parma - AS Roma |
+| 2026-11-21 23:10 UTC | 2026-11-21 23:40 UTC | Ireland - South Africa (Summary) | Ireland - South Africa |
+| 2026-11-21 23:40 UTC | 2026-11-22 00:10 UTC | France - Argentina (Summary) | France - Argentina |
+| 2026-11-22 00:10 UTC | 2026-11-22 01:10 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 01:10 UTC | 2026-11-22 02:10 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 02:10 UTC | 2026-11-22 02:20 UTC | Como - Cagliari (Summary) | Como - Cagliari |
+| 2026-11-22 02:20 UTC | 2026-11-22 02:30 UTC | Parma - AS Roma (Summary) | Parma - AS Roma |
 | 2026-11-22 02:30 UTC | 2026-11-22 04:15 UTC | Real Madrid - Celta de Vigo |  |
 | 2026-11-22 04:15 UTC | 2026-11-22 06:00 UTC | Parma - AS Roma |  |
 | 2026-11-22 06:00 UTC | 2026-11-22 06:30 UTC | Round Up |  |
 | 2026-11-22 06:30 UTC | 2026-11-22 06:55 UTC | UEFA Champions League Magazine |  |
-| 2026-11-22 06:55 UTC | 2026-11-22 07:25 UTC | Frankrijk - Argentinië (Samenvatting) | Frankrijk - Argentinië |
-| 2026-11-22 07:25 UTC | 2026-11-22 08:30 UTC | FIA FR World Cup | Grand Prix van Macau: Race |
-| 2026-11-22 08:30 UTC | 2026-11-22 09:00 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
+| 2026-11-22 06:55 UTC | 2026-11-22 07:25 UTC | France - Argentina (Summary) | France - Argentina |
+| 2026-11-22 07:25 UTC | 2026-11-22 08:30 UTC | FIA FR World Cup | Macau Grand Prix: Race |
+| 2026-11-22 08:30 UTC | 2026-11-22 09:00 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
 
 ## ZiggoSport2.nl (75 programmes)
 
@@ -490,17 +490,17 @@
 | 2026-11-19 16:55 UTC | 2026-11-19 17:55 UTC | The final match: Ronaldo vs Messi |  |
 | 2026-11-19 17:55 UTC | 2026-11-19 19:05 UTC | Rondo |  |
 | 2026-11-19 19:05 UTC | 2026-11-19 19:30 UTC | Ajax Legends - FC Barcelona Legends (Summary) | Ajax Legends - FC Barcelona Legends |
-| 2026-11-19 19:30 UTC | 2026-11-19 20:20 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-19 19:30 UTC | 2026-11-19 20:20 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-19 20:20 UTC | 2026-11-19 20:45 UTC | UEFA Nations League Highlights |  |
 | 2026-11-19 20:45 UTC | 2026-11-19 21:40 UTC | UEFA Nations League Highlights |  |
 | 2026-11-19 21:40 UTC | 2026-11-19 22:05 UTC | UEFA Nations League Highlights |  |
-| 2026-11-19 22:05 UTC | 2026-11-19 22:55 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-19 22:05 UTC | 2026-11-19 22:55 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-19 22:55 UTC | 2026-11-20 00:40 UTC | Ajax Legends - FC Barcelona Legends |  |
 | 2026-11-20 00:40 UTC | 2026-11-20 02:20 UTC | Germany - Netherlands |  |
 | 2026-11-20 02:20 UTC | 2026-11-20 04:05 UTC | Wales - Portugal |  |
 | 2026-11-20 04:05 UTC | 2026-11-20 05:50 UTC | Greece - Serbia |  |
-| 2026-11-20 05:50 UTC | 2026-11-20 05:55 UTC | KICK IT WITH | Interview: Neymar slaat alarm |
-| 2026-11-20 05:55 UTC | 2026-11-20 06:00 UTC | KICK IT WITH | Interview: Neymar slaat alarm |
+| 2026-11-20 05:50 UTC | 2026-11-20 05:55 UTC | KICK IT WITH | Interview: Neymar sounds the alarm |
+| 2026-11-20 05:55 UTC | 2026-11-20 06:00 UTC | KICK IT WITH | Interview: Neymar sounds the alarm |
 | 2026-11-20 06:00 UTC | 2026-11-20 07:30 UTC | Between The Poles | Final Ajax 1995 |
 | 2026-11-20 07:30 UTC | 2026-11-20 07:55 UTC | UEFA Nations League Highlights |  |
 | 2026-11-20 07:55 UTC | 2026-11-20 08:50 UTC | UEFA Nations League Highlights |  |
@@ -513,38 +513,38 @@
 | 2026-11-20 14:30 UTC | 2026-11-20 15:25 UTC | UEFA Nations League Highlights |  |
 | 2026-11-20 15:25 UTC | 2026-11-20 15:50 UTC | UEFA Nations League Highlights |  |
 | 2026-11-20 15:50 UTC | 2026-11-20 16:20 UTC | Ajax Legends - FC Barcelona Legends (Summary) | Ajax Legends - FC Barcelona Legends |
-| 2026-11-20 16:20 UTC | 2026-11-20 17:10 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-20 16:20 UTC | 2026-11-20 17:10 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-20 17:10 UTC | 2026-11-20 17:25 UTC | Germany - Netherlands (Summary) | Germany - Netherlands |
 | 2026-11-20 17:25 UTC | 2026-11-20 18:55 UTC | Between The Poles | Final Ajax 1995 |
 | 2026-11-20 18:55 UTC | 2026-11-20 19:25 UTC | Inside Series A |  |
 | 2026-11-20 19:25 UTC | 2026-11-20 19:55 UTC | LaLiga Preview Show |  |
 | 2026-11-20 19:55 UTC | 2026-11-20 22:05 UTC | Athletic Bilbao - Espanyol |  |
-| 2026-11-20 22:05 UTC | 2026-11-20 23:00 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-20 22:05 UTC | 2026-11-20 23:00 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-20 23:00 UTC | 2026-11-21 00:45 UTC | Germany - Netherlands |  |
 | 2026-11-21 00:45 UTC | 2026-11-21 02:30 UTC | Ajax Legends - FC Barcelona Legends |  |
 | 2026-11-21 02:30 UTC | 2026-11-21 04:15 UTC | Greece - Serbia |  |
 | 2026-11-21 04:15 UTC | 2026-11-21 05:40 UTC | Athletic Bilbao - Espanyol |  |
 | 2026-11-21 05:40 UTC | 2026-11-21 06:00 UTC | KICK IT WITH | Interview: Ferdi Kadıoğlu |
-| 2026-11-21 06:00 UTC | 2026-11-21 07:00 UTC | Wes And Raf | Over het nieuwe Oranje-tijdperk onder Xavi |
+| 2026-11-21 06:00 UTC | 2026-11-21 07:00 UTC | Wes And Raf | About the new Dutch era under Xavi |
 | 2026-11-21 07:00 UTC | 2026-11-21 08:50 UTC | Ajax Legends - FC Barcelona Legends |  |
 | 2026-11-21 08:50 UTC | 2026-11-21 10:00 UTC | Xabi Alonso: The Architect |  |
 | 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | Inside Series A |  |
 | 2026-11-21 10:30 UTC | 2026-11-21 11:00 UTC | LaLiga Preview Show |  |
-| 2026-11-21 11:00 UTC | 2026-11-21 12:35 UTC | SailGP | Dubai: Dag 1 |
+| 2026-11-21 11:00 UTC | 2026-11-21 12:35 UTC | SailGP | Dubai: Day 1 |
 | 2026-11-21 12:35 UTC | 2026-11-21 13:55 UTC | Xabi Alonso: The Architect |  |
 | 2026-11-21 13:55 UTC | 2026-11-21 16:05 UTC | Como - Cagliari |  |
 | 2026-11-21 16:05 UTC | 2026-11-21 16:55 UTC | Kick 't Met On Tour | FC Porto - Benfica |
 | 2026-11-21 16:55 UTC | 2026-11-21 19:10 UTC | Parma - AS Roma |  |
 | 2026-11-21 19:10 UTC | 2026-11-21 19:40 UTC | Ajax Legends - FC Barcelona Legends (Summary) | Ajax Legends - FC Barcelona Legends |
-| 2026-11-21 19:40 UTC | 2026-11-21 21:50 UTC | Napoli - Torino |  |
+| 2026-11-21 19:40 UTC | 2026-11-21 21:50 UTC | Napoli - Turin |  |
 | 2026-11-21 21:50 UTC | 2026-11-21 23:00 UTC | Xabi Alonso: The Architect |  |
 | 2026-11-21 23:00 UTC | 2026-11-22 00:45 UTC | Parma - AS Roma |  |
-| 2026-11-22 00:45 UTC | 2026-11-22 02:30 UTC | Sevilla - Real Betis |  |
-| 2026-11-22 02:30 UTC | 2026-11-22 04:15 UTC | Napoli - Torino |  |
+| 2026-11-22 00:45 UTC | 2026-11-22 02:30 UTC | Seville - Real Betis |  |
+| 2026-11-22 02:30 UTC | 2026-11-22 04:15 UTC | Napoli - Turin |  |
 | 2026-11-22 04:15 UTC | 2026-11-22 06:00 UTC | Real Madrid - Celta de Vigo |  |
 | 2026-11-22 06:00 UTC | 2026-11-22 06:25 UTC | Round Up |  |
 | 2026-11-22 06:25 UTC | 2026-11-22 07:55 UTC | Between The Poles | Final Ajax 1995 |
-| 2026-11-22 07:55 UTC | 2026-11-22 09:40 UTC | Sevilla - Real Betis |  |
+| 2026-11-22 07:55 UTC | 2026-11-22 09:40 UTC | Seville - Real Betis |  |
 
 ## ZiggoSport3.nl (84 programmes)
 
@@ -614,26 +614,26 @@
 | 2026-11-21 10:55 UTC | 2026-11-21 11:55 UTC | NASCAR Craftsman Truck Series Highlights | Championship Race |
 | 2026-11-21 11:55 UTC | 2026-11-21 13:35 UTC | The Magic of the TT - 100 years of TT |  |
 | 2026-11-21 13:35 UTC | 2026-11-21 14:00 UTC | The Inside Line |  |
-| 2026-11-21 14:00 UTC | 2026-11-21 16:15 UTC | Engeland - Nieuw-Zeeland |  |
+| 2026-11-21 14:00 UTC | 2026-11-21 16:15 UTC | England - New Zealand |  |
 | 2026-11-21 16:15 UTC | 2026-11-21 16:30 UTC | ALL IN | The Schumacher Legacy: Mick's Move from F1 to IndyCar |
-| 2026-11-21 16:30 UTC | 2026-11-21 18:45 UTC | Ierland - Zuid-Afrika |  |
+| 2026-11-21 16:30 UTC | 2026-11-21 18:45 UTC | Ireland - South Africa |  |
 | 2026-11-21 18:45 UTC | 2026-11-21 19:00 UTC | ALL IN | Alex Palou: The Champ Arrives in St. Pete |
-| 2026-11-21 19:00 UTC | 2026-11-21 19:30 UTC | Moto2And3 GP van Portugal: Kwalificaties (Samenvatting) | Moto2And3 GP van Portugal: Kwalificaties |
-| 2026-11-21 19:30 UTC | 2026-11-21 20:00 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
-| 2026-11-21 20:00 UTC | 2026-11-21 22:20 UTC | Frankrijk - Argentinië |  |
+| 2026-11-21 19:00 UTC | 2026-11-21 19:30 UTC | Moto2And3 GP of Portugal: Qualifications (Summary) | Moto2And3 GP of Portugal: Qualifications |
+| 2026-11-21 19:30 UTC | 2026-11-21 20:00 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
+| 2026-11-21 20:00 UTC | 2026-11-21 22:20 UTC | France - Argentina |  |
 | 2026-11-21 22:20 UTC | 2026-11-21 23:30 UTC | Ziggo Sport Race Café |  |
-| 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | Moto2And3 GP van Portugal: Kwalificaties (Samenvatting) | Moto2And3 GP van Portugal: Kwalificaties |
-| 2026-11-22 00:00 UTC | 2026-11-22 00:35 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
+| 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | Moto2And3 GP of Portugal: Qualifications (Summary) | Moto2And3 GP of Portugal: Qualifications |
+| 2026-11-22 00:00 UTC | 2026-11-22 00:35 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
 | 2026-11-22 00:35 UTC | 2026-11-22 01:10 UTC | Grand Prix Insights |  |
-| 2026-11-22 01:10 UTC | 2026-11-22 02:40 UTC | FIA F4 World Cup | Grand Prix van Macau: Race |
+| 2026-11-22 01:10 UTC | 2026-11-22 02:40 UTC | FIA F4 World Cup | Macau Grand Prix: Race |
 | 2026-11-22 02:40 UTC | 2026-11-22 04:30 UTC | The Magic of the TT - 100 years of TT |  |
-| 2026-11-22 04:30 UTC | 2026-11-22 05:35 UTC | FIA GT World Cup | Grand Prix van Macau: Race |
-| 2026-11-22 05:35 UTC | 2026-11-22 06:00 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
-| 2026-11-22 06:00 UTC | 2026-11-22 06:25 UTC | Moto2And3 GP van Portugal: Kwalificaties (Samenvatting) | Moto2And3 GP van Portugal: Kwalificaties |
-| 2026-11-22 06:25 UTC | 2026-11-22 06:55 UTC | GP van Portugal: Sprint Race (Samenvatting) | GP van Portugal: Sprint Race |
+| 2026-11-22 04:30 UTC | 2026-11-22 05:35 UTC | FIA GT World Cup | Macau Grand Prix: Race |
+| 2026-11-22 05:35 UTC | 2026-11-22 06:00 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
+| 2026-11-22 06:00 UTC | 2026-11-22 06:25 UTC | Moto2And3 GP of Portugal: Qualifications (Summary) | Moto2And3 GP of Portugal: Qualifications |
+| 2026-11-22 06:25 UTC | 2026-11-22 06:55 UTC | GP of Portugal: Sprint Race (Summary) | GP of Portugal: Sprint Race |
 | 2026-11-22 06:55 UTC | 2026-11-22 07:30 UTC | The Inside Line |  |
 | 2026-11-22 07:30 UTC | 2026-11-22 08:55 UTC | NASCAR Cup Series Highlights | Championship Race |
-| 2026-11-22 08:55 UTC | 2026-11-22 09:20 UTC | MotoGP | GP van Portugal: Warm Up |
+| 2026-11-22 08:55 UTC | 2026-11-22 09:20 UTC | MotoGP | GP of Portugal: Warm Up |
 
 ## ZiggoSport4.nl (80 programmes)
 
@@ -703,21 +703,21 @@
 | 2026-11-21 09:00 UTC | 2026-11-21 10:00 UTC | Tennis: Nitto ATP Finals 2026 | Group Stage: Day 6 |
 | 2026-11-21 10:00 UTC | 2026-11-21 12:30 UTC | Tennis: Nitto ATP Finals 2026 | Group Stage: Day 6 |
 | 2026-11-21 12:30 UTC | 2026-11-21 13:30 UTC | Tennis: Nitto ATP Finals 2026 | Group Stage: Day 6 |
-| 2026-11-21 13:30 UTC | 2026-11-21 15:30 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
+| 2026-11-21 13:30 UTC | 2026-11-21 15:30 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
 | 2026-11-21 15:30 UTC | 2026-11-21 17:10 UTC | Tennis: BNP Paribas Fortis European Open 2026 | Final, Men |
 | 2026-11-21 17:10 UTC | 2026-11-21 19:15 UTC | London City Lionesses - Crystal Palace |  |
-| 2026-11-21 19:15 UTC | 2026-11-21 19:30 UTC | Boris Becker vs Pete Sampras: De beste ATP Finale ooit |  |
-| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-21 21:30 UTC | 2026-11-21 22:30 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
+| 2026-11-21 19:15 UTC | 2026-11-21 19:30 UTC | Boris Becker vs Pete Sampras: The best ATP Final ever |  |
+| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-21 21:30 UTC | 2026-11-21 22:30 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
 | 2026-11-21 22:30 UTC | 2026-11-22 00:00 UTC | Tennis: BNP Paribas Fortis European Open 2026 | Final, Men |
-| 2026-11-22 00:00 UTC | 2026-11-22 01:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 01:00 UTC | 2026-11-22 02:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
+| 2026-11-22 00:00 UTC | 2026-11-22 01:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 01:00 UTC | 2026-11-22 02:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
 | 2026-11-22 02:00 UTC | 2026-11-22 02:30 UTC | ATP Tour: This Week |  |
 | 2026-11-22 02:30 UTC | 2026-11-22 04:00 UTC | Tennis: Swiss Indoors Basel 2026 | Final, Men |
-| 2026-11-22 04:00 UTC | 2026-11-22 05:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 05:00 UTC | 2026-11-22 06:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 06:00 UTC | 2026-11-22 07:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
-| 2026-11-22 07:00 UTC | 2026-11-22 08:00 UTC | Tennis: Nitto ATP Finals 2026 | Halve Finale |
+| 2026-11-22 04:00 UTC | 2026-11-22 05:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 05:00 UTC | 2026-11-22 06:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 06:00 UTC | 2026-11-22 07:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
+| 2026-11-22 07:00 UTC | 2026-11-22 08:00 UTC | Tennis: Nitto ATP Finals 2026 | Semi-final |
 | 2026-11-22 08:00 UTC | 2026-11-22 09:30 UTC | Tennis: Swiss Indoors Basel 2026 | Final, Men |
 
 ## ZiggoSport5.nl (195 programmes)
@@ -892,7 +892,7 @@
 | 2026-11-21 17:20 UTC | 2026-11-21 17:45 UTC | The Evolution of Sports |  |
 | 2026-11-21 17:45 UTC | 2026-11-21 18:10 UTC | The Evolution of Sports |  |
 | 2026-11-21 18:10 UTC | 2026-11-21 18:30 UTC | Ziggo Sport Additional information |  |
-| 2026-11-21 18:30 UTC | 2026-11-21 22:30 UTC | Play-off, Dag 1: Verenigde Staten - Hongarije |  |
+| 2026-11-21 18:30 UTC | 2026-11-21 22:30 UTC | Play-off, Day 1: United States - Hungary |  |
 | 2026-11-21 22:30 UTC | 2026-11-21 22:55 UTC | The Iconic | All Sports |
 | 2026-11-21 22:55 UTC | 2026-11-21 23:20 UTC | The Front Row | Building a great team |
 | 2026-11-21 23:20 UTC | 2026-11-21 23:40 UTC | The Front Row | Sports science |
@@ -916,7 +916,7 @@
 | 2026-11-22 06:20 UTC | 2026-11-22 06:45 UTC | TheRising |  |
 | 2026-11-22 06:45 UTC | 2026-11-22 07:11 UTC | The Iconic | MMA |
 | 2026-11-22 07:11 UTC | 2026-11-22 07:25 UTC | Ziggo Sport Additional information |  |
-| 2026-11-22 07:25 UTC | 2026-11-22 08:35 UTC | FIA FR World Cup | Grand Prix van Macau: Race |
+| 2026-11-22 07:25 UTC | 2026-11-22 08:35 UTC | FIA FR World Cup | Macau Grand Prix: Race |
 | 2026-11-22 08:35 UTC | 2026-11-22 08:55 UTC | The Front Row | Sports science |
 | 2026-11-22 08:55 UTC | 2026-11-22 09:20 UTC | The Front Row | The strategy |
 
@@ -971,15 +971,15 @@
 | 2026-11-21 14:00 UTC | 2026-11-21 15:00 UTC | PGA Champions Tour Highlights | Charles Schwab Cup Championship |
 | 2026-11-21 15:00 UTC | 2026-11-21 17:00 UTC | Boston Common Golf - Motor City Golf Club |  |
 | 2026-11-21 17:00 UTC | 2026-11-21 18:00 UTC | Asian Tour Highlights | Philippine Open |
-| 2026-11-21 18:00 UTC | 2026-11-21 21:00 UTC | PGA Tour | The RSM Classic: Dag 3 |
+| 2026-11-21 18:00 UTC | 2026-11-21 21:00 UTC | PGA Tour | The RSM Classic: Day 3 |
 | 2026-11-21 21:00 UTC | 2026-11-21 22:30 UTC | LPGA Tour Highlights | The ANNIKA driven by Gainbridge at Pelican |
 | 2026-11-21 22:30 UTC | 2026-11-21 23:00 UTC | PGA Tour - The Cut |  |
 | 2026-11-21 23:00 UTC | 2026-11-22 00:00 UTC | Asian Tour Highlights | Philippine Open |
-| 2026-11-22 00:00 UTC | 2026-11-22 03:00 UTC | PGA Tour | The RSM Classic: Dag 3 |
+| 2026-11-22 00:00 UTC | 2026-11-22 03:00 UTC | PGA Tour | The RSM Classic: Day 3 |
 | 2026-11-22 03:00 UTC | 2026-11-22 04:00 UTC | EPGA Legends Tour Highlights | Champions UK European Senior Masters |
 | 2026-11-22 04:00 UTC | 2026-11-22 05:00 UTC | PGA Champions Tour Highlights | Charles Schwab Cup Championship |
 | 2026-11-22 05:00 UTC | 2026-11-22 06:00 UTC | PGA Tour Highlights | Austin Championship |
-| 2026-11-22 06:00 UTC | 2026-11-22 09:00 UTC | PGA European Tour | FedEx Open de France: Dag 4 |
+| 2026-11-22 06:00 UTC | 2026-11-22 09:00 UTC | PGA European Tour | FedEx Open de France: Day 4 |
 
 ## Arenasport1.hr (55 programmes)
 
@@ -1023,23 +1023,23 @@
 | 2026-11-21 06:30 UTC | 2026-11-21 07:00 UTC | RED BULL: WILD RIDES, documentary film |  |
 | 2026-11-21 07:00 UTC | 2026-11-21 08:30 UTC | ABA LIGA: KRKA - ZADAR, basketball |  |
 | 2026-11-21 08:30 UTC | 2026-11-21 10:00 UTC | EUROPEAN LEAGUE M: SCOUT - CADETTEN, handball |  |
-| 2026-11-21 10:00 UTC | 2026-11-21 11:15 UTC | NAJAVA TALIJANSKE LIGE, studio |  |
-| 2026-11-21 11:15 UTC | 2026-11-21 12:30 UTC | NAJAVA PREMIER LEAGUE, studio |  |
-| 2026-11-21 12:30 UTC | 2026-11-21 14:30 UTC | UŽIVO: PREMIER LEAGUE: MANCHESTER CITY - FULHAM, nogomet |  |
+| 2026-11-21 10:00 UTC | 2026-11-21 11:15 UTC | ANNOUNCEMENT OF THE ITALIAN LEAGUE, studio |  |
+| 2026-11-21 11:15 UTC | 2026-11-21 12:30 UTC | PREMIER LEAGUE ANNOUNCEMENT, studio |  |
+| 2026-11-21 12:30 UTC | 2026-11-21 14:30 UTC | LIVE: PREMIER LEAGUE: MANCHESTER CITY - FULHAM, football |  |
 | 2026-11-21 14:30 UTC | 2026-11-21 15:00 UTC | OUT OF SHOT, show, series |  |
-| 2026-11-21 15:00 UTC | 2026-11-21 17:00 UTC | UŽIVO: PREMIER LEAGUE: CHELSEA - LEEDS, nogomet |  |
-| 2026-11-21 17:00 UTC | 2026-11-21 17:30 UTC | NFL: NFL GAMEDAY, emisija |  |
-| 2026-11-21 17:30 UTC | 2026-11-21 19:45 UTC | UŽIVO: PREMIER LEAGUE: NEWCASTLE - ARSENAL, nogomet |  |
-| 2026-11-21 19:45 UTC | 2026-11-21 22:00 UTC | UŽIVO: TALIJANSKA LIGA: NAPOLI - TORINO, nogomet |  |
-| 2026-11-21 22:00 UTC | 2026-11-21 22:30 UTC | RED BULL: JUANPA ZURITA - ON THE EDGE, dokumentarni film, serija |  |
-| 2026-11-21 22:30 UTC | 2026-11-22 00:30 UTC | UŽIVO: COPA SUDAMERICANA: FINALE, nogomet |  |
+| 2026-11-21 15:00 UTC | 2026-11-21 17:00 UTC | LIVE: PREMIER LEAGUE: CHELSEA - LEEDS, football |  |
+| 2026-11-21 17:00 UTC | 2026-11-21 17:30 UTC | NFL: NFL GAMEDAY, the show |  |
+| 2026-11-21 17:30 UTC | 2026-11-21 19:45 UTC | LIVE: PREMIER LEAGUE: NEWCASTLE - ARSENAL, football |  |
+| 2026-11-21 19:45 UTC | 2026-11-21 22:00 UTC | LIVE: ITALIAN LEAGUE: NAPLES - TORINO, football |  |
+| 2026-11-21 22:00 UTC | 2026-11-21 22:30 UTC | RED BULL: JUANPA ZURITA - ON THE EDGE, documentary film, series |  |
+| 2026-11-21 22:30 UTC | 2026-11-22 00:30 UTC | LIVE: COPA SUDAMERICANA: FINALS, football |  |
 | 2026-11-22 00:30 UTC | 2026-11-22 01:00 UTC | CHAMPIONS LEAGUE: SUMMARY, football |  |
-| 2026-11-22 01:00 UTC | 2026-11-22 04:00 UTC | NFL: BALTIMORE - LA CHARGERS, američki nogomet |  |
-| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | LIGA PRVAKA: ATLETICO MADRID - BAYERN, nogomet |  |
+| 2026-11-22 01:00 UTC | 2026-11-22 04:00 UTC | NFL: BALTIMORE - LA CHARGERS, American football |  |
+| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | CHAMPIONS LEAGUE: ATLETICO MADRID - BAYERN, football |  |
 | 2026-11-22 06:00 UTC | 2026-11-22 06:30 UTC | OUT OF SHOT, show, series |  |
 | 2026-11-22 06:30 UTC | 2026-11-22 07:00 UTC | RED BULL: WILD RIDES, documentary film |  |
-| 2026-11-22 07:00 UTC | 2026-11-22 08:30 UTC | ABA LIGA: CEDEVITA - SLOVAN, košarka |  |
-| 2026-11-22 08:30 UTC | 2026-11-22 10:00 UTC | EUROPSKA LIGA M: EUROFARM - GUMMERSBACH, rukomet |  |
+| 2026-11-22 07:00 UTC | 2026-11-22 08:30 UTC | ABA LIGA: CEDEVITA - SLOVAN, basketball |  |
+| 2026-11-22 08:30 UTC | 2026-11-22 10:00 UTC | EUROPEAN LEAGUE M: EUROFARM - GUMMERSBACH, handball |  |
 
 ## Arena3Premium.ba (53 programmes)
 
@@ -1060,7 +1060,7 @@
 | 2026-11-19 22:30 UTC | 2026-11-19 23:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-19 23:00 UTC | 2026-11-19 23:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-19 23:30 UTC | 2026-11-20 01:30 UTC | Football - Spanish league: Valencia - Real Madrid 07.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-20 01:30 UTC | 2026-11-20 02:30 UTC | Formula 1: Las Vegas: Trening 1 | Pratite Grand Prix Las Vegasa, takmičenje Formule 1 koje se održava u živopisnom Gradu grijeha. |
+| 2026-11-20 01:30 UTC | 2026-11-20 02:30 UTC | Formula 1: Las Vegas: Practice 1 | Follow the Las Vegas Grand Prix, a Formula 1 competition held in the picturesque Sin City. |
 | 2026-11-20 02:30 UTC | 2026-11-20 03:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-20 03:00 UTC | 2026-11-20 03:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-20 03:30 UTC | 2026-11-20 04:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
@@ -1084,20 +1084,20 @@
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | Football - Spanish league: Valencia - Real Madrid 07.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 10:00 UTC | 2026-11-21 12:00 UTC | Football - Spanish league: Real Sociedad - Rayo Vallecano 08.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 12:00 UTC | 2026-11-21 14:00 UTC | Football - Spanish league: Villarreal CF - Getafe CF 08.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-21 14:00 UTC | 2026-11-21 16:00 UTC | Fudbal - Španska liga: Alaves - Deportivo | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-21 14:00 UTC | 2026-11-21 16:00 UTC | Football - Spanish league: Alaves - Deportivo | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 16:00 UTC | 2026-11-21 16:15 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-21 16:15 UTC | 2026-11-21 18:15 UTC | Fudbal - Španska liga: Rayo Vallecano - Valencia | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-21 16:15 UTC | 2026-11-21 18:15 UTC | Football - Spanish league: Rayo Vallecano - Valencia | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 18:15 UTC | 2026-11-21 18:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-21 18:30 UTC | 2026-11-21 20:30 UTC | Fudbal - Španska liga: Sevilla - Betis | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-21 18:30 UTC | 2026-11-21 20:30 UTC | Football - Spanish League: Sevilla - Betis | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 20:30 UTC | 2026-11-21 21:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Fudbal - Španska liga: Real Madrid - Celta Vigo | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Football - Spanish League: Real Madrid - Celta Vigo | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-21 23:00 UTC | 2026-11-21 23:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-22 00:00 UTC | 2026-11-22 02:00 UTC | Fudbal - Španska liga: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | Fudbal - Španska liga: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Fudbal - Španska liga: Real Madrid - Celta Vigo 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Fudbal - Španska liga: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Fudbal - Španska liga: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 00:00 UTC | 2026-11-22 02:00 UTC | Football - Spanish League: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Football - Spanish league: Real Madrid - Celta Vigo 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Football - Spanish League: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 
 ## CanalPlusFoot.fr (87 programmes)
 
@@ -1124,7 +1124,7 @@
 | 2026-11-18 22:00 UTC | 2026-11-18 23:00 UTC | Late Football Club | Late Football Club. |
 | 2026-11-18 23:00 UTC | 2026-11-18 23:34 UTC | Magic Cherki | Magic Cherki. |
 | 2026-11-18 23:34 UTC | 2026-11-19 01:07 UTC | Champions League Weekly | Champions League Weekly. |
-| 2026-11-19 01:07 UTC | 2026-11-19 02:48 UTC | Football : Arkema Première Ligue | Football. Arkema Première LigueFootball : Arkema Première Ligue. |
+| 2026-11-19 01:07 UTC | 2026-11-19 02:48 UTC | Football: Arkema Premier League | Soccer. Arkema Premier LeagueFootball: Arkema Premier League. |
 | 2026-11-19 02:48 UTC | 2026-11-19 06:33 UTC | End of programs | End of programs. |
 | 2026-11-19 06:33 UTC | 2026-11-19 06:35 UTC | Football: Premier League | Soccer. Premier LeagueFootball: Premier League. |
 | 2026-11-19 06:35 UTC | 2026-11-19 08:09 UTC | History of Champions | Nicolas AnelkaHistory of Champions. |
@@ -1133,20 +1133,20 @@
 | 2026-11-19 11:38 UTC | 2026-11-19 12:05 UTC | Champions League Weekly | Champions League Weekly. |
 | 2026-11-19 12:05 UTC | 2026-11-19 13:06 UTC | Late Football Club | Late Football Club. |
 | 2026-11-19 13:06 UTC | 2026-11-19 14:50 UTC | Kenny Dalglish | Kenny Dalglish. |
-| 2026-11-19 14:50 UTC | 2026-11-19 15:34 UTC | Decrypted | Finale de Ligue des champions 2005 : Liverpool - Milan ACDécrypté. |
-| 2026-11-19 15:34 UTC | 2026-11-19 17:12 UTC | History of Champions | Jürgen KloppHistoire de Champions. |
+| 2026-11-19 14:50 UTC | 2026-11-19 15:34 UTC | Decrypted | 2005 Champions League Final: Liverpool - Milan ACDecrypted. |
+| 2026-11-19 15:34 UTC | 2026-11-19 17:12 UTC | History of Champions | Jürgen KloppHistory of Champions. |
 | 2026-11-19 17:12 UTC | 2026-11-19 17:42 UTC | Platini | The son of AldoPlatini. |
 | 2026-11-19 17:42 UTC | 2026-11-19 18:14 UTC | Platini | Become PlatiniPlatini. |
 | 2026-11-19 18:14 UTC | 2026-11-19 19:17 UTC | Late Football Club | Late Football Club. |
 | 2026-11-19 19:17 UTC | 2026-11-19 19:54 UTC | Football day | Football day. |
-| 2026-11-19 19:54 UTC | 2026-11-19 21:27 UTC | History of Champions | Bordeaux 1995/1996Histoire de Champions. |
+| 2026-11-19 19:54 UTC | 2026-11-19 21:27 UTC | History of Champions | Bordeaux 1995/1996 History of Champions. |
 | 2026-11-19 21:27 UTC | 2026-11-19 21:39 UTC | 05/06/2027 On the way to Madrid | Bodo/Glimt - Lille06/05/2027 On the way to Madrid. |
-| 2026-11-19 21:39 UTC | 2026-11-19 21:45 UTC | Split Football | Top buts de la 10e journéeFractionné Football. |
+| 2026-11-19 21:39 UTC | 2026-11-19 21:45 UTC | Split Football | Top goals of the 10th daySplit Football. |
 | 2026-11-19 21:45 UTC | 2026-11-19 22:00 UTC | UEFA: What you didn't see | 4th day: Villarreal / Paris-SGUEFA: What you haven't seen. |
 | 2026-11-19 22:00 UTC | 2026-11-19 23:00 UTC | Late Football Club | Late Football Club. |
 | 2026-11-19 23:00 UTC | 2026-11-19 23:34 UTC | Magic Cherki | Magic Cherki. |
 | 2026-11-19 23:34 UTC | 2026-11-20 01:07 UTC | Champions League Weekly | Champions League Weekly. |
-| 2026-11-20 01:07 UTC | 2026-11-20 02:48 UTC | Football : Arkema Première Ligue | Football. Arkema Première LigueFootball : Arkema Première Ligue. |
+| 2026-11-20 01:07 UTC | 2026-11-20 02:48 UTC | Football: Arkema Premier League | Soccer. Arkema Premier LeagueFootball: Arkema Premier League. |
 | 2026-11-20 02:48 UTC | 2026-11-20 06:33 UTC | End of programs | End of programs. |
 | 2026-11-20 06:33 UTC | 2026-11-20 06:42 UTC | Football: Premier League | Soccer. Premier LeagueFootball: Premier League. |
 | 2026-11-20 06:42 UTC | 2026-11-20 08:15 UTC | History of Champions | Nicolas AnelkaHistory of Champions. |
@@ -1155,15 +1155,15 @@
 | 2026-11-20 11:42 UTC | 2026-11-20 12:07 UTC | Champions League Weekly | Champions League Weekly. |
 | 2026-11-20 12:07 UTC | 2026-11-20 13:07 UTC | Late Football Club | Late Football Club. |
 | 2026-11-20 13:07 UTC | 2026-11-20 14:52 UTC | Kenny Dalglish | Kenny Dalglish. |
-| 2026-11-20 14:52 UTC | 2026-11-20 15:35 UTC | Decrypted | Finale de Ligue des champions 2005 : Liverpool - Milan ACDécrypté. |
-| 2026-11-20 15:35 UTC | 2026-11-20 17:13 UTC | History of Champions | Jürgen KloppHistoire de Champions. |
+| 2026-11-20 14:52 UTC | 2026-11-20 15:35 UTC | Decrypted | 2005 Champions League Final: Liverpool - Milan ACDecrypted. |
+| 2026-11-20 15:35 UTC | 2026-11-20 17:13 UTC | History of Champions | Jürgen KloppHistory of Champions. |
 | 2026-11-20 17:13 UTC | 2026-11-20 17:42 UTC | Platini | The son of AldoPlatini. |
 | 2026-11-20 17:42 UTC | 2026-11-20 18:15 UTC | Platini | Become PlatiniPlatini. |
 | 2026-11-20 18:15 UTC | 2026-11-20 19:17 UTC | Late Football Club | Late Football Club. |
 | 2026-11-20 19:17 UTC | 2026-11-20 19:53 UTC | Football day | Football day. |
-| 2026-11-20 19:53 UTC | 2026-11-20 21:28 UTC | History of Champions | Bordeaux 1995/1996Histoire de Champions. |
+| 2026-11-20 19:53 UTC | 2026-11-20 21:28 UTC | History of Champions | Bordeaux 1995/1996 History of Champions. |
 | 2026-11-20 21:28 UTC | 2026-11-20 21:40 UTC | 05/06/2027 On the way to Madrid | Bodo/Glimt - Lille06/05/2027 On the way to Madrid. |
-| 2026-11-20 21:40 UTC | 2026-11-20 21:46 UTC | Split Football | Top buts de la 10e journéeFractionné Football. |
+| 2026-11-20 21:40 UTC | 2026-11-20 21:46 UTC | Split Football | Top goals of the 10th daySplit Football. |
 | 2026-11-20 21:46 UTC | 2026-11-20 22:00 UTC | UEFA: What you didn't see | 4th day: Villarreal / Paris-SGUEFA: What you haven't seen. |
 | 2026-11-20 22:00 UTC | 2026-11-20 23:00 UTC | Late Football Club | Late Football Club. |
 | 2026-11-20 23:00 UTC | 2026-11-20 23:13 UTC | UEFA: What you didn't see | 4th dayUEFA: What you didn't see. |
@@ -1176,20 +1176,20 @@
 | 2026-11-21 10:39 UTC | 2026-11-21 11:35 UTC | Detective Mathoux | Detective Mathoux. |
 | 2026-11-21 11:35 UTC | 2026-11-21 12:10 UTC | Late Football Club | Late Football Club. |
 | 2026-11-21 12:10 UTC | 2026-11-21 12:25 UTC | Match of ze Day | Match of ze Day. |
-| 2026-11-21 12:25 UTC | 2026-11-21 14:26 UTC | Leeds United / Tottenham | Football. Premier League. 10e journéeLeeds United / Tottenham. |
+| 2026-11-21 12:25 UTC | 2026-11-21 14:26 UTC | Leeds United/Tottenham | Soccer. Premier League. 10th dayLeeds United / Tottenham. |
 | 2026-11-21 14:26 UTC | 2026-11-21 14:55 UTC | Match of ze Day | Match of ze Day. |
-| 2026-11-21 14:55 UTC | 2026-11-21 17:02 UTC | Arsenal / Hull City | Football. Premier League. 10e journéeArsenal / Hull City. |
+| 2026-11-21 14:55 UTC | 2026-11-21 17:02 UTC | Arsenal/Hull City | Soccer. Premier League. Matchday 10Arsenal/Hull City. |
 | 2026-11-21 17:02 UTC | 2026-11-21 17:25 UTC | Match of ze Day | Match of ze Day. |
 | 2026-11-21 17:25 UTC | 2026-11-21 19:31 UTC | Nottingham Forest / Manchester City | Soccer. Premier League. Matchday 10 Nottingham Forest / Manchester City. |
-| 2026-11-21 19:31 UTC | 2026-11-21 19:55 UTC | Soir de Première Ligue | Saint-Malo - MarseilleSoir de Première Ligue. |
-| 2026-11-21 19:55 UTC | 2026-11-21 21:57 UTC | Saint-Malo / Marseille | Football. Arkema Première Ligue. 8e journéeSaint-Malo / Marseille. |
-| 2026-11-21 21:57 UTC | 2026-11-21 22:17 UTC | Arkema Premier League debrief | Débrief Arkema Première Ligue. |
+| 2026-11-21 19:31 UTC | 2026-11-21 19:55 UTC | Premier League evening | Saint-Malo - MarseilleEvening of the First League. |
+| 2026-11-21 19:55 UTC | 2026-11-21 21:57 UTC | Saint-Malo / Marseille | Soccer. Arkema Premier League. 8th day Saint-Malo / Marseille. |
+| 2026-11-21 21:57 UTC | 2026-11-21 22:17 UTC | Arkema Premier League debrief | Arkema Premier League debrief. |
 | 2026-11-21 22:17 UTC | 2026-11-21 22:33 UTC | 05/06/2027 On the way to Madrid | Villarreal - Paris-SG05/06/2027 On the way to Madrid. |
-| 2026-11-21 22:33 UTC | 2026-11-21 23:00 UTC | Arsenal / Hull City | Football. Premier League. 10e journéeArsenal / Hull City. |
-| 2026-11-22 00:00 UTC | 2026-11-22 02:00 UTC | Football: Premier League | Football. Premier League. 11e journéeFootball : Premier League. |
+| 2026-11-21 22:33 UTC | 2026-11-21 23:00 UTC | Arsenal/Hull City | Soccer. Premier League. Matchday 10Arsenal/Hull City. |
+| 2026-11-22 00:00 UTC | 2026-11-22 02:00 UTC | Football: Premier League | Soccer. Premier League. 11th dayFootball: Premier League. |
 | 2026-11-22 02:00 UTC | 2026-11-22 06:03 UTC | End of programs | End of programs. |
-| 2026-11-22 06:03 UTC | 2026-11-22 07:47 UTC | Paris-SG / Saint-Malo | Football. Arkema Première Ligue. 10e journéeParis-SG / Saint-Malo. |
-| 2026-11-22 07:47 UTC | 2026-11-22 09:31 UTC | Coventry / Crystal Palace | Football. Premier League. 11e journéeCoventry / Crystal Palace. |
+| 2026-11-22 06:03 UTC | 2026-11-22 07:47 UTC | Paris-SG / Saint-Malo | Football. Arkema Premier League. 10th dayParis-SG / Saint-Malo. |
+| 2026-11-22 07:47 UTC | 2026-11-22 09:31 UTC | Coventry/Crystal Palace | Soccer. Premier League. Matchday 11Coventry / Crystal Palace. |
 
 ## CanalPlusLive3.fr (28 programmes)
 
@@ -1200,9 +1200,9 @@
 | 2026-11-18 19:00 UTC | 2026-11-18 23:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-18 23:00 UTC | 2026-11-19 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-19 06:00 UTC | 2026-11-19 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-19 08:00 UTC | 2026-11-19 15:00 UTC | Info programme non disponible | Info programme non disponible. |
+| 2026-11-19 08:00 UTC | 2026-11-19 15:00 UTC | Program info not available | Program information not available. |
 | 2026-11-19 15:00 UTC | 2026-11-19 19:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-19 19:00 UTC | 2026-11-20 06:00 UTC | Info programme non disponible | Info programme non disponible. |
+| 2026-11-19 19:00 UTC | 2026-11-20 06:00 UTC | Program info not available | Program information not available. |
 | 2026-11-20 06:00 UTC | 2026-11-20 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-20 08:00 UTC | 2026-11-20 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-20 11:00 UTC | 2026-11-20 15:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
@@ -1215,9 +1215,9 @@
 | 2026-11-21 06:00 UTC | 2026-11-21 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-21 08:00 UTC | 2026-11-21 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-21 11:00 UTC | 2026-11-21 13:55 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-21 13:55 UTC | 2026-11-21 14:55 UTC | A venir : Tottenham / Ipswich Town | A venir : Tottenham / Ipswich Town. |
-| 2026-11-21 14:55 UTC | 2026-11-21 16:55 UTC | Tottenham / Ipswich Town | Tottenham / Ipswich Town. |
-| 2026-11-21 16:55 UTC | 2026-11-21 17:55 UTC | Terminé : Tottenham / Ipswich Town | Terminé : Tottenham / Ipswich Town. |
+| 2026-11-21 13:55 UTC | 2026-11-21 14:55 UTC | Coming up: Tottenham / Ipswich Town | Coming up: Tottenham / Ipswich Town. |
+| 2026-11-21 14:55 UTC | 2026-11-21 16:55 UTC | Tottenham/Ipswich Town | Tottenham/Ipswich Town. |
+| 2026-11-21 16:55 UTC | 2026-11-21 17:55 UTC | Completed: Tottenham / Ipswich Town | Completed: Tottenham / Ipswich Town. |
 | 2026-11-21 17:55 UTC | 2026-11-21 19:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-21 19:00 UTC | 2026-11-21 23:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-21 23:00 UTC | 2026-11-22 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
@@ -1264,7 +1264,7 @@
 | 2026-11-19 02:47 UTC | 2026-11-19 03:14 UTC | Teranga lion cubs | **Doc. Sports** — Their names are Léo, Naïm, Stelio, Axel, Matthias, Tiago, Timothée,... They are perhaps the future stars of Ligue 1. In the meantime, they are continuing their training with the under-16s of Olympique Lyonnais. For a week, these young footballers discovered Senegal. Between diving into a new culture and sporting adventures, the story of an unforgettable journey. |
 | 2026-11-19 03:14 UTC | 2026-11-19 06:42 UTC | End of programs | **Miscellaneous** — Closure of the antenna at the end of the day's broadcasts. |
 | 2026-11-19 06:42 UTC | 2026-11-19 08:30 UTC | Golf: WTGL | **Wtgl Boston Vs Detroit 11/18/26** — The WTGL, a new women's team golf competition, is inaugurated this season. The Boston team, led in particular by Lottie Woad, welcomes Detroit, which can count on Lexi Thompson and Jeen Thitikull. |
-| 2026-11-19 08:30 UTC | 2026-11-19 11:03 UTC | The 5th round | **Hatton Triomphe À Dubaï, McIlroy Remporte La Race To Dubai Pour La 8e Fois** — In the golf magazine "Le 5e tour", a look back at the most beautiful American or European tournament of the last weekend with a summary of the first three rounds, a broad summary of the last round, accompanied by interviews and images. Thus, all the news from the PGA Tour and the DP World Tour are covered in this meeting for fans of the little white ball and the world golf circuits. |
+| 2026-11-19 08:30 UTC | 2026-11-19 11:03 UTC | The 5th round | **Hatton Triumphs In Dubai, McIlroy Wins The Race To Dubai For The 8th Time** — In the golf magazine "Le 5e tour", a look back at the most beautiful American or European tournament of the last weekend with a summary of the first three rounds, a broad summary of the last round, accompanied by interviews and images. Thus, all the news from the PGA Tour and the DP World Tour are covered in this meeting for fans of the little white ball and the world golf circuits. |
 | 2026-11-19 11:03 UTC | 2026-11-19 11:57 UTC | The highlights | **Geneva Grand Prix** — The Geneva Grand Prix took place on September 19 and 20 as part of the SailGP series. Already victorious five times before this Swiss stage, Australia intended to confirm its domination on Lake Geneva. Spain and Great Britain were also among the favorites to win and race to qualify for the grand final in Abu Dhabi at the end of the year. |
 | 2026-11-19 11:57 UTC | 2026-11-19 14:30 UTC | The super special | **Rally Italy Sardinia** — While the 2026 world champion was going to be crowned at the end of the Rally Italy Sardinia, the last super special was going to offer memorable suspense, and go down in rally legend. |
 | 2026-11-19 14:30 UTC | 2026-11-19 15:33 UTC | Golf+, the mag | **Hatton Triumphs In Dubai, McIlroy Ties Montgomerie With His 8th Race** — All the golf news from the world tours: the best shots from the American and European circuits, player portraits, analyzes and results with the editorial journalists and consultants. All information from the PGA Tour, PGA Tour Champions and women's tournaments are also covered in the magazine, which also covers the latest results and rankings. |
@@ -1297,128 +1297,128 @@
 | 2026-11-20 21:52 UTC | 2026-11-20 22:28 UTC | Rugby evening | **Oyonnax / Brive** — All the summaries of the evening's Pro D2 matches, interviews and analyses, with the channel's experts. Plus, before each day of Top 14, all the latest information and the compositions of the teams competing. |
 | 2026-11-20 22:28 UTC | 2026-11-21 00:15 UTC | 2nd round | **Sea Island Open** — The Sea Island Open, or The RSM Classic, is a PGA Tour professional golf tournament. The best players on the planet meet every year at the Sea Island Golf Club on St Simmons Island, Georgia in the United States, to try to win the trophy. Its first edition took place in 2010. |
 | 2026-11-21 00:15 UTC | 2026-11-21 01:43 UTC | Free practice 3 | **Las Vegas Grand Prix** — In the heart of the city of Nevada that never sleeps, the Las Vegas Formula 1 Grand Prix is ​​the third grand prix to take place in the USA, with Austin and Miami. |
-| 2026-11-21 01:43 UTC | 2026-11-21 02:10 UTC | Split F1 | **Emission Du 11 Sept. 2026** — Discovering surprising anecdotes and great stories linked to the world of F1, among the drivers and the teams, throughout time. |
+| 2026-11-21 01:43 UTC | 2026-11-21 02:10 UTC | Split F1 | **Broadcast From September 11, 2026** — Discovering surprising anecdotes and great stories linked to the world of F1, among the drivers and the teams, throughout time. |
 | 2026-11-21 02:10 UTC | 2026-11-21 02:57 UTC | 1st race | **Las Vegas Grand Prix** — Las Vegas hosts the final stop of the F1 Academy season. If the British Alisha Palmowski is already assured of the title, second place in the championship will be the subject of a battle between the Dutchman Nina Gademan and the Austrian Emma Felbemayr. The French Lisa Billard and Jade Jacquet will try to finish on a good note. |
 | 2026-11-21 02:57 UTC | 2026-11-21 03:40 UTC | Inspector Dupin | **Jean Alesi** — Laurent Dupin, in “inspector” mode, questions key figures in motor sports in a setting that suggests a police interrogation. |
-| 2026-11-21 03:40 UTC | 2026-11-21 05:22 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 05:22 UTC | 2026-11-21 05:54 UTC | Kimi Antonelli : La nouvelle étoile | **Doc. Sports** — À 20 ans, Kimi Antonelli est devenu en 2026 le plus jeune champion du monde de l’histoire de la Formule 1, après seulement deux saisons. Retour sur la trajectoire exceptionnelle et fulgurante de ce gamin italien, couvé par Mercedes, aussi rapide que rayonnant. |
-| 2026-11-21 05:54 UTC | 2026-11-21 06:20 UTC | Formula 1: The factory of dreams | **Doc. Sports** — La Formule 1®, ce n’est pas seulement une course. C’est une histoire qui s’écrit avant même que les voitures ne prennent la piste. Une épopée racontée depuis 2013 et l’arrivée de la F1 sur Canal+ par le service des Bandes Annonces, désormais reconnu de tout le paddock grâce à ses concepts innovants et ses idées uniques. Au rythme des saisons, des batailles en piste et autres exploits historiques, plongez dans les coulisses de la " fabrique des rêves ". |
+| 2026-11-21 03:40 UTC | 2026-11-21 05:22 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 05:22 UTC | 2026-11-21 05:54 UTC | Kimi Antonelli: The new star | **Doc. Sports** — At 20 years old, Kimi Antonelli became the youngest world champion in the history of Formula 1 in 2026, after just two seasons. A look back at the exceptional and dazzling trajectory of this Italian kid, nurtured by Mercedes, as fast as he is radiant. |
+| 2026-11-21 05:54 UTC | 2026-11-21 06:20 UTC | Formula 1: The factory of dreams | **Doc. Sports** — Formula 1® is not just a race. It’s a story that is written before the cars even hit the track. An epic story told since 2013 and the arrival of F1 on Canal+ by the Trailers service, now recognized throughout the paddock thanks to its innovative concepts and unique ideas. To the rhythm of the seasons, battles on the track and other historical exploits, delve behind the scenes of the “dream factory”. |
 | 2026-11-21 06:20 UTC | 2026-11-21 06:32 UTC | End of programs | **Miscellaneous** — Closure of the antenna at the end of the day's broadcasts. |
-| 2026-11-21 06:32 UTC | 2026-11-21 08:31 UTC | 2e tour. Featured Groups | **Sea Island Open** — The Sea Island Open, or The RSM Classic, is a PGA Tour professional golf tournament. The best players on the planet meet every year at the Sea Island Golf Club on St Simmons Island, Georgia in the United States, to try to win the trophy. Its first edition took place in 2010. |
+| 2026-11-21 06:32 UTC | 2026-11-21 08:31 UTC | 2nd round. Featured Groups | **Sea Island Open** — The Sea Island Open, or The RSM Classic, is a PGA Tour professional golf tournament. The best players on the planet meet every year at the Sea Island Golf Club on St Simmons Island, Georgia in the United States, to try to win the trophy. Its first edition took place in 2010. |
 | 2026-11-21 08:31 UTC | 2026-11-21 09:17 UTC | 1st race | **Las Vegas Grand Prix** — Las Vegas hosts the final stop of the F1 Academy season. If the British Alisha Palmowski is already assured of the title, second place in the championship will be the subject of a battle between the Dutchman Nina Gademan and the Austrian Emma Felbemayr. The French Lisa Billard and Jade Jacquet will try to finish on a good note. |
-| 2026-11-21 09:17 UTC | 2026-11-21 11:00 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 11:00 UTC | 2026-11-21 12:30 UTC | 1er jour | **Grand Prix De Dubaï** — C'est la dernière ligne droite de la saison de SailGP, avec le Grand Prix de Dubaï, avant-dernière étape du calendrier, et qui déterminera les trois équipes qui se disputeront la finale à Abu Dhabi une semaine plus tard. L'Australie, l'Espagne, la Grande-Bretagne et la Nouvelle-Zélande sont les grands favoris, alors que l'équipage français tentera un coup d'éclat pour conclure au mieux sa campagne 2026. |
-| 2026-11-21 12:30 UTC | 2026-11-21 13:02 UTC | Sports interior | **Emission Du 31 Oct. 2026** — Intérieur sport propose de s'immerger dans le quotidien des sportifs de haut niveau, que ce soit lors de leur préparation aux grands événements ou en pleine compétition. |
+| 2026-11-21 09:17 UTC | 2026-11-21 11:00 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 11:00 UTC | 2026-11-21 12:30 UTC | 1st day | **Dubai Grand Prix** — It's the final stretch of the SailGP season, with the Dubai Grand Prix, the penultimate stage of the calendar, and which will determine the three teams who will compete in the final in Abu Dhabi a week later. Australia, Spain, Great Britain and New Zealand are the big favorites, while the French crew will attempt a coup to conclude their 2026 campaign in the best possible way. |
+| 2026-11-21 12:30 UTC | 2026-11-21 13:02 UTC | Sports interior | **Issue From Oct. 31, 2026** — Interior sport offers the opportunity to immerse yourself in the daily life of high-level athletes, whether during their preparation for major events or in the middle of a competition. |
 | 2026-11-21 13:02 UTC | 2026-11-21 13:10 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
 | 2026-11-21 13:10 UTC | 2026-11-21 13:16 UTC | Split F1 | **Broadcast From May 1, 2026** — Discovering surprising anecdotes and great stories linked to the world of F1, among the drivers and the teams, throughout time. |
-| 2026-11-21 13:16 UTC | 2026-11-21 13:52 UTC | Kimi Antonelli : La nouvelle étoile | **Doc. Sports** — À 20 ans, Kimi Antonelli est devenu en 2026 le plus jeune champion du monde de l’histoire de la Formule 1, après seulement deux saisons. Retour sur la trajectoire exceptionnelle et fulgurante de ce gamin italien, couvé par Mercedes, aussi rapide que rayonnant. |
+| 2026-11-21 13:16 UTC | 2026-11-21 13:52 UTC | Kimi Antonelli: The new star | **Doc. Sports** — At 20 years old, Kimi Antonelli became the youngest world champion in the history of Formula 1 in 2026, after just two seasons. A look back at the exceptional and dazzling trajectory of this Italian kid, nurtured by Mercedes, as fast as he is radiant. |
 | 2026-11-21 13:52 UTC | 2026-11-21 14:38 UTC | 1st race | **Las Vegas Grand Prix** — Las Vegas hosts the final stop of the F1 Academy season. If the British Alisha Palmowski is already assured of the title, second place in the championship will be the subject of a battle between the Dutchman Nina Gademan and the Austrian Emma Felbemayr. The French Lisa Billard and Jade Jacquet will try to finish on a good note. |
 | 2026-11-21 14:38 UTC | 2026-11-21 16:05 UTC | Free practice 3 | **Las Vegas Grand Prix** — In the heart of the city of Nevada that never sleeps, the Las Vegas Formula 1 Grand Prix is ​​the third grand prix to take place in the USA, with Austin and Miami. |
-| 2026-11-21 16:05 UTC | 2026-11-21 17:47 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 17:47 UTC | 2026-11-21 18:00 UTC | The Zapsport 360 compilation | A découvrir, une compilation d'images marquantes et spectaculaires extraites d'événements sportifs concoctée par des spécialistes du groupe Canal+. |
-| 2026-11-21 18:00 UTC | 2026-11-21 20:58 UTC | 3e tour | **Sea Island Open** — Les favoris vont tenter de se placer idéalement avant le quatrième et dernier tour du tournoi, disputé en Georgie, sur le parcours du Sea Island Golf Club. |
-| 2026-11-21 20:58 UTC | 2026-11-21 22:39 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 22:39 UTC | 2026-11-22 00:10 UTC | 1er jour | **Grand Prix De Dubaï** — C'est la dernière ligne droite de la saison de SailGP, avec le Grand Prix de Dubaï, avant-dernière étape du calendrier, et qui déterminera les trois équipes qui se disputeront la finale à Abu Dhabi une semaine plus tard. L'Australie, l'Espagne, la Grande-Bretagne et la Nouvelle-Zélande sont les grands favoris, alors que l'équipage français tentera un coup d'éclat pour conclure au mieux sa campagne 2026. |
-| 2026-11-22 00:10 UTC | 2026-11-22 00:15 UTC | Split F1 | **Emission Du 05 Juin 2026** — Discovering surprising anecdotes and great stories linked to the world of F1, among the drivers and the teams, throughout time. |
-| 2026-11-22 00:15 UTC | 2026-11-22 01:00 UTC | 2e course | **Las Vegas Grand Prix** — La saison de F1 Academy se conclut avec cette deuxième course dans les rues de Las Vegas, alors que la Britannique Alisha Palmowski, soutenue par Red Bull, était déjà sacrée en arrivant dans le Nevada. La bataille pour la deuxième place restait en revanche ouverte entre Nina Gademan et Emma Felbemayr. |
-| 2026-11-22 01:00 UTC | 2026-11-22 01:45 UTC | Au micro ! Une nouvelle voix pour le foot | **Sélection Paris** — En 2024/2025, la nouvelle formule de l’UEFA Champions League, avec encore plus de matches, sera diffusée en intégralité sur les chaînes CANAL+. Dans cette perspective, pour renforcer son équipe de commentateurs, CANAL+ s’est lancé à la recherche d’une nouvelle voix pour commenter le football sur ses antennes. Un processus de recrutement exceptionnel, en plusieurs étapes, ouvert pour la première fois à tous les amateurs et amatrices de football. Des concurrents âgés de 18 à 64 ans, de toutes catégories professionnelles et sociales. |
-| 2026-11-22 01:45 UTC | 2026-11-22 02:28 UTC | Au micro ! Une nouvelle voix pour le foot | **Sélection Marseille** — En 2024/2025, la nouvelle formule de l’UEFA Champions League, avec encore plus de matches, sera diffusée en intégralité sur les chaînes CANAL+. Dans cette perspective, pour renforcer son équipe de commentateurs, CANAL+ s’est lancé à la recherche d’une nouvelle voix pour commenter le football sur ses antennes. Un processus de recrutement exceptionnel, en plusieurs étapes, ouvert pour la première fois à tous les amateurs et amatrices de football. Des concurrents âgés de 18 à 64 ans, de toutes catégories professionnelles et sociales. |
-| 2026-11-22 02:28 UTC | 2026-11-22 03:04 UTC | Au micro ! Une nouvelle voix pour le foot | **Sélection Lens** — En 2024/2025, la nouvelle formule de l’UEFA Champions League, avec encore plus de matches, sera diffusée en intégralité sur les chaînes CANAL+. Dans cette perspective, pour renforcer son équipe de commentateurs, CANAL+ s’est lancé à la recherche d’une nouvelle voix pour commenter le football sur ses antennes. Un processus de recrutement exceptionnel, en plusieurs étapes, ouvert pour la première fois à tous les amateurs et amatrices de football. Des concurrents âgés de 18 à 64 ans, de toutes catégories professionnelles et sociales. |
+| 2026-11-21 16:05 UTC | 2026-11-21 17:47 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 17:47 UTC | 2026-11-21 18:00 UTC | The Zapsport 360 compilation | To discover, a compilation of striking and spectacular images extracted from sporting events concocted by specialists from the Canal+ group. |
+| 2026-11-21 18:00 UTC | 2026-11-21 20:58 UTC | 3rd round | **Sea Island Open** — The favorites will try to position themselves ideally before the fourth and final round of the tournament, played in Georgia, on the Sea Island Golf Club course. |
+| 2026-11-21 20:58 UTC | 2026-11-21 22:39 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 22:39 UTC | 2026-11-22 00:10 UTC | 1st day | **Dubai Grand Prix** — It's the final stretch of the SailGP season, with the Dubai Grand Prix, the penultimate stage of the calendar, and which will determine the three teams who will compete in the final in Abu Dhabi a week later. Australia, Spain, Great Britain and New Zealand are the big favorites, while the French crew will attempt a coup to conclude their 2026 campaign in the best possible way. |
+| 2026-11-22 00:10 UTC | 2026-11-22 00:15 UTC | Split F1 | **Broadcast From June 5, 2026** — Discovering surprising anecdotes and great stories linked to the world of F1, among the drivers and the teams, throughout time. |
+| 2026-11-22 00:15 UTC | 2026-11-22 01:00 UTC | 2nd race | **Las Vegas Grand Prix** — The F1 Academy season concludes with this second race in the streets of Las Vegas, while the British Alisha Palmowski, supported by Red Bull, was already crowned upon arriving in Nevada. The battle for second place, however, remained open between Nina Gademan and Emma Felbemayr. |
+| 2026-11-22 01:00 UTC | 2026-11-22 01:45 UTC | On the microphone! A new voice for football | **Paris selection** — In 2024/2025, the new format of the UEFA Champions League, with even more matches, will be broadcast in full on CANAL+ channels. With this in mind, to strengthen its team of commentators, CANAL+ began looking for a new voice to comment on football on its channels. An exceptional recruitment process, in several stages, open for the first time to all football fans. Competitors aged 18 to 64, from all professional and social categories. |
+| 2026-11-22 01:45 UTC | 2026-11-22 02:28 UTC | On the microphone! A new voice for football | **Marseille selection** — In 2024/2025, the new format of the UEFA Champions League, with even more matches, will be broadcast in full on CANAL+ channels. With this in mind, to strengthen its team of commentators, CANAL+ began looking for a new voice to comment on football on its channels. An exceptional recruitment process, in several stages, open for the first time to all football fans. Competitors aged 18 to 64, from all professional and social categories. |
+| 2026-11-22 02:28 UTC | 2026-11-22 03:04 UTC | On the microphone! A new voice for football | **Lens Selection** — In 2024/2025, the new format of the UEFA Champions League, with even more matches, will be broadcast in full on CANAL+ channels. With this in mind, to strengthen its team of commentators, CANAL+ began looking for a new voice to comment on football on its channels. An exceptional recruitment process, in several stages, open for the first time to all football fans. Competitors aged 18 to 64, from all professional and social categories. |
 
 ## CanalPlusSport360.fr (90 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-19 00:15 UTC | 2026-11-19 01:17 UTC | Evening of padel | **P1 De Dubaï : Calvo/fernandez Et Lebron/augsburger Remportent Le Titre** — A look back at the biggest moments of the last tournament of the Premier Padel circuit, which sees the best players in the world compete. The magazine reviews the results, both in the men's and women's events, and presents the latest rankings. “Soir de padel” also takes stock of the players who leave their mark on the circuit. |
-| 2026-11-19 01:17 UTC | 2026-11-19 01:48 UTC | Monday Grand Prix | **Marc Márquez Vers Un 8ᵉ Titre Motogp : Bilan D'une Saison Exceptionnelle** — Lundi Grand Prix revient en détails sur le GP de F1 disputé le weekend précédent et livre toute ses analyses, en se projetant aussi sur la prochaine manche à venir. Toutes les informations en provenance des différentes écuries, autant sur les machines que sur les pilotes, sont abordées dans Lundi Grand Prix, le rendez-vous de débrief des GP de Formule 1. |
-| 2026-11-19 01:48 UTC | 2026-11-19 02:23 UTC | Monday Grand Prix | **Marc Márquez Vers Un 8ᵉ Titre Motogp : Bilan D'une Saison Exceptionnelle** — Lundi Grand Prix revient en détails sur le GP de F1 disputé le weekend précédent et livre toute ses analyses, en se projetant aussi sur la prochaine manche à venir. Toutes les informations en provenance des différentes écuries, autant sur les machines que sur les pilotes, sont abordées dans Lundi Grand Prix, le rendez-vous de débrief des GP de Formule 1. |
+| 2026-11-19 00:15 UTC | 2026-11-19 01:17 UTC | Evening of padel | **P1 From Dubai: Calvo/Fernandez And Lebron/Augsburger Win The Title** — A look back at the biggest moments of the last tournament of the Premier Padel circuit, which sees the best players in the world compete. The magazine reviews the results, both in the men's and women's events, and presents the latest rankings. “Soir de padel” also takes stock of the players who leave their mark on the circuit. |
+| 2026-11-19 01:17 UTC | 2026-11-19 01:48 UTC | Monday Grand Prix | **Marc Márquez Towards An 8th Motogp Title: Review of an Exceptional Season** — Monday Grand Prix looks back in detail on the F1 GP contested the previous weekend and delivers all its analyses, also looking ahead to the next round to come. All the information from the different teams, both on the machines and on the drivers, is discussed in Lundi Grand Prix, the debrief meeting for the Formula 1 GPs. |
+| 2026-11-19 01:48 UTC | 2026-11-19 02:23 UTC | Monday Grand Prix | **Marc Márquez Towards An 8th Motogp Title: Review of an Exceptional Season** — Monday Grand Prix looks back in detail on the F1 GP contested the previous weekend and delivers all its analyses, also looking ahead to the next round to come. All the information from the different teams, both on the machines and on the drivers, is discussed in Lundi Grand Prix, the debrief meeting for the Formula 1 GPs. |
 | 2026-11-19 02:23 UTC | 2026-11-19 03:16 UTC | The highlights | **Geneva Grand Prix** — The Geneva Grand Prix took place on September 19 and 20 as part of the SailGP series. Already victorious five times before this Swiss stage, Australia intended to confirm its domination on Lake Geneva. Spain and Great Britain were also among the favorites to win and race to qualify for the grand final in Abu Dhabi at the end of the year. |
 | 2026-11-19 03:16 UTC | 2026-11-19 03:18 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
 | 2026-11-19 03:18 UTC | 2026-11-19 05:00 UTC | End of programs | **Miscellaneous** — Closure of the antenna at the end of the day's broadcasts. |
-| 2026-11-19 05:00 UTC | 2026-11-19 07:15 UTC | The morning | Tous les matins de 6h à 10h, Arthur Darrouzes vous emmène dans un tour du monde complet de l'actualité sportive. Sports collectifs ou individuels, en France ou à l'étranger, tous les faits marquants développés et analysés par les journalistes et chroniqueurs du groupe ! |
+| 2026-11-19 05:00 UTC | 2026-11-19 07:15 UTC | The morning | Every morning from 6 a.m. to 10 a.m., Arthur Darrouzes takes you on a complete world tour of sports news. Team or individual sports, in France or abroad, all the highlights developed and analyzed by the group's journalists and columnists! |
 | 2026-11-19 07:15 UTC | 2026-11-19 09:46 UTC | The super special | **Rally Italy Sardinia** — While the 2026 world champion was going to be crowned at the end of the Rally Italy Sardinia, the last super special was going to offer memorable suspense, and go down in rally legend. |
-| 2026-11-19 09:46 UTC | 2026-11-19 10:18 UTC | Rally Club | **Johan Rossel S'impose Aux Cévennes, Le Titre Reste Ouvert Avant Le Var** — Un magazine pour les passionnés des automobiles et des rallyes présenté par la rédaction des sports de Canal+. |
-| 2026-11-19 10:18 UTC | 2026-11-19 10:45 UTC | The highlights | **Rallye Du Portugal** — Le Rallye du Portugal, disputé du 23 au 25 octobre autour de la ville de Fafe, conclut la saison de championnat d'Europe des rallyes (ERC). En l'absence du Finlandais Teemu Suninen (Skoda Fabia), déjà sacré avant cette ultime manche de l'année, la bataille pour le titre de vice-champion promet d'être intense entre Andrea Mabellini (Lancia Ypsilon) et Miko Marczyk (Skoda Fabia), séparés de six points seulement. |
+| 2026-11-19 09:46 UTC | 2026-11-19 10:18 UTC | Rally Club | **Johan Rossel wins in the Cévennes, the title remains open before the Var** — A magazine for car and rally enthusiasts presented by the Canal+ sports editorial team. |
+| 2026-11-19 10:18 UTC | 2026-11-19 10:45 UTC | The highlights | **Rally Portugal** — The Rally Portugal, held from October 23 to 25 around the town of Fafe, concludes the European Rally Championship (ERC) season. In the absence of the Finn Teemu Suninen (Skoda Fabia), already crowned before this final round of the year, the battle for the title of vice-champion promises to be intense between Andrea Mabellini (Lancia Ypsilon) and Miko Marczyk (Skoda Fabia), separated by only six points. |
 | 2026-11-19 10:45 UTC | 2026-11-19 11:30 UTC | Inspector Dupin | **Jean Alesi** — Laurent Dupin, in “inspector” mode, questions key figures in motor sports in a setting that suggests a police interrogation. |
-| 2026-11-19 11:30 UTC | 2026-11-19 12:00 UTC | The news | Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. |
-| 2026-11-19 12:00 UTC | 2026-11-19 13:54 UTC | 2e jour | **Geneva Grand Prix** — L'Australie tentera de conforter son statut de favori sur le Lac Léman, alors que l'Espagne tentera de revenir sur les leaders du classement. On rappellera que seules les trois meilleures équipes du classement général seront qualifiées pour la finale à Abu Dhabi. Pour l'heure, la Grande-Bretagne occupe la dernière place du podium provisoire, mais les Etats-Unis, voire la France, ont encore les moyens de s'inviter à la fête de fin d'année. |
+| 2026-11-19 11:30 UTC | 2026-11-19 12:00 UTC | The news | World tour in brief and images of the latest important news from all sports in the Infosport+ news. |
+| 2026-11-19 12:00 UTC | 2026-11-19 13:54 UTC | 2nd day | **Geneva Grand Prix** — Australia will try to consolidate its status as favorite on Lake Geneva, while Spain will try to get back on the leaders of the ranking. It will be remembered that only the best three teams in the general classification will qualify for the final in Abu Dhabi. For the moment, Great Britain occupies the last place on the provisional podium, but the United States, even France, still have the means to invite themselves to the end of year party. |
 | 2026-11-19 13:54 UTC | 2026-11-19 13:56 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-19 13:56 UTC | 2026-11-19 14:45 UTC | Detective Mathoux | **Emission Du 26 Déc. 2025** — La carrière d'un footballeur est riche de moments de sport. Elle est aussi, parfois jalonnée de certaines "affaires", avec les coachs, les partenaires, les supporters. C'est là qu'intervient le détective Mathoux. Accompagné d'un assistant chargé de contrôler les variations d'un détecteur de mensonge et de collecter toutes sortes de pièces à conviction, le perspicace détective mène l'enquête pour révéler tous les secrets de la carrière du prévenu. |
-| 2026-11-19 14:45 UTC | 2026-11-19 15:30 UTC | The news | Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. |
-| 2026-11-19 15:30 UTC | 2026-11-19 16:31 UTC | Evening of padel | **P1 De Dubaï : Calvo/fernandez Et Lebron/augsburger Remportent Le Titre** — A look back at the biggest moments of the last tournament of the Premier Padel circuit, which sees the best players in the world compete. The magazine reviews the results, both in the men's and women's events, and presents the latest rankings. “Soir de padel” also takes stock of the players who leave their mark on the circuit. |
-| 2026-11-19 16:31 UTC | 2026-11-19 17:00 UTC | Football acrobats | **Doc. Sports** — "Bicyclette", "ciseau" : les appellations peuvent varier mais les acrobaties auxquelles elles renvoient ont propulsé le football au rang d'art. L'instant est bref, unique. Le moment et le geste sont suspendus, dans le temps et dans les airs. Amara Simba, Jean-Pierre Papin, Olivier Giroud, Djibril Cissé, Lilian Laslandes, Eugénie Le Sommer, Camille Abily racontent leurs vies d'"Acrobates du football". |
-| 2026-11-19 17:00 UTC | 2026-11-19 18:30 UTC | Club 360 | Le tour de l'actualité sportive à 360° dans ce Club 360 où les dernières informations du moment sont analysées et décryptées. |
-| 2026-11-19 18:30 UTC | 2026-11-19 18:42 UTC | UEFA: What you didn't see | **4e Journée : Villarreal / Paris Sg** — L'émission décortique à la loupe les matches d'UEFA Champions League à travers surtout les échanges qui ont lieu entre les joueurs sur le terrain. |
-| 2026-11-19 18:42 UTC | 2026-11-19 20:02 UTC | Generations Interior Sport | **Eden Hazard, Aïnhoa Risacher Et Le Rc Lens En Ligue Des Champions** — De nouvelles séquences autour du format "Intérieur sport" pour prolonger l'expérience intimiste du format et donner une suite aux histoires des champions racontées en immersion. |
+| 2026-11-19 13:56 UTC | 2026-11-19 14:45 UTC | Detective Mathoux | **Broadcast From December 26 2025** — A footballer's career is full of sporting moments. It is also sometimes marked by certain “affairs”, with coaches, partners, supporters. This is where Detective Mathoux comes in. Accompanied by an assistant responsible for controlling the variations of a lie detector and collecting all kinds of evidence, the insightful detective leads the investigation to reveal all the secrets of the defendant's career. |
+| 2026-11-19 14:45 UTC | 2026-11-19 15:30 UTC | The news | World tour in brief and images of the latest important news from all sports in the Infosport+ news. |
+| 2026-11-19 15:30 UTC | 2026-11-19 16:31 UTC | Evening of padel | **P1 From Dubai: Calvo/Fernandez And Lebron/Augsburger Win The Title** — A look back at the biggest moments of the last tournament of the Premier Padel circuit, which sees the best players in the world compete. The magazine reviews the results, both in the men's and women's events, and presents the latest rankings. “Soir de padel” also takes stock of the players who leave their mark on the circuit. |
+| 2026-11-19 16:31 UTC | 2026-11-19 17:00 UTC | Football acrobats | **Doc. Sports** — “Bicycle”, “scissor”: the names may vary but the acrobatics to which they refer have propelled football to the rank of art. The moment is brief, unique. The moment and the gesture are suspended, in time and in the air. Amara Simba, Jean-Pierre Papin, Olivier Giroud, Djibril Cissé, Lilian Laslandes, Eugénie Le Sommer, Camille Abily tell their lives as “Football Acrobats”. |
+| 2026-11-19 17:00 UTC | 2026-11-19 18:30 UTC | Club 360 | A 360° tour of sports news in this 360 Club where the latest information of the moment is analyzed and deciphered. |
+| 2026-11-19 18:30 UTC | 2026-11-19 18:42 UTC | UEFA: What you didn't see | **4th Day: Villarreal / Paris Sg** — The show takes a close look at UEFA Champions League matches, especially through the exchanges that take place between the players on the pitch. |
+| 2026-11-19 18:42 UTC | 2026-11-19 20:02 UTC | Generations Interior Sport | **Eden Hazard, Aïnhoa Risacher and Rc Lens in the Champions League** — New sequences around the “Sports Interior” format to extend the intimate experience of the format and follow up on the stories of the champions told in immersion. |
 | 2026-11-19 20:02 UTC | 2026-11-19 21:52 UTC | The race | **Brazilian Grand Prix** — The Brazilian Grand Prix takes place at the legendary Autodromo José Carlos Pace in Interlagos. This event promises to be crucial for the young Italian prodigy Kimi Antonelli, who largely dominates the world championship, at the wheel of his Mercedes. |
 | 2026-11-19 21:52 UTC | 2026-11-19 22:13 UTC | The podium | **Broadcast From November 8, 2026** — The anthems, the presentation of trophies to the drivers who finished in the first three places, the traditional champagne flowing freely: the entire podium ceremony of today's Formula 1 Grand Prix to follow with the Canal+ teams! |
 | 2026-11-19 22:13 UTC | 2026-11-19 22:32 UTC | Formula One, the mag | **Broadcast From November 8, 2026** — “Formula One, the mag” presents Formula 1 news. Latest results, upcoming races, driver interviews, analysis of results with the channel's team of experts, everything can be discovered in “Formula One, the mag”. |
-| 2026-11-19 22:32 UTC | 2026-11-19 22:54 UTC | Split | **Emission Du 14 Nov. 2026** — Découvrez des surprenantes anecdotes et des belles histoires liées au monde du sport dans ce magazine. |
-| 2026-11-19 22:54 UTC | 2026-11-19 23:16 UTC | Split | **Emission Du 07 Juin 2026** — Découvrez des surprenantes anecdotes et des belles histoires liées au monde du sport dans ce magazine. |
-| 2026-11-19 23:16 UTC | 2026-11-19 23:56 UTC | Canal Sports Quiz | **Années 80** — Dans le Canal Sports Quiz, huit abonnés confrontent leurs connaissances, aidés à chaque fois de journalistes et consultants, sur les grands piliers du sport de Canal+ : football, rugby, F1, moto, golf, etc. Les talents Canal+ sont Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard et Guilhem Garrigues. |
+| 2026-11-19 22:32 UTC | 2026-11-19 22:54 UTC | Split | **Broadcast From November 14, 2026** — Discover surprising anecdotes and great stories linked to the world of sport in this magazine. |
+| 2026-11-19 22:54 UTC | 2026-11-19 23:16 UTC | Split | **Broadcast From June 7, 2026** — Discover surprising anecdotes and great stories linked to the world of sport in this magazine. |
+| 2026-11-19 23:16 UTC | 2026-11-19 23:56 UTC | Canal Sports Quiz | **80s** — In the Canal Sports Quiz, eight subscribers compare their knowledge, each time helped by journalists and consultants, on the major pillars of Canal+ sport: football, rugby, F1, motorcycles, golf, etc. The Canal+ talents are Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard and Guilhem Garrigues. |
 | 2026-11-19 23:56 UTC | 2026-11-20 00:00 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-20 00:00 UTC | 2026-11-20 00:30 UTC | The news | Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. |
+| 2026-11-20 00:00 UTC | 2026-11-20 00:30 UTC | The news | World tour in brief and images of the latest important news from all sports in the Infosport+ news. |
 | 2026-11-20 00:30 UTC | 2026-11-20 03:01 UTC | The super special | **Rally Italy Sardinia** — While the 2026 world champion was going to be crowned at the end of the Rally Italy Sardinia, the last super special was going to offer memorable suspense, and go down in rally legend. |
 | 2026-11-20 03:01 UTC | 2026-11-20 03:03 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
 | 2026-11-20 03:03 UTC | 2026-11-20 05:00 UTC | End of programs | **Miscellaneous** — Closure of the antenna at the end of the day's broadcasts. |
-| 2026-11-20 05:00 UTC | 2026-11-20 07:00 UTC | The morning | Tous les matins de 6h à 10h, Arthur Darrouzes vous emmène dans un tour du monde complet de l'actualité sportive. Sports collectifs ou individuels, en France ou à l'étranger, tous les faits marquants développés et analysés par les journalistes et chroniqueurs du groupe ! |
+| 2026-11-20 05:00 UTC | 2026-11-20 07:00 UTC | The morning | Every morning from 6 a.m. to 10 a.m., Arthur Darrouzes takes you on a complete world tour of sports news. Team or individual sports, in France or abroad, all the highlights developed and analyzed by the group's journalists and columnists! |
 | 2026-11-20 07:00 UTC | 2026-11-20 07:02 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
 | 2026-11-20 07:02 UTC | 2026-11-20 08:27 UTC | Free Trials 2 | **Las Vegas Grand Prix** — In the heart of the city of Nevada that never sleeps, the Las Vegas Formula 1 Grand Prix is ​​the third grand prix to take place in the USA, with Austin and Miami. |
-| 2026-11-20 08:27 UTC | 2026-11-20 08:55 UTC | On Board motorcycle | **Emission Du 12 Nov. 2026** — Dans ce magazine dédié à la discipline, on suit chaque Grand Prix de Moto GP, des premiers essais jusqu'au podium ! |
-| 2026-11-20 08:55 UTC | 2026-11-20 09:45 UTC | Essais libres 1 des Moto 3 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto3, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 250 cm3. Le Grand Prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-20 09:45 UTC | 2026-11-20 10:35 UTC | Essais Libres 1 des Moto 2 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto2, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 600 cm3. Le grand prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-20 10:35 UTC | 2026-11-20 11:40 UTC | Essais Libres 1 des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
-| 2026-11-20 11:40 UTC | 2026-11-20 11:45 UTC | Split Motorcycle | **Emission Du 29 Août 2026** — Pour les passionnés de grosses cyclindrées, ce magazine propose des anecdotes et des histoires insolites, ainsi que des informations liées à l'univers de la MotoGP. |
-| 2026-11-20 11:45 UTC | 2026-11-20 12:15 UTC | The news | Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. |
-| 2026-11-20 12:15 UTC | 2026-11-20 12:54 UTC | Canal Sports Quiz | **Années 80** — Dans le Canal Sports Quiz, huit abonnés confrontent leurs connaissances, aidés à chaque fois de journalistes et consultants, sur les grands piliers du sport de Canal+ : football, rugby, F1, moto, golf, etc. Les talents Canal+ sont Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard et Guilhem Garrigues. |
-| 2026-11-20 12:54 UTC | 2026-11-20 13:04 UTC | UEFA: What you didn't see | **4e Journée : Villarreal / Paris Sg** — L'émission décortique à la loupe les matches d'UEFA Champions League à travers surtout les échanges qui ont lieu entre les joueurs sur le terrain. |
+| 2026-11-20 08:27 UTC | 2026-11-20 08:55 UTC | On Board motorcycle | **Broadcast From November 12, 2026** — In this magazine dedicated to the discipline, we follow each Moto GP Grand Prix, from the first practices to the podium! |
+| 2026-11-20 08:55 UTC | 2026-11-20 09:45 UTC | Free practice 1 of Moto 3 | **Portuguese Grand Prix** — Broadcast of the Moto3 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 250 cc motorcycles. The Grand Prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-20 09:45 UTC | 2026-11-20 10:35 UTC | Free Practice 1 of Moto 2 | **Portuguese Grand Prix** — Broadcast of the Moto2 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 600 cc motorcycles. The grand prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-20 10:35 UTC | 2026-11-20 11:40 UTC | Free Practice 1 of the Moto GP | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
+| 2026-11-20 11:40 UTC | 2026-11-20 11:45 UTC | Split Motorcycle | **Broadcast From August 29, 2026** — For big bike enthusiasts, this magazine offers anecdotes and unusual stories, as well as information related to the world of MotoGP. |
+| 2026-11-20 11:45 UTC | 2026-11-20 12:15 UTC | The news | World tour in brief and images of the latest important news from all sports in the Infosport+ news. |
+| 2026-11-20 12:15 UTC | 2026-11-20 12:54 UTC | Canal Sports Quiz | **80s** — In the Canal Sports Quiz, eight subscribers compare their knowledge, each time helped by journalists and consultants, on the major pillars of Canal+ sport: football, rugby, F1, motorcycles, golf, etc. The Canal+ talents are Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard and Guilhem Garrigues. |
+| 2026-11-20 12:54 UTC | 2026-11-20 13:04 UTC | UEFA: What you didn't see | **4th Day: Villarreal / Paris Sg** — The show takes a close look at UEFA Champions League matches, especially through the exchanges that take place between the players on the pitch. |
 | 2026-11-20 13:04 UTC | 2026-11-20 13:10 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-20 13:10 UTC | 2026-11-20 14:00 UTC | Essais des Moto 3 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto3, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 250 cm3. Le Grand Prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-20 14:00 UTC | 2026-11-20 14:50 UTC | Essais des Moto 2 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto2, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 600 cm3. Le grand prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-20 14:50 UTC | 2026-11-20 16:10 UTC | Essais des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
-| 2026-11-20 16:10 UTC | 2026-11-20 16:50 UTC | Detective Mathoux | **Emission Du 12 Sept. 2024** — La carrière d'un footballeur est riche de moments de sport. Elle est aussi, parfois jalonnée de certaines "affaires", avec les coachs, les partenaires, les supporters. Accompagné d'un assistant chargé de contrôler les variations d'un détecteur de mensonge et de collecter toutes sortes de pièces à conviction, le "détective Mathoux" mène l'enquête pour révéler tous les secrets de la carrière du "prévenu". |
+| 2026-11-20 13:10 UTC | 2026-11-20 14:00 UTC | Moto 3 testing | **Portuguese Grand Prix** — Broadcast of the Moto3 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 250 cc motorcycles. The Grand Prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-20 14:00 UTC | 2026-11-20 14:50 UTC | Moto 2 testing | **Portuguese Grand Prix** — Broadcast of the Moto2 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 600 cc motorcycles. The grand prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-20 14:50 UTC | 2026-11-20 16:10 UTC | Moto GP testing | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
+| 2026-11-20 16:10 UTC | 2026-11-20 16:50 UTC | Detective Mathoux | **Broadcast September 12, 2024** — A footballer's career is full of sporting moments. It is also sometimes marked by certain “affairs”, with coaches, partners, supporters. Accompanied by an assistant responsible for controlling the variations of a lie detector and collecting all kinds of evidence, "detective Mathoux" leads the investigation to reveal all the secrets of the "defendant's" career. |
 | 2026-11-20 16:50 UTC | 2026-11-20 17:00 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-20 17:00 UTC | 2026-11-20 18:00 UTC | Club 360 | Le tour de l'actualité sportive à 360° dans ce Club 360 où les dernières informations du moment sont analysées et décryptées. |
+| 2026-11-20 17:00 UTC | 2026-11-20 18:00 UTC | Club 360 | A 360° tour of sports news in this 360 Club where the latest information of the moment is analyzed and deciphered. |
 | 2026-11-20 18:00 UTC | 2026-11-20 19:30 UTC | Free Trials 2 | **Las Vegas Grand Prix** — In the heart of the city of Nevada that never sleeps, the Las Vegas Formula 1 Grand Prix is ​​the third grand prix to take place in the USA, with Austin and Miami. |
-| 2026-11-20 19:30 UTC | 2026-11-20 21:15 UTC | ARES 45. 1re partie | **Ares Fighting Championship** — Retransmission de combats organisés dans le cadre du ARES Fighting Championship, une des fédérations françaises de MMA. Créée en 2019, cette organisation a su profiter de l'assouplissement des lois hexagonales envers ce sport longtemps mis au ban pour mettre en place plusieurs réunions annuelles qui attirent les meilleurs combattants de cette discipline. |
-| 2026-11-20 21:15 UTC | 2026-11-20 23:03 UTC | Partie 2 | **Ares Fighting Championship** — Retransmission de combats organisés dans le cadre du ARES Fighting Championship, une des fédérations françaises de MMA. Créée en 2019, cette organisation a su profiter de l'assouplissement des lois hexagonales envers ce sport longtemps mis au ban pour mettre en place plusieurs réunions annuelles qui attirent les meilleurs combattants de cette discipline. |
-| 2026-11-20 23:03 UTC | 2026-11-20 23:16 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — Le 5 juin 2027, Madrid sera le théâtre de la finale de la Ligue des champions de l'UEFA. Cette finale marquera la fin de la saison et sera un événement majeur pour les fans ! |
-| 2026-11-20 23:16 UTC | 2026-11-20 23:27 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — Le 5 juin 2027, Madrid sera le théâtre de la finale de la Ligue des champions de l'UEFA. Cette finale marquera la fin de la saison et sera un événement majeur pour les fans ! |
+| 2026-11-20 19:30 UTC | 2026-11-20 21:15 UTC | ARES 45. Part 1 | **Ares Fighting Championship** — Broadcast of fights organized as part of the ARES Fighting Championship, one of the French MMA federations. Created in 2019, this organization was able to take advantage of the relaxation of French laws regarding this long-banned sport to set up several annual meetings which attract the best fighters in this discipline. |
+| 2026-11-20 21:15 UTC | 2026-11-20 23:03 UTC | Part 2 | **Ares Fighting Championship** — Broadcast of fights organized as part of the ARES Fighting Championship, one of the French MMA federations. Created in 2019, this organization was able to take advantage of the relaxation of French laws regarding this long-banned sport to set up several annual meetings which attract the best fighters in this discipline. |
+| 2026-11-20 23:03 UTC | 2026-11-20 23:16 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — On June 5, 2027, Madrid will be the scene of the UEFA Champions League final. This finale will mark the end of the season and will be a major event for fans! |
+| 2026-11-20 23:16 UTC | 2026-11-20 23:27 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — On June 5, 2027, Madrid will be the scene of the UEFA Champions League final. This finale will mark the end of the season and will be a major event for fans! |
 | 2026-11-20 23:27 UTC | 2026-11-20 23:45 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-20 23:45 UTC | 2026-11-21 00:30 UTC | The news | Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. |
-| 2026-11-21 00:30 UTC | 2026-11-21 01:35 UTC | Essais Libres 1 des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
-| 2026-11-21 01:35 UTC | 2026-11-21 02:56 UTC | Essais des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
+| 2026-11-20 23:45 UTC | 2026-11-21 00:30 UTC | The news | World tour in brief and images of the latest important news from all sports in the Infosport+ news. |
+| 2026-11-21 00:30 UTC | 2026-11-21 01:35 UTC | Free Practice 1 of the Moto GP | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
+| 2026-11-21 01:35 UTC | 2026-11-21 02:56 UTC | Moto GP testing | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
 | 2026-11-21 02:56 UTC | 2026-11-21 02:58 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
 | 2026-11-21 02:58 UTC | 2026-11-21 06:00 UTC | End of programs | **Miscellaneous** — Closure of the antenna at the end of the day's broadcasts. |
-| 2026-11-21 06:00 UTC | 2026-11-21 06:45 UTC | The morning | Tous les matins de 6h à 10h, Arthur Darrouzes vous emmène dans un tour du monde complet de l'actualité sportive. Sports collectifs ou individuels, en France ou à l'étranger, tous les faits marquants développés et analysés par les journalistes et chroniqueurs du groupe ! |
+| 2026-11-21 06:00 UTC | 2026-11-21 06:45 UTC | The morning | Every morning from 6 a.m. to 10 a.m., Arthur Darrouzes takes you on a complete world tour of sports news. Team or individual sports, in France or abroad, all the highlights developed and analyzed by the group's journalists and columnists! |
 | 2026-11-21 06:45 UTC | 2026-11-21 06:50 UTC | Zapsport 360 | Zapsport 360 allows you to find all the significant images of recent sport, in a dynamic format: results, current competitions and spectacular sequences are there. |
-| 2026-11-21 06:50 UTC | 2026-11-21 08:35 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 08:35 UTC | 2026-11-21 09:20 UTC | Essais libres 2 des Moto 3 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto3, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 250 cm3. Le Grand Prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-21 09:20 UTC | 2026-11-21 10:00 UTC | Essais libres 2 des Moto 2 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto2, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 600 cm3. Le grand prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-21 10:00 UTC | 2026-11-21 10:45 UTC | Essais libres 2 des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
-| 2026-11-21 10:45 UTC | 2026-11-21 11:45 UTC | Essais qualificatifs 1 et 2 des Moto GP | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto GP, une course motocycliste de vitesse. Disputée sur le circuit de l'Autódromo Internacional do Algarve à Portimão, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto GP, la catégorie reine de la discipline. Ce Grand Prix se dispute sur le même circuit que celui accueillant la Formule 1. |
-| 2026-11-21 11:45 UTC | 2026-11-21 11:55 UTC | The Zapsport 360 compilation | A découvrir, une compilation d'images marquantes et spectaculaires extraites d'événements sportifs concoctée par des spécialistes du groupe Canal+. |
-| 2026-11-21 11:55 UTC | 2026-11-21 12:40 UTC | Essais libres 2 des Moto 3 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto3, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 250 cm3. Le Grand Prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-21 12:40 UTC | 2026-11-21 13:35 UTC | Essais qualificatifs 1 et 2 des Moto 3 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto3, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 250 cm3. Le Grand Prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-21 13:35 UTC | 2026-11-21 14:26 UTC | Essais qualificatifs 1 et 2 des Moto 2 | **Grand Prix Du Portugal** — Diffusion du Grand Prix du Portugal de Moto2, une course motocycliste de vitesse. Disputée sur le circuit international de l'Autódromo Internacional do Algarve à Portimão depuis 2020, cette épreuve fait partie du calendrier des championnats du monde de vitesse Moto2, soit les motos de 600 cm3. Le grand prix sera disputé sur le même circuit qui accueillera la Formule 1. |
-| 2026-11-21 14:26 UTC | 2026-11-21 14:55 UTC | La grille Moto | **Grand Prix Du Portugal : La Grille Sprint** — Les journalistes et consultants experts de la chaîne proposent des interviews et des reportages, ainsi que la remontée de grille juste avant le coup d'envoi du Grand Prix du jour. |
-| 2026-11-21 14:55 UTC | 2026-11-21 15:26 UTC | Sprint des MotoGP | **Grand Prix Du Portugal** — Marc Marquez (Ducati) sera-t-il sacré ce week-end au Portugal, à l'occasion de l'avant-dernier Grand Prix du calendrier ? A la lutte avec Jorge Martin (Aprilia) durant une bonne partie de la saison, le champion en titre a pris une sérieuse option en Malaisie, où il s'est imposé alors que son rival et compatriote avait déclaré forfait après une chute en essais en Australie une semaine plus tôt. |
-| 2026-11-21 15:26 UTC | 2026-11-21 15:59 UTC | Motorcycle Debrief | **Bezzecchi Triomphe Au Qatar, Márquez 2e, Fernández Héroïque Sur Le Podium** — Les journalistes et experts de la chaîne analysent et décryptent le dernier Grand Prix, avec un retour en images et en statistiques sur les moments déterminants de la course, et bien sûr les premières impressions des pilotes victorieux. |
-| 2026-11-21 15:59 UTC | 2026-11-21 16:10 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — Le 5 juin 2027, Madrid sera le théâtre de la finale de la Ligue des champions de l'UEFA. Cette finale marquera la fin de la saison et sera un événement majeur pour les fans ! |
-| 2026-11-21 16:10 UTC | 2026-11-21 16:49 UTC | Canal Sports Quiz | **Années 80** — Dans le Canal Sports Quiz, huit abonnés confrontent leurs connaissances, aidés à chaque fois de journalistes et consultants, sur les grands piliers du sport de Canal+ : football, rugby, F1, moto, golf, etc. Les talents Canal+ sont Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard et Guilhem Garrigues. |
-| 2026-11-21 16:49 UTC | 2026-11-21 18:03 UTC | The sports clinic | **Emission Du 17 Nov. 2026** — Ce rendez-vous mensuel explore les liens entre performance et santé. Médecins du sport, kinésithérapeutes, préparateurs physiques et psychologues y analysent en profondeur la préparation physique et mentale, ainsi que la prévention des blessures. Expertise et expérience se rencontrent pour décrypter les mécanismes de la performance et les stratégies permettant de mieux comprendre le corps et l'esprit des sportifs. |
-| 2026-11-21 18:03 UTC | 2026-11-21 18:12 UTC | Split WRC | **Emission Du 04 Nov. 2026** — Témoignages, anecdotes, détails techniques, histoires originales illustrent cette immersion dans le championnat du monde des rallyes. |
-| 2026-11-21 18:12 UTC | 2026-11-21 19:54 UTC | Essais qualificatifs | **Las Vegas Grand Prix** — Kimi Antonelli titré depuis le Mexique, la lutte se poursuit pour le titre honorifique de vice-champion derrière le pilote Mercedes. Max Verstappen (Red Bull), George Russell (Mercedes) et Lewis Hamilton (Ferrari) sont encore sur les rangs pour la deuxième place du championnat, et devraient se livrer une lutte sans merci sur The Strip, la ligne droite principale de Las Vegas, antépénultième rendez-vous de la saison avant le Qatar et Abu Dhabi. |
-| 2026-11-21 19:54 UTC | 2026-11-21 21:25 UTC | 1er jour | **Grand Prix De Dubaï** — C'est la dernière ligne droite de la saison de SailGP, avec le Grand Prix de Dubaï, avant-dernière étape du calendrier, et qui déterminera les trois équipes qui se disputeront la finale à Abu Dhabi une semaine plus tard. L'Australie, l'Espagne, la Grande-Bretagne et la Nouvelle-Zélande sont les grands favoris, alors que l'équipage français tentera un coup d'éclat pour conclure au mieux sa campagne 2026. |
-| 2026-11-21 21:25 UTC | 2026-11-21 21:49 UTC | La grille Moto | **Grand Prix Du Portugal : La Grille Sprint** — Les journalistes et consultants experts de la chaîne proposent des interviews et des reportages, ainsi que la remontée de grille juste avant le coup d'envoi du Grand Prix du jour. |
-| 2026-11-21 21:49 UTC | 2026-11-21 22:19 UTC | Sprint des MotoGP | **Grand Prix Du Portugal** — Marc Marquez (Ducati) sera-t-il sacré ce week-end au Portugal, à l'occasion de l'avant-dernier Grand Prix du calendrier ? A la lutte avec Jorge Martin (Aprilia) durant une bonne partie de la saison, le champion en titre a pris une sérieuse option en Malaisie, où il s'est imposé alors que son rival et compatriote avait déclaré forfait après une chute en essais en Australie une semaine plus tôt. |
-| 2026-11-21 22:19 UTC | 2026-11-21 22:52 UTC | Motorcycle Debrief | **Bezzecchi Triomphe Au Qatar, Márquez 2e, Fernández Héroïque Sur Le Podium** — Les journalistes et experts de la chaîne analysent et décryptent le dernier Grand Prix, avec un retour en images et en statistiques sur les moments déterminants de la course, et bien sûr les premières impressions des pilotes victorieux. |
-| 2026-11-21 22:52 UTC | 2026-11-21 23:03 UTC | Génération vitesse | Tout au long de la saison, une découverte du sport mécanique et de ses valeurs, mais également de la préparation des pilotes qui seront les champions de demain. |
-| 2026-11-21 23:03 UTC | 2026-11-21 23:30 UTC | Génération vitesse | Tout au long de la saison, une découverte du sport mécanique et de ses valeurs, mais également de la préparation des pilotes qui seront les champions de demain. |
-| 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | Weekend Club | Frédéric Brindelle revient sur toute l'actualité sportive du week-end pendant trente minutes à travers les images des faits les plus marquants. |
-| 2026-11-22 00:00 UTC | 2026-11-22 01:13 UTC | The sports clinic | **Emission Du 17 Nov. 2026** — Ce rendez-vous mensuel explore les liens entre performance et santé. Médecins du sport, kinésithérapeutes, préparateurs physiques et psychologues y analysent en profondeur la préparation physique et mentale, ainsi que la prévention des blessures. Expertise et expérience se rencontrent pour décrypter les mécanismes de la performance et les stratégies permettant de mieux comprendre le corps et l'esprit des sportifs. |
-| 2026-11-22 01:13 UTC | 2026-11-22 02:43 UTC | 1er jour | **Grand Prix De Dubaï** — C'est la dernière ligne droite de la saison de SailGP, avec le Grand Prix de Dubaï, avant-dernière étape du calendrier, et qui déterminera les trois équipes qui se disputeront la finale à Abu Dhabi une semaine plus tard. L'Australie, l'Espagne, la Grande-Bretagne et la Nouvelle-Zélande sont les grands favoris, alors que l'équipage français tentera un coup d'éclat pour conclure au mieux sa campagne 2026. |
-| 2026-11-22 02:43 UTC | 2026-11-22 02:53 UTC | The Zapsport 360 compilation | A découvrir, une compilation d'images marquantes et spectaculaires extraites d'événements sportifs concoctée par des spécialistes du groupe Canal+. |
+| 2026-11-21 06:50 UTC | 2026-11-21 08:35 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 08:35 UTC | 2026-11-21 09:20 UTC | Free practice 2 of Moto 3 | **Portuguese Grand Prix** — Broadcast of the Moto3 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 250 cc motorcycles. The Grand Prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-21 09:20 UTC | 2026-11-21 10:00 UTC | Free practice 2 of Moto 2 | **Portuguese Grand Prix** — Broadcast of the Moto2 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 600 cc motorcycles. The grand prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-21 10:00 UTC | 2026-11-21 10:45 UTC | Moto GP free practice 2 | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
+| 2026-11-21 10:45 UTC | 2026-11-21 11:45 UTC | Moto GP qualifying practice 1 and 2 | **Portuguese Grand Prix** — Broadcast of the Portuguese Moto GP Grand Prix, a speed motorcycle race. Contested on the Autódromo Internacional do Algarve circuit in Portimão, this event is part of the calendar of the Moto GP world speed championships, the premier category of the discipline. This Grand Prix takes place on the same circuit as that hosting Formula 1. |
+| 2026-11-21 11:45 UTC | 2026-11-21 11:55 UTC | The Zapsport 360 compilation | To discover, a compilation of striking and spectacular images extracted from sporting events concocted by specialists from the Canal+ group. |
+| 2026-11-21 11:55 UTC | 2026-11-21 12:40 UTC | Free practice 2 of Moto 3 | **Portuguese Grand Prix** — Broadcast of the Moto3 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 250 cc motorcycles. The Grand Prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-21 12:40 UTC | 2026-11-21 13:35 UTC | Qualifying tests 1 and 2 of Moto 3 | **Portuguese Grand Prix** — Broadcast of the Moto3 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 250 cc motorcycles. The Grand Prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-21 13:35 UTC | 2026-11-21 14:26 UTC | Qualifying practice 1 and 2 for Moto 2 | **Portuguese Grand Prix** — Broadcast of the Moto2 Portuguese Grand Prix, a speed motorcycle race. Contested on the international circuit of the Autódromo Internacional do Algarve in Portimão since 2020, this event is part of the calendar of the Moto2 world speed championships, i.e. 600 cc motorcycles. The grand prix will be contested on the same circuit which will host Formula 1. |
+| 2026-11-21 14:26 UTC | 2026-11-21 14:55 UTC | The Motorcycle grid | **Portuguese Grand Prix: The Sprint Grid** — The channel's expert journalists and consultants offer interviews and reports, as well as the grid feed just before the start of the day's Grand Prix. |
+| 2026-11-21 14:55 UTC | 2026-11-21 15:26 UTC | MotoGP sprint | **Portuguese Grand Prix** — Will Marc Marquez (Ducati) be crowned this weekend in Portugal, during the penultimate Grand Prix on the calendar? Fighting with Jorge Martin (Aprilia) for a good part of the season, the reigning champion took a serious option in Malaysia, where he won while his rival and compatriot had withdrawn after a crash in testing in Australia a week earlier. |
+| 2026-11-21 15:26 UTC | 2026-11-21 15:59 UTC | Motorcycle Debrief | **Bezzecchi Triumphs In Qatar, Márquez 2nd, Fernández Heroic On The Podium** — The channel's journalists and experts analyze and decipher the last Grand Prix, with a look back in images and statistics on the defining moments of the race, and of course the first impressions of the victorious drivers. |
+| 2026-11-21 15:59 UTC | 2026-11-21 16:10 UTC | 05/06/2027 On the way to Madrid | **Bodo/glimt Lille** — On June 5, 2027, Madrid will be the scene of the UEFA Champions League final. This finale will mark the end of the season and will be a major event for fans! |
+| 2026-11-21 16:10 UTC | 2026-11-21 16:49 UTC | Canal Sports Quiz | **80s** — In the Canal Sports Quiz, eight subscribers compare their knowledge, each time helped by journalists and consultants, on the major pillars of Canal+ sport: football, rugby, F1, motorcycles, golf, etc. The Canal+ talents are Hervé Mathoux, Paul Tchoukriel, Bertrand Latour, Margot Dumont, Margot Laffite, Julien Febreau, Laurent Dupin, Jules Deremble, Eric Bayle, Astrid Bard and Guilhem Garrigues. |
+| 2026-11-21 16:49 UTC | 2026-11-21 18:03 UTC | The sports clinic | **Broadcast From November 17, 2026** — This monthly meeting explores the links between performance and health. Sports doctors, physiotherapists, physical trainers and psychologists analyze in depth physical and mental preparation, as well as injury prevention. Expertise and experience come together to decipher the mechanisms of performance and strategies to better understand the body and mind of athletes. |
+| 2026-11-21 18:03 UTC | 2026-11-21 18:12 UTC | Split WRC | **Broadcast From November 4, 2026** — Testimonials, anecdotes, technical details, original stories illustrate this immersion in the world rally championship. |
+| 2026-11-21 18:12 UTC | 2026-11-21 19:54 UTC | Qualifying tests | **Las Vegas Grand Prix** — Kimi Antonelli titled from Mexico, the fight continues for the honorary title of vice-champion behind the Mercedes driver. Max Verstappen (Red Bull), George Russell (Mercedes) and Lewis Hamilton (Ferrari) are still in the running for second place in the championship, and should engage in a merciless fight on The Strip, the main straight of Las Vegas, the penultimate meeting of the season before Qatar and Abu Dhabi. |
+| 2026-11-21 19:54 UTC | 2026-11-21 21:25 UTC | 1st day | **Dubai Grand Prix** — It's the final stretch of the SailGP season, with the Dubai Grand Prix, the penultimate stage of the calendar, and which will determine the three teams who will compete in the final in Abu Dhabi a week later. Australia, Spain, Great Britain and New Zealand are the big favorites, while the French crew will attempt a coup to conclude their 2026 campaign in the best possible way. |
+| 2026-11-21 21:25 UTC | 2026-11-21 21:49 UTC | The Motorcycle grid | **Portuguese Grand Prix: The Sprint Grid** — The channel's expert journalists and consultants offer interviews and reports, as well as the grid feed just before the start of the day's Grand Prix. |
+| 2026-11-21 21:49 UTC | 2026-11-21 22:19 UTC | MotoGP sprint | **Portuguese Grand Prix** — Will Marc Marquez (Ducati) be crowned this weekend in Portugal, during the penultimate Grand Prix on the calendar? Fighting with Jorge Martin (Aprilia) for a good part of the season, the reigning champion took a serious option in Malaysia, where he won while his rival and compatriot had withdrawn after a crash in testing in Australia a week earlier. |
+| 2026-11-21 22:19 UTC | 2026-11-21 22:52 UTC | Motorcycle Debrief | **Bezzecchi Triumphs In Qatar, Márquez 2nd, Fernández Heroic On The Podium** — The channel's journalists and experts analyze and decipher the last Grand Prix, with a look back in images and statistics on the defining moments of the race, and of course the first impressions of the victorious drivers. |
+| 2026-11-21 22:52 UTC | 2026-11-21 23:03 UTC | Generation speed | Throughout the season, a discovery of motorsport and its values, but also of the preparation of the drivers who will be the champions of tomorrow. |
+| 2026-11-21 23:03 UTC | 2026-11-21 23:30 UTC | Generation speed | Throughout the season, a discovery of motorsport and its values, but also of the preparation of the drivers who will be the champions of tomorrow. |
+| 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | Weekend Club | Frédéric Brindelle looks back on all the sporting news of the weekend for thirty minutes through images of the most notable events. |
+| 2026-11-22 00:00 UTC | 2026-11-22 01:13 UTC | The sports clinic | **Broadcast From November 17, 2026** — This monthly meeting explores the links between performance and health. Sports doctors, physiotherapists, physical trainers and psychologists analyze in depth physical and mental preparation, as well as injury prevention. Expertise and experience come together to decipher the mechanisms of performance and strategies to better understand the body and mind of athletes. |
+| 2026-11-22 01:13 UTC | 2026-11-22 02:43 UTC | 1st day | **Dubai Grand Prix** — It's the final stretch of the SailGP season, with the Dubai Grand Prix, the penultimate stage of the calendar, and which will determine the three teams who will compete in the final in Abu Dhabi a week later. Australia, Spain, Great Britain and New Zealand are the big favorites, while the French crew will attempt a coup to conclude their 2026 campaign in the best possible way. |
+| 2026-11-22 02:43 UTC | 2026-11-22 02:53 UTC | The Zapsport 360 compilation | To discover, a compilation of striking and spectacular images extracted from sporting events concocted by specialists from the Canal+ group. |
 
 ## DigiSport1.ro (118 programmes)
 
@@ -1509,28 +1509,28 @@
 | 2026-11-21 09:30 UTC | 2026-11-21 09:44 UTC | LIVE Digi Sport News |  |
 | 2026-11-21 09:45 UTC | 2026-11-21 10:14 UTC | Avanchronic 1X2 |  |
 | 2026-11-21 10:15 UTC | 2026-11-21 10:29 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 10:30 UTC | 2026-11-21 11:14 UTC | LIVE Liga a 2-a: CSM Cetatea Suceava-Politehnica Timisoara Etapa 14 |  |
+| 2026-11-21 10:30 UTC | 2026-11-21 11:14 UTC | LIVE 2nd League: CSM Cetatea Suceava-Politehnica Timisoara Stage 14 |  |
 | 2026-11-21 11:15 UTC | 2026-11-21 11:29 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 11:30 UTC | 2026-11-21 12:29 UTC | LIVE Liga a 2-a: CSM Cetatea Suceava-Politehnica Timisoara Etapa 14 |  |
+| 2026-11-21 11:30 UTC | 2026-11-21 12:29 UTC | LIVE 2nd League: CSM Cetatea Suceava-Politehnica Timisoara Stage 14 |  |
 | 2026-11-21 12:30 UTC | 2026-11-21 12:59 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 13:00 UTC | 2026-11-21 13:44 UTC | LIVE Superliga: Csikszereda-Corvinul Hunedoara Etapa 16 |  |
+| 2026-11-21 13:00 UTC | 2026-11-21 13:44 UTC | LIVE Superliga: Csikszereda-Corvinul Hunedoara Stage 16 |  |
 | 2026-11-21 13:45 UTC | 2026-11-21 13:59 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 14:00 UTC | 2026-11-21 14:59 UTC | LIVE Superliga: Csikszereda-Corvinul Hunedoara Etapa 16 |  |
+| 2026-11-21 14:00 UTC | 2026-11-21 14:59 UTC | LIVE Superliga: Csikszereda-Corvinul Hunedoara Stage 16 |  |
 | 2026-11-21 15:00 UTC | 2026-11-21 15:29 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 15:30 UTC | 2026-11-21 16:14 UTC | LIVE Superliga: CFR Cluj-Otelul Galati Etapa 16 |  |
+| 2026-11-21 15:30 UTC | 2026-11-21 16:14 UTC | LIVE Superliga: CFR Cluj-Otelul Galati Stage 16 |  |
 | 2026-11-21 16:15 UTC | 2026-11-21 16:29 UTC | LIVE Digi Sport News |  |
-| 2026-11-21 16:30 UTC | 2026-11-21 17:29 UTC | LIVE Superliga: CFR Cluj-Otelul Galati Etapa 16 |  |
+| 2026-11-21 16:30 UTC | 2026-11-21 17:29 UTC | LIVE Superliga: CFR Cluj-Otelul Galati Stage 16 |  |
 | 2026-11-21 17:30 UTC | 2026-11-21 18:29 UTC | LIVE Digi Sport Special |  |
-| 2026-11-21 18:30 UTC | 2026-11-21 19:14 UTC | LIVE Superliga: Dinamo-Petrolul Etapa 16 |  |
+| 2026-11-21 18:30 UTC | 2026-11-21 19:14 UTC | LIVE Superliga: Dinamo-Petrolul Stage 16 |  |
 | 2026-11-21 19:15 UTC | 2026-11-21 19:29 UTC | LIVE Digi Sport Special |  |
-| 2026-11-21 19:30 UTC | 2026-11-21 20:29 UTC | LIVE Superliga: Dinamo-Petrolul Etapa 16 |  |
+| 2026-11-21 19:30 UTC | 2026-11-21 20:29 UTC | LIVE Superliga: Dinamo-Petrolul Stage 16 |  |
 | 2026-11-21 20:30 UTC | 2026-11-21 21:44 UTC | LIVE Digi Sport Special |  |
 | 2026-11-21 21:45 UTC | 2026-11-21 21:59 UTC | Digi Sport news |  |
 | 2026-11-21 22:00 UTC | 2026-11-21 22:44 UTC | Digi Sport Special |  |
 | 2026-11-21 22:45 UTC | 2026-11-21 22:59 UTC | Digi Sport news |  |
-| 2026-11-21 23:00 UTC | 2026-11-22 00:44 UTC | Superliga: Csikszereda-Corvinul Hunedoara Etapa 16 |  |
-| 2026-11-22 00:45 UTC | 2026-11-22 02:29 UTC | Superliga: CFR Cluj-Otelul Galati Etapa 16 |  |
-| 2026-11-22 02:30 UTC | 2026-11-22 04:14 UTC | Superliga: Dinamo-Petrolul Etapa 16 |  |
+| 2026-11-21 23:00 UTC | 2026-11-22 00:44 UTC | Superliga: Csikszereda-Corvinul Hunedoara Stage 16 |  |
+| 2026-11-22 00:45 UTC | 2026-11-22 02:29 UTC | Superliga: CFR Cluj-Otelul Galati Stage 16 |  |
+| 2026-11-22 02:30 UTC | 2026-11-22 04:14 UTC | Superliga: Dinamo-Petrolul Stage 16 |  |
 | 2026-11-22 04:15 UTC | 2026-11-22 04:59 UTC | Digi Sport Special |  |
 | 2026-11-22 05:00 UTC | 2026-11-22 05:19 UTC | Digi Sport news |  |
 | 2026-11-22 05:20 UTC | 2026-11-22 05:39 UTC | Digi Sport news |  |
@@ -1579,21 +1579,21 @@
 | 2026-11-21 06:30 UTC | 2026-11-21 08:29 UTC | Tennis Tournament of Champions: ATP Finals Turin |  |
 | 2026-11-21 08:30 UTC | 2026-11-21 10:29 UTC | Tennis Tournament of Champions: ATP Finals Turin |  |
 | 2026-11-21 10:30 UTC | 2026-11-21 10:59 UTC | Digi Sport news |  |
-| 2026-11-21 11:00 UTC | 2026-11-21 12:29 UTC | Turneul Campionilor – Semifinala Dublu Tenis: ATP Finals Torino |  |
-| 2026-11-21 12:30 UTC | 2026-11-21 12:59 UTC | Premiera ATP Tour This Week Episodul 45 |  |
+| 2026-11-21 11:00 UTC | 2026-11-21 12:29 UTC | Tournament of Champions - Tennis Doubles Semi-Final: ATP Finals Turin |  |
+| 2026-11-21 12:30 UTC | 2026-11-21 12:59 UTC | ATP Tour This Week Premiere Episode 45 |  |
 | 2026-11-21 13:00 UTC | 2026-11-21 13:29 UTC | Digi Sport news |  |
-| 2026-11-21 13:30 UTC | 2026-11-21 15:14 UTC | Turneul Campionilor – Semifinala Tenis: ATP Finals Torino |  |
-| 2026-11-21 15:15 UTC | 2026-11-21 17:14 UTC | LIVE La Liga: Rayo Vallecano-Valencia Etapa 13 |  |
+| 2026-11-21 13:30 UTC | 2026-11-21 15:14 UTC | Tournament of Champions - Semifinal Tennis: ATP Finals Turin |  |
+| 2026-11-21 15:15 UTC | 2026-11-21 17:14 UTC | LIVE La Liga: Rayo Vallecano-Valencia Round 13 |  |
 | 2026-11-21 17:15 UTC | 2026-11-21 17:29 UTC | Digi Sport news |  |
-| 2026-11-21 17:30 UTC | 2026-11-21 19:29 UTC | LIVE La Liga: Sevilla-Betis Etapa 13 |  |
+| 2026-11-21 17:30 UTC | 2026-11-21 19:29 UTC | LIVE La Liga: Sevilla-Betis Stage 13 |  |
 | 2026-11-21 19:30 UTC | 2026-11-21 19:59 UTC | Digi Sport news |  |
-| 2026-11-21 20:00 UTC | 2026-11-21 21:59 UTC | LIVE La Liga: Real Madrid-Celta Vigo Etapa 13 |  |
-| 2026-11-21 22:00 UTC | 2026-11-21 23:44 UTC | Premiera Serie A: Lazio-Lecce Etapa 12 |  |
-| 2026-11-21 23:45 UTC | 2026-11-22 01:29 UTC | Premiera Serie A: Napoli-Torino Etapa 12 |  |
-| 2026-11-22 01:30 UTC | 2026-11-22 03:29 UTC | Turneul Campionilor – Semifinala Tenis: ATP Finals Torino |  |
-| 2026-11-22 03:30 UTC | 2026-11-22 04:59 UTC | Turneul Campionilor – Semifinala Tenis: ATP Finals Torino |  |
-| 2026-11-22 05:00 UTC | 2026-11-22 06:59 UTC | La Liga: Real Madrid-Celta Vigo Etapa 13 |  |
-| 2026-11-22 07:00 UTC | 2026-11-22 08:59 UTC | Turneul Campionilor – Semifinala Tenis: ATP Finals Torino |  |
+| 2026-11-21 20:00 UTC | 2026-11-21 21:59 UTC | LIVE La Liga: Real Madrid-Celta Vigo Stage 13 |  |
+| 2026-11-21 22:00 UTC | 2026-11-21 23:44 UTC | Serie A premiere: Lazio-Lecce Round 12 |  |
+| 2026-11-21 23:45 UTC | 2026-11-22 01:29 UTC | Serie A premiere: Napoli-Torino Stage 12 |  |
+| 2026-11-22 01:30 UTC | 2026-11-22 03:29 UTC | Tournament of Champions - Semifinal Tennis: ATP Finals Turin |  |
+| 2026-11-22 03:30 UTC | 2026-11-22 04:59 UTC | Tournament of Champions - Semifinal Tennis: ATP Finals Turin |  |
+| 2026-11-22 05:00 UTC | 2026-11-22 06:59 UTC | La Liga: Real Madrid-Celta Vigo Stage 13 |  |
+| 2026-11-22 07:00 UTC | 2026-11-22 08:59 UTC | Tournament of Champions - Semifinal Tennis: ATP Finals Turin |  |
 
 ## DigiSport3.ro (128 programmes)
 
@@ -1660,7 +1660,7 @@
 | 2026-11-20 08:15 UTC | 2026-11-20 08:59 UTC | Digi Sport news |  |
 | 2026-11-20 09:00 UTC | 2026-11-20 11:29 UTC | Live Moto: Portuguese Grand Prix Practice Moto3 / Moto2 / MotoGP (FP1) |  |
 | 2026-11-20 11:30 UTC | 2026-11-20 11:59 UTC | Digi Sport news |  |
-| 2026-11-20 12:00 UTC | 2026-11-20 12:59 UTC | Interviurile Digi Sport Ioan Becali |  |
+| 2026-11-20 12:00 UTC | 2026-11-20 12:59 UTC | Digi Sport Ioan Becali interviews |  |
 | 2026-11-20 13:00 UTC | 2026-11-20 13:14 UTC | Digi Sport news |  |
 | 2026-11-20 13:15 UTC | 2026-11-20 15:59 UTC | Live Moto: Portuguese Grand Prix Practice Moto3 / Moto2 / MotoGP (P) |  |
 | 2026-11-20 16:00 UTC | 2026-11-20 16:14 UTC | Digi Sport news |  |
@@ -1696,19 +1696,19 @@
 | 2026-11-21 07:45 UTC | 2026-11-21 07:59 UTC | Morning gymnastics |  |
 | 2026-11-21 08:00 UTC | 2026-11-21 08:39 UTC | Digi Sport news |  |
 | 2026-11-21 08:40 UTC | 2026-11-21 10:44 UTC | Live Moto: Portuguese Grand Prix Practice Moto3 / Moto2 / MotoGP (FP2) |  |
-| 2026-11-21 10:45 UTC | 2026-11-21 11:44 UTC | Live Moto: Marele Premiu al Portugaliei Calificari MotoGP (Q1/Q2) |  |
-| 2026-11-21 11:45 UTC | 2026-11-21 12:44 UTC | Interviurile Digi Sport Ioan Becali |  |
-| 2026-11-21 12:45 UTC | 2026-11-21 14:29 UTC | Live Moto: Marele Premiu al Portugaliei Calificari Moto2 (Q1/Q2) / Moto3 (Q1/Q2) |  |
+| 2026-11-21 10:45 UTC | 2026-11-21 11:44 UTC | Live Moto: Portuguese Grand Prix MotoGP Qualifying (Q1/Q2) |  |
+| 2026-11-21 11:45 UTC | 2026-11-21 12:44 UTC | Digi Sport Ioan Becali interviews |  |
+| 2026-11-21 12:45 UTC | 2026-11-21 14:29 UTC | Live Moto: Portuguese Grand Prix Qualifying Moto2 (Q1/Q2) / Moto3 (Q1/Q2) |  |
 | 2026-11-21 14:30 UTC | 2026-11-21 14:59 UTC | Digi Sport news |  |
-| 2026-11-21 15:00 UTC | 2026-11-21 15:44 UTC | Live Moto: Marele Premiu al Portugaliei MotoGP Sprint |  |
+| 2026-11-21 15:00 UTC | 2026-11-21 15:44 UTC | Live Moto: Grand Prix of Portugal MotoGP Sprint |  |
 | 2026-11-21 15:45 UTC | 2026-11-21 15:59 UTC | Digi Sport news |  |
-| 2026-11-21 16:00 UTC | 2026-11-21 16:59 UTC | Premiera UEFA Europa Show Magazin Europa League/Conference League |  |
-| 2026-11-21 17:00 UTC | 2026-11-21 18:59 UTC | Live Serie A: Parma-Roma Etapa 12 |  |
+| 2026-11-21 16:00 UTC | 2026-11-21 16:59 UTC | Premier UEFA Europa Show Shop Europa League/Conference League |  |
+| 2026-11-21 17:00 UTC | 2026-11-21 18:59 UTC | Live Serie A: Parma-Roma Stage 12 |  |
 | 2026-11-21 19:00 UTC | 2026-11-21 19:29 UTC | Digi Sport news |  |
-| 2026-11-21 19:30 UTC | 2026-11-21 20:01 UTC | Maza & Romulo) Bundesliga: Special Episodul 8 (Roots: Kane |  |
-| 2026-11-21 20:02 UTC | 2026-11-21 21:59 UTC | Etapa 6 Rugby: Franta-Argentina Nations Championship |  |
-| 2026-11-21 22:00 UTC | 2026-11-21 23:44 UTC | Premiera Bundesliga: Borussia Monchengladbach-Borussia Dortmund Etapa 10 |  |
-| 2026-11-21 23:45 UTC | 2026-11-22 01:29 UTC | Premiera La Liga: Alaves-Deportivo Etapa 13 |  |
+| 2026-11-21 19:30 UTC | 2026-11-21 20:01 UTC | Maza & Romulo) Bundesliga: Special Episode 8 (Roots: Kane |  |
+| 2026-11-21 20:02 UTC | 2026-11-21 21:59 UTC | Stage 6 Rugby: France-Argentina Nations Championship |  |
+| 2026-11-21 22:00 UTC | 2026-11-21 23:44 UTC | Bundesliga premiere: Borussia Monchengladbach-Borussia Dortmund Stage 10 |  |
+| 2026-11-21 23:45 UTC | 2026-11-22 01:29 UTC | La Liga premiere: Alaves-Deportivo Round 13 |  |
 | 2026-11-22 01:30 UTC | 2026-11-22 01:59 UTC | Digi Sport news |  |
 | 2026-11-22 02:00 UTC | 2026-11-22 02:59 UTC | Digi Sport news |  |
 | 2026-11-22 03:00 UTC | 2026-11-22 03:59 UTC | Digi Sport news |  |
@@ -1769,22 +1769,22 @@
 | 2026-11-21 05:00 UTC | 2026-11-21 06:44 UTC | Superliga: Botosani-Voluntari Stage 16 |  |
 | 2026-11-21 06:45 UTC | 2026-11-21 08:29 UTC | Superleague: Farul Constanta-Universitatea Cluj Stage 16 |  |
 | 2026-11-21 08:30 UTC | 2026-11-21 10:14 UTC | Bundesliga: Bayern Munich-Koln Round 10 |  |
-| 2026-11-21 10:15 UTC | 2026-11-21 11:29 UTC | Live Patinaj artistic: ISU Grand Prix Helsinki Pairs (Free Skating) |  |
+| 2026-11-21 10:15 UTC | 2026-11-21 11:29 UTC | Live Figure Skating: ISU Grand Prix Helsinki Pairs (Free Skating) |  |
 | 2026-11-21 11:30 UTC | 2026-11-21 11:59 UTC | Digi Sport news |  |
-| 2026-11-21 12:00 UTC | 2026-11-21 13:44 UTC | Live Patinaj artistic: ISU Grand Prix Helsinki Women (Free Skating) |  |
+| 2026-11-21 12:00 UTC | 2026-11-21 13:44 UTC | Live Figure Skating: ISU Grand Prix Helsinki Women (Free Skating) |  |
 | 2026-11-21 13:45 UTC | 2026-11-21 13:59 UTC | Digi Sport news |  |
-| 2026-11-21 14:00 UTC | 2026-11-21 15:59 UTC | Live Rugby: Anglia-Noua Zeelanda Nations Championship (etapa 6) |  |
+| 2026-11-21 14:00 UTC | 2026-11-21 15:59 UTC | Live Rugby: England-New Zealand Nations Championship (Stage 6) |  |
 | 2026-11-21 16:00 UTC | 2026-11-21 16:31 UTC | Digi Sport news |  |
-| 2026-11-21 16:32 UTC | 2026-11-21 18:29 UTC | Live Rugby: Irlanda-Africa de Sud Nations Championship (etapa 6) |  |
-| 2026-11-21 18:30 UTC | 2026-11-21 19:29 UTC | Interviurile Digi Sport Ioan Becali |  |
-| 2026-11-21 19:30 UTC | 2026-11-21 21:29 UTC | Live Tenis: ATP Finals Torino Semifinale |  |
-| 2026-11-21 21:30 UTC | 2026-11-22 00:44 UTC | Premiera Patinaj artistic: ISU Grand Prix Helsinki Men (Free Skating)/ Ice Dance (Free Dance) |  |
-| 2026-11-22 00:45 UTC | 2026-11-22 02:29 UTC | Rugby: Irlanda-Africa de Sud Nations Championship (etapa 6) |  |
-| 2026-11-22 02:30 UTC | 2026-11-22 03:14 UTC | Moto: Marele Premiu al Portugaliei Sprint MotoGP |  |
-| 2026-11-22 03:15 UTC | 2026-11-22 04:59 UTC | Bundesliga: Borussia Monchengladbach-Borussia Dortmund Etapa 10 |  |
-| 2026-11-22 05:00 UTC | 2026-11-22 06:44 UTC | Superliga: CFR Cluj-Otelul Galati Etapa 16 |  |
-| 2026-11-22 06:45 UTC | 2026-11-22 08:29 UTC | Superliga: Dinamo-Petrolul Etapa 16 |  |
-| 2026-11-22 08:30 UTC | 2026-11-22 11:14 UTC | Patinaj artistic: ISU Grand Prix Helsinki Men (Free Skating)/ Ice Dance (Free Dance) |  |
+| 2026-11-21 16:32 UTC | 2026-11-21 18:29 UTC | Live Rugby: Ireland-South Africa Nations Championship (leg 6) |  |
+| 2026-11-21 18:30 UTC | 2026-11-21 19:29 UTC | Digi Sport Ioan Becali interviews |  |
+| 2026-11-21 19:30 UTC | 2026-11-21 21:29 UTC | Live Tennis: ATP Finals Torino Semifinals |  |
+| 2026-11-21 21:30 UTC | 2026-11-22 00:44 UTC | Figure Skating Premiere: ISU Grand Prix Helsinki Men (Free Skating)/ Ice Dance (Free Dance) |  |
+| 2026-11-22 00:45 UTC | 2026-11-22 02:29 UTC | Rugby: Ireland-South Africa Nations Championship (leg 6) |  |
+| 2026-11-22 02:30 UTC | 2026-11-22 03:14 UTC | Moto: Grand Prix of Portugal Sprint MotoGP |  |
+| 2026-11-22 03:15 UTC | 2026-11-22 04:59 UTC | Bundesliga: Borussia Monchengladbach-Borussia Dortmund Stage 10 |  |
+| 2026-11-22 05:00 UTC | 2026-11-22 06:44 UTC | Superliga: CFR Cluj-Otelul Galati Stage 16 |  |
+| 2026-11-22 06:45 UTC | 2026-11-22 08:29 UTC | Superliga: Dinamo-Petrolul Stage 16 |  |
+| 2026-11-22 08:30 UTC | 2026-11-22 11:14 UTC | Figure skating: ISU Grand Prix Helsinki Men (Free Skating)/ Ice Dance (Free Dance) |  |
 
 ## NovasportsPremierLeague.gr (45 programmes)
 
@@ -1800,7 +1800,7 @@
 | 2026-11-19 14:30 UTC | 2026-11-19 15:00 UTC | Classic Match | Fulham v Liverpool (2010/11). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
 | 2026-11-19 15:00 UTC | 2026-11-19 17:00 UTC | Football: Leeds - Brentford | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-19 17:00 UTC | 2026-11-19 19:00 UTC | Football: Everton - Chelsea | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
-| 2026-11-19 19:00 UTC | 2026-11-19 19:30 UTC | Premier League Stories | Μικέλ Αρτέτα. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό. |
+| 2026-11-19 19:00 UTC | 2026-11-19 19:30 UTC | Premier League Stories | Mikel Arteta. This program showcases the personalities who shaped the Premier League era, with a particular focus on stories that resonate with international audiences. |
 | 2026-11-19 19:30 UTC | 2026-11-19 20:00 UTC | Classic Match | Arsenal - Leicester (2017/18). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
 | 2026-11-19 20:00 UTC | 2026-11-19 22:00 UTC | Football: Newcastle - Liverpool | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-19 22:00 UTC | 2026-11-20 00:00 UTC | Football: Liverpool - Chelsea | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
@@ -1820,21 +1820,21 @@
 | 2026-11-21 00:00 UTC | 2026-11-21 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-21 04:00 UTC | 2026-11-21 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | Football: Manchester City - Sheffield United | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
-| 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | Classic Match | Έβερτον - Λίβερπουλ (2013/14). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας. |
-| 2026-11-21 10:30 UTC | 2026-11-21 11:00 UTC | Classic Match | Λίβερπουλ - Άρσεναλ (2008/09). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας. |
+| 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | Classic Match | Everton v Liverpool (2013/14). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-21 10:30 UTC | 2026-11-21 11:00 UTC | Classic Match | Liverpool v Arsenal (2008/09). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
 | 2026-11-21 11:00 UTC | 2026-11-21 11:30 UTC | Premier League Stories | This program showcases the personalities who shaped the Premier League era, with a particular focus on stories that resonate with international audiences. |
-| 2026-11-21 11:30 UTC | 2026-11-21 12:30 UTC | Live: Premier League Kick-off | Επεισόδιο: 11η Αγωνιστική. Η προεπισκόπηση της αγωνιστικής ζωντανά από τους ειδικούς του Novasports: ανάλυση των σημαντικότερων αγώνων, τα τελευταία νέα και μοναδικά αφιερώματα. Παρουσιάζει ο Άγγελος Στυλιάδης, αναλύει ο expert Γιώργος Σαμαράς. |
-| 2026-11-21 12:30 UTC | 2026-11-21 14:30 UTC | Live: Ποδόσφαιρο: Μάντσεστερ Σίτι - Φούλαμ | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-21 11:30 UTC | 2026-11-21 12:30 UTC | Live: Premier League Kick-off | Episode: 11th Competitive. The matchday preview live from the Novasports experts: analysis of the most important matches, the latest news and exclusive specials. Presented by Angelos Styliadis, analyzed by expert Giorgos Samaras. |
+| 2026-11-21 12:30 UTC | 2026-11-21 14:30 UTC | Live: Football: Manchester City - Fulham | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-21 14:30 UTC | 2026-11-21 15:00 UTC | Premier League Preview | Episode: 11th Competitive. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
-| 2026-11-21 15:00 UTC | 2026-11-21 17:00 UTC | Live: Ποδόσφαιρο: Τσέλσι - Λιντς | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-21 15:00 UTC | 2026-11-21 17:00 UTC | Live: Football: Chelsea - Leeds | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-21 17:00 UTC | 2026-11-21 17:30 UTC | Premier League Preview | Episode: 11th Competitive. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
-| 2026-11-21 17:30 UTC | 2026-11-21 19:30 UTC | Live: Ποδόσφαιρο: Νιούκαστλ - Άρσεναλ | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-21 17:30 UTC | 2026-11-21 19:30 UTC | Live: Football: Newcastle - Arsenal | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-21 19:30 UTC | 2026-11-21 20:00 UTC | Premier League Preview | Episode: 11th Competitive. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
-| 2026-11-21 20:00 UTC | 2026-11-21 22:00 UTC | Ποδόσφαιρο: Μάντσεστερ Γιουνάιτεντ - Άστον Βίλα | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
-| 2026-11-21 22:00 UTC | 2026-11-22 00:00 UTC | Ποδόσφαιρο: Μάντσεστερ Σίτι - Μπέρνλι | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
+| 2026-11-21 20:00 UTC | 2026-11-21 22:00 UTC | Football: Manchester United - Aston Villa | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-21 22:00 UTC | 2026-11-22 00:00 UTC | Football: Manchester City - Burnley | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
 | 2026-11-22 00:00 UTC | 2026-11-22 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-22 04:00 UTC | 2026-11-22 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
-| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Ποδόσφαιρο: Κρίσταλ Πάλας - Μπρέντφορντ | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
+| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Football: Crystal Palace - Brentford | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
 
 ## SkySportAustria1.at (66 programmes)
 
@@ -1891,7 +1891,7 @@
 | 2026-11-21 12:20 UTC | 2026-11-21 14:30 UTC | PL |  |
 | 2026-11-21 14:30 UTC | 2026-11-21 14:45 UTC | PL Highlights |  |
 | 2026-11-21 14:45 UTC | 2026-11-21 15:30 UTC | Admiral BL: All games, all goals |  |
-| 2026-11-21 15:30 UTC | 2026-11-21 18:00 UTC | Admiral BL: Samstags-Konferenz |  |
+| 2026-11-21 15:30 UTC | 2026-11-21 18:00 UTC | Admiral BL: Saturday conference |  |
 | 2026-11-21 18:00 UTC | 2026-11-21 21:00 UTC | Admiral Bundesliga |  |
 | 2026-11-21 21:00 UTC | 2026-11-21 21:30 UTC | UEFA CL: Magazine |  |
 | 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Admiral Bundesliga |  |
@@ -1943,14 +1943,14 @@
 | 2026-11-19 17:30 UTC | 2026-11-19 18:00 UTC | PL: 90in30: MUN - AVL, 10th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
 | 2026-11-19 18:00 UTC | 2026-11-19 18:15 UTC | PL: Greatest Games: Manchester United - Liverpool FC | Manchester United hosted Liverpool in a competition in 2014 where there were three penalties. |
 | 2026-11-19 18:15 UTC | 2026-11-19 18:30 UTC | PL: Under the Skin (Manchester United v Liverpool) | **Football: England, Premier League Under the Skin (Manchester United v Liverpool)** — Manchester United and Liverpool FC have an ongoing rivalry in the Premier League. |
-| 2026-11-19 18:30 UTC | 2026-11-19 18:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-19 18:30 UTC | 2026-11-19 18:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-19 18:45 UTC | 2026-11-19 19:15 UTC | PL: PL Stories (Spurs - The Pochettino era) | **Pochettino's Spurs** — Great personalities and moments that shaped the Premier League are presented. |
 | 2026-11-19 19:15 UTC | 2026-11-19 19:30 UTC | PL: Greatest Games: Liverpool FC - Manchester United | **Liverpool FC - Manchester United (2001)** — Historic matches from the English Premier League are shown again. |
 | 2026-11-19 19:30 UTC | 2026-11-19 19:45 UTC | PL: Greatest Games: Manchester United - Liverpool FC | Manchester United face Liverpool in 2010 with Dimitar Berbatov making the difference. |
 | 2026-11-19 19:45 UTC | 2026-11-19 20:45 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
 | 2026-11-19 20:45 UTC | 2026-11-19 21:15 UTC | PL: The Big Interview (Alex Scott) | Big personalities from the Premier League ask themselves exciting questions in The Big Interview. |
 | 2026-11-19 21:15 UTC | 2026-11-19 21:45 UTC | PL: PL Rewind: Paul Scholes - My Greatest Rivalry | **Paul Scholes: My Greatest Rivalry** — Paul Scholes is a true legend at Manchester United and in the Premier League. |
-| 2026-11-19 21:45 UTC | 2026-11-19 22:00 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-19 21:45 UTC | 2026-11-19 22:00 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-19 22:00 UTC | 2026-11-19 23:00 UTC | PL: 1 to 11 (Thomas Hitzlsperger) | **Thomas Hitzelsberger** — What does the perfect Premier League eleven look like? Thomas Hitzlsperger presents his dream team. |
 | 2026-11-19 23:00 UTC | 2026-11-20 01:00 UTC | PL: FC Fulham - Newcastle United, 10th matchday | From Craven Cottage in London, England. |
 | 2026-11-20 01:00 UTC | 2026-11-20 02:00 UTC | PL: 1 to 11 (Cesc Fabregas) | What does the perfect Premier League eleven look like? In 1 to 11, legends of the Premier League and current top players in the league put together their personal dream eleven. This time with Cesc Fàbregas. |
@@ -1963,7 +1963,7 @@
 | 2026-11-20 07:45 UTC | 2026-11-20 08:00 UTC | PL: Under the Skin (Manchester United v Liverpool) | **Football: England, Premier League Under the Skin (Manchester United v Liverpool)** — Manchester United and Liverpool FC have an ongoing rivalry in the Premier League. |
 | 2026-11-20 08:00 UTC | 2026-11-20 08:30 UTC | PL: Icons: David Beckham | We look back at legendary players in the league. This time it's about David Beckham. |
 | 2026-11-20 08:30 UTC | 2026-11-20 09:00 UTC | PL: PL Rewind: Paul Scholes - My Greatest Rivalry | **Paul Scholes: My Greatest Rivalry** — Paul Scholes is a true legend at Manchester United and in the Premier League. |
-| 2026-11-20 09:00 UTC | 2026-11-20 09:15 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-20 09:00 UTC | 2026-11-20 09:15 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-20 09:15 UTC | 2026-11-20 09:30 UTC | PL: Under the Skin (Manchester United v Liverpool) | **Football: England, Premier League Under the Skin (Manchester United v Liverpool)** — Manchester United and Liverpool FC have an ongoing rivalry in the Premier League. |
 | 2026-11-20 09:30 UTC | 2026-11-20 10:30 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
 | 2026-11-20 10:30 UTC | 2026-11-20 11:00 UTC | PL: Best Goals: Liverpool - Manchester United | Information about this program will be coming soon! |
@@ -1974,19 +1974,19 @@
 | 2026-11-20 12:15 UTC | 2026-11-20 12:45 UTC | PL: PL Rewind: Dietmar Hamann - My Liverpool Years | Sky expert Didi Hamann played for Liverpool FC for years and celebrated great success. The former midfielder looks back on his years at Anfield. |
 | 2026-11-20 12:45 UTC | 2026-11-20 13:15 UTC | PL: PL Rewind: Paul Scholes - My Greatest Rivalry | **Paul Scholes: My Greatest Rivalry** — Paul Scholes is a true legend at Manchester United and in the Premier League. |
 | 2026-11-20 13:15 UTC | 2026-11-20 13:30 UTC | PL: Rooney - Out of this World | **Rooney: Out of This World** — Wayne Rooney was the English football prodigy of the early 2000s. After starting his career at Everton FC, Rooney celebrated titles, trophies and magical moments with Man United. |
-| 2026-11-20 13:30 UTC | 2026-11-20 13:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-20 13:30 UTC | 2026-11-20 13:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-20 13:45 UTC | 2026-11-20 14:45 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
 | 2026-11-20 14:45 UTC | 2026-11-20 15:00 UTC | PL: Greatest Games: Liverpool FC - Manchester United | **Liverpool FC - Manchester United (2001)** — Historic matches from the English Premier League are shown again. |
 | 2026-11-20 15:00 UTC | 2026-11-20 15:15 UTC | PL: Greatest Games: Manchester United - Liverpool FC | Manchester United face Liverpool in 2010 with Dimitar Berbatov making the difference. |
 | 2026-11-20 15:15 UTC | 2026-11-20 15:45 UTC | PL: 90in30: CRY - LIV, 10th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
 | 2026-11-20 15:45 UTC | 2026-11-20 16:15 UTC | PL: PL Stories (Spurs - The Pochettino era) | **Pochettino's Spurs** — Great personalities and moments that shaped the Premier League are presented. |
-| 2026-11-20 16:15 UTC | 2026-11-20 16:30 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-20 16:15 UTC | 2026-11-20 16:30 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-20 16:30 UTC | 2026-11-20 17:00 UTC | PL: Best Goals: Liverpool - Manchester United | Information about this program will be coming soon! |
 | 2026-11-20 17:00 UTC | 2026-11-20 17:30 UTC | PL: 90in30: MUN - AVL, 10th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
 | 2026-11-20 17:30 UTC | 2026-11-20 17:45 UTC | PL: Greatest Games: Liverpool FC - Manchester United | **Liverpool FC - Manchester United (2001)** — Historic matches from the English Premier League are shown again. |
 | 2026-11-20 17:45 UTC | 2026-11-20 18:00 UTC | PL: Under the Skin (Manchester United v Liverpool) | **Football: England, Premier League Under the Skin (Manchester United v Liverpool)** — Manchester United and Liverpool FC have an ongoing rivalry in the Premier League. |
 | 2026-11-20 18:00 UTC | 2026-11-20 18:15 UTC | PL: Greatest Games: Newcastle United - Arsenal FC | The football match between Newcastle United and Arsenal FC from 2011 is shown. |
-| 2026-11-20 18:15 UTC | 2026-11-20 18:30 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-20 18:15 UTC | 2026-11-20 18:30 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-20 18:30 UTC | 2026-11-20 19:00 UTC | PL: Preview, 11th matchday | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 11th matchday of the Premier League. |
 | 2026-11-20 19:00 UTC | 2026-11-20 19:15 UTC | PL: Greatest Games: Manchester United - Liverpool FC | Manchester United hosted Liverpool in a competition in 2014 where there were three penalties. |
 | 2026-11-20 19:15 UTC | 2026-11-20 19:30 UTC | PL: Under the Skin (Manchester United v Liverpool) | **Football: England, Premier League Under the Skin (Manchester United v Liverpool)** — Manchester United and Liverpool FC have an ongoing rivalry in the Premier League. |
@@ -2008,12 +2008,12 @@
 | 2026-11-21 05:00 UTC | 2026-11-21 05:20 UTC | PL: The Greatest Solo Goals | The focus is on the greatest solo goals from the footballers in the Premiere League. |
 | 2026-11-21 05:20 UTC | 2026-11-21 05:40 UTC | PL: The Greatest Solo Goals | The focus is on the greatest solo goals from the footballers in the Premiere League. |
 | 2026-11-21 05:40 UTC | 2026-11-21 06:00 UTC | PL: The Greatest Solo Goals | The focus is on the greatest solo goals from the footballers in the Premiere League. |
-| 2026-11-21 06:00 UTC | 2026-11-21 06:15 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-21 06:00 UTC | 2026-11-21 06:15 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-21 06:15 UTC | 2026-11-21 06:45 UTC | PL: Club 100: Frank Lampard | This time the focus is on Premier League player Frank Lampard with over 100 goals. |
 | 2026-11-21 06:45 UTC | 2026-11-21 07:15 UTC | PL: Preview, 11th matchday | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 11th matchday of the Premier League. |
 | 2026-11-21 07:15 UTC | 2026-11-21 07:45 UTC | PL: PL Rewind: Jay-Jay Okocha (My Bolton Story) | With his incomparable style of play and exceptional technique, Jay-Jay Okocha shaped the history of Bolton Wanderers. We take a look back at the formative years of the charismatic exceptional player in England. |
 | 2026-11-21 07:45 UTC | 2026-11-21 08:45 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
-| 2026-11-21 08:45 UTC | 2026-11-21 09:00 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
+| 2026-11-21 08:45 UTC | 2026-11-21 09:00 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
 | 2026-11-21 09:00 UTC | 2026-11-21 09:30 UTC | PL: PL Rewind: Dietmar Hamann - My Liverpool Years | Sky expert Didi Hamann played for Liverpool FC for years and celebrated great success. The former midfielder looks back on his years at Anfield. |
 | 2026-11-21 09:30 UTC | 2026-11-21 10:00 UTC | PL: Preview, 11th matchday | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 11th matchday of the Premier League. |
 | 2026-11-21 10:00 UTC | 2026-11-21 10:30 UTC | PL: PL Stories (Dimitar Berbatov) | We speak to Dimitar Berbatov, who has had a lasting impact on English football. We show his time in the Premier League and follow his rise at Tottenham Hotspur to his successful time at Manchester United. |
@@ -2021,24 +2021,24 @@
 | 2026-11-21 10:40 UTC | 2026-11-21 11:35 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
 | 2026-11-21 11:35 UTC | 2026-11-21 11:50 UTC | PL: Greatest Games: Newcastle United - Arsenal FC | The football match between Newcastle United and Arsenal FC from 2011 is shown. |
 | 2026-11-21 11:50 UTC | 2026-11-21 12:20 UTC | PL: Preview, 11th matchday | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 11th matchday of the Premier League. |
-| 2026-11-21 12:20 UTC | 2026-11-21 14:50 UTC | Live PL: Manchester City - FC Fulham, 11. Spieltag | Aus dem Etihad Stadium in Manchester, England. |
-| 2026-11-21 14:50 UTC | 2026-11-21 17:20 UTC | Live PL: Goal Rush, CHE - LEE, Premier League Konferenz, 11. Spieltag | The Premier League in the conference: With Goal Rush you won't miss a goal or controversial scene during the main game on Saturday. |
-| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | Live PL: Newcastle United - FC Arsenal, 11. Spieltag | From St. James' Park in Newcastle upon Tyne, England. |
-| 2026-11-21 19:30 UTC | 2026-11-21 19:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
-| 2026-11-21 19:45 UTC | 2026-11-21 20:10 UTC | PL: Highlights Samstag, 11. Spieltag | The Premier League matchday highlights in a compact form. |
-| 2026-11-21 20:10 UTC | 2026-11-21 22:10 UTC | PL: Tottenham Hotspur - Ipswich Town, 11. Spieltag | From the Tottenham Hotspur Stadium in London. |
-| 2026-11-21 22:10 UTC | 2026-11-21 22:35 UTC | PL: Highlights Samstag, 11. Spieltag | The Premier League matchday highlights in a compact form. |
-| 2026-11-21 22:35 UTC | 2026-11-22 00:35 UTC | PL: Coventry City - Crystal Palace, 11. Spieltag | From the Coventry Building Society Arena in Coventry, England, UK. |
-| 2026-11-22 00:35 UTC | 2026-11-22 01:00 UTC | PL: Highlights Samstag, 11. Spieltag | The Premier League matchday highlights in a compact form. |
-| 2026-11-22 01:00 UTC | 2026-11-22 03:00 UTC | PL: FC Chelsea - Leeds United, 11. Spieltag | From Stamford Bridge Stadium in London, UK. |
-| 2026-11-22 03:00 UTC | 2026-11-22 05:00 UTC | PL: Aston Villa - AFC Sunderland, 11. Spieltag | Aus dem Villa Park Stadion in Brimingham, England. |
+| 2026-11-21 12:20 UTC | 2026-11-21 14:50 UTC | Live PL: Manchester City - FC Fulham, 11th matchday | From the Etihad Stadium in Manchester, England. |
+| 2026-11-21 14:50 UTC | 2026-11-21 17:20 UTC | Live PL: Goal Rush, CHE - LEE, Premier League Conference, 11th matchday | The Premier League in the conference: With Goal Rush you won't miss a goal or controversial scene during the main game on Saturday. |
+| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | Live PL: Newcastle United - Arsenal FC, 11th matchday | From St. James' Park in Newcastle upon Tyne, England. |
+| 2026-11-21 19:30 UTC | 2026-11-21 19:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
+| 2026-11-21 19:45 UTC | 2026-11-21 20:10 UTC | PL: Highlights Saturday, 11th matchday | The Premier League matchday highlights in a compact form. |
+| 2026-11-21 20:10 UTC | 2026-11-21 22:10 UTC | PL: Tottenham Hotspur - Ipswich Town, matchday 11 | From the Tottenham Hotspur Stadium in London. |
+| 2026-11-21 22:10 UTC | 2026-11-21 22:35 UTC | PL: Highlights Saturday, 11th matchday | The Premier League matchday highlights in a compact form. |
+| 2026-11-21 22:35 UTC | 2026-11-22 00:35 UTC | PL: Coventry City - Crystal Palace, matchday 11 | From the Coventry Building Society Arena in Coventry, England, UK. |
+| 2026-11-22 00:35 UTC | 2026-11-22 01:00 UTC | PL: Highlights Saturday, 11th matchday | The Premier League matchday highlights in a compact form. |
+| 2026-11-22 01:00 UTC | 2026-11-22 03:00 UTC | PL: Chelsea FC - Leeds United, 11th matchday | From Stamford Bridge Stadium in London, UK. |
+| 2026-11-22 03:00 UTC | 2026-11-22 05:00 UTC | PL: Aston Villa - AFC Sunderland, matchday 11 | From Villa Park Stadium in Brimingham, England. |
 | 2026-11-22 05:00 UTC | 2026-11-22 05:15 UTC | PL: Goal of the Season Winners | The 2025/26 Premier League season once again offered spectacular top-class football with numerous outstanding goals. Relive the most beautiful goals and first-class play and long-range shots from the past season! |
-| 2026-11-22 05:15 UTC | 2026-11-22 07:15 UTC | PL: Manchester City - FC Fulham, 11. Spieltag | Aus dem Etihad Stadium in Manchester, England. |
+| 2026-11-22 05:15 UTC | 2026-11-22 07:15 UTC | PL: Manchester City - FC Fulham, 11th matchday | From the Etihad Stadium in Manchester, England. |
 | 2026-11-22 07:15 UTC | 2026-11-22 07:30 UTC | PL: Greatest Games: Liverpool FC - Manchester United | **Liverpool FC - Manchester United (2001)** — Historic matches from the English Premier League are shown again. |
-| 2026-11-22 07:30 UTC | 2026-11-22 07:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gibt im Interview mit Toni Tomic exklusive Einblicke in seine Aufgabe als Trainer von Newcastle United. |
-| 2026-11-22 07:45 UTC | 2026-11-22 08:10 UTC | PL: Highlights Samstag, 11. Spieltag | The Premier League matchday highlights in a compact form. |
+| 2026-11-22 07:30 UTC | 2026-11-22 07:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
+| 2026-11-22 07:45 UTC | 2026-11-22 08:10 UTC | PL: Highlights Saturday, 11th matchday | The Premier League matchday highlights in a compact form. |
 | 2026-11-22 08:10 UTC | 2026-11-22 08:30 UTC | PL: The Greatest Solo Goals | The focus is on the greatest solo goals from the footballers in the Premiere League. |
-| 2026-11-22 08:30 UTC | 2026-11-22 10:30 UTC | PL: Newcastle United - FC Arsenal, 11. Spieltag | From St. James' Park in Newcastle upon Tyne, England. |
+| 2026-11-22 08:30 UTC | 2026-11-22 10:30 UTC | PL: Newcastle United - Arsenal FC, 11th matchday | From St. James' Park in Newcastle upon Tyne, England. |
 
 ## Sky Sport Calcio.it (0 programmes)
 
@@ -2094,22 +2094,22 @@
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | UEFA Champions League 26/27 - Roma x Real Madrid | Watch the UEFA Champions League game between Roma and Real Madrid. |
 | 2026-11-21 10:00 UTC | 2026-11-21 12:00 UTC | Bundesliga 26/27 - B. Munich x Cologne | Watch the Bundesliga game between Bayern Munchen and Koln. |
 | 2026-11-21 12:00 UTC | 2026-11-21 12:20 UTC | Premier League The Big Interview 26/27 | The best interviews from the Premier League. |
-| 2026-11-21 12:20 UTC | 2026-11-21 14:35 UTC | Premier League 26/27 - Man. City x Fulham (Direto) | Assiste ao jogo da Premier League entre Manchester City x Fulham. |
+| 2026-11-21 12:20 UTC | 2026-11-21 14:35 UTC | Premier League 26/27 - Man. City x Fulham (Live) | Watch the Premier League game between Manchester City and Fulham. |
 | 2026-11-21 14:35 UTC | 2026-11-21 14:50 UTC | PL The Big Interview 26/27 - Noah Okafor | The best interviews from the Premier League. |
-| 2026-11-21 14:50 UTC | 2026-11-21 17:05 UTC | Premier League 26/27 - Chelsea x Leeds United (Direto) | Assiste ao jogo da Premier League entre Chelsea x Leeds United. |
-| 2026-11-21 17:05 UTC | 2026-11-21 17:20 UTC | Premier League Stories 2025-26 - Petr Cech | A carreira de um dos melhores guarda-redes da Premier League quase mudou depois da lesão na cabeça em 2006. A recuperação, o regresso ao topo e a descoberta de novos talentos. |
-| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | Premier League 26/27 - Newcastle United x Arsenal (Direto) | Assiste ao jogo da Premier League entre Newscastle United x Arsenal. |
+| 2026-11-21 14:50 UTC | 2026-11-21 17:05 UTC | Premier League 26/27 – Chelsea x Leeds United (Live) | Watch the Premier League game between Chelsea and Leeds United. |
+| 2026-11-21 17:05 UTC | 2026-11-21 17:20 UTC | Premier League Stories 2025-26 - Petr Cech | The career of one of the best goalkeepers in the Premier League almost changed after his head injury in 2006. The recovery, the return to the top and the discovery of new talents. |
+| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | Premier League 26/27 - Newcastle United x Arsenal (Live) | Watch the Premier League game between Newscastle United and Arsenal. |
 | 2026-11-21 19:30 UTC | 2026-11-21 19:50 UTC | Premier League The Big Interview 26/27 - Kai Havertz | The great Premier League interviews. |
-| 2026-11-21 19:50 UTC | 2026-11-21 22:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Celta de Vigo (Direto) | Assiste ao jogo da LALIGA entre Real Madrid x Celta de Vigo. |
+| 2026-11-21 19:50 UTC | 2026-11-21 22:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Celta Vigo (Live) | Watch the LALIGA game between Real Madrid x Celta de Vigo. |
 | 2026-11-21 22:00 UTC | 2026-11-21 22:30 UTC | La Liga Rookies |  |
-| 2026-11-21 22:30 UTC | 2026-11-21 23:00 UTC | Freetour La Liga 2026/2027 | Assiste ao programa Free Tour LALIGA. |
-| 2026-11-21 23:00 UTC | 2026-11-22 01:00 UTC | La Liga EA Sports 2026-27 - Rayo Vallecano x Valência | Assiste ao jogo da LALIGA entre Rayo Vallecano x Valencia. |
-| 2026-11-22 01:00 UTC | 2026-11-22 03:00 UTC | Bundesliga 26/27 - BoRússia M'Gladbach x B. Dortmund | Assiste ao jogo da Bundesliga entre Borussia M'gladbach x Borussia Dortmund. |
+| 2026-11-21 22:30 UTC | 2026-11-21 23:00 UTC | Freetour La Liga 2026/2027 | Watch the Free Tour LALIGA program. |
+| 2026-11-21 23:00 UTC | 2026-11-22 01:00 UTC | La Liga EA Sports 2026-27 - Rayo Vallecano x Valencia | Watch the LALIGA game between Rayo Vallecano x Valencia. |
+| 2026-11-22 01:00 UTC | 2026-11-22 03:00 UTC | Bundesliga 26/27 - BoRussia M'Gladbach x B. Dortmund | Watch the Bundesliga game between Borussia M'gladbach x Borussia Dortmund. |
 | 2026-11-22 03:00 UTC | 2026-11-22 04:00 UTC | UCL Highlights Show 2026/27 - Matchday |  |
-| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | 2. Bundesliga 2026-27 - Wolfsburg x Holstein Kiel | Assiste ao jogo da 2 Bundesliga entre Wolfsburg x Holstein Kiel. |
-| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Premier League 26/27 - Tottenham Hotspur x Ipswich Town | Assiste ao jogo da Premier League entre Tottenham Hotspur x Ipswich Town. |
+| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | 2. Bundesliga 2026-27 - Wolfsburg x Holstein Kiel | Watch the 2 Bundesliga game between Wolfsburg x Holstein Kiel. |
+| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | Premier League 26/27 – Tottenham Hotspur x Ipswich Town | Watch the Premier League game between Tottenham Hotspur and Ipswich Town. |
 | 2026-11-22 08:00 UTC | 2026-11-22 08:35 UTC | Premier League The Big Interview 26/27 - Emerson | The great Premier League interviews. |
-| 2026-11-22 08:35 UTC | 2026-11-22 09:30 UTC | Premier League Stories 2025-26 - Roberto Mancini | A história do homem que transformou o Manchester City em campeões da Premier League. Uma entrevista honesta de uma das grandes personalidades do futebol. |
+| 2026-11-22 08:35 UTC | 2026-11-22 09:30 UTC | Premier League Stories 2025-26 - Roberto Mancini | The story of the man who transformed Manchester City into Premier League champions. An honest interview with one of football's greatest personalities. |
 
 ## DAZN2.pt (44 programmes)
 
@@ -2145,20 +2145,20 @@
 | 2026-11-21 06:00 UTC | 2026-11-21 08:00 UTC | UEFA Champions League 26/27 - FC Porto x PSV | Watch the UEFA Champions League game between Porto x PSV. |
 | 2026-11-21 08:00 UTC | 2026-11-21 10:00 UTC | UEFA Europa League 26/27 - Torreense x Ararat-Armenia | Watch the UEFA Europa League game between Torreense x Ararat-Armenia. |
 | 2026-11-21 10:00 UTC | 2026-11-21 11:55 UTC | La Liga EA Sports 2026-27 - Ath. Bilbao x Espanyol | Watch the LALIGA game between Athletic Club x Espanyol. |
-| 2026-11-21 11:55 UTC | 2026-11-21 14:00 UTC | 2. Bundesliga 2026-27 - Wolfsburg x Holstein Kiel (Direto) | Assiste ao jogo da 2 Bundesliga entre Wolfsburg x Holstein Kiel. |
+| 2026-11-21 11:55 UTC | 2026-11-21 14:00 UTC | 2. Bundesliga 2026-27 - Wolfsburg x Holstein Kiel (Live) | Watch the 2 Bundesliga game between Wolfsburg x Holstein Kiel. |
 | 2026-11-21 14:00 UTC | 2026-11-21 14:35 UTC | Bundesliga - Best of the Month | Watch the Bundesliga improve in October. |
-| 2026-11-21 14:35 UTC | 2026-11-21 14:50 UTC | Premier League Stories 2025-26 - The Ipswich Way | Assiste ao Premier League Stories. |
-| 2026-11-21 14:50 UTC | 2026-11-21 17:10 UTC | Premier League 26/27 - Tottenham Hotspur x Ipswich Town (Direto) | Assiste ao jogo da Premier League entre Tottenham Hotspur x Ipswich Town. |
+| 2026-11-21 14:35 UTC | 2026-11-21 14:50 UTC | Premier League Stories 2025-26 - The Ipswich Way | Watch Premier League Stories. |
+| 2026-11-21 14:50 UTC | 2026-11-21 17:10 UTC | Premier League 26/27 – Tottenham Hotspur x Ipswich Town (Live) | Watch the Premier League game between Tottenham Hotspur and Ipswich Town. |
 | 2026-11-21 17:10 UTC | 2026-11-21 17:20 UTC | La Liga Rookies |  |
-| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | La Liga EA Sports 2026-27 - Sevilha x Bétis (Direto) | Assiste ao jogo da LALIGA entre Sevilla x Real Betis. |
-| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Premier League 26/27 - Man. City x Fulham | Assiste ao jogo da Premier League entre Manchester City x Fulham. |
-| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Premier League 26/27 - Aston Villa x Sunderland | Assiste ao jogo da Premier League entre Aston Vila x Sunderland. |
-| 2026-11-21 23:30 UTC | 2026-11-22 01:25 UTC | Premier League 26/27 - Chelsea x Leeds United | Assiste ao jogo da Premier League entre Chelsea x Leeds United. |
+| 2026-11-21 17:20 UTC | 2026-11-21 19:30 UTC | La Liga EA Sports 2026-27 - Sevilla x Betis (Live) | Watch the LALIGA game between Sevilla x Real Betis. |
+| 2026-11-21 19:30 UTC | 2026-11-21 21:30 UTC | Premier League 26/27 - Man City x Fulham | Watch the Premier League game between Manchester City and Fulham. |
+| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Premier League 26/27 – Aston Villa x Sunderland | Watch the Premier League game between Aston Vila x Sunderland. |
+| 2026-11-21 23:30 UTC | 2026-11-22 01:25 UTC | Premier League 26/27 – Chelsea x Leeds United | Watch the Premier League game between Chelsea and Leeds United. |
 | 2026-11-22 01:25 UTC | 2026-11-22 02:00 UTC | Premier League The Big Interview 26/27 | The great Premier League interviews. |
-| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Celta de Vigo | Assiste ao jogo da LALIGA entre Real Madrid x Celta de Vigo. |
-| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Premier League 26/27 - Newcastle United x Arsenal | Assiste ao jogo da Premier League entre Newscastle United x Arsenal. |
-| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | La Liga EA Sports 2026-27 - Alavés x D. Corunha | Assiste ao jogo da LALIGA entre Alavés x Deportivo de La Coruña. |
-| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Bundesliga 26/27 - Bayer Leverkusen x Paderborn | Assiste ao jogo da Bundesliga entre Bayer Leverkusen x Paderborn. |
+| 2026-11-22 02:00 UTC | 2026-11-22 04:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Celta Vigo | Watch the LALIGA game between Real Madrid x Celta de Vigo. |
+| 2026-11-22 04:00 UTC | 2026-11-22 06:00 UTC | Premier League 26/27 - Newcastle United x Arsenal | Watch the Premier League game between Newscastle United and Arsenal. |
+| 2026-11-22 06:00 UTC | 2026-11-22 08:00 UTC | La Liga EA Sports 2026-27 - Alavés x D. Coruña | Watch the LALIGA game between Alavés x Deportivo de La Coruña. |
+| 2026-11-22 08:00 UTC | 2026-11-22 10:00 UTC | Bundesliga 26/27 – Bayer Leverkusen x Paderborn | Watch the Bundesliga game between Bayer Leverkusen x Paderborn. |
 
 ## DAZN3.pt (76 programmes)
 
@@ -2220,14 +2220,14 @@
 | 2026-11-21 10:25 UTC | 2026-11-21 10:45 UTC | UEFA Europa League 26/27 - Benfica x Lech Poznań | Watch the UEFA Europa League game between Benfica and Lech Poznań. |
 | 2026-11-21 10:45 UTC | 2026-11-21 12:45 UTC | UEFA Champions League 26/27 - PSG x Barcelona | Watch the UEFA Champions League game between PSG and Barcelona. |
 | 2026-11-21 12:45 UTC | 2026-11-21 13:01 UTC | La Liga Rookies |  |
-| 2026-11-21 13:01 UTC | 2026-11-21 15:00 UTC | La Liga EA Sports 2026-27 - Alavés x D. Corunha (Direto) | Assiste ao jogo da LALIGA entre Alavés x Deportivo de La Coruña. |
+| 2026-11-21 13:01 UTC | 2026-11-21 15:00 UTC | La Liga EA Sports 2026-27 - Alavés x D. Coruña (Live) | Watch the LALIGA game between Alavés x Deportivo de La Coruña. |
 | 2026-11-21 15:00 UTC | 2026-11-21 15:15 UTC | UEFA Champions League 26/27 - FC Porto x Naples | Watch the UEFA Champions League game between Porto and Napoli. |
-| 2026-11-21 15:15 UTC | 2026-11-21 17:20 UTC | La Liga EA Sports 2026-27 - Rayo Vallecano x Valência (Direto) | Assiste ao jogo da LALIGA entre Rayo Vallecano x Valencia. |
-| 2026-11-21 17:20 UTC | 2026-11-21 18:00 UTC | Freetour La Liga 2026/2027 | Assiste ao programa Free Tour LALIGA. |
+| 2026-11-21 15:15 UTC | 2026-11-21 17:20 UTC | La Liga EA Sports 2026-27 - Rayo Vallecano x Valencia (Live) | Watch the LALIGA game between Rayo Vallecano x Valencia. |
+| 2026-11-21 17:20 UTC | 2026-11-21 18:00 UTC | Freetour La Liga 2026/2027 | Watch the Free Tour LALIGA program. |
 | 2026-11-21 18:00 UTC | 2026-11-21 19:00 UTC | UCL Highlights Show 2026/27 - Matchday |  |
-| 2026-11-21 19:00 UTC | 2026-11-21 21:00 UTC | Bundesliga 26/27 - BoRússia M'Gladbach x B. Dortmund | Assiste ao jogo da Bundesliga entre Borussia M'gladbach x Borussia Dortmund. |
-| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Premier League 26/27 - Coventry City x Crystal Palace | Assiste ao jogo da Premier League entre Coventry City x Crystal Palace. |
-| 2026-11-21 23:00 UTC | 2026-11-22 01:00 UTC | Bundesliga 26/27 - E. Frankfurt x Hoffenheim | Assiste ao jogo da Bundesliga entre Eintracht Frankfurt x Hoffenheim. |
+| 2026-11-21 19:00 UTC | 2026-11-21 21:00 UTC | Bundesliga 26/27 - BoRussia M'Gladbach x B. Dortmund | Watch the Bundesliga game between Borussia M'gladbach x Borussia Dortmund. |
+| 2026-11-21 21:00 UTC | 2026-11-21 23:00 UTC | Premier League 26/27 – Coventry City x Crystal Palace | Watch the Premier League game between Coventry City and Crystal Palace. |
+| 2026-11-21 23:00 UTC | 2026-11-22 01:00 UTC | Bundesliga 26/27 - E. Frankfurt x Hoffenheim | Watch the Bundesliga game between Eintracht Frankfurt x Hoffenheim. |
 | 2026-11-22 01:00 UTC | 2026-11-22 01:40 UTC | Information Not Available Through the Channel |  |
 | 2026-11-22 01:40 UTC | 2026-11-22 02:20 UTC | Information Not Available Through the Channel |  |
 | 2026-11-22 02:20 UTC | 2026-11-22 03:00 UTC | Information Not Available Through the Channel |  |
@@ -2378,74 +2378,51 @@
 | 2026-11-21 06:20 UTC | 2026-11-21 06:50 UTC | No Emission | S1 — Sat 21-Nov, 06:20No Broadcast. |
 | 2026-11-21 06:50 UTC | 2026-11-21 07:00 UTC | No Emission | S1 — Sat 21-Nov, 06:50 No Broadcast. |
 | 2026-11-21 07:00 UTC | 2026-11-21 07:35 UTC | No Emission | S1 — Sat 21-Nov, 07:00No Broadcast. |
-| 2026-11-21 07:35 UTC | 2026-11-21 08:05 UTC | No Emission | S1 — sáb 21-nov, 07:35Sem Emissão. |
-| 2026-11-21 08:05 UTC | 2026-11-21 08:35 UTC | No Emission | S1 — sáb 21-nov, 08:05Sem Emissão. |
-| 2026-11-21 08:35 UTC | 2026-11-21 09:15 UTC | No Emission | S1 — sáb 21-nov, 08:35Sem Emissão. |
-| 2026-11-21 09:15 UTC | 2026-11-21 09:45 UTC | No Emission | S1 — sáb 21-nov, 09:15Sem Emissão. |
-| 2026-11-21 09:45 UTC | 2026-11-21 10:15 UTC | No Emission | S1 — sáb 21-nov, 09:45Sem Emissão. |
-| 2026-11-21 10:15 UTC | 2026-11-21 10:50 UTC | No Emission | S1 — sáb 21-nov, 10:15Sem Emissão. |
-| 2026-11-21 10:50 UTC | 2026-11-21 11:20 UTC | No Emission | S1 — sáb 21-nov, 10:50Sem Emissão. |
-| 2026-11-21 11:20 UTC | 2026-11-21 11:50 UTC | No Emission | S1 — sáb 21-nov, 11:20Sem Emissão. |
-| 2026-11-21 11:50 UTC | 2026-11-21 12:25 UTC | No Emission | S1 — sáb 21-nov, 11:50Sem Emissão. |
-| 2026-11-21 12:25 UTC | 2026-11-21 12:30 UTC | No Emission | S1 — sáb 21-nov, 12:25Sem Emissão. |
-| 2026-11-21 12:30 UTC | 2026-11-21 14:25 UTC | Champions League | S1 — Sporting CP x LASKAssiste ao jogo da UEFA Champions League entre Sporting CP x LASK. |
-| 2026-11-21 14:25 UTC | 2026-11-21 16:35 UTC | Bundesliga | S1 — Borussia M'gladbach x Borussia DortmundAssiste ao jogo da Bundesliga entre Borussia M'Gladbach x Borussia Dortmund. |
-| 2026-11-21 16:35 UTC | 2026-11-21 16:50 UTC | Bundesliga Clubs | S1 E5 — M'GladbachAssiste ao Bundesliga Clubs. |
-| 2026-11-21 16:50 UTC | 2026-11-21 17:20 UTC | Bundesliga Special Report - O Melhor do Mês | S1 E3 — OutubroAssiste ao melhor do mês de Outubro da Bundesliga. |
-| 2026-11-21 17:20 UTC | 2026-11-21 17:25 UTC | Bundesliga Clubs | S1 E17 — SchalkeAssiste ao Bundesliga Clubs. |
-| 2026-11-21 17:25 UTC | 2026-11-21 19:30 UTC | Bundesliga | S1 — Schalke 04 x StuttgartAssiste ao jogo da Bundesliga entre Schalke 04 x Stuttgart. |
-| 2026-11-21 19:30 UTC | 2026-11-21 21:20 UTC | Bundesliga | S1 — Union Berlin x RB LeipzigAssiste ao jogo da Bundesliga entre Union Berlin x RB Leipzig. |
+| 2026-11-21 07:35 UTC | 2026-11-21 08:05 UTC | No Emission | S1 — Sat 21-Nov, 07:35No Broadcast. |
+| 2026-11-21 08:05 UTC | 2026-11-21 08:35 UTC | No Emission | S1 — Sat 21-Nov, 08:05 No Broadcast. |
+| 2026-11-21 08:35 UTC | 2026-11-21 09:15 UTC | No Emission | S1 — Sat 21-Nov, 08:35No Broadcast. |
+| 2026-11-21 09:15 UTC | 2026-11-21 09:45 UTC | No Emission | S1 — Sat 21-Nov, 09:15 No Broadcast. |
+| 2026-11-21 09:45 UTC | 2026-11-21 10:15 UTC | No Emission | S1 — Sat 21-Nov, 09:45 No Broadcast. |
+| 2026-11-21 10:15 UTC | 2026-11-21 10:50 UTC | No Emission | S1 — Sat 21-Nov, 10:15No Broadcast. |
+| 2026-11-21 10:50 UTC | 2026-11-21 11:20 UTC | No Emission | S1 — Sat 21-Nov, 10:50No Broadcast. |
+| 2026-11-21 11:20 UTC | 2026-11-21 11:50 UTC | No Emission | S1 — Sat 21-Nov, 11:20No Broadcast. |
+| 2026-11-21 11:50 UTC | 2026-11-21 12:25 UTC | No Emission | S1 — Sat 21-Nov, 11:50No Broadcast. |
+| 2026-11-21 12:25 UTC | 2026-11-21 12:30 UTC | No Emission | S1 — Sat 21-Nov, 12:25No Broadcast. |
+| 2026-11-21 12:30 UTC | 2026-11-21 14:25 UTC | Champions League | S1 — Sporting CP x LASK Watch the UEFA Champions League match between Sporting CP x LASK. |
+| 2026-11-21 14:25 UTC | 2026-11-21 16:35 UTC | Bundesliga | S1 — Borussia M'gladbach x Borussia DortmundWatch the Bundesliga game between Borussia M'Gladbach x Borussia Dortmund. |
+| 2026-11-21 16:35 UTC | 2026-11-21 16:50 UTC | Bundesliga Clubs | S1 D5 — M'GladbachWatches Bundesliga Clubs. |
+| 2026-11-21 16:50 UTC | 2026-11-21 17:20 UTC | Bundesliga Special Report - The Best of the Month | S1 E3 — OctoberWatch the best of the month of October from the Bundesliga. |
+| 2026-11-21 17:20 UTC | 2026-11-21 17:25 UTC | Bundesliga Clubs | S1 E17 — SchalkeWatch Bundesliga Clubs. |
+| 2026-11-21 17:25 UTC | 2026-11-21 19:30 UTC | Bundesliga | S1 — Schalke 04 x StuttgartWatch the Bundesliga game between Schalke 04 x Stuttgart. |
+| 2026-11-21 19:30 UTC | 2026-11-21 21:20 UTC | Bundesliga | S1 — Union Berlin x RB LeipzigWatch the Bundesliga game between Union Berlin x RB Leipzig. |
 | 2026-11-21 21:20 UTC | 2026-11-21 21:40 UTC | WTA Tournament Highlights 2026 | S1 E7 — Finals RiyhadWTA Tournament Highlights 2026. |
-| 2026-11-21 21:40 UTC | 2026-11-21 22:10 UTC | No Emission | S1 — sáb 21-nov, 21:40Sem Emissão. |
-| 2026-11-21 22:10 UTC | 2026-11-21 22:40 UTC | No Emission | S1 — sáb 21-nov, 22:10Sem Emissão. |
-| 2026-11-21 22:40 UTC | 2026-11-21 23:10 UTC | No Emission | S1 — sáb 21-nov, 22:40Sem Emissão. |
-| 2026-11-21 23:10 UTC | 2026-11-21 23:45 UTC | No Emission | S1 — sáb 21-nov, 23:10Sem Emissão. |
-| 2026-11-21 23:45 UTC | 2026-11-22 00:10 UTC | No Emission | S1 — sáb 21-nov, 23:45Sem Emissão. |
-| 2026-11-22 00:10 UTC | 2026-11-22 00:40 UTC | No Emission | S1 — dom 22-nov, 00:10Sem Emissão. |
-| 2026-11-22 00:40 UTC | 2026-11-22 01:15 UTC | No Emission | S1 — dom 22-nov, 00:40Sem Emissão. |
-| 2026-11-22 01:15 UTC | 2026-11-22 01:45 UTC | No Emission | S1 — dom 22-nov, 01:15Sem Emissão. |
-| 2026-11-22 01:45 UTC | 2026-11-22 02:15 UTC | No Emission | S1 — dom 22-nov, 01:45Sem Emissão. |
-| 2026-11-22 02:15 UTC | 2026-11-22 02:45 UTC | No Emission | S1 — dom 22-nov, 02:15Sem Emissão. |
-| 2026-11-22 02:45 UTC | 2026-11-22 03:20 UTC | No Emission | S1 — dom 22-nov, 02:45Sem Emissão. |
-| 2026-11-22 03:20 UTC | 2026-11-22 03:50 UTC | No Emission | S1 — dom 22-nov, 03:20Sem Emissão. |
-| 2026-11-22 03:50 UTC | 2026-11-22 04:20 UTC | No Emission | S1 — dom 22-nov, 03:50Sem Emissão. |
-| 2026-11-22 04:20 UTC | 2026-11-22 04:50 UTC | No Emission | S1 — dom 22-nov, 04:20Sem Emissão. |
-| 2026-11-22 04:50 UTC | 2026-11-22 05:25 UTC | No Emission | S1 — dom 22-nov, 04:50Sem Emissão. |
-| 2026-11-22 05:25 UTC | 2026-11-22 05:55 UTC | No Emission | S1 — dom 22-nov, 05:25Sem Emissão. |
-| 2026-11-22 05:55 UTC | 2026-11-22 06:25 UTC | No Emission | S1 — dom 22-nov, 05:55Sem Emissão. |
-| 2026-11-22 06:25 UTC | 2026-11-22 07:00 UTC | No Emission | S1 — dom 22-nov, 06:25Sem Emissão. |
-| 2026-11-22 07:00 UTC | 2026-11-22 07:30 UTC | No Emission | S1 — dom 22-nov, 07:00Sem Emissão. |
-| 2026-11-22 07:30 UTC | 2026-11-22 08:05 UTC | No Emission | S1 — dom 22-nov, 07:30Sem Emissão. |
-| 2026-11-22 08:05 UTC | 2026-11-22 08:45 UTC | No Emission | S1 — dom 22-nov, 08:05Sem Emissão. |
-| 2026-11-22 08:45 UTC | 2026-11-22 09:15 UTC | No Emission | S1 — dom 22-nov, 08:45Sem Emissão. |
+| 2026-11-21 21:40 UTC | 2026-11-21 22:10 UTC | No Emission | S1 — Sat 21-Nov, 21:40No broadcast. |
+| 2026-11-21 22:10 UTC | 2026-11-21 22:40 UTC | No Emission | S1 — Sat 21-Nov, 22:10No Broadcast. |
+| 2026-11-21 22:40 UTC | 2026-11-21 23:10 UTC | No Emission | S1 — Sat 21-Nov, 22:40No Broadcast. |
+| 2026-11-21 23:10 UTC | 2026-11-21 23:45 UTC | No Emission | S1 — Sat 21-Nov, 23:10No Broadcast. |
+| 2026-11-21 23:45 UTC | 2026-11-22 00:10 UTC | No Emission | S1 — Sat 21-Nov, 23:45No Broadcast. |
+| 2026-11-22 00:10 UTC | 2026-11-22 00:40 UTC | No Emission | S1 — Sun 22-Nov, 00:10 No Broadcast. |
+| 2026-11-22 00:40 UTC | 2026-11-22 01:15 UTC | No Emission | S1 — Sun 22-Nov, 00:40No Broadcast. |
+| 2026-11-22 01:15 UTC | 2026-11-22 01:45 UTC | No Emission | S1 — Sun 22-Nov, 01:15 No Broadcast. |
+| 2026-11-22 01:45 UTC | 2026-11-22 02:15 UTC | No Emission | S1 — Sun 22-Nov, 01:45 No Broadcast. |
+| 2026-11-22 02:15 UTC | 2026-11-22 02:45 UTC | No Emission | S1 — Sun 22-Nov, 02:15 No Broadcast. |
+| 2026-11-22 02:45 UTC | 2026-11-22 03:20 UTC | No Emission | S1 — Sun 22-Nov, 02:45 No Broadcast. |
+| 2026-11-22 03:20 UTC | 2026-11-22 03:50 UTC | No Emission | S1 — Sun 22-Nov, 03:20No Broadcast. |
+| 2026-11-22 03:50 UTC | 2026-11-22 04:20 UTC | No Emission | S1 — Sun 22-Nov, 03:50 No Broadcast. |
+| 2026-11-22 04:20 UTC | 2026-11-22 04:50 UTC | No Emission | S1 — Sun 22-Nov, 04:20 No Broadcast. |
+| 2026-11-22 04:50 UTC | 2026-11-22 05:25 UTC | No Emission | S1 — Sun 22-Nov, 04:50 No Broadcast. |
+| 2026-11-22 05:25 UTC | 2026-11-22 05:55 UTC | No Emission | S1 — Sun 22-Nov, 05:25 No Broadcast. |
+| 2026-11-22 05:55 UTC | 2026-11-22 06:25 UTC | No Emission | S1 — Sun 22-Nov, 05:55 No Broadcast. |
+| 2026-11-22 06:25 UTC | 2026-11-22 07:00 UTC | No Emission | S1 — Sun 22-Nov, 06:25 No Broadcast. |
+| 2026-11-22 07:00 UTC | 2026-11-22 07:30 UTC | No Emission | S1 — Sun 22-Nov, 07:00 No Broadcast. |
+| 2026-11-22 07:30 UTC | 2026-11-22 08:05 UTC | No Emission | S1 — Sun 22-Nov, 07:30 No Broadcast. |
+| 2026-11-22 08:05 UTC | 2026-11-22 08:45 UTC | No Emission | S1 — Sun 22-Nov, 08:05 No Broadcast. |
+| 2026-11-22 08:45 UTC | 2026-11-22 09:15 UTC | No Emission | S1 — Sun 22-Nov, 08:45 No Broadcast. |
 
-## KompasTV.id (71 programmes)
+## KompasTV.id (72 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-18 17:00 UTC | 2026-11-18 18:00 UTC | Berita Utama |  |
-| 2026-11-18 18:00 UTC | 2026-11-18 19:30 UTC | Kompas Petang |  |
-| 2026-11-18 19:30 UTC | 2026-11-18 20:00 UTC | Jurnal Merah Putih |  |
-| 2026-11-18 20:00 UTC | 2026-11-18 21:00 UTC | Kalam Hati |  |
-| 2026-11-18 21:00 UTC | 2026-11-18 21:30 UTC | Borgol |  |
-| 2026-11-18 21:30 UTC | 2026-11-18 23:30 UTC | Kompas Pagi |  |
-| 2026-11-18 23:30 UTC | 2026-11-19 00:00 UTC | Jurnal Nusantara |  |
-| 2026-11-19 00:00 UTC | 2026-11-19 02:30 UTC | Sapa Indonesia Pagi |  |
-| 2026-11-19 02:30 UTC | 2026-11-19 03:30 UTC | Berita Utama |  |
-| 2026-11-19 03:30 UTC | 2026-11-19 04:00 UTC | Borgol |  |
-| 2026-11-19 04:00 UTC | 2026-11-19 06:00 UTC | Kompas Siang |  |
-| 2026-11-19 06:00 UTC | 2026-11-19 07:00 UTC | Sapa Indonesia Siang |  |
-| 2026-11-19 07:00 UTC | 2026-11-19 07:30 UTC | Berkas Kompas |  |
-| 2026-11-19 07:30 UTC | 2026-11-19 08:00 UTC | Jurnal Nusantara |  |
-| 2026-11-19 08:00 UTC | 2026-11-19 08:30 UTC | Jurnal Merah Putih |  |
-| 2026-11-19 08:30 UTC | 2026-11-19 09:00 UTC | Borgol |  |
-| 2026-11-19 09:00 UTC | 2026-11-19 10:30 UTC | Kompas Petang |  |
-| 2026-11-19 10:30 UTC | 2026-11-19 12:30 UTC | Sapa Indonesia Malam |  |
-| 2026-11-19 12:30 UTC | 2026-11-19 13:30 UTC | Berita Utama |  |
-| 2026-11-19 13:30 UTC | 2026-11-19 15:00 UTC | Rosi On Location |  |
-| 2026-11-19 15:00 UTC | 2026-11-19 16:00 UTC | Kompas Malam |  |
-| 2026-11-19 16:00 UTC | 2026-11-19 16:30 UTC | Kompas Sport |  |
-| 2026-11-19 16:30 UTC | 2026-11-19 17:00 UTC | Kilas Kompas |  |
 | 2026-11-19 17:00 UTC | 2026-11-19 18:00 UTC | Berita Utama |  |
 | 2026-11-19 18:00 UTC | 2026-11-19 19:30 UTC | Kompas Petang |  |
 | 2026-11-19 19:30 UTC | 2026-11-19 20:00 UTC | Jurnal Merah Putih |  |
@@ -2494,79 +2471,88 @@
 | 2026-11-21 14:00 UTC | 2026-11-21 15:00 UTC | Kompas Malam |  |
 | 2026-11-21 15:00 UTC | 2026-11-21 15:15 UTC | Berkas Kompas |  |
 | 2026-11-21 15:15 UTC | 2026-11-21 17:30 UTC | Eredivisie 2026/27 |  |
+| 2026-11-21 17:30 UTC | 2026-11-21 19:00 UTC | Rosi On Location |  |
+| 2026-11-21 19:00 UTC | 2026-11-21 20:00 UTC | Berita Utama |  |
+| 2026-11-21 20:00 UTC | 2026-11-21 21:00 UTC | Kompas Malam |  |
+| 2026-11-21 21:00 UTC | 2026-11-21 21:30 UTC | Borgol |  |
+| 2026-11-21 21:30 UTC | 2026-11-21 23:30 UTC | Kompas Pagi Akhir Pekan |  |
+| 2026-11-21 23:30 UTC | 2026-11-22 00:00 UTC | Jurnal Nusantara |  |
+| 2026-11-22 00:00 UTC | 2026-11-22 02:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-22 02:30 UTC | 2026-11-22 03:30 UTC | VVIP |  |
+| 2026-11-22 03:30 UTC | 2026-11-22 04:00 UTC | Jalan-Jalan |  |
+| 2026-11-22 04:00 UTC | 2026-11-22 05:00 UTC | Kompas Siang |  |
+| 2026-11-22 05:00 UTC | 2026-11-22 05:30 UTC | Jurnal Nusantara |  |
+| 2026-11-22 05:30 UTC | 2026-11-22 06:00 UTC | Borgol |  |
+| 2026-11-22 06:00 UTC | 2026-11-22 07:00 UTC | Kalam Hati |  |
+| 2026-11-22 07:00 UTC | 2026-11-22 08:00 UTC | VVIP |  |
+| 2026-11-22 08:00 UTC | 2026-11-22 08:30 UTC | Laporan Khusus |  |
+| 2026-11-22 08:30 UTC | 2026-11-22 09:00 UTC | Borgol |  |
+| 2026-11-22 09:00 UTC | 2026-11-22 10:30 UTC | Kompas Petang |  |
+| 2026-11-22 10:30 UTC | 2026-11-22 11:00 UTC | Kompas Sepekan |  |
+| 2026-11-22 11:00 UTC | 2026-11-22 12:00 UTC | 60 Menit Spesial Report |  |
+| 2026-11-22 12:00 UTC | 2026-11-22 13:00 UTC | Sapa Indonesia Malam |  |
+| 2026-11-22 13:00 UTC | 2026-11-22 14:00 UTC | Berita Utama |  |
+| 2026-11-22 14:00 UTC | 2026-11-22 15:00 UTC | Kompas Malam |  |
+| 2026-11-22 15:00 UTC | 2026-11-22 15:30 UTC | Borgol |  |
+| 2026-11-22 15:30 UTC | 2026-11-22 17:00 UTC | Bola Liar |  |
 
-## WarnerTV.id (44 programmes)
+## WarnerTV.id (43 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-18 15:30 UTC | 2026-11-18 17:20 UTC | Wild Wild West | Dua agen pemerintah yang kontras bekerja sama menggunakan teknologi canggih abad ke-19 untuk menghentikan ilmuwan gila yang mengancam AS. |
-| 2026-11-18 17:20 UTC | 2026-11-18 17:45 UTC | Container Wars S1: Eps. 4 - Last Laugh | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-18 17:45 UTC | 2026-11-18 18:30 UTC | World's Dumbest S16: Eps. 2 - Motorheads 10 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-18 18:30 UTC | 2026-11-18 19:15 UTC | Titans S2: Eps. 2 - Rose | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
-| 2026-11-18 19:15 UTC | 2026-11-18 19:40 UTC | Storage Hunters S6: Eps. 16 - Bid ‘Em Up | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-18 19:40 UTC | 2026-11-18 20:00 UTC | Storage Hunters S6: Eps. 17 - Rolling Thunder | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-18 20:00 UTC | 2026-11-18 20:45 UTC | The Mentalist S6: Eps. 11 - White Lines | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-18 20:45 UTC | 2026-11-18 21:35 UTC | Titans S2: Eps. 2 - Rose | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
-| 2026-11-18 21:35 UTC | 2026-11-18 22:00 UTC | Hack My Life S2: Eps. 17 - The Secret to Hacking | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-18 22:00 UTC | 2026-11-18 22:25 UTC | Container Wars S1: Eps. 5 - Matt Attack | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-18 22:25 UTC | 2026-11-18 22:50 UTC | Container Wars S1: Eps. 6 - Four-Wheeled Fortunes | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-18 22:50 UTC | 2026-11-18 23:40 UTC | World's Dumbest S16: Eps. 3 - Performers 16 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-18 23:40 UTC | 2026-11-19 00:05 UTC | Impractical Jokers S6: Eps. 3 - The Parent Trap | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 00:05 UTC | 2026-11-19 00:30 UTC | Impractical Jokers S6: Eps. 4 - Catastrophe | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 00:30 UTC | 2026-11-19 00:55 UTC | Storage Hunters S6: Eps. 18 - Too Hot! | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 00:55 UTC | 2026-11-19 01:20 UTC | Storage Hunters S6: Eps. 19 - His Way | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 01:20 UTC | 2026-11-19 01:45 UTC | Container Wars S1: Eps. 5 - Matt Attack | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-19 01:45 UTC | 2026-11-19 02:10 UTC | Container Wars S1: Eps. 6 - Four-Wheeled Fortunes | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-19 02:10 UTC | 2026-11-19 03:00 UTC | The Mentalist S6: Eps. 12 - The Golden Hammer | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-19 03:00 UTC | 2026-11-19 03:25 UTC | The Carbonaro Effect S3: Eps. 11 - Catch The Flu | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
-| 2026-11-19 03:25 UTC | 2026-11-19 03:50 UTC | Hack My Life S2: Eps. 18 - The Doctor is In | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-19 03:50 UTC | 2026-11-19 04:15 UTC | Impractical Jokers S6: Eps. 3 - The Parent Trap | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 04:15 UTC | 2026-11-19 04:40 UTC | Impractical Jokers S6: Eps. 4 - Catastrophe | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 04:40 UTC | 2026-11-19 05:05 UTC | Storage Hunters S6: Eps. 18 - Too Hot! | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 05:05 UTC | 2026-11-19 05:30 UTC | Storage Hunters S6: Eps. 19 - His Way | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 05:30 UTC | 2026-11-19 05:55 UTC | The Big Bang Theory S7: Eps. 24 - The Status Quo Combustion | Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi. |
-| 2026-11-19 05:55 UTC | 2026-11-19 06:20 UTC | Friends S7: Eps. 3 - The One With Phoebe's Cookies | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-19 06:20 UTC | 2026-11-19 07:10 UTC | World's Dumbest S16: Eps. 3 - Performers 16 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-19 07:10 UTC | 2026-11-19 08:00 UTC | The Mentalist S6: Eps. 12 - The Golden Hammer | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-19 08:00 UTC | 2026-11-19 08:25 UTC | The Big Bang Theory S7: Eps. 24 - The Status Quo Combustion | Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi. |
-| 2026-11-19 08:25 UTC | 2026-11-19 08:50 UTC | Friends S7: Eps. 3 - The One With Phoebe's Cookies | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-19 08:50 UTC | 2026-11-19 09:15 UTC | Storage Hunters S6: Eps. 18 - Too Hot! | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 09:15 UTC | 2026-11-19 09:40 UTC | Storage Hunters S6: Eps. 19 - His Way | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 09:40 UTC | 2026-11-19 10:05 UTC | Impractical Jokers S6: Eps. 3 - The Parent Trap | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 10:05 UTC | 2026-11-19 10:30 UTC | Impractical Jokers S6: Eps. 4 - Catastrophe | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-19 10:30 UTC | 2026-11-19 10:55 UTC | Container Wars S1: Eps. 5 - Matt Attack | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-19 10:55 UTC | 2026-11-19 11:20 UTC | Container Wars S1: Eps. 6 - Four-Wheeled Fortunes | Peserta lelang bersaing memenangkan kontainer misterius, berharap menemukan barang langka bernilai tinggi. |
-| 2026-11-19 11:20 UTC | 2026-11-19 11:45 UTC | The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
-| 2026-11-19 11:45 UTC | 2026-11-19 12:10 UTC | Friends S7: Eps. 4 - The One With Rachel's Assistant | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-19 12:10 UTC | 2026-11-19 12:35 UTC | The Carbonaro Effect S3: Eps. 11 - Catch The Flu | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
-| 2026-11-19 12:35 UTC | 2026-11-19 13:00 UTC | Hack My Life S2: Eps. 18 - The Doctor is In | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-19 13:00 UTC | 2026-11-19 15:40 UTC | Inception | Pencuri mimpi berpengalaman memimpin tim untuk menanamkan ide di alam bawah sadar, melintasi lapisan realitas yang kian berbahaya. |
 | 2026-11-19 15:40 UTC | 2026-11-19 17:50 UTC | The Town | Seorang perampok bank profesional jatuh hati pada saksi kunci perampokannya sambil mencoba kabur dari kejaran FBI. |
-| 2026-11-19 15:40 UTC | 2026-11-19 17:50 UTC | The Town | Seorang perampok bank profesional jatuh hati pada saksi kunci perampokannya sambil mencoba kabur dari kejaran FBI. |
+| 2026-11-19 17:50 UTC | 2026-11-19 18:30 UTC | World's Dumbest S16: Eps. 3 - Performers 16 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
+| 2026-11-19 18:30 UTC | 2026-11-19 19:20 UTC | Titans S2: Eps. 3 - Ghosts | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
+| 2026-11-19 19:20 UTC | 2026-11-19 19:40 UTC | Storage Hunters S6: Eps. 18 - Too Hot! | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-19 19:40 UTC | 2026-11-19 20:00 UTC | Storage Hunters S6: Eps. 19 - His Way | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-19 20:00 UTC | 2026-11-19 20:45 UTC | The Mentalist S6: Eps. 12 - The Golden Hammer | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
+| 2026-11-19 20:45 UTC | 2026-11-19 21:35 UTC | Titans S2: Eps. 3 - Ghosts | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
+| 2026-11-19 21:35 UTC | 2026-11-19 22:00 UTC | Hack My Life S2: Eps. 18 - The Doctor is In | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
+| 2026-11-19 22:00 UTC | 2026-11-19 22:25 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-19 22:25 UTC | 2026-11-19 22:50 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-19 22:50 UTC | 2026-11-19 23:40 UTC | World's Dumbest S16: Eps. 4 - Inventions 11 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
+| 2026-11-19 23:40 UTC | 2026-11-20 00:05 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 00:05 UTC | 2026-11-20 00:30 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 00:30 UTC | 2026-11-20 00:55 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 00:55 UTC | 2026-11-20 01:20 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 01:20 UTC | 2026-11-20 01:45 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-20 01:45 UTC | 2026-11-20 02:10 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-20 02:10 UTC | 2026-11-20 03:00 UTC | The Mentalist S6: Eps. 13 - Black Helicopters | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
+| 2026-11-20 03:00 UTC | 2026-11-20 03:25 UTC | The Carbonaro Effect S3: Eps. 12 - Deep Space Air | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
+| 2026-11-20 03:25 UTC | 2026-11-20 03:50 UTC | Hack My Life S2: Eps. 19 - Hack Nanny Saves The Day | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
+| 2026-11-20 03:50 UTC | 2026-11-20 04:15 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 04:15 UTC | 2026-11-20 04:40 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 04:40 UTC | 2026-11-20 05:05 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 05:05 UTC | 2026-11-20 05:30 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 05:30 UTC | 2026-11-20 05:55 UTC | The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
+| 2026-11-20 05:55 UTC | 2026-11-20 06:20 UTC | Friends S7: Eps. 4 - The One With Rachel's Assistant | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
+| 2026-11-20 06:20 UTC | 2026-11-20 07:10 UTC | World's Dumbest S16: Eps. 4 - Inventions 11 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
+| 2026-11-20 07:10 UTC | 2026-11-20 08:00 UTC | The Mentalist S6: Eps. 13 - Black Helicopters | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
+| 2026-11-20 08:00 UTC | 2026-11-20 08:25 UTC | The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
+| 2026-11-20 08:25 UTC | 2026-11-20 08:50 UTC | Friends S7: Eps. 4 - The One With Rachel's Assistant | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
+| 2026-11-20 08:50 UTC | 2026-11-20 09:15 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 09:15 UTC | 2026-11-20 09:40 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
+| 2026-11-20 09:40 UTC | 2026-11-20 10:05 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 10:05 UTC | 2026-11-20 10:30 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
+| 2026-11-20 10:30 UTC | 2026-11-20 10:55 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-20 10:55 UTC | 2026-11-20 11:20 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
+| 2026-11-20 11:20 UTC | 2026-11-20 11:45 UTC | The Big Bang Theory S8: Eps. 2 - The Junior Professor Solution | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
+| 2026-11-20 11:45 UTC | 2026-11-20 12:10 UTC | Friends S7: Eps. 5 - The One With The Engagement Picture | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
+| 2026-11-20 12:10 UTC | 2026-11-20 12:35 UTC | The Carbonaro Effect S3: Eps. 12 - Deep Space Air | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
+| 2026-11-20 12:35 UTC | 2026-11-20 13:00 UTC | Hack My Life S2: Eps. 19 - Hack Nanny Saves The Day | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
+| 2026-11-20 13:00 UTC | 2026-11-20 15:00 UTC | War Dogs | Dua pemuda mengambil keuntungan dari konflik global dengan menjadi pedagang senjata internasional hingga terjebak dalam masalah besar. |
+| 2026-11-20 15:00 UTC | 2026-11-20 17:20 UTC | Pacific Rim | Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra. |
+| 2026-11-20 15:00 UTC | 2026-11-20 17:20 UTC | Pacific Rim | Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra. |
 
 ## RCTI.id (28 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-18 17:00 UTC | 2026-11-18 19:00 UTC | Jangan Bercerai Bunda |  |
-| 2026-11-18 19:00 UTC | 2026-11-18 20:00 UTC | Roman Picisan |  |
-| 2026-11-18 20:00 UTC | 2026-11-18 22:15 UTC | Anak Jalanan |  |
-| 2026-11-18 22:15 UTC | 2026-11-18 22:45 UTC | Seputar iNews |  |
-| 2026-11-18 22:45 UTC | 2026-11-19 01:00 UTC | Putri Untuk Pangeran |  |
-| 2026-11-19 01:00 UTC | 2026-11-19 03:15 UTC | Cinta Tanpa Karena |  |
-| 2026-11-19 03:15 UTC | 2026-11-19 03:45 UTC | Go Spot Eksklusif |  |
-| 2026-11-19 03:45 UTC | 2026-11-19 05:00 UTC | Terikat Janji Selamanya |  |
-| 2026-11-19 05:00 UTC | 2026-11-19 10:30 UTC | Ikatan Cinta Aldebaran & Andin |  |
-| 2026-11-19 10:30 UTC | 2026-11-19 11:30 UTC | Ternyata Ini Cinta |  |
-| 2026-11-19 11:30 UTC | 2026-11-19 14:00 UTC | ACC Shopee Cup: SIB Vs SHU (L) |  |
-| 2026-11-19 14:00 UTC | 2026-11-19 15:00 UTC | Terbaik Itu Kamu |  |
-| 2026-11-19 15:00 UTC | 2026-11-19 16:30 UTC | Terbelenggu Rindu Amira |  |
-| 2026-11-19 16:30 UTC | 2026-11-19 17:00 UTC | Terikat Takdir |  |
 | 2026-11-19 17:00 UTC | 2026-11-19 19:00 UTC | Jangan Bercerai Bunda |  |
 | 2026-11-19 19:00 UTC | 2026-11-19 20:00 UTC | Roman Picisan |  |
 | 2026-11-19 20:00 UTC | 2026-11-19 22:15 UTC | Anak Jalanan |  |
 | 2026-11-19 22:15 UTC | 2026-11-19 22:45 UTC | Seputar iNews |  |
-| 2026-11-19 22:45 UTC | 2026-11-20 01:00 UTC | Putri Untuk Pangeran |  |
+| 2026-11-19 22:45 UTC | 2026-11-20 01:00 UTC | Cinta Sebening Embun |  |
 | 2026-11-20 01:00 UTC | 2026-11-20 03:15 UTC | Cinta Tanpa Karena |  |
 | 2026-11-20 03:15 UTC | 2026-11-20 03:45 UTC | Go Spot Eksklusif |  |
 | 2026-11-20 03:45 UTC | 2026-11-20 05:00 UTC | Terikat Janji Selamanya |  |
@@ -2576,4 +2562,18 @@
 | 2026-11-20 13:30 UTC | 2026-11-20 15:00 UTC | Terbaik Itu Kamu |  |
 | 2026-11-20 15:00 UTC | 2026-11-20 16:30 UTC | Terbelenggu Rindu Amira |  |
 | 2026-11-20 16:30 UTC | 2026-11-20 17:00 UTC | Terikat Takdir |  |
+| 2026-11-20 17:00 UTC | 2026-11-20 19:15 UTC | Jangan Bercerai Bunda |  |
+| 2026-11-20 19:15 UTC | 2026-11-20 21:30 UTC | Bundesliga: FCB Vs KOL (L) |  |
+| 2026-11-20 21:30 UTC | 2026-11-20 22:45 UTC | Anak Jalanan |  |
+| 2026-11-20 22:45 UTC | 2026-11-21 01:00 UTC | Upin & Ipin |  |
+| 2026-11-21 01:00 UTC | 2026-11-21 03:15 UTC | Entong |  |
+| 2026-11-21 03:15 UTC | 2026-11-21 03:45 UTC | Titus The Detective |  |
+| 2026-11-21 03:45 UTC | 2026-11-21 06:15 UTC | Terbaik Itu Kamu Serazi |  |
+| 2026-11-21 06:15 UTC | 2026-11-21 09:30 UTC | Ikatan Cinta Aldebaran & Andin |  |
+| 2026-11-21 09:30 UTC | 2026-11-21 10:30 UTC | Oke Chef |  |
+| 2026-11-21 10:30 UTC | 2026-11-21 12:00 UTC | Ternyata Ini Cinta |  |
+| 2026-11-21 12:00 UTC | 2026-11-21 13:30 UTC | Terikat Janji |  |
+| 2026-11-21 13:30 UTC | 2026-11-21 15:00 UTC | Terbaik Itu Kamu |  |
+| 2026-11-21 15:00 UTC | 2026-11-21 16:00 UTC | Cinta Terlarang Di Meja CEO |  |
+| 2026-11-21 16:00 UTC | 2026-11-21 17:15 UTC | Tiger & Crane |  |
 
