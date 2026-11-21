@@ -2454,33 +2454,10 @@
 | 2026-11-23 08:05 UTC | 2026-11-23 08:35 UTC | No Emission | S1 — seg 23-nov, 08:05Sem Emissão. |
 | 2026-11-23 08:35 UTC | 2026-11-23 09:05 UTC | No Emission | S1 — seg 23-nov, 08:35Sem Emissão. |
 
-## KompasTV.id (72 programmes)
+## KompasTV.id (74 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-19 17:00 UTC | 2026-11-19 18:00 UTC | Berita Utama |  |
-| 2026-11-19 18:00 UTC | 2026-11-19 19:30 UTC | Kompas Petang |  |
-| 2026-11-19 19:30 UTC | 2026-11-19 20:00 UTC | Jurnal Merah Putih |  |
-| 2026-11-19 20:00 UTC | 2026-11-19 21:00 UTC | Kalam Hati |  |
-| 2026-11-19 21:00 UTC | 2026-11-19 21:30 UTC | Borgol |  |
-| 2026-11-19 21:30 UTC | 2026-11-19 23:30 UTC | Kompas Pagi |  |
-| 2026-11-19 23:30 UTC | 2026-11-20 00:00 UTC | Jurnal Nusantara |  |
-| 2026-11-20 00:00 UTC | 2026-11-20 02:30 UTC | Sapa Indonesia Pagi |  |
-| 2026-11-20 02:30 UTC | 2026-11-20 03:30 UTC | Berita Utama |  |
-| 2026-11-20 03:30 UTC | 2026-11-20 04:00 UTC | Borgol |  |
-| 2026-11-20 04:00 UTC | 2026-11-20 06:00 UTC | Kompas Siang |  |
-| 2026-11-20 06:00 UTC | 2026-11-20 07:00 UTC | Sapa Indonesia Siang |  |
-| 2026-11-20 07:00 UTC | 2026-11-20 07:30 UTC | Kompas Sport |  |
-| 2026-11-20 07:30 UTC | 2026-11-20 08:00 UTC | Jurnal Nusantara |  |
-| 2026-11-20 08:00 UTC | 2026-11-20 08:30 UTC | Jurnal Merah Putih |  |
-| 2026-11-20 08:30 UTC | 2026-11-20 09:00 UTC | Borgol |  |
-| 2026-11-20 09:00 UTC | 2026-11-20 10:30 UTC | Kompas Petang |  |
-| 2026-11-20 10:30 UTC | 2026-11-20 12:00 UTC | Sapa Indonesia Malam |  |
-| 2026-11-20 12:00 UTC | 2026-11-20 13:30 UTC | Berita Utama |  |
-| 2026-11-20 13:30 UTC | 2026-11-20 15:00 UTC | Bola Liar |  |
-| 2026-11-20 15:00 UTC | 2026-11-20 16:00 UTC | Kompas Malam |  |
-| 2026-11-20 16:00 UTC | 2026-11-20 16:30 UTC | Kompas Sport |  |
-| 2026-11-20 16:30 UTC | 2026-11-20 17:00 UTC | Kilas Kompas |  |
 | 2026-11-20 17:00 UTC | 2026-11-20 18:00 UTC | Berita Utama |  |
 | 2026-11-20 18:00 UTC | 2026-11-20 20:00 UTC | Kompas Petang |  |
 | 2026-11-20 20:00 UTC | 2026-11-20 20:30 UTC | Kompas Malam |  |
@@ -2530,73 +2507,43 @@
 | 2026-11-22 14:00 UTC | 2026-11-22 15:00 UTC | Kompas Malam |  |
 | 2026-11-22 15:00 UTC | 2026-11-22 15:30 UTC | Borgol |  |
 | 2026-11-22 15:30 UTC | 2026-11-22 17:00 UTC | Bola Liar |  |
+| 2026-11-22 17:00 UTC | 2026-11-22 17:30 UTC | Kompas Sepekan |  |
+| 2026-11-22 17:30 UTC | 2026-11-22 18:00 UTC | Borgol |  |
+| 2026-11-22 18:00 UTC | 2026-11-22 19:45 UTC | Eredivisie 2026/27 |  |
+| 2026-11-22 19:45 UTC | 2026-11-22 20:00 UTC | Kompas Sepekan |  |
+| 2026-11-22 20:00 UTC | 2026-11-22 21:00 UTC | Kalam Hati |  |
+| 2026-11-22 21:00 UTC | 2026-11-22 21:30 UTC | Borgol |  |
+| 2026-11-22 21:30 UTC | 2026-11-22 23:30 UTC | Kompas Pagi |  |
+| 2026-11-22 23:30 UTC | 2026-11-23 00:00 UTC | Jurnal Nusantara |  |
+| 2026-11-23 00:00 UTC | 2026-11-23 02:30 UTC | Sapa Indonesia Pagi |  |
+| 2026-11-23 02:30 UTC | 2026-11-23 03:30 UTC | Berita Utama |  |
+| 2026-11-23 03:30 UTC | 2026-11-23 04:00 UTC | Borgol |  |
+| 2026-11-23 04:00 UTC | 2026-11-23 06:00 UTC | Kompas Siang |  |
+| 2026-11-23 06:00 UTC | 2026-11-23 07:00 UTC | Sapa Indonesia Siang |  |
+| 2026-11-23 07:00 UTC | 2026-11-23 07:30 UTC | Berkas Kompas |  |
+| 2026-11-23 07:30 UTC | 2026-11-23 08:00 UTC | Jurnal Nusantara |  |
+| 2026-11-23 08:00 UTC | 2026-11-23 08:30 UTC | Jurnal Merah Putih |  |
+| 2026-11-23 08:30 UTC | 2026-11-23 09:00 UTC | Borgol |  |
+| 2026-11-23 09:00 UTC | 2026-11-23 10:30 UTC | Kompas Petang |  |
+| 2026-11-23 10:30 UTC | 2026-11-23 12:30 UTC | Sapa Indonesia Malam |  |
+| 2026-11-23 12:30 UTC | 2026-11-23 13:30 UTC | Berita Utama |  |
+| 2026-11-23 13:30 UTC | 2026-11-23 14:30 UTC | Dipo Investigasi |  |
+| 2026-11-23 14:30 UTC | 2026-11-23 15:30 UTC | Kompas Malam |  |
+| 2026-11-23 15:30 UTC | 2026-11-23 16:00 UTC | Berita Utama |  |
+| 2026-11-23 16:00 UTC | 2026-11-23 16:30 UTC | Kompas Sport |  |
+| 2026-11-23 16:30 UTC | 2026-11-23 17:00 UTC | Kilas Kompas |  |
 
-## WarnerTV.id (43 programmes)
-
-| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
-|---|---|---|---|
-| 2026-11-19 15:40 UTC | 2026-11-19 17:50 UTC | The Town | Seorang perampok bank profesional jatuh hati pada saksi kunci perampokannya sambil mencoba kabur dari kejaran FBI. |
-| 2026-11-19 17:50 UTC | 2026-11-19 18:30 UTC | World's Dumbest S16: Eps. 3 - Performers 16 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-19 18:30 UTC | 2026-11-19 19:20 UTC | Titans S2: Eps. 3 - Ghosts | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
-| 2026-11-19 19:20 UTC | 2026-11-19 19:40 UTC | Storage Hunters S6: Eps. 18 - Too Hot! | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 19:40 UTC | 2026-11-19 20:00 UTC | Storage Hunters S6: Eps. 19 - His Way | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-19 20:00 UTC | 2026-11-19 20:45 UTC | The Mentalist S6: Eps. 12 - The Golden Hammer | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-19 20:45 UTC | 2026-11-19 21:35 UTC | Titans S2: Eps. 3 - Ghosts | Setelah kekalahan Trigon, Dick Grayson mengumpulkan kembali tim Titans muda. Namun, masa lalu mereka kembali menghantui saat pembunuh bayaran berbahaya, Deathstroke, datang mengintai. |
-| 2026-11-19 21:35 UTC | 2026-11-19 22:00 UTC | Hack My Life S2: Eps. 18 - The Doctor is In | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-19 22:00 UTC | 2026-11-19 22:25 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-19 22:25 UTC | 2026-11-19 22:50 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-19 22:50 UTC | 2026-11-19 23:40 UTC | World's Dumbest S16: Eps. 4 - Inventions 11 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-19 23:40 UTC | 2026-11-20 00:05 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 00:05 UTC | 2026-11-20 00:30 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 00:30 UTC | 2026-11-20 00:55 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 00:55 UTC | 2026-11-20 01:20 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 01:20 UTC | 2026-11-20 01:45 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-20 01:45 UTC | 2026-11-20 02:10 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-20 02:10 UTC | 2026-11-20 03:00 UTC | The Mentalist S6: Eps. 13 - Black Helicopters | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-20 03:00 UTC | 2026-11-20 03:25 UTC | The Carbonaro Effect S3: Eps. 12 - Deep Space Air | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
-| 2026-11-20 03:25 UTC | 2026-11-20 03:50 UTC | Hack My Life S2: Eps. 19 - Hack Nanny Saves The Day | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-20 03:50 UTC | 2026-11-20 04:15 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 04:15 UTC | 2026-11-20 04:40 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 04:40 UTC | 2026-11-20 05:05 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 05:05 UTC | 2026-11-20 05:30 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 05:30 UTC | 2026-11-20 05:55 UTC | The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
-| 2026-11-20 05:55 UTC | 2026-11-20 06:20 UTC | Friends S7: Eps. 4 - The One With Rachel's Assistant | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-20 06:20 UTC | 2026-11-20 07:10 UTC | World's Dumbest S16: Eps. 4 - Inventions 11 | Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam. |
-| 2026-11-20 07:10 UTC | 2026-11-20 08:00 UTC | The Mentalist S6: Eps. 13 - Black Helicopters | Patrick Jane semakin dekat dengan identitas Red John saat ia terus membantu CBI memecahkan kasus-kasus rumit. |
-| 2026-11-20 08:00 UTC | 2026-11-20 08:25 UTC | The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
-| 2026-11-20 08:25 UTC | 2026-11-20 08:50 UTC | Friends S7: Eps. 4 - The One With Rachel's Assistant | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-20 08:50 UTC | 2026-11-20 09:15 UTC | Storage Hunters S6: Eps. 20 - Dropping Anchor | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 09:15 UTC | 2026-11-20 09:40 UTC | Storage Hunters S6: Eps. 21 - The Big One | Para pemburu gudang mengincar jackpot di balik pintu yang terkunci, penuh barang misterius. |
-| 2026-11-20 09:40 UTC | 2026-11-20 10:05 UTC | Impractical Jokers S6: Eps. 5 - Vampire Weakened | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 10:05 UTC | 2026-11-20 10:30 UTC | Impractical Jokers S6: Eps. 6 - Footloose | Empat sahabat saling menantang melakukan aksi memalukan di depan umum, menciptakan situasi kocak yang tak terduga. |
-| 2026-11-20 10:30 UTC | 2026-11-20 10:55 UTC | Container Wars S2: Eps. 1 - Secrets of the Orient | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-20 10:55 UTC | 2026-11-20 11:20 UTC | Container Wars S2: Eps. 2 - Shark Attack | Lelang pelabuhan memanas dengan kontainer berisi kejutan, dari harta bernilai hingga barang tak berguna. |
-| 2026-11-20 11:20 UTC | 2026-11-20 11:45 UTC | The Big Bang Theory S8: Eps. 2 - The Junior Professor Solution | Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy. |
-| 2026-11-20 11:45 UTC | 2026-11-20 12:10 UTC | Friends S7: Eps. 5 - The One With The Engagement Picture | Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga. |
-| 2026-11-20 12:10 UTC | 2026-11-20 12:35 UTC | The Carbonaro Effect S3: Eps. 12 - Deep Space Air | Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi. |
-| 2026-11-20 12:35 UTC | 2026-11-20 13:00 UTC | Hack My Life S2: Eps. 19 - Hack Nanny Saves The Day | Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan. |
-| 2026-11-20 13:00 UTC | 2026-11-20 15:00 UTC | War Dogs | Dua pemuda mengambil keuntungan dari konflik global dengan menjadi pedagang senjata internasional hingga terjebak dalam masalah besar. |
-| 2026-11-20 15:00 UTC | 2026-11-20 17:20 UTC | Pacific Rim | Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra. |
-| 2026-11-20 15:00 UTC | 2026-11-20 17:20 UTC | Pacific Rim | Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra. |
-
-## RCTI.id (28 programmes)
+## WarnerTV.id (2 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-19 17:00 UTC | 2026-11-19 19:00 UTC | Jangan Bercerai Bunda |  |
-| 2026-11-19 19:00 UTC | 2026-11-19 20:00 UTC | Roman Picisan |  |
-| 2026-11-19 20:00 UTC | 2026-11-19 22:15 UTC | Anak Jalanan |  |
-| 2026-11-19 22:15 UTC | 2026-11-19 22:45 UTC | Seputar iNews |  |
-| 2026-11-19 22:45 UTC | 2026-11-20 01:00 UTC | Cinta Sebening Embun |  |
-| 2026-11-20 01:00 UTC | 2026-11-20 03:15 UTC | Cinta Tanpa Karena |  |
-| 2026-11-20 03:15 UTC | 2026-11-20 03:45 UTC | Go Spot Eksklusif |  |
-| 2026-11-20 03:45 UTC | 2026-11-20 05:00 UTC | Terikat Janji Selamanya |  |
-| 2026-11-20 05:00 UTC | 2026-11-20 10:30 UTC | Ikatan Cinta Aldebaran & Andin |  |
-| 2026-11-20 10:30 UTC | 2026-11-20 12:00 UTC | Ternyata Ini Cinta |  |
-| 2026-11-20 12:00 UTC | 2026-11-20 13:30 UTC | Terikat Janji |  |
-| 2026-11-20 13:30 UTC | 2026-11-20 15:00 UTC | Terbaik Itu Kamu |  |
-| 2026-11-20 15:00 UTC | 2026-11-20 16:30 UTC | Terbelenggu Rindu Amira |  |
-| 2026-11-20 16:30 UTC | 2026-11-20 17:00 UTC | Terikat Takdir |  |
+| 2026-11-20 15:00 UTC | 2026-11-20 17:20 UTC | Pacific Rim | Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra. |
+| 2026-11-21 15:00 UTC | 2026-11-21 17:10 UTC | Joker (2019) | Kisah kelam Arthur Fleck, komedian gagal yang berubah menjadi ikon kriminalitas di kota Gotham. |
+
+## RCTI.id (29 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
 | 2026-11-20 17:00 UTC | 2026-11-20 19:15 UTC | Jangan Bercerai Bunda |  |
 | 2026-11-20 19:15 UTC | 2026-11-20 21:30 UTC | Bundesliga: FCB Vs KOL (L) |  |
 | 2026-11-20 21:30 UTC | 2026-11-20 22:45 UTC | Anak Jalanan |  |
@@ -2611,4 +2558,19 @@
 | 2026-11-21 13:30 UTC | 2026-11-21 15:00 UTC | Terbaik Itu Kamu |  |
 | 2026-11-21 15:00 UTC | 2026-11-21 16:00 UTC | Cinta Terlarang Di Meja CEO |  |
 | 2026-11-21 16:00 UTC | 2026-11-21 17:15 UTC | Tiger & Crane |  |
+| 2026-11-21 17:15 UTC | 2026-11-21 19:00 UTC | Bundesliga: S04 Vs VFB (L) |  |
+| 2026-11-21 19:00 UTC | 2026-11-21 19:30 UTC | Bundesliga 2026/2027 |  |
+| 2026-11-21 19:30 UTC | 2026-11-21 20:00 UTC | Roman Picisan |  |
+| 2026-11-21 20:00 UTC | 2026-11-21 20:30 UTC | Mujizat Itu Nyata |  |
+| 2026-11-21 20:30 UTC | 2026-11-21 22:45 UTC | Anak Jalanan |  |
+| 2026-11-21 22:45 UTC | 2026-11-22 01:00 UTC | Upin & Ipin |  |
+| 2026-11-22 01:00 UTC | 2026-11-22 03:15 UTC | Entong |  |
+| 2026-11-22 03:15 UTC | 2026-11-22 03:45 UTC | Kiko |  |
+| 2026-11-22 03:45 UTC | 2026-11-22 06:15 UTC | Terbaik Itu Kamu Serazi |  |
+| 2026-11-22 06:15 UTC | 2026-11-22 10:30 UTC | Ikatan Cinta Aldebaran & Andin |  |
+| 2026-11-22 10:30 UTC | 2026-11-22 12:00 UTC | Ternyata Ini Cinta |  |
+| 2026-11-22 12:00 UTC | 2026-11-22 13:30 UTC | Terikat Janji |  |
+| 2026-11-22 13:30 UTC | 2026-11-22 15:00 UTC | Terbaik Itu Kamu |  |
+| 2026-11-22 15:00 UTC | 2026-11-22 16:00 UTC | Aku, Target Terakhir... |  |
+| 2026-11-22 16:00 UTC | 2026-11-22 17:00 UTC | Terikat Takdir |  |
 
