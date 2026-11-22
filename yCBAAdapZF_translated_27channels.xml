@@ -2396,82 +2396,7 @@
 <programme start="20261124010000 +0000" stop="20261124033000 +0000" channel="Arena Premium 3.rs"><title>Manchester City - Fulham</title><sub-title /><desc>Football, clip, ENGLISH LEAGUE</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20261124033000 +0000" stop="20261124053000 +0000" channel="Arena Premium 3.rs"><title>Bayern - Koln</title><sub-title /><desc>Football, clip, GERMAN LEAGUE</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20261124053000 +0000" stop="20261124073000 +0000" channel="Arena Premium 3.rs"><title>Nice - PSG</title><sub-title /><desc>Football, clip, FRENCH LEAGUE</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20261120180000 +0000" stop="20261120200000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Petang</title>
-  </programme>
-  <programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Malam</title>
-  </programme>
-  <programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="KompasTV.id">
-    <title lang="id">Kalam Hati</title>
-  </programme>
-  <programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="KompasTV.id">
-    <title lang="id">Borgol</title>
-  </programme>
-  <programme start="20261120213000 +0000" stop="20261120233000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Pagi Akhir Pekan</title>
-  </programme>
-  <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="KompasTV.id">
-    <title lang="id">Jurnal Nusantara</title>
-  </programme>
-  <programme start="20261121000000 +0000" stop="20261121020000 +0000" channel="KompasTV.id">
-    <title lang="id">Sapa Indonesia Pagi</title>
-  </programme>
-  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="KompasTV.id">
-    <title lang="id">Sustenesia</title>
-  </programme>
-  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Sport</title>
-  </programme>
-  <programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Siang</title>
-  </programme>
-  <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="KompasTV.id">
-    <title lang="id">Borgol</title>
-  </programme>
-  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="KompasTV.id">
-    <title lang="id">Jurnal Nusantara</title>
-  </programme>
-  <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="KompasTV.id">
-    <title lang="id">Dipo Investigasi</title>
-  </programme>
-  <programme start="20261121070000 +0000" stop="20261121080000 +0000" channel="KompasTV.id">
-    <title lang="id">VVIP</title>
-  </programme>
-  <programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="KompasTV.id">
-    <title lang="id">Cerita Militer</title>
-  </programme>
-  <programme start="20261121090000 +0000" stop="20261121110000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Petang</title>
-  </programme>
-  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="KompasTV.id">
-    <title lang="id">Laporan Khusus</title>
-  </programme>
-  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="KompasTV.id">
-    <title lang="id">Borgol</title>
-  </programme>
-  <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="KompasTV.id">
-    <title lang="id">Sapa Indonesia Malam</title>
-  </programme>
-  <programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="KompasTV.id">
-    <title lang="id">Kompas Malam</title>
-  </programme>
-  <programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="KompasTV.id">
-    <title lang="id">Berkas Kompas</title>
-  </programme>
-  <programme start="20261121151500 +0000" stop="20261121173000 +0000" channel="KompasTV.id">
-    <title lang="id">Eredivisie 2026/27</title>
-  </programme>
-  <programme start="20261121173000 +0000" stop="20261121190000 +0000" channel="KompasTV.id">
+<programme start="20261121173000 +0000" stop="20261121190000 +0000" channel="KompasTV.id">
     <title lang="id">Rosi On Location</title>
   </programme>
   <programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="KompasTV.id">
@@ -2618,47 +2543,77 @@
   <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="KompasTV.id">
     <title lang="id">Kilas Kompas</title>
   </programme>
-  <programme start="20261120170000 +0000" stop="20261120191500 +0000" channel="RCTI.id">
-    <title lang="id">Jangan Bercerai Bunda</title>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="KompasTV.id">
+    <title lang="id">Berita Utama</title>
   </programme>
-  <programme start="20261120191500 +0000" stop="20261120213000 +0000" channel="RCTI.id">
-    <title lang="id">Bundesliga: FCB Vs KOL (L)</title>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Petang</title>
   </programme>
-  <programme start="20261120213000 +0000" stop="20261120224500 +0000" channel="RCTI.id">
-    <title lang="id">Anak Jalanan</title>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="KompasTV.id">
+    <title lang="id">Jurnal Merah Putih</title>
   </programme>
-  <programme start="20261120224500 +0000" stop="20261121010000 +0000" channel="RCTI.id">
-    <title lang="id">Upin &amp; Ipin</title>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="KompasTV.id">
+    <title lang="id">Kalam Hati</title>
   </programme>
-  <programme start="20261121010000 +0000" stop="20261121031500 +0000" channel="RCTI.id">
-    <title lang="id">Entong</title>
+  <programme start="20261123210000 +0000" stop="20261123213000 +0000" channel="KompasTV.id">
+    <title lang="id">Borgol</title>
   </programme>
-  <programme start="20261121031500 +0000" stop="20261121034500 +0000" channel="RCTI.id">
-    <title lang="id">Titus The Detective</title>
+  <programme start="20261123213000 +0000" stop="20261123233000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Pagi</title>
   </programme>
-  <programme start="20261121034500 +0000" stop="20261121061500 +0000" channel="RCTI.id">
-    <title lang="id">Terbaik Itu Kamu Serazi</title>
+  <programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="KompasTV.id">
+    <title lang="id">Jurnal Nusantara</title>
   </programme>
-  <programme start="20261121061500 +0000" stop="20261121093000 +0000" channel="RCTI.id">
-    <title lang="id">Ikatan Cinta Aldebaran &amp; Andin</title>
+  <programme start="20261124000000 +0000" stop="20261124023000 +0000" channel="KompasTV.id">
+    <title lang="id">Sapa Indonesia Pagi</title>
   </programme>
-  <programme start="20261121093000 +0000" stop="20261121103000 +0000" channel="RCTI.id">
-    <title lang="id">Oke Chef</title>
+  <programme start="20261124023000 +0000" stop="20261124033000 +0000" channel="KompasTV.id">
+    <title lang="id">Berita Utama</title>
   </programme>
-  <programme start="20261121103000 +0000" stop="20261121120000 +0000" channel="RCTI.id">
-    <title lang="id">Ternyata Ini Cinta</title>
+  <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="KompasTV.id">
+    <title lang="id">Borgol</title>
   </programme>
-  <programme start="20261121120000 +0000" stop="20261121133000 +0000" channel="RCTI.id">
-    <title lang="id">Terikat Janji</title>
+  <programme start="20261124040000 +0000" stop="20261124060000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Siang</title>
   </programme>
-  <programme start="20261121133000 +0000" stop="20261121150000 +0000" channel="RCTI.id">
-    <title lang="id">Terbaik Itu Kamu</title>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="KompasTV.id">
+    <title lang="id">Sapa Indonesia Siang</title>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="RCTI.id">
-    <title lang="id">Cinta Terlarang Di Meja CEO</title>
+  <programme start="20261124070000 +0000" stop="20261124073000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Sport</title>
   </programme>
-  <programme start="20261121160000 +0000" stop="20261121171500 +0000" channel="RCTI.id">
-    <title lang="id">Tiger &amp; Crane</title>
+  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="KompasTV.id">
+    <title lang="id">Jurnal Nusantara</title>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124083000 +0000" channel="KompasTV.id">
+    <title lang="id">Jurnal Merah Putih</title>
+  </programme>
+  <programme start="20261124083000 +0000" stop="20261124090000 +0000" channel="KompasTV.id">
+    <title lang="id">Borgol</title>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124103000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Petang</title>
+  </programme>
+  <programme start="20261124103000 +0000" stop="20261124123000 +0000" channel="KompasTV.id">
+    <title lang="id">Sapa Indonesia Malam</title>
+  </programme>
+  <programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="KompasTV.id">
+    <title lang="id">Berita Utama</title>
+  </programme>
+  <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="KompasTV.id">
+    <title lang="id">Kompas Malam</title>
+  </programme>
+  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="KompasTV.id">
+    <title lang="id">Laporan Khusus</title>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="KompasTV.id">
+    <title lang="id">B-Talk</title>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="KompasTV.id">
+    <title lang="id">Berkas Kompas</title>
+  </programme>
+  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="KompasTV.id">
+    <title lang="id">Kilas Kompas</title>
   </programme>
   <programme start="20261121171500 +0000" stop="20261121190000 +0000" channel="RCTI.id">
     <title lang="id">Bundesliga: S04 Vs VFB (L)</title>
@@ -2705,12 +2660,178 @@
   <programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="RCTI.id">
     <title lang="id">Terikat Takdir</title>
   </programme>
-  <programme start="20261120150000 +0000" stop="20261120172000 +0000" channel="WarnerTV.id">
-    <title lang="id">Pacific Rim</title>
-    <desc lang="id">Manusia mengendalikan robot raksasa Jaeger untuk melawan monster Kaiju yang muncul dari dasar samudra.</desc>
+  <programme start="20261122170000 +0000" stop="20261122190000 +0000" channel="RCTI.id">
+    <title lang="id">Jangan Bercerai Bunda</title>
+  </programme>
+  <programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="RCTI.id">
+    <title lang="id">Roman Picisan</title>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261122221500 +0000" channel="RCTI.id">
+    <title lang="id">Anak Jalanan</title>
+  </programme>
+  <programme start="20261122221500 +0000" stop="20261122224500 +0000" channel="RCTI.id">
+    <title lang="id">Seputar iNews</title>
+  </programme>
+  <programme start="20261122224500 +0000" stop="20261123010000 +0000" channel="RCTI.id">
+    <title lang="id">Cinta Sebening Embun</title>
+  </programme>
+  <programme start="20261123010000 +0000" stop="20261123031500 +0000" channel="RCTI.id">
+    <title lang="id">Cinta Tanpa Karena</title>
+  </programme>
+  <programme start="20261123031500 +0000" stop="20261123034500 +0000" channel="RCTI.id">
+    <title lang="id">Go Spot Eksklusif</title>
+  </programme>
+  <programme start="20261123034500 +0000" stop="20261123050000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Janji Selamanya</title>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123103000 +0000" channel="RCTI.id">
+    <title lang="id">Ikatan Cinta Aldebaran &amp; Andin</title>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123120000 +0000" channel="RCTI.id">
+    <title lang="id">Tertulis Untuk Kita</title>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123133000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Janji</title>
+  </programme>
+  <programme start="20261123133000 +0000" stop="20261123150000 +0000" channel="RCTI.id">
+    <title lang="id">Terbaik Itu Kamu</title>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123163000 +0000" channel="RCTI.id">
+    <title lang="id">Terbelenggu Rindu Amira</title>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="RCTI.id">
+    <title lang="id">Terikat Takdir</title>
   </programme>
   <programme start="20261121150000 +0000" stop="20261121171000 +0000" channel="WarnerTV.id">
     <title lang="id">Joker (2019)</title>
     <desc lang="id">Kisah kelam Arthur Fleck, komedian gagal yang berubah menjadi ikon kriminalitas di kota Gotham.</desc>
+  </programme>
+  <programme start="20261121171000 +0000" stop="20261121180000 +0000" channel="WarnerTV.id">
+    <title lang="id">Chuck S1: Eps. 7 - Chuck Versus The Alma Mater</title>
+    <desc lang="id">Serial aksi-komedi tentang Chuck Bartowski, pegawai toko elektronik yang tak sengaja menyimpan rahasia negara paling rahasia di otaknya, menjadikannya sasaran agen CIA &amp; NSA.</desc>
+  </programme>
+  <programme start="20261121180000 +0000" stop="20261121182500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption</title>
+    <desc lang="id">Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy.</desc>
+  </programme>
+  <programme start="20261121182500 +0000" stop="20261121185000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S8: Eps. 2 - The Junior Professor Solution</title>
+    <desc lang="id">Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy.</desc>
+  </programme>
+  <programme start="20261121185000 +0000" stop="20261121194000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S16: Eps. 1 - Thrillseekers 10</title>
+    <desc lang="id">Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam.</desc>
+  </programme>
+  <programme start="20261121194000 +0000" stop="20261121203000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S16: Eps. 2 - Motorheads 10</title>
+    <desc lang="id">Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam.</desc>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121211500 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S16: Eps. 3 - Performers 16</title>
+    <desc lang="id">Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam.</desc>
+  </programme>
+  <programme start="20261121211500 +0000" stop="20261121220000 +0000" channel="WarnerTV.id">
+    <title lang="id">World's Dumbest S16: Eps. 4 - Inventions 11</title>
+    <desc lang="id">Komedian dan selebritas mengomentari video aksi konyol dan keputusan terbodoh dari seluruh dunia dengan humor tajam.</desc>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121222500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect S3: Eps. 8 - Sierra Volcano</title>
+    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  </programme>
+  <programme start="20261121222500 +0000" stop="20261121225000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect S3: Eps. 9 - The Doughy Parts</title>
+    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  </programme>
+  <programme start="20261121225000 +0000" stop="20261121231500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect S3: Eps. 10 - That's Voodoo</title>
+    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  </programme>
+  <programme start="20261121231500 +0000" stop="20261121234000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect S3: Eps. 11 - Catch The Flu</title>
+    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  </programme>
+  <programme start="20261121234000 +0000" stop="20261122000500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Carbonaro Effect S3: Eps. 12 - Deep Space Air</title>
+    <desc lang="id">Pesulap Michael Carbonaro mengejutkan orang-orang dengan trik sulap tersembunyi dalam situasi sehari-hari, sambil merekam reaksi mereka dengan kamera tersembunyi.</desc>
+  </programme>
+  <programme start="20261122000500 +0000" stop="20261122003000 +0000" channel="WarnerTV.id">
+    <title lang="id">Hack My Life S2: Eps. 15 - Dr. Hack is Back</title>
+    <desc lang="id">Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan.</desc>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122005500 +0000" channel="WarnerTV.id">
+    <title lang="id">Hack My Life S2: Eps. 16 - From Free Parking to Peeling Eggs</title>
+    <desc lang="id">Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan.</desc>
+  </programme>
+  <programme start="20261122005500 +0000" stop="20261122012000 +0000" channel="WarnerTV.id">
+    <title lang="id">Hack My Life S2: Eps. 17 - The Secret to Hacking</title>
+    <desc lang="id">Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan.</desc>
+  </programme>
+  <programme start="20261122012000 +0000" stop="20261122014500 +0000" channel="WarnerTV.id">
+    <title lang="id">Hack My Life S2: Eps. 18 - The Doctor is In</title>
+    <desc lang="id">Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan.</desc>
+  </programme>
+  <programme start="20261122014500 +0000" stop="20261122021000 +0000" channel="WarnerTV.id">
+    <title lang="id">Hack My Life S2: Eps. 19 - Hack Nanny Saves The Day</title>
+    <desc lang="id">Lanjutan acara penuh tips cerdas, dari solusi instan untuk masalah rumah tangga hingga trik mengejutkan yang membuat hidup lebih simpel dan menyenangkan.</desc>
+  </programme>
+  <programme start="20261122021000 +0000" stop="20261122023500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7: Eps. 22 - The Proton Transmogrification</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+  </programme>
+  <programme start="20261122023500 +0000" stop="20261122030000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7: Eps. 23 - The Gorilla Dissolution</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+  </programme>
+  <programme start="20261122030000 +0000" stop="20261122032500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S7: Eps. 24 - The Status Quo Combustion</title>
+    <desc lang="id">Kelompok ilmuwan jenius namun canggung secara sosial menghadapi dinamika hubungan asmara baru, karier ilmiah yang naik turun, serta pertemanan penuh komedi.</desc>
+  </programme>
+  <programme start="20261122032500 +0000" stop="20261122035000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S8: Eps. 1 - The Locomotion Interruption</title>
+    <desc lang="id">Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy.</desc>
+  </programme>
+  <programme start="20261122035000 +0000" stop="20261122041500 +0000" channel="WarnerTV.id">
+    <title lang="id">The Big Bang Theory S8: Eps. 2 - The Junior Professor Solution</title>
+    <desc lang="id">Perubahan besar melanda para kutu buku, mulai dari karier baru Penny hingga dinamika hubungan Sheldon dan Amy.</desc>
+  </programme>
+  <programme start="20261122041500 +0000" stop="20261122044000 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S7: Eps. 1 - The One With Monica's Thunder</title>
+    <desc lang="id">Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga.</desc>
+  </programme>
+  <programme start="20261122044000 +0000" stop="20261122050500 +0000" channel="WarnerTV.id">
+    <title lang="id">Friends S7: Eps. 2 - The One With Rachel's Book</title>
+    <desc lang="id">Kelanjutan kisah kocak enam sahabat, dari persiapan pernikahan Monica hingga kejutan tak terduga.</desc>
+  </programme>
+  <programme start="20261122050500 +0000" stop="20261122055500 +0000" channel="WarnerTV.id">
+    <title lang="id">Chuck S1: Eps. 7 - Chuck Versus The Alma Mater</title>
+    <desc lang="id">Serial aksi-komedi tentang Chuck Bartowski, pegawai toko elektronik yang tak sengaja menyimpan rahasia negara paling rahasia di otaknya, menjadikannya sasaran agen CIA &amp; NSA.</desc>
+  </programme>
+  <programme start="20261122055500 +0000" stop="20261122074000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Invasion</title>
+    <desc lang="id">Seorang psikiater berjuang melindungi anaknya saat epidemi alien misterius menyerang dan mengubah perilaku manusia di bumi.</desc>
+  </programme>
+  <programme start="20261122074000 +0000" stop="20261122091500 +0000" channel="WarnerTV.id">
+    <title lang="id">Getaway</title>
+    <desc lang="id">Mantan pembalap dipaksa menjalankan misi berbahaya demi menyelamatkan istrinya yang diculik.</desc>
+  </programme>
+  <programme start="20261122091500 +0000" stop="20261122110000 +0000" channel="WarnerTV.id">
+    <title lang="id">Poseidon</title>
+    <desc lang="id">Sebuah gelombang raksasa yang datang tiba-tiba menjungkirbalikkan kapal pesiar mewah bernama MS Poseidon pada malam Tahun Baru, membuat sekelompok kecil penyintas harus berjuang untuk menyelamatkan diri.</desc>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122130000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Way Back</title>
+    <desc lang="id">Mantan atlet basket yang berjuang melawan kecanduan mendapatkan kesempatan kedua dengan melatih tim sekolah lamanya.</desc>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122160000 +0000" channel="WarnerTV.id">
+    <title lang="id">The Batman</title>
+    <desc lang="id">Bruce Wayne menelusuri korupsi di Gotham saat mengejar Riddler, pembunuh berantai yang meninggalkan teka-teki sadis.</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122180000 +0000" channel="WarnerTV.id">
+    <title lang="id">Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
+    <desc lang="id">Jalan hidup Harley Quinn, Huntress, Black Canary, dan Renee Montoya saling bersinggungan, dan mereka berempat pun bekerja sama untuk melindungi seorang gadis muda bernama Cass dari penjahat-penjahat paling narsis di Gotham.</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122180000 +0000" channel="WarnerTV.id">
+    <title lang="id">Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
+    <desc lang="id">Jalan hidup Harley Quinn, Huntress, Black Canary, dan Renee Montoya saling bersinggungan, dan mereka berempat pun bekerja sama untuk melindungi seorang gadis muda bernama Cass dari penjahat-penjahat paling narsis di Gotham.</desc>
   </programme>
   </tv>
