@@ -14,7 +14,12 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 EPG_URL = 'https://www.open-epg.com/generate/yCBAAdapZF.xml'
+EXTRA_EPG_URL = 'https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml'
+EXTRA_CHANNELS = ['KompasTV.id@SD', 'WarnerTVAsia.us@SD', 'RCTI.id@SD', 'CNNIndonesia.id@SD']
+EXTRA_SET = set(EXTRA_CHANNELS)
+
 INPUT_XML = os.path.join(BASE_DIR, 'yCBAAdapZF.xml')
+EXTRA_XML = os.path.join(BASE_DIR, 'extra_epg.xml')
 CACHE_FILE = os.path.join(BASE_DIR, 'translations.json')
 GITHUB_CONFIG_FILE = os.path.join(BASE_DIR, 'github_config.json')
 OUTPUT_ALL_XML = os.path.join(BASE_DIR, 'yCBAAdapZF_translated_all.xml')
@@ -30,6 +35,8 @@ TARGET_CHANNELS = [
     'DAZN1.pt', 'DAZN2.pt', 'DAZN3.pt', 'DAZN4.pt'
 ]
 TARGET_SET = set(TARGET_CHANNELS)
+ALL_SELECTED_CHANNELS = TARGET_CHANNELS + EXTRA_CHANNELS
+ALL_SELECTED_SET = set(ALL_SELECTED_CHANNELS)
 
 SUFFIX_TO_LANG = {
     '.rs': 'sr',
@@ -56,10 +63,10 @@ def get_lang_for_channel(ch: str) -> str:
             return lang
     return 'auto'
 
-def download_epg():
-    print(f'Downloading fresh EPG from {EPG_URL} ...')
+def download_file(url: str, dest: str):
+    print(f'Downloading fresh EPG from {url} ...')
     req = urllib.request.Request(
-        EPG_URL,
+        url,
         headers={
             'User-Agent': 'Mozilla/5.0',
             'Cache-Control': 'no-cache, no-store, must-revalidate',
@@ -68,9 +75,9 @@ def download_epg():
     )
     with urllib.request.urlopen(req, timeout=60) as resp:
         data = resp.read()
-    with open(INPUT_XML, 'wb') as f:
+    with open(dest, 'wb') as f:
         f.write(data)
-    print(f'Saved {len(data)} bytes to {INPUT_XML}')
+    print(f'Saved {len(data)} bytes to {dest}')
 
 def translate_text(text: str, sl: str = 'auto') -> str:
     url = (
@@ -171,14 +178,54 @@ def upload_to_github():
             except Exception as e:
                 print(f'Failed to upload {repo_path}: {e}')
 
+def merge_extra_epg(root: ET.Element):
+    if not os.path.exists(EXTRA_XML):
+        return 0
+    extra_tree = ET.parse(EXTRA_XML)
+    extra_root = extra_tree.getroot()
+
+    # Remove any existing channel/programme entries for EXTRA_SET from primary root to avoid duplicates
+    for ch_el in list(root.findall('channel')):
+        if ch_el.get('id') in EXTRA_SET:
+            root.remove(ch_el)
+    for p_el in list(root.findall('programme')):
+        if p_el.get('channel') in EXTRA_SET:
+            root.remove(p_el)
+
+    # Insert extra <channel> elements after existing <channel> elements
+    existing_channels = root.findall('channel')
+    insert_idx = len(existing_channels)
+    for ch_el in extra_root.findall('channel'):
+        if ch_el.get('id') in EXTRA_SET:
+            root.insert(insert_idx, ch_el)
+            insert_idx += 1
+
+    # Append extra <programme> elements
+    added_progs = 0
+    counts_per_ch = {ch: 0 for ch in EXTRA_CHANNELS}
+    for p_el in extra_root.findall('programme'):
+        ch = p_el.get('channel')
+        if ch in EXTRA_SET:
+            root.append(p_el)
+            added_progs += 1
+            counts_per_ch[ch] = counts_per_ch.get(ch, 0) + 1
+
+    print(f'Merged {added_progs} programmes from secondary EPG source: {counts_per_ch}')
+    return added_progs
+
 def main():
-    parser = argparse.ArgumentParser(description='Translate Open-EPG XML for selected channels into English.')
-    parser.add_argument('--fetch', action='store_true', help='Download fresh XML from open-epg.com before translating')
+    parser = argparse.ArgumentParser(description='Translate Open-EPG XML and merge extra channels.')
+    parser.add_argument('--fetch', action='store_true', help='Download fresh XML from sources before translating')
     parser.add_argument('--upload-github', action='store_true', help='Upload translated files to GitHub using github_config.json')
     args = parser.parse_args()
 
     if args.fetch or not os.path.exists(INPUT_XML):
-        download_epg()
+        download_file(EPG_URL, INPUT_XML)
+    if args.fetch or not os.path.exists(EXTRA_XML):
+        try:
+            download_file(EXTRA_EPG_URL, EXTRA_XML)
+        except Exception as e:
+            print(f'Warning: failed to download extra EPG from {EXTRA_EPG_URL}: {e}')
 
     tree = ET.parse(INPUT_XML)
     root = tree.getroot()
@@ -246,6 +293,9 @@ def main():
 
     print(f'Translated {translated_prog_count} programmes across {len(TARGET_CHANNELS)} channels.')
 
+    # Merge KompasTV.id@SD, WarnerTVAsia.us@SD, RCTI.id@SD, CNNIndonesia.id@SD into root
+    merge_extra_epg(root)
+
     with open(OUTPUT_ALL_XML, 'wb') as f:
         f.write(b'<?xml version="1.0" encoding="UTF-8" ?>\n')
         tree.write(f, encoding='utf-8', xml_declaration=False)
@@ -253,10 +303,10 @@ def main():
     filtered_root = ET.Element(root.tag, root.attrib)
     filtered_root.text = '\n'
     for ch_el in root.findall('channel'):
-        if ch_el.get('id') in TARGET_SET:
+        if ch_el.get('id') in ALL_SELECTED_SET:
             filtered_root.append(ch_el)
     for p_el in root.findall('programme'):
-        if p_el.get('channel') in TARGET_SET:
+        if p_el.get('channel') in ALL_SELECTED_SET:
             filtered_root.append(p_el)
 
     filtered_tree = ET.ElementTree(filtered_root)
@@ -271,7 +321,7 @@ def main():
         except Exception:
             return raw
 
-    progs_by_ch = {ch: [] for ch in TARGET_CHANNELS}
+    progs_by_ch = {ch: [] for ch in ALL_SELECTED_CHANNELS}
     for p_el in filtered_root.findall('programme'):
         ch = p_el.get('channel')
         if ch in progs_by_ch:
@@ -283,8 +333,8 @@ def main():
             progs_by_ch[ch].append((start, stop, title, sub, desc))
 
     with open(OUTPUT_MD, 'w', encoding='utf-8') as f:
-        f.write(f'# Translated EPG Schedule ({len(TARGET_CHANNELS)} Channels - English)\n\n')
-        for ch in TARGET_CHANNELS:
+        f.write(f'# Translated & Merged EPG Schedule ({len(ALL_SELECTED_CHANNELS)} Channels)\n\n')
+        for ch in ALL_SELECTED_CHANNELS:
             items = progs_by_ch[ch]
             f.write(f'## {ch} ({len(items)} programmes)\n\n')
             f.write('| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |\n')
