@@ -1,4 +1,4 @@
-# Translated EPG Schedule (31 Channels - English)
+# Translated & Merged EPG Schedule (35 Channels)
 
 ## Arena PREMIUM 1.rs (75 programmes)
 
@@ -2425,4 +2425,306 @@
 | 2026-11-26 07:00 UTC | 2026-11-26 07:35 UTC | No Emission | S1 — Thu 26-Nov, 07:00No Broadcast. |
 | 2026-11-26 07:35 UTC | 2026-11-26 08:10 UTC | No Emission | S1 — Thu 26-Nov, 07:35 No Broadcast. |
 | 2026-11-26 08:10 UTC | 2026-11-26 08:45 UTC | No Emission | S1 — Thu 26-Nov, 08:10No Broadcast. |
+
+## KompasTV.id@SD (92 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-23 21:30 UTC | 2026-11-23 23:30 UTC | Kompas Pagi | Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara. |
+| 2026-11-23 23:30 UTC | 2026-11-24 00:00 UTC | Jurnal Nusantara | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
+| 2026-11-24 00:00 UTC | 2026-11-24 02:30 UTC | Sapa Indonesia Pagi | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-24 00:00 UTC | 2026-11-24 02:30 UTC | Sapa Indonesia Pagi | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-24 02:30 UTC | 2026-11-24 03:30 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-24 02:30 UTC | 2026-11-24 03:30 UTC | Berita Utama | Tayangan berita menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru. |
+| 2026-11-24 03:30 UTC | 2026-11-24 04:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-24 03:30 UTC | 2026-11-24 04:00 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-24 04:00 UTC | 2026-11-24 06:00 UTC | Kompas Siang | Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini |
+| 2026-11-24 04:00 UTC | 2026-11-24 06:00 UTC | Kompas Siang | Salah satu program berita siang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-24 06:00 UTC | 2026-11-24 07:00 UTC | Sapa Indonesia Siang | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-24 06:00 UTC | 2026-11-24 07:00 UTC | Sapa Indonesia Siang | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-24 07:00 UTC | 2026-11-24 07:30 UTC | Kompas Sport | Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara |
+| 2026-11-24 07:00 UTC | 2026-11-24 07:30 UTC | Kompas Sport | Kompas Sport menyuguhkan rangkuman berita olahraga terkini: analisis, highlights pertandingan, wawancara atlet, serta informasi seputar liga dan turnamen nasional dan internasional. |
+| 2026-11-24 07:30 UTC | 2026-11-24 08:00 UTC | Jurnal Nusantara | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
+| 2026-11-24 07:30 UTC | 2026-11-24 08:00 UTC | Jurnal Nusantara | Jurnal Nusantara siap menemani pagi Anda dengan sajian berita yang aktual dan faktual dari berbagai provinsi di Indonesia. |
+| 2026-11-24 08:00 UTC | 2026-11-24 08:30 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
+| 2026-11-24 08:00 UTC | 2026-11-24 08:30 UTC | Jurnal Merah Putih | Program dokumenter investigasi di Kompas TV yang mengangkat berbagai isu penting dan menarik di Indonesia. |
+| 2026-11-24 08:30 UTC | 2026-11-24 09:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-24 08:30 UTC | 2026-11-24 09:00 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-24 09:00 UTC | 2026-11-24 10:30 UTC | Kompas Petang | Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora. |
+| 2026-11-24 09:00 UTC | 2026-11-24 10:30 UTC | Kompas Petang | Salah satu program berita petang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-24 10:30 UTC | 2026-11-24 12:30 UTC | Sapa Indonesia Malam | Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri. |
+| 2026-11-24 10:30 UTC | 2026-11-24 12:30 UTC | Sapa Indonesia Malam | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-24 12:30 UTC | 2026-11-24 13:30 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-24 12:30 UTC | 2026-11-24 13:30 UTC | Berita Utama (Live) | Program berita yang menyajikan liputan terkini peristiwa nasional dan internasional, politik, sosial, ekonomi, serta informasi penting untuk pemirsa Indonesia. |
+| 2026-11-24 13:30 UTC | 2026-11-24 14:30 UTC | Kompas Malam | Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam |
+| 2026-11-24 13:30 UTC | 2026-11-24 14:30 UTC | Kompas Malam | Kompas Malam adalah salah satu program berita malam dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-24 14:30 UTC | 2026-11-24 15:00 UTC | Laporan Khusus | Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir |
+| 2026-11-24 14:30 UTC | 2026-11-24 15:00 UTC | Laporan Khusus | Berita dan video nasional terkini hari ini, menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru di seluruh Indonesia. |
+| 2026-11-24 15:00 UTC | 2026-11-24 16:00 UTC | B-Talk | Bincang - bincang dengan para ahli tentang bisnis dan ekonomi |
+| 2026-11-24 15:00 UTC | 2026-11-24 16:00 UTC | B-Talk | Video Btalk, menyajikan Berita, Talkshow, Feature, Olahraga, dan Komedi yang dikupas KompasTV secara mendalam. |
+| 2026-11-24 16:00 UTC | 2026-11-24 16:30 UTC | Berkas Kompas | Mengulas seputar isu-isu terkini, skandal publik, berbagai ketidakadilan dan ketimpangan, kemiskinan, hingga kasus-kasus kejahatan yang tengah menjadi perbincangan hangat di tengah masyarakat. |
+| 2026-11-24 16:00 UTC | 2026-11-24 16:30 UTC | Berkas Kompas | Berita dan video nasional terkini hari ini, menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru di seluruh Indonesia. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Kilas Kompas | Berita kilas hari ini berisi politik, pendidikan, ekonomi, dan masyarakat yang diliput secara akurat, lengkap, dan terpercaya. |
+| 2026-11-24 17:00 UTC | 2026-11-24 17:30 UTC | Kompas Sport | Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara |
+| 2026-11-24 17:00 UTC | 2026-11-24 17:30 UTC | Kompas Sport | Kompas Sport menyuguhkan rangkuman berita olahraga terkini: analisis, highlights pertandingan, wawancara atlet, serta informasi seputar liga dan turnamen nasional dan internasional. |
+| 2026-11-24 17:30 UTC | 2026-11-24 18:30 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-24 17:30 UTC | 2026-11-24 18:30 UTC | Berita Utama | Tayangan berita menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru. |
+| 2026-11-24 18:30 UTC | 2026-11-24 19:30 UTC | Kompas Petang | Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora. |
+| 2026-11-24 18:30 UTC | 2026-11-24 19:30 UTC | Kompas Petang | Salah satu program berita petang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-24 19:30 UTC | 2026-11-24 20:00 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
+| 2026-11-24 19:30 UTC | 2026-11-24 20:00 UTC | Jurnal Merah Putih | Program dokumenter investigasi di Kompas TV yang mengangkat berbagai isu penting dan menarik di Indonesia. |
+| 2026-11-24 20:00 UTC | 2026-11-24 21:00 UTC | Kalam Hati | Program religi yang menghadirkan dialog spiritual secara mendalam namun tetap ringan dan menyejukkan |
+| 2026-11-24 20:00 UTC | 2026-11-24 21:00 UTC | Kalam Hati | Program dakwah dengan tema yang aplikatif serta berkaitan dengan kehidupan sehari-hari. |
+| 2026-11-24 21:00 UTC | 2026-11-24 21:30 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-24 21:00 UTC | 2026-11-24 21:30 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-24 21:30 UTC | 2026-11-25 00:00 UTC | Kompas Pagi | Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara. |
+| 2026-11-24 21:30 UTC | 2026-11-25 00:00 UTC | Kompas Pagi | Salah satu program berita pagi hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 00:00 UTC | 2026-11-25 02:30 UTC | Sapa Indonesia Pagi | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-25 00:00 UTC | 2026-11-25 02:30 UTC | Sapa Indonesia Pagi | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-25 02:30 UTC | 2026-11-25 03:30 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-25 02:30 UTC | 2026-11-25 03:30 UTC | Berita Utama | Tayangan berita menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru. |
+| 2026-11-25 03:30 UTC | 2026-11-25 04:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-25 03:30 UTC | 2026-11-25 04:00 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-25 04:00 UTC | 2026-11-25 06:00 UTC | Kompas Siang | Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini |
+| 2026-11-25 04:00 UTC | 2026-11-25 06:00 UTC | Kompas Siang | Salah satu program berita siang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 06:00 UTC | 2026-11-25 07:00 UTC | Sapa Indonesia Siang | Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia |
+| 2026-11-25 06:00 UTC | 2026-11-25 07:00 UTC | Sapa Indonesia Siang | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-25 07:00 UTC | 2026-11-25 07:30 UTC | Laporan Khusus | Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir |
+| 2026-11-25 07:00 UTC | 2026-11-25 07:30 UTC | Laporan Khusus | Berita dan video nasional terkini hari ini, menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru di seluruh Indonesia. |
+| 2026-11-25 07:30 UTC | 2026-11-25 08:00 UTC | Jurnal Nusantara | Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia |
+| 2026-11-25 07:30 UTC | 2026-11-25 08:00 UTC | Jurnal Nusantara | Jurnal Nusantara siap menemani pagi Anda dengan sajian berita yang aktual dan faktual dari berbagai provinsi di Indonesia. |
+| 2026-11-25 08:00 UTC | 2026-11-25 08:30 UTC | Jurnal Merah Putih | Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran |
+| 2026-11-25 08:00 UTC | 2026-11-25 08:30 UTC | Jurnal Merah Putih | Program dokumenter investigasi di Kompas TV yang mengangkat berbagai isu penting dan menarik di Indonesia. |
+| 2026-11-25 08:30 UTC | 2026-11-25 09:00 UTC | Borgol | Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia |
+| 2026-11-25 08:30 UTC | 2026-11-25 09:00 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-25 09:00 UTC | 2026-11-25 10:30 UTC | Kompas Petang | Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora. |
+| 2026-11-25 09:00 UTC | 2026-11-25 10:30 UTC | Kompas Petang | Salah satu program berita petang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 10:30 UTC | 2026-11-25 12:30 UTC | Sapa Indonesia Malam | Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri. |
+| 2026-11-25 10:30 UTC | 2026-11-25 12:30 UTC | Sapa Indonesia Malam | Sapa Indonesia adalah perpaduan program berita dan talkshow yang ditayangkan di Kompas TV, menampilkan tentang berbagai isu terkini yang ada di Indonesia dan luar negeri. |
+| 2026-11-25 12:30 UTC | 2026-11-25 13:30 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-25 12:30 UTC | 2026-11-25 13:30 UTC | Berita Utama (Live) | Program berita yang menyajikan liputan terkini peristiwa nasional dan internasional, politik, sosial, ekonomi, serta informasi penting untuk pemirsa Indonesia. |
+| 2026-11-25 13:30 UTC | 2026-11-25 14:30 UTC | Satu Meja The Forum | Bincang-bincang bersama para tokoh terkemuka Indonesia seputar berbagai isu dan topik menarik yang tengah menjadi sorotan di tanah air. |
+| 2026-11-25 13:30 UTC | 2026-11-25 14:30 UTC | Satu Meja The Forum | Perbincangan hangat yang membahas isu yang jadi polemik di tengah masyarakat. Ada perdebatan, adu gagasan. Berbeda tapi saling menguatkan. |
+| 2026-11-25 14:30 UTC | 2026-11-25 15:30 UTC | Kompas Malam | Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam |
+| 2026-11-25 14:30 UTC | 2026-11-25 15:30 UTC | Kompas Malam | Kompas Malam adalah salah satu program berita malam dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 15:30 UTC | 2026-11-25 16:00 UTC | Berita Utama | Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia |
+| 2026-11-25 15:30 UTC | 2026-11-25 16:00 UTC | Berita Utama | Tayangan berita menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru. |
+| 2026-11-25 16:00 UTC | 2026-11-25 16:30 UTC | Kompas Sport | Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara |
+| 2026-11-25 16:00 UTC | 2026-11-25 16:30 UTC | Kompas Sport | Kompas Sport menyuguhkan rangkuman berita olahraga terkini: analisis, highlights pertandingan, wawancara atlet, serta informasi seputar liga dan turnamen nasional dan internasional. |
+| 2026-11-25 16:30 UTC | 2026-11-25 17:00 UTC | Kilas Kompas | Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia. |
+| 2026-11-25 16:30 UTC | 2026-11-25 17:00 UTC | Kilas Kompas | Berita kilas hari ini berisi politik, pendidikan, ekonomi, dan masyarakat yang diliput secara akurat, lengkap, dan terpercaya. |
+| 2026-11-25 17:00 UTC | 2026-11-25 18:00 UTC | Berita Utama | Tayangan berita menyajikan seputar berita peristiwa, politik, hukum, kriminal, humaniora, hingga kabar terbaru. |
+| 2026-11-25 18:00 UTC | 2026-11-25 19:30 UTC | Kompas Petang | Salah satu program berita petang hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 19:30 UTC | 2026-11-25 20:00 UTC | Jurnal Merah Putih | Program dokumenter investigasi di Kompas TV yang mengangkat berbagai isu penting dan menarik di Indonesia. |
+| 2026-11-25 20:00 UTC | 2026-11-25 21:00 UTC | Kalam Hati | Program dakwah dengan tema yang aplikatif serta berkaitan dengan kehidupan sehari-hari. |
+| 2026-11-25 21:00 UTC | 2026-11-25 21:30 UTC | Borgol | Program yang menyuguhkan tayangan mengenai upaya menangani aksi kriminal, pengejaran menegangkan, fakta lapangan, dan proses hukum yang tidak terelakkan. |
+| 2026-11-25 21:30 UTC | 2026-11-25 23:30 UTC | Kompas Pagi | Salah satu program berita pagi hari dari jaringan televisi Kompas TV. Asupan berita yang dikemas dengan tegas dan terarah serta menumbuhkan harapan hadir di jam istirahat jelang bergantinya hari untuk memenuhi kebutuhan akan berita yang tak hanya informatif namun juga menjunjung etika jurnalistik. |
+| 2026-11-25 23:30 UTC | 2026-11-26 00:00 UTC | Jurnal Nusantara | Jurnal Nusantara siap menemani pagi Anda dengan sajian berita yang aktual dan faktual dari berbagai provinsi di Indonesia. |
+
+## WarnerTVAsia.us@SD (79 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-23 21:35 UTC | 2026-11-23 22:00 UTC | Hack My Life S2, Ep. 20 |  |
+| 2026-11-23 22:00 UTC | 2026-11-23 22:25 UTC | Container Wars S2, Ep. 5 |  |
+| 2026-11-23 22:25 UTC | 2026-11-23 22:50 UTC | Container Wars S2, Ep. 6 |  |
+| 2026-11-23 22:50 UTC | 2026-11-23 23:40 UTC | World's Dumbest S16, Ep. 6 |  |
+| 2026-11-23 23:40 UTC | 2026-11-24 00:05 UTC | Impractical Jokers S6, Ep. 9 |  |
+| 2026-11-24 00:05 UTC | 2026-11-24 00:30 UTC | Impractical Jokers S6, Ep. 10 |  |
+| 2026-11-24 00:30 UTC | 2026-11-24 00:55 UTC | Storage Hunters S6, Ep. 23 |  |
+| 2026-11-24 00:55 UTC | 2026-11-24 01:20 UTC | Storage Hunters S6, Ep. 24 |  |
+| 2026-11-24 01:20 UTC | 2026-11-24 01:45 UTC | Container Wars S2, Ep. 5 |  |
+| 2026-11-24 01:45 UTC | 2026-11-24 02:10 UTC | Container Wars S2, Ep. 6 |  |
+| 2026-11-24 02:10 UTC | 2026-11-24 03:00 UTC | The Mentalist S6, Ep. 15 |  |
+| 2026-11-24 03:00 UTC | 2026-11-24 03:25 UTC | The Carbonaro Effect S4, Ep. 14 |  |
+| 2026-11-24 03:25 UTC | 2026-11-24 03:50 UTC | Hack My Life S3, Ep. 1 |  |
+| 2026-11-24 03:50 UTC | 2026-11-24 04:15 UTC | Impractical Jokers S6, Ep. 9 |  |
+| 2026-11-24 04:15 UTC | 2026-11-24 04:40 UTC | Impractical Jokers S6, Ep. 10 |  |
+| 2026-11-24 04:40 UTC | 2026-11-24 05:30 UTC | Chuck S1, Ep. 8 |  |
+| 2026-11-24 05:30 UTC | 2026-11-24 05:55 UTC | The Big Bang Theory S8, Ep. 3 |  |
+| 2026-11-24 05:55 UTC | 2026-11-24 06:20 UTC | Friends S7, Ep. 6 |  |
+| 2026-11-24 06:20 UTC | 2026-11-24 07:10 UTC | World's Dumbest S16, Ep. 6 |  |
+| 2026-11-24 07:10 UTC | 2026-11-24 08:00 UTC | The Mentalist S6, Ep. 15 |  |
+| 2026-11-24 08:00 UTC | 2026-11-24 08:25 UTC | The Big Bang Theory S8, Ep. 3 |  |
+| 2026-11-24 08:25 UTC | 2026-11-24 08:50 UTC | Friends S7, Ep. 6 |  |
+| 2026-11-24 08:50 UTC | 2026-11-24 09:15 UTC | Storage Hunters S6, Ep. 23 |  |
+| 2026-11-24 09:15 UTC | 2026-11-24 09:40 UTC | Storage Hunters S6, Ep. 24 |  |
+| 2026-11-24 09:40 UTC | 2026-11-24 10:05 UTC | Impractical Jokers S6, Ep. 9 |  |
+| 2026-11-24 10:05 UTC | 2026-11-24 10:30 UTC | Impractical Jokers S6, Ep. 10 |  |
+| 2026-11-24 10:30 UTC | 2026-11-24 10:55 UTC | Container Wars S2, Ep. 5 |  |
+| 2026-11-24 10:55 UTC | 2026-11-24 11:20 UTC | Container Wars S2, Ep. 6 |  |
+| 2026-11-24 11:20 UTC | 2026-11-24 11:45 UTC | The Big Bang Theory S8, Ep. 4 |  |
+| 2026-11-24 11:45 UTC | 2026-11-24 12:10 UTC | Friends S7, Ep. 7 |  |
+| 2026-11-24 12:10 UTC | 2026-11-24 12:35 UTC | The Carbonaro Effect S4, Ep. 14 |  |
+| 2026-11-24 12:35 UTC | 2026-11-24 13:00 UTC | Hack My Life S3, Ep. 1 |  |
+| 2026-11-24 13:00 UTC | 2026-11-24 14:45 UTC | The Incredible Burt Wonderstone |  |
+| 2026-11-24 14:45 UTC | 2026-11-24 16:30 UTC | The Losers |  |
+| 2026-11-24 16:30 UTC | 2026-11-24 16:55 UTC | Hack My Life S3, Ep. 1 |  |
+| 2026-11-24 16:55 UTC | 2026-11-24 17:00 UTC | Container Wars S2, Ep. 5 |  |
+| 2026-11-24 17:00 UTC | 2026-11-24 17:20 UTC | Container Wars S2, Ep. 5 |  |
+| 2026-11-24 17:20 UTC | 2026-11-24 17:45 UTC | Container Wars S2, Ep. 6 |  |
+| 2026-11-24 17:45 UTC | 2026-11-24 18:30 UTC | World's Dumbest S16, Ep. 6 |  |
+| 2026-11-24 18:30 UTC | 2026-11-24 19:15 UTC | Titans S2, Ep. 6 |  |
+| 2026-11-24 19:15 UTC | 2026-11-24 19:40 UTC | Storage Hunters S6, Ep. 23 |  |
+| 2026-11-24 19:40 UTC | 2026-11-24 20:05 UTC | Storage Hunters S6, Ep. 24 |  |
+| 2026-11-24 20:05 UTC | 2026-11-24 20:50 UTC | The Mentalist S6, Ep. 15 |  |
+| 2026-11-24 20:50 UTC | 2026-11-24 21:35 UTC | Titans S2, Ep. 6 |  |
+| 2026-11-24 21:35 UTC | 2026-11-24 22:00 UTC | Hack My Life S3, Ep. 1 |  |
+| 2026-11-24 22:00 UTC | 2026-11-24 22:25 UTC | Container Wars S2, Ep. 7 |  |
+| 2026-11-24 22:25 UTC | 2026-11-24 22:50 UTC | Container Wars S2, Ep. 8 |  |
+| 2026-11-24 22:50 UTC | 2026-11-24 23:40 UTC | World's Dumbest S16, Ep. 7 |  |
+| 2026-11-24 23:40 UTC | 2026-11-25 00:05 UTC | Impractical Jokers S6, Ep. 11 |  |
+| 2026-11-25 00:05 UTC | 2026-11-25 00:30 UTC | Impractical Jokers S6, Ep. 12 |  |
+| 2026-11-25 00:30 UTC | 2026-11-25 00:55 UTC | Storage Hunters S6, Ep. 25 |  |
+| 2026-11-25 00:55 UTC | 2026-11-25 01:20 UTC | Storage Hunters S6, Ep. 26 |  |
+| 2026-11-25 01:20 UTC | 2026-11-25 01:45 UTC | Container Wars S2, Ep. 7 |  |
+| 2026-11-25 01:45 UTC | 2026-11-25 02:10 UTC | Container Wars S2, Ep. 8 |  |
+| 2026-11-25 02:10 UTC | 2026-11-25 03:00 UTC | The Mentalist S6, Ep. 16 |  |
+| 2026-11-25 03:00 UTC | 2026-11-25 03:25 UTC | The Carbonaro Effect S4, Ep. 15 |  |
+| 2026-11-25 03:25 UTC | 2026-11-25 03:50 UTC | Hack My Life S3, Ep. 2 |  |
+| 2026-11-25 03:50 UTC | 2026-11-25 04:15 UTC | Impractical Jokers S6, Ep. 11 |  |
+| 2026-11-25 04:15 UTC | 2026-11-25 04:40 UTC | Impractical Jokers S6, Ep. 12 |  |
+| 2026-11-25 04:40 UTC | 2026-11-25 05:05 UTC | Storage Hunters S6, Ep. 25 |  |
+| 2026-11-25 05:05 UTC | 2026-11-25 05:30 UTC | Storage Hunters S6, Ep. 26 |  |
+| 2026-11-25 05:30 UTC | 2026-11-25 05:55 UTC | The Big Bang Theory S8, Ep. 4 |  |
+| 2026-11-25 05:55 UTC | 2026-11-25 06:20 UTC | Friends S7, Ep. 7 |  |
+| 2026-11-25 06:20 UTC | 2026-11-25 07:10 UTC | World's Dumbest S16, Ep. 7 |  |
+| 2026-11-25 07:10 UTC | 2026-11-25 08:00 UTC | The Mentalist S6, Ep. 16 |  |
+| 2026-11-25 08:00 UTC | 2026-11-25 08:25 UTC | The Big Bang Theory S8, Ep. 4 |  |
+| 2026-11-25 08:25 UTC | 2026-11-25 08:50 UTC | Friends S7, Ep. 7 |  |
+| 2026-11-25 08:50 UTC | 2026-11-25 09:15 UTC | Storage Hunters S6, Ep. 25 |  |
+| 2026-11-25 09:15 UTC | 2026-11-25 09:40 UTC | Storage Hunters S6, Ep. 26 |  |
+| 2026-11-25 09:40 UTC | 2026-11-25 10:05 UTC | Impractical Jokers S6, Ep. 11 |  |
+| 2026-11-25 10:05 UTC | 2026-11-25 10:30 UTC | Impractical Jokers S6, Ep. 12 |  |
+| 2026-11-25 10:30 UTC | 2026-11-25 10:55 UTC | Container Wars S2, Ep. 7 |  |
+| 2026-11-25 10:55 UTC | 2026-11-25 11:20 UTC | Container Wars S2, Ep. 8 |  |
+| 2026-11-25 11:20 UTC | 2026-11-25 11:45 UTC | The Big Bang Theory S8, Ep. 5 |  |
+| 2026-11-25 11:45 UTC | 2026-11-25 12:10 UTC | Friends S7, Ep. 8 |  |
+| 2026-11-25 12:10 UTC | 2026-11-25 12:35 UTC | The Carbonaro Effect S4, Ep. 15 |  |
+| 2026-11-25 12:35 UTC | 2026-11-25 13:00 UTC | Hack My Life S3, Ep. 2 |  |
+| 2026-11-25 13:00 UTC | 2026-11-25 15:40 UTC | In the Heights |  |
+| 2026-11-25 15:40 UTC | 2026-11-25 17:00 UTC | License to Wed |  |
+
+## RCTI.id@SD (57 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-23 20:15 UTC | 2026-11-23 22:15 UTC | Layar Drama Indonesia Malam : Anak Jalanan (Rr) | Boy, seorang anak motor jagoan jalanan, dikagumi oleh banyak gadis. Namun, di dalam hati Boy hanya ada Adriana, mantan kekasihnya yang telah meninggalkannya. Boy kemudian bertemu dengan Reva, yang merasa takjub melihat kemampuannya dalam mengendalikan sepeda motor. |
+| 2026-11-23 22:15 UTC | 2026-11-23 22:45 UTC | Seputar Inews | UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Union of European Football Associations (UEFA). |
+| 2026-11-23 22:45 UTC | 2026-11-24 01:00 UTC | Layar Drama Indonesia Pagi : Cinta Sebening Embun (Rr) | Perjuangan tulus seorang gadis cilik bernama Intan dalam merawat ibunya, Nayla, yang mengalami gangguan jiwa akibat trauma masa lalu. Meskipun Nayla kerap bersikap dingin dan tidak mengakuinya sebagai anak, Intan tetap setia mendampingi dan menyayanginya dengan penuh kesabaran. Di tengah keterbatasan tersebut, kehidupan mereka semakin diuji oleh kemunculan rahasia asal-usul keluarga, pengkhianatan orang-orang terdekat, serta berbagai konflik yang memisahkan mereka, namun kasih sayang Intan terus menjadi harapan utama bagi kesembuhan sang ibu. |
+| 2026-11-23 22:45 UTC | 2026-11-24 01:00 UTC | Cinta Sebening Embun | Intan, seorang gadis kecil berjuang merawat ibunya yang tidak pernah mengakuinya sebagai anak, karena kondisinya yang mengalami gangguan jiwa. |
+| 2026-11-24 01:00 UTC | 2026-11-24 03:15 UTC | Layar Drama Indonesia Pagi : Cinta Tanpa Karena (Rr) | Perjalanan cinta Nuna dan Dipta harus menghadapi jalan yang terjal. Mulai dari terhalangnya restu orang tua, jarak yang memisahkan, hingga rasa cemas karena Dipta merupakan seorang abdi negara yang setiap harinya harus mempertaruhkan nyawa. Berbagai rintangan pun menguji kesetiaan cinta mereka. |
+| 2026-11-24 01:00 UTC | 2026-11-24 03:15 UTC | Cinta Tanpa Karena | Dipta adalah anggota satuan khusus yang punya kekasih cantik bernama Nuna. Cinta mereka sangat kuat meski rencana pernikahannya tak dapat restu dari orang tua. Belum lagi rencana perjodohan Nuna bersama seorang pengusaha sukses bernama Ghani. Sampai suatu ketika Dipta terpaksa harus bertugas ke luar kota, tapi tanpa disangka tragedi besar terjadi tepat saat Nuna positif hamil. |
+| 2026-11-24 03:15 UTC | 2026-11-24 03:45 UTC | Go Spot Eksklusif | Program yang menayangkan Film dari berbagai genre seperti romansa dan komedi yang seru dan menghibur untuk disaksikan selama moment liburan. |
+| 2026-11-24 03:15 UTC | 2026-11-24 03:45 UTC | Go Spot Ekslusif (RCTI) | Go Spot Eksklusif menyajikan liputan khusus seputar dunia hiburan, kisah para selebritas, serta berita eksklusif dan inspiratif yang dikemas ringan, menarik, dan informatif. |
+| 2026-11-24 03:45 UTC | 2026-11-24 05:00 UTC | Layar Drama Indonesia Siang - Terikat Janji Selamanya | Davina Rosalia Kusuma, putri pengusaha, tampak hidup sempurna namun menyimpan luka sejak ibunya meninggal dan ayahnya menikah lagi. Ia merasa terasing, terlebih setelah cinta pertamanya, Ryan, menghilang. Sepuluh tahun kemudian, pertunangannya dengan Dipa hancur karena perselingkuhan dengan adik tirinya, Jihan. Di tengah keterpurukan, Davina bertemu Sena, penjual ketoprak yang ternyata polisi intel yang menyelidiki Dipa. Davina meminta Sena berpura-pura menjadi pacarnya, namun hubungan palsu itu berubah menjadi nyata. Tanpa ia tahu, Sena juga mencari kebenaran tentang hilangnya Ryanmembawa mereka pada rahasia, balas dendam, dan perasaan yang tak terduga. |
+| 2026-11-24 03:45 UTC | 2026-11-24 05:00 UTC | Terikat Janji Selamanya |  |
+| 2026-11-24 05:00 UTC | 2026-11-24 10:30 UTC | Layar Drama Indonesia Siang - Ikatan Cinta Aldebaran & Andin | Mengisahkan dua saudara perempuan bernama Andien dan Elsa. Keduanya tidak menyadari bahwa mereka sama-sama mencintai pria yang sama, yaitu Nino. Hubungan yang sudah renggang di antara mereka semakin memburuk setelah Elsa mengetahui bahwa Nino berencana menikahi Andien. Setelah menikah, Elsa memfitnah Andien hingga diceraikan Nino. Ditengah luka tersebut Andien bertemu dengan Aldebaran yang sengaja mendekati Andien untuk membalas dendam adiknya. Namun dengan kebaikan hati Andien, perlahan Aldebaran melihat kebenaran dan mulai jatuh cinta pada Andien |
+| 2026-11-24 05:00 UTC | 2026-11-24 10:30 UTC | Ikatan Cinta Aldebaran & Andin | Kompilasi perjalanan cinta Aldebaran dan Andin yang penuh lika-liku, mulai dari kesalahpahaman, pengorbanan, hingga perjuangan mempertahankan keluarga. |
+| 2026-11-24 10:30 UTC | 2026-11-24 12:00 UTC | Layar Drama Indonesia : Tertulis Untuk Kita (Tayang Perdana) | Kencana menyelidiki pembunuhan ayahnya yang ternyata melibatkan Hardiman, pengusaha sukses yang ternyata juga memiliki hubungan dengannya. Dalam prosesnya, Kencana bekerja sama dengan Glen, yang juga menyimpan dendam terhadap Hardiman atas kematian kakaknya dan pencurian desainnya. Keduanya berusaha membongkar kejahatan Hardiman, di tengah konflik keluarga, persaingan bisnis, dan kisah cinta yang tumbuh di antara mereka. |
+| 2026-11-24 10:30 UTC | 2026-11-24 12:00 UTC | Tertulis Untuk Kita (RCTI) | Ketika dua hati dipertemukan, sementara masa lalu belum usai dan masa depan penuh akan tanda tanya. Ada rahasia yang tersimpan, luka yang terpendam, dan takdir yang tak bisa dihindari. Akankah pertemuan mereka membawa kebahagiaan atau justru menghadirkan luka baru? |
+| 2026-11-24 12:00 UTC | 2026-11-24 13:30 UTC | Layar Drama Indonesia : Terikat Janji | Davina Rosalia Kusuma, putri pengusaha, tampak hidup sempurna namun menyimpan luka sejak ibunya meninggal dan ayahnya menikah lagi. Ia merasa terasing, terlebih setelah cinta pertamanya, Ryan, menghilang. Sepuluh tahun kemudian, pertunangannya dengan Dipa hancur karena perselingkuhan dengan adik tirinya, Jihan. Di tengah keterpurukan, Davina bertemu Sena, penjual ketoprak yang ternyata polisi intel yang menyelidiki Dipa. Davina meminta Sena berpura-pura menjadi pacarnya, namun hubungan palsu itu berubah menjadi nyata. Tanpa ia tahu, Sena juga mencari kebenaran tentang hilangnya Ryanmembawa mereka pada rahasia, balas dendam, dan perasaan yang tak terduga. |
+| 2026-11-24 12:00 UTC | 2026-11-24 13:30 UTC | Terikat Janji (RCTI) | Davina terluka karena pengkhianatan cinta dan hidupnya hancur. Ia kemudian menjalin hubungan pura-pura dengan Sena. Seiring berjalannya waktu, keduanya benar-benar jatuh cinta, namun harus menghadapi rahasia dan konflik keluarga yang rumit. |
+| 2026-11-24 13:30 UTC | 2026-11-24 15:00 UTC | Layar Drama Indonesia : Terbaik Itu Kamu | Sera, putri pemilik perusahaan kosmetik Novelle Beauty, dijebak sebagai pembunuh Bram oleh tunangannya sendiri, Marvin, dan mantan kekasih Marvin, Clara. Akibat kesaksian palsu mereka, Sera dipenjara selama lima tahun dan kehilangan ayahnya, sementara sang adik, Wilda, membencinya karena percaya Sera telah membunuh kekasihnya. Setelah bebas, Sera kembali untuk membersihkan nama baiknya dan merebut kembali hidup yang telah direnggut darinya. Dalam penyamarannya untuk mencari bukti, Sera bertemu kembali dengan Kenzi, pria yang tanpa sengaja terlibat dalam kasus yang membuatnya dipenjara dan kini diam-diam berusaha melindunginya. Di tengah perebutan kekuasaan, rahasia masa lalu yang terpendam, dan dendam yang belum padam, benih cinta tumbuh di antara Sera dan Kenzi. Namun ketika kebenaran mulai terungkap, Sera harus memilih antara mempertahankan dendam atau membuka hatinya demi mendapatkan keadilan dan kebahagiaan yang selama ini hilang. |
+| 2026-11-24 13:30 UTC | 2026-11-24 15:00 UTC | Terbaik Itu Kamu (RCTI) | Sera harus menanggung kesalahan yang tidak pernah ia perbuat, sementara Kenzi menyimpan rasa bersalah atas kejadian yang mengubah hidup Sera. Saat kebenaran mulai terungkap, apakah semuanya masih bisa diperbaiki? |
+| 2026-11-24 15:00 UTC | 2026-11-24 16:30 UTC | Layar Drama Indonesia Malam : Terbelenggu Rindu Amira | Amira, seorang wanita berhati baik yang hidup bahagia bersama suami dan anaknya, harus menghadapi tragedi setelah Aditya berselingkuh. Suami dan putranya tewas dalam sebuah kecelakaan, begitu pula bayinya. Amira pun terpuruk dalam duka yang mendalam. |
+| 2026-11-24 15:00 UTC | 2026-11-24 16:30 UTC | Terbelenggu Rindu Amira | Cerita tentang Amira perempuan cantik, baik hati, dan selalu positif dalam memandang hidup. Kehidupannya berjalan baik-baik saja namun setelah kematian suami dan putrinya serta masalah yang datang bertubi-tubi membuatnya menjadi semakin terpuruk untuk melanjutkan hidupnya. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Layar Drama RCTI - Terikat Takdir (Bhootu) | Pihu, arwah seorang anak perempuan berusia tujuh tahun, berusaha melindungi ibunya, Anandita, dari segala bahaya dengan bantuan teman sekaligus anak baptisnya, Krishna. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Layar Drama RCTI - Terikat Takdir (Bhootu) | Pihu, arwah seorang anak perempuan berusia tujuh tahun, berusaha melindungi ibunya, Anandita, dari segala bahaya dengan bantuan teman sekaligus anak baptisnya, Krishna. |
+| 2026-11-24 16:30 UTC | 2026-11-24 17:00 UTC | Terikat Takdir | Bhootu adalah hantu kecil yang ceria dan senang membantu orang lain. Meski niat baiknya sering menimbulkan kejadian lucu dan masalah tak terduga, ia selalu membawa kebahagiaan bagi orang-orang di sekitarnya. |
+| 2026-11-24 17:00 UTC | 2026-11-24 19:00 UTC | Layar Drama Indonesia Malam : Jangan Bercerai Bunda (Rr) | Nabila adalah seorang ibu dan wirausahawan yang memiliki tiga orang anak. Dalam kehidupan rumah tangganya bersama sang suami, Arga, berbagai lika-liku pun muncul. Terungkapnya perselingkuhan Arga dengan wanita lain membuat Nabila dihadapkan pada situasi yang penuh dengan pilihan. |
+| 2026-11-24 17:00 UTC | 2026-11-24 18:00 UTC | Jangan Bercerai Bunda | Nabilla, seorang ibu dan pengusaha yang memiliki tiga orang anak. Dalam perjalanan rumah tangganya bersama Arga sang suami, lika-liku pun hadir menghampiri. Terungkapnya kejadian bahwa Arga berselingkuh bersama wanita lain membuat Nabilla terdesak dalam kondisi penuh pilihan. |
+| 2026-11-24 18:00 UTC | 2026-11-24 19:00 UTC | RCTI | RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment. |
+| 2026-11-24 19:00 UTC | 2026-11-24 20:15 UTC | RCTI | RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment. |
+| 2026-11-24 20:15 UTC | 2026-11-24 22:15 UTC | Layar Drama Indonesia Malam : Anak Jalanan (Rr) | Boy, seorang anak motor jagoan jalanan, dikagumi oleh banyak gadis. Namun, di dalam hati Boy hanya ada Adriana, mantan kekasihnya yang telah meninggalkannya. Boy kemudian bertemu dengan Reva, yang merasa takjub melihat kemampuannya dalam mengendalikan sepeda motor. |
+| 2026-11-24 20:15 UTC | 2026-11-24 22:15 UTC | Anak Jalanan | Boy, pemimpin geng motor, jatuh cinta pada Reva dan terkejut saat mengetahui bahwa ibu tiri Reva adalah mantan kekasihnya. Sementara itu, masa depan gengnya masih belum pasti. |
+| 2026-11-24 22:15 UTC | 2026-11-24 22:45 UTC | Seputar Inews | UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Union of European Football Associations (UEFA). |
+| 2026-11-24 22:15 UTC | 2026-11-24 22:45 UTC | Seputar iNews | Seputar iNews menyajikan berita terkini dari dalam dan luar negeri, meliputi politik, ekonomi, hukum, sosial, olahraga, dan peristiwa penting. Dikemas secara cepat, akurat, dan mendalam untuk memberikan informasi terpercaya kepada pemirsa. |
+| 2026-11-24 22:45 UTC | 2026-11-25 01:00 UTC | Layar Drama Indonesia Pagi : Cinta Sebening Embun (Rr) | Perjuangan tulus seorang gadis cilik bernama Intan dalam merawat ibunya, Nayla, yang mengalami gangguan jiwa akibat trauma masa lalu. Meskipun Nayla kerap bersikap dingin dan tidak mengakuinya sebagai anak, Intan tetap setia mendampingi dan menyayanginya dengan penuh kesabaran. Di tengah keterbatasan tersebut, kehidupan mereka semakin diuji oleh kemunculan rahasia asal-usul keluarga, pengkhianatan orang-orang terdekat, serta berbagai konflik yang memisahkan mereka, namun kasih sayang Intan terus menjadi harapan utama bagi kesembuhan sang ibu. |
+| 2026-11-24 22:45 UTC | 2026-11-25 01:00 UTC | Cinta Sebening Embun | Intan, seorang gadis kecil berjuang merawat ibunya yang tidak pernah mengakuinya sebagai anak, karena kondisinya yang mengalami gangguan jiwa. |
+| 2026-11-24 22:45 UTC | 2026-11-25 01:00 UTC | Cinta Sebening Embun | Intan, seorang gadis kecil berjuang merawat ibunya yang tidak pernah mengakuinya sebagai anak, karena kondisinya yang mengalami gangguan jiwa. |
+| 2026-11-25 01:00 UTC | 2026-11-25 03:15 UTC | Layar Drama Indonesia Pagi : Cinta Tanpa Karena (Rr) | Perjalanan cinta Nuna dan Dipta harus menghadapi jalan yang terjal. Mulai dari terhalangnya restu orang tua, jarak yang memisahkan, hingga rasa cemas karena Dipta merupakan seorang abdi negara yang setiap harinya harus mempertaruhkan nyawa. Berbagai rintangan pun menguji kesetiaan cinta mereka. |
+| 2026-11-25 01:00 UTC | 2026-11-25 03:15 UTC | Cinta Tanpa Karena | Dipta adalah anggota satuan khusus yang punya kekasih cantik bernama Nuna. Cinta mereka sangat kuat meski rencana pernikahannya tak dapat restu dari orang tua. Belum lagi rencana perjodohan Nuna bersama seorang pengusaha sukses bernama Ghani. Sampai suatu ketika Dipta terpaksa harus bertugas ke luar kota, tapi tanpa disangka tragedi besar terjadi tepat saat Nuna positif hamil. |
+| 2026-11-25 03:15 UTC | 2026-11-25 03:45 UTC | Go Spot Eksklusif | Program yang menayangkan Film dari berbagai genre seperti romansa dan komedi yang seru dan menghibur untuk disaksikan selama moment liburan. |
+| 2026-11-25 03:15 UTC | 2026-11-25 03:45 UTC | Go Spot Ekslusif (RCTI) | Go Spot Eksklusif menyajikan liputan khusus seputar dunia hiburan, kisah para selebritas, serta berita eksklusif dan inspiratif yang dikemas ringan, menarik, dan informatif. |
+| 2026-11-25 03:45 UTC | 2026-11-25 05:00 UTC | Layar Drama Indonesia Siang - Terikat Janji Selamanya | Davina Rosalia Kusuma, putri pengusaha, tampak hidup sempurna namun menyimpan luka sejak ibunya meninggal dan ayahnya menikah lagi. Ia merasa terasing, terlebih setelah cinta pertamanya, Ryan, menghilang. Sepuluh tahun kemudian, pertunangannya dengan Dipa hancur karena perselingkuhan dengan adik tirinya, Jihan. Di tengah keterpurukan, Davina bertemu Sena, penjual ketoprak yang ternyata polisi intel yang menyelidiki Dipa. Davina meminta Sena berpura-pura menjadi pacarnya, namun hubungan palsu itu berubah menjadi nyata. Tanpa ia tahu, Sena juga mencari kebenaran tentang hilangnya Ryanmembawa mereka pada rahasia, balas dendam, dan perasaan yang tak terduga. |
+| 2026-11-25 03:45 UTC | 2026-11-25 05:00 UTC | Terikat Janji Selamanya |  |
+| 2026-11-25 05:00 UTC | 2026-11-25 10:30 UTC | Layar Drama Indonesia Siang - Ikatan Cinta Aldebaran & Andin | Mengisahkan dua saudara perempuan bernama Andien dan Elsa. Keduanya tidak menyadari bahwa mereka sama-sama mencintai pria yang sama, yaitu Nino. Hubungan yang sudah renggang di antara mereka semakin memburuk setelah Elsa mengetahui bahwa Nino berencana menikahi Andien. Setelah menikah, Elsa memfitnah Andien hingga diceraikan Nino. Ditengah luka tersebut Andien bertemu dengan Aldebaran yang sengaja mendekati Andien untuk membalas dendam adiknya. Namun dengan kebaikan hati Andien, perlahan Aldebaran melihat kebenaran dan mulai jatuh cinta pada Andien |
+| 2026-11-25 05:00 UTC | 2026-11-25 10:30 UTC | Ikatan Cinta Aldebaran & Andin | Kompilasi perjalanan cinta Aldebaran dan Andin yang penuh lika-liku, mulai dari kesalahpahaman, pengorbanan, hingga perjuangan mempertahankan keluarga. |
+| 2026-11-25 10:30 UTC | 2026-11-25 11:30 UTC | Layar Drama Indonesia : Tertulis Untuk Kita (Tayang Perdana) | Kencana menyelidiki pembunuhan ayahnya yang ternyata melibatkan Hardiman, pengusaha sukses yang ternyata juga memiliki hubungan dengannya. Dalam prosesnya, Kencana bekerja sama dengan Glen, yang juga menyimpan dendam terhadap Hardiman atas kematian kakaknya dan pencurian desainnya. Keduanya berusaha membongkar kejahatan Hardiman, di tengah konflik keluarga, persaingan bisnis, dan kisah cinta yang tumbuh di antara mereka. |
+| 2026-11-25 10:30 UTC | 2026-11-25 11:30 UTC | Tertulis Untuk Kita (RCTI) | Ketika dua hati dipertemukan, sementara masa lalu belum usai dan masa depan penuh akan tanda tanya. Ada rahasia yang tersimpan, luka yang terpendam, dan takdir yang tak bisa dihindari. Akankah pertemuan mereka membawa kebahagiaan atau justru menghadirkan luka baru? |
+| 2026-11-25 11:30 UTC | 2026-11-25 14:15 UTC | Afc Champions League Two 2026/2027 | AFC Champions League Two 2026/2027 merupakan kompetisi yang diadakan untuk klub-klub dari negara-negara Asia yang tidak lolos ke Liga Champions AFC utama. Saksikan semua aksi permainan memukau hingga gol-gol indah dan momen-momen sepak bola yang menegangkan |
+| 2026-11-25 11:30 UTC | 2026-11-25 14:15 UTC | RCTI | RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment. |
+| 2026-11-25 14:15 UTC | 2026-11-25 15:30 UTC | Layar Drama Indonesia : Terbaik Itu Kamu | Sera, putri pemilik perusahaan kosmetik Novelle Beauty, dijebak sebagai pembunuh Bram oleh tunangannya sendiri, Marvin, dan mantan kekasih Marvin, Clara. Akibat kesaksian palsu mereka, Sera dipenjara selama lima tahun dan kehilangan ayahnya, sementara sang adik, Wilda, membencinya karena percaya Sera telah membunuh kekasihnya. Setelah bebas, Sera kembali untuk membersihkan nama baiknya dan merebut kembali hidup yang telah direnggut darinya. Dalam penyamarannya untuk mencari bukti, Sera bertemu kembali dengan Kenzi, pria yang tanpa sengaja terlibat dalam kasus yang membuatnya dipenjara dan kini diam-diam berusaha melindunginya. Di tengah perebutan kekuasaan, rahasia masa lalu yang terpendam, dan dendam yang belum padam, benih cinta tumbuh di antara Sera dan Kenzi. Namun ketika kebenaran mulai terungkap, Sera harus memilih antara mempertahankan dendam atau membuka hatinya demi mendapatkan keadilan dan kebahagiaan yang selama ini hilang. |
+| 2026-11-25 14:15 UTC | 2026-11-25 15:30 UTC | Terbaik Itu Kamu (RCTI) | Sera harus menanggung kesalahan yang tidak pernah ia perbuat, sementara Kenzi menyimpan rasa bersalah atas kejadian yang mengubah hidup Sera. Saat kebenaran mulai terungkap, apakah semuanya masih bisa diperbaiki? |
+| 2026-11-25 15:30 UTC | 2026-11-25 16:30 UTC | Layar Drama Indonesia Malam : Terbelenggu Rindu Amira | Amira, seorang wanita berhati baik yang hidup bahagia bersama suami dan anaknya, harus menghadapi tragedi setelah Aditya berselingkuh. Suami dan putranya tewas dalam sebuah kecelakaan, begitu pula bayinya. Amira pun terpuruk dalam duka yang mendalam. |
+| 2026-11-25 15:30 UTC | 2026-11-25 16:30 UTC | Terbelenggu Rindu Amira | Cerita tentang Amira perempuan cantik, baik hati, dan selalu positif dalam memandang hidup. Kehidupannya berjalan baik-baik saja namun setelah kematian suami dan putrinya serta masalah yang datang bertubi-tubi membuatnya menjadi semakin terpuruk untuk melanjutkan hidupnya. |
+| 2026-11-25 16:30 UTC | 2026-11-25 17:00 UTC | Layar Drama RCTI - Terikat Takdir (Bhootu) | Pihu, arwah seorang anak perempuan berusia tujuh tahun, berusaha melindungi ibunya, Anandita, dari segala bahaya dengan bantuan teman sekaligus anak baptisnya, Krishna. |
+| 2026-11-25 16:30 UTC | 2026-11-25 17:00 UTC | Terikat Takdir | Bhootu adalah hantu kecil yang ceria dan senang membantu orang lain. Meski niat baiknya sering menimbulkan kejadian lucu dan masalah tak terduga, ia selalu membawa kebahagiaan bagi orang-orang di sekitarnya. |
+| 2026-11-25 17:00 UTC | 2026-11-25 19:00 UTC | Jangan Bercerai Bunda | Nabilla, seorang ibu dan pengusaha yang memiliki tiga orang anak. Dalam perjalanan rumah tangganya bersama Arga sang suami, lika-liku pun hadir menghampiri. Terungkapnya kejadian bahwa Arga berselingkuh bersama wanita lain membuat Nabilla terdesak dalam kondisi penuh pilihan. |
+| 2026-11-25 19:00 UTC | 2026-11-25 20:00 UTC | Roman Picisan | Setelah lulus SMA, Roman (Arbani Yasiz) melanjutkan sekolahnya di Belanda dan terpaksa menjauh dari Wulan (Adinda Azani). Kisah asmara mereka mulai berubah saat gadis-gadis lain muncul dalam kehidupan Roman. |
+| 2026-11-25 20:00 UTC | 2026-11-25 22:15 UTC | Anak Jalanan | Boy, pemimpin geng motor, jatuh cinta pada Reva dan terkejut saat mengetahui bahwa ibu tiri Reva adalah mantan kekasihnya. Sementara itu, masa depan gengnya masih belum pasti. |
+| 2026-11-25 22:15 UTC | 2026-11-25 22:45 UTC | Seputar iNews | Seputar iNews menyajikan berita terkini dari dalam dan luar negeri, meliputi politik, ekonomi, hukum, sosial, olahraga, dan peristiwa penting. Dikemas secara cepat, akurat, dan mendalam untuk memberikan informasi terpercaya kepada pemirsa. |
+| 2026-11-25 22:45 UTC | 2026-11-26 01:00 UTC | Cinta Sebening Embun | Intan, seorang gadis kecil berjuang merawat ibunya yang tidak pernah mengakuinya sebagai anak, karena kondisinya yang mengalami gangguan jiwa. |
+
+## CNNIndonesia.id@SD (54 programmes)
+
+| Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
+|---|---|---|---|
+| 2026-11-23 21:15 UTC | 2026-11-23 22:00 UTC | Redaksi Akhir Pekan |  |
+| 2026-11-23 22:00 UTC | 2026-11-23 22:30 UTC | Gapai Kemuliaan |  |
+| 2026-11-23 22:30 UTC | 2026-11-23 23:30 UTC | Redaksi Pagi |  |
+| 2026-11-23 23:30 UTC | 2026-11-24 00:30 UTC | CNN Indonesia New Day |  |
+| 2026-11-24 00:30 UTC | 2026-11-24 01:30 UTC | Good Morning |  |
+| 2026-11-24 01:30 UTC | 2026-11-24 02:00 UTC | Redaksi Pagi |  |
+| 2026-11-24 02:00 UTC | 2026-11-24 02:30 UTC | Lacak Kriminal |  |
+| 2026-11-24 02:30 UTC | 2026-11-24 03:00 UTC | CNN Indonesia Today |  |
+| 2026-11-24 03:00 UTC | 2026-11-24 04:00 UTC | CNN Indonesia Business |  |
+| 2026-11-24 04:00 UTC | 2026-11-24 05:30 UTC | CNN Indonesia News Hour |  |
+| 2026-11-24 05:30 UTC | 2026-11-24 06:00 UTC | World Now |  |
+| 2026-11-24 06:00 UTC | 2026-11-24 06:45 UTC | CNN Indonesia New Day |  |
+| 2026-11-24 06:45 UTC | 2026-11-24 07:15 UTC | CNN Indonesia Today |  |
+| 2026-11-24 07:15 UTC | 2026-11-24 07:45 UTC | Redaksi |  |
+| 2026-11-24 07:45 UTC | 2026-11-24 08:30 UTC | Lacak Kriminal |  |
+| 2026-11-24 08:30 UTC | 2026-11-24 09:00 UTC | World Now |  |
+| 2026-11-24 09:00 UTC | 2026-11-24 09:30 UTC | CNN Indonesia News Update |  |
+| 2026-11-24 09:30 UTC | 2026-11-24 11:15 UTC | CNN Indonesia Newsroom |  |
+| 2026-11-24 11:15 UTC | 2026-11-24 11:45 UTC | Redaksi |  |
+| 2026-11-24 11:45 UTC | 2026-11-24 12:00 UTC | CNN Indonesia News Update |  |
+| 2026-11-24 12:00 UTC | 2026-11-24 13:30 UTC | Prime News |  |
+| 2026-11-24 13:30 UTC | 2026-11-24 14:15 UTC | Lacak Kriminal |  |
+| 2026-11-24 14:15 UTC | 2026-11-24 14:30 UTC | Redaksi |  |
+| 2026-11-24 14:30 UTC | 2026-11-24 15:00 UTC | Redaksi Malam |  |
+| 2026-11-24 15:00 UTC | 2026-11-24 16:00 UTC | CNN Indonesia Newsroom |  |
+| 2026-11-24 16:00 UTC | 2026-11-24 17:15 UTC | Prime News |  |
+| 2026-11-24 17:15 UTC | 2026-11-24 17:45 UTC | Redaksi Malam |  |
+| 2026-11-24 17:45 UTC | 2026-11-24 19:00 UTC | CNN Indonesia News Hour |  |
+| 2026-11-24 19:00 UTC | 2026-11-24 20:15 UTC | CNN Indonesia Newsroom |  |
+| 2026-11-24 20:15 UTC | 2026-11-24 20:45 UTC | Redaksi Malam |  |
+| 2026-11-24 20:45 UTC | 2026-11-24 21:15 UTC | CNN Indonesia News Update |  |
+| 2026-11-24 21:15 UTC | 2026-11-24 22:00 UTC | Redaksi Akhir Pekan |  |
+| 2026-11-24 22:00 UTC | 2026-11-24 22:30 UTC | Gapai Kemuliaan |  |
+| 2026-11-24 22:30 UTC | 2026-11-24 23:30 UTC | Redaksi Pagi |  |
+| 2026-11-24 23:30 UTC | 2026-11-25 00:30 UTC | CNN Indonesia New Day |  |
+| 2026-11-25 00:30 UTC | 2026-11-25 01:00 UTC | Good Morning |  |
+| 2026-11-25 01:00 UTC | 2026-11-25 03:30 UTC | Forum Akselerasi Ekonomi Daerah 2026 |  |
+| 2026-11-25 03:30 UTC | 2026-11-25 04:00 UTC | CNN Indonesia Business |  |
+| 2026-11-25 04:00 UTC | 2026-11-25 05:30 UTC | CNN Indonesia News Hour |  |
+| 2026-11-25 05:30 UTC | 2026-11-25 06:00 UTC | World Now |  |
+| 2026-11-25 06:00 UTC | 2026-11-25 06:45 UTC | CNN Indonesia New Day |  |
+| 2026-11-25 06:45 UTC | 2026-11-25 07:15 UTC | CNN Indonesia News Hour |  |
+| 2026-11-25 07:15 UTC | 2026-11-25 07:45 UTC | Redaksi |  |
+| 2026-11-25 07:45 UTC | 2026-11-25 08:30 UTC | Lacak Kriminal |  |
+| 2026-11-25 08:30 UTC | 2026-11-25 09:00 UTC | World Now |  |
+| 2026-11-25 09:00 UTC | 2026-11-25 09:30 UTC | CNN Indonesia News Update |  |
+| 2026-11-25 09:30 UTC | 2026-11-25 11:15 UTC | CNN Indonesia Newsroom |  |
+| 2026-11-25 11:15 UTC | 2026-11-25 11:45 UTC | Redaksi |  |
+| 2026-11-25 11:45 UTC | 2026-11-25 12:00 UTC | CNN Indonesia News Update |  |
+| 2026-11-25 12:00 UTC | 2026-11-25 13:30 UTC | Prime News |  |
+| 2026-11-25 13:30 UTC | 2026-11-25 15:00 UTC | Head To Head With Elvira |  |
+| 2026-11-25 15:00 UTC | 2026-11-25 15:30 UTC | Redaksi Malam |  |
+| 2026-11-25 15:30 UTC | 2026-11-25 16:00 UTC | Redaksi |  |
+| 2026-11-25 16:00 UTC | 2026-11-25 17:15 UTC | Prime News |  |
 
