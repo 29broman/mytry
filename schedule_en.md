@@ -25,31 +25,10 @@
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
 
-## ZiggoSport.nl (78 programmes)
+## ZiggoSport.nl (91 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:30 UTC | 2026-11-24 23:30 UTC | UEFA Champions League Highlights |  |
-| 2026-11-24 23:30 UTC | 2026-11-25 01:15 UTC | Feyenoord - FC Porto |  |
-| 2026-11-25 01:15 UTC | 2026-11-25 03:00 UTC | Real Madrid - PSV |  |
-| 2026-11-25 03:00 UTC | 2026-11-25 04:45 UTC | Arsenal - Borussia Dortmund |  |
-| 2026-11-25 04:45 UTC | 2026-11-25 05:00 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
-| 2026-11-25 05:00 UTC | 2026-11-25 06:00 UTC | UEFA Documentary | Outraged |
-| 2026-11-25 06:00 UTC | 2026-11-25 07:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 08:30 UTC | Rondo |  |
-| 2026-11-25 08:30 UTC | 2026-11-25 09:30 UTC | UEFA Champions League Highlights |  |
-| 2026-11-25 09:30 UTC | 2026-11-25 10:30 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 10:30 UTC | 2026-11-25 11:30 UTC | IndyCar Highlights | Annual review 2026 |
-| 2026-11-25 11:30 UTC | 2026-11-25 13:30 UTC | Finals: Czech Republic - Canada |  |
-| 2026-11-25 13:30 UTC | 2026-11-25 14:00 UTC | GP of Portugal: Race (Summary) | GP of Portugal: Race |
-| 2026-11-25 14:00 UTC | 2026-11-25 15:00 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 16:00 UTC | Wes And Raf | About the new Dutch era under Xavi |
-| 2026-11-25 16:00 UTC | 2026-11-25 17:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 17:45 UTC | UEFA Match Day |  |
-| 2026-11-25 17:45 UTC | 2026-11-25 19:45 UTC | Sabah FK - FC Barcelona |  |
-| 2026-11-25 19:45 UTC | 2026-11-25 20:00 UTC | UEFA Match Day |  |
-| 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | Paris Saint Germain - AS Roma |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 22:30 UTC | UEFA Match Day |  |
 | 2026-11-25 22:30 UTC | 2026-11-25 23:30 UTC | UEFA Champions League Highlights |  |
 | 2026-11-25 23:30 UTC | 2026-11-26 00:30 UTC | UEFA Champions League Highlights |  |
 | 2026-11-26 00:30 UTC | 2026-11-26 02:15 UTC | Paris Saint Germain - AS Roma |  |
@@ -59,21 +38,21 @@
 | 2026-11-26 06:00 UTC | 2026-11-26 07:00 UTC | UEFA Champions League Highlights |  |
 | 2026-11-26 07:00 UTC | 2026-11-26 08:00 UTC | UEFA Champions League Highlights |  |
 | 2026-11-26 08:00 UTC | 2026-11-26 09:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 09:00 UTC | 2026-11-26 16:00 UTC | Finals: Groot-Brittannië - Duitsland |  |
-| 2026-11-26 16:00 UTC | 2026-11-26 17:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 17:00 UTC | 2026-11-26 17:45 UTC | UEFA Match Day |  |
-| 2026-11-26 17:45 UTC | 2026-11-26 19:45 UTC | Ajax - FC Thun |  |
-| 2026-11-26 19:45 UTC | 2026-11-26 20:00 UTC | UEFA Match Day |  |
-| 2026-11-26 20:00 UTC | 2026-11-26 22:00 UTC | Sparta Praag - AZ |  |
-| 2026-11-26 22:00 UTC | 2026-11-26 22:30 UTC | UEFA Match Day |  |
-| 2026-11-26 22:30 UTC | 2026-11-26 23:30 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
-| 2026-11-26 23:30 UTC | 2026-11-26 23:45 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
-| 2026-11-26 23:45 UTC | 2026-11-27 00:00 UTC | Feyenoord - FC Porto (Summary) | Feyenoord - FC Porto |
+| 2026-11-26 09:00 UTC | 2026-11-26 15:55 UTC | Finals: Groot-Brittannië - Duitsland |  |
+| 2026-11-26 15:55 UTC | 2026-11-26 17:00 UTC | UEFA Champions League Highlights |  |
+| 2026-11-26 17:00 UTC | 2026-11-26 17:35 UTC | UEFA Match Day |  |
+| 2026-11-26 17:35 UTC | 2026-11-26 19:50 UTC | Ajax - FC Thun |  |
+| 2026-11-26 19:50 UTC | 2026-11-26 22:05 UTC | Sparta Praag - AZ |  |
+| 2026-11-26 22:05 UTC | 2026-11-26 22:25 UTC | UEFA Match Day |  |
+| 2026-11-26 22:25 UTC | 2026-11-26 23:30 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
+| 2026-11-26 23:30 UTC | 2026-11-26 23:40 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
+| 2026-11-26 23:40 UTC | 2026-11-27 00:00 UTC | Feyenoord - FC Porto (Summary) | Feyenoord - FC Porto |
 | 2026-11-27 00:00 UTC | 2026-11-27 01:45 UTC | Ajax - FC Thun |  |
 | 2026-11-27 01:45 UTC | 2026-11-27 03:30 UTC | SC Freiburg - FC Twente |  |
 | 2026-11-27 03:30 UTC | 2026-11-27 05:15 UTC | N.E.C. - Stade Rennais |  |
 | 2026-11-27 05:15 UTC | 2026-11-27 05:30 UTC | Ajax - FC Thun (Samenvatting) | Ajax - FC Thun |
-| 2026-11-27 05:30 UTC | 2026-11-27 05:45 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
+| 2026-11-27 05:30 UTC | 2026-11-27 05:40 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
+| 2026-11-27 05:40 UTC | 2026-11-27 05:45 UTC | Feyenoord - FC Porto (Summary) | Feyenoord - FC Porto |
 | 2026-11-27 05:45 UTC | 2026-11-27 06:00 UTC | Feyenoord - FC Porto (Summary) | Feyenoord - FC Porto |
 | 2026-11-27 06:00 UTC | 2026-11-27 07:00 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
 | 2026-11-27 07:00 UTC | 2026-11-27 07:30 UTC | Nederland - Denemarken (Samenvatting) | Nederland - Denemarken |
@@ -99,41 +78,55 @@
 | 2026-11-27 23:15 UTC | 2026-11-27 23:45 UTC | Finals Weekend: Ireland - Australia (Recap) | Finals Weekend: Ireland - Australia |
 | 2026-11-27 23:45 UTC | 2026-11-28 00:15 UTC | Grand Prix Insights |  |
 | 2026-11-28 00:15 UTC | 2026-11-28 01:15 UTC | Ziggo Sport Race Café |  |
-| 2026-11-28 01:15 UTC | 2026-11-28 03:15 UTC | Semi-final |  |
+| 2026-11-28 01:15 UTC | 2026-11-28 03:15 UTC | Semi-final: Italy - Czech Republic |  |
 | 2026-11-28 03:15 UTC | 2026-11-28 03:45 UTC | Inside Series A |  |
 | 2026-11-28 03:45 UTC | 2026-11-28 05:30 UTC | Levante UD - Racing Santander |  |
-| 2026-11-28 05:30 UTC | 2026-11-28 06:00 UTC | Football Nation | Spain |
+| 2026-11-28 05:30 UTC | 2026-11-28 05:49 UTC | Football Nation | Spain |
+| 2026-11-28 05:49 UTC | 2026-11-28 06:00 UTC | Ziggo Sports Top 14 | UEFA |
 | 2026-11-28 06:00 UTC | 2026-11-28 06:30 UTC | Finals Weekend: Ireland - Australia (Recap) | Finals Weekend: Ireland - Australia |
 | 2026-11-28 06:30 UTC | 2026-11-28 07:35 UTC | Ziggo Sport Race Café |  |
 | 2026-11-28 07:35 UTC | 2026-11-28 08:20 UTC | Moto3 | GP of Valencia: Free Practice 2 |
 | 2026-11-28 08:20 UTC | 2026-11-28 09:05 UTC | Moto2 | GP of Valencia: Free Practice 2 |
+| 2026-11-28 09:05 UTC | 2026-11-28 09:45 UTC | MotoGP | GP of Valencia: Free Practice 2 |
+| 2026-11-28 09:45 UTC | 2026-11-28 10:10 UTC | MotoGP | GP of Valencia: Qualification 1 |
+| 2026-11-28 10:10 UTC | 2026-11-28 10:45 UTC | MotoGP | GP of Valencia: Qualification 2 |
+| 2026-11-28 10:45 UTC | 2026-11-28 11:15 UTC | Finals Weekend: Ireland - Australia (Recap) | Finals Weekend: Ireland - Australia |
+| 2026-11-28 11:15 UTC | 2026-11-28 11:40 UTC | Hall of Fame dinner |  |
+| 2026-11-28 11:40 UTC | 2026-11-28 12:05 UTC | Moto3 | GP of Valencia: Qualification 1 |
+| 2026-11-28 12:05 UTC | 2026-11-28 12:35 UTC | Moto3 | GP of Valencia: Qualification 2 |
+| 2026-11-28 12:35 UTC | 2026-11-28 13:00 UTC | Moto2 | GP of Valencia: Qualification 1 |
+| 2026-11-28 13:00 UTC | 2026-11-28 13:30 UTC | Moto2 | GP of Valencia: Qualification 2 |
+| 2026-11-28 13:30 UTC | 2026-11-28 14:50 UTC | MotoGP | GP of Valencia: Sprint Race |
+| 2026-11-28 14:50 UTC | 2026-11-28 15:10 UTC | Rob van Gameren visits the F1 Authentics |  |
+| 2026-11-28 15:10 UTC | 2026-11-28 15:30 UTC | Rugby explained by Jay-Jay Boske |  |
+| 2026-11-28 15:30 UTC | 2026-11-28 16:00 UTC | Finals Weekend: Ireland - Australia (Recap) | Finals Weekend: Ireland - Australia |
+| 2026-11-28 16:00 UTC | 2026-11-28 16:30 UTC | Finals Weekend: Wales - Japan (Recap) | Finals Weekend: Wales - Japan |
+| 2026-11-28 16:30 UTC | 2026-11-28 18:30 UTC | Finals Weekend: England - New Zealand |  |
+| 2026-11-28 18:30 UTC | 2026-11-28 19:30 UTC | Elche - Atlético Madrid |  |
+| 2026-11-28 19:30 UTC | 2026-11-28 19:45 UTC | Ziggo Sports Top 14 | Most notable fouls (red cards) |
+| 2026-11-28 19:45 UTC | 2026-11-28 19:55 UTC | Levante UD - Racing Santander (Summary) | Levante UD - Racing Santander |
+| 2026-11-28 19:55 UTC | 2026-11-28 22:00 UTC | Real Madrid - Deportivo Alaves |  |
+| 2026-11-28 22:00 UTC | 2026-11-28 22:30 UTC | Valencia GP: Sprint Race (Summary) | GP of Valencia: Sprint Race |
+| 2026-11-28 22:30 UTC | 2026-11-28 23:00 UTC | Round Up |  |
+| 2026-11-28 23:00 UTC | 2026-11-28 23:30 UTC | Norway - Netherlands (Summary) | Norway - Netherlands |
+| 2026-11-28 23:30 UTC | 2026-11-29 00:00 UTC | Finals Weekend: Wales - Japan (Recap) | Finals Weekend: Wales - Japan |
+| 2026-11-29 00:00 UTC | 2026-11-29 00:30 UTC | Finals Weekend: England - New Zealand (Recap) | Finals Weekend: England - New Zealand |
+| 2026-11-29 00:30 UTC | 2026-11-29 02:30 UTC | Semi-final |  |
+| 2026-11-29 02:30 UTC | 2026-11-29 04:15 UTC | Real Madrid - Deportivo Alaves |  |
+| 2026-11-29 04:15 UTC | 2026-11-29 06:00 UTC | Internazionale - Genoa |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:30 UTC | Norway - Netherlands (Summary) | Norway - Netherlands |
+| 2026-11-29 06:30 UTC | 2026-11-29 06:45 UTC | Ziggo Sports Top 14 | UEFA |
+| 2026-11-29 06:45 UTC | 2026-11-29 07:10 UTC | UEFA Champions League Magazine |  |
+| 2026-11-29 07:10 UTC | 2026-11-29 07:40 UTC | Round Up |  |
+| 2026-11-29 07:40 UTC | 2026-11-29 08:05 UTC | Moto2And3 GP of Valencia: Qualifications (Summary) | Moto2And3 GP of Valencia: Qualifications |
+| 2026-11-29 08:05 UTC | 2026-11-29 08:35 UTC | Valencia GP: Sprint Race (Summary) | GP of Valencia: Sprint Race |
 
-## ZiggoSport2.nl (76 programmes)
+## ZiggoSport2.nl (80 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:50 UTC | 2026-11-25 00:35 UTC | Galatasaray - Aston Villa |  |
-| 2026-11-25 00:35 UTC | 2026-11-25 02:20 UTC | FK Bodø/Glimt - LASK Linz |  |
-| 2026-11-25 02:20 UTC | 2026-11-25 04:05 UTC | Feyenoord - FC Porto |  |
-| 2026-11-25 04:05 UTC | 2026-11-25 05:50 UTC | Real Madrid - PSV |  |
-| 2026-11-25 05:50 UTC | 2026-11-25 06:00 UTC | Levante UD - Elche (Summary) | Levante UD - Elche |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:55 UTC | UEFA Champions League Highlights |  |
-| 2026-11-25 06:55 UTC | 2026-11-25 07:50 UTC | Ziggo Sports Goals |  |
-| 2026-11-25 07:50 UTC | 2026-11-25 09:35 UTC | Real Madrid - PSV |  |
-| 2026-11-25 09:35 UTC | 2026-11-25 10:30 UTC | Ziggo Sports Goals |  |
-| 2026-11-25 10:30 UTC | 2026-11-25 12:00 UTC | Rondo |  |
-| 2026-11-25 12:00 UTC | 2026-11-25 13:50 UTC | Feyenoord - FC Porto |  |
-| 2026-11-25 13:50 UTC | 2026-11-25 14:45 UTC | Ziggo Sports Goals |  |
-| 2026-11-25 14:45 UTC | 2026-11-25 14:55 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
-| 2026-11-25 14:55 UTC | 2026-11-25 17:05 UTC | Paris Saint Germain U19 - AS Roma U19 |  |
-| 2026-11-25 17:05 UTC | 2026-11-25 17:20 UTC | Real Madrid - PSV (Summary) | Real Madrid - PSV |
-| 2026-11-25 17:20 UTC | 2026-11-25 17:40 UTC | Feyenoord - FC Porto (Summary) | Feyenoord - FC Porto |
-| 2026-11-25 17:40 UTC | 2026-11-25 19:45 UTC | Slavia Prague - Villarreal CF |  |
-| 2026-11-25 19:45 UTC | 2026-11-25 19:55 UTC | Levante UD - Elche (Summary) | Levante UD - Elche |
-| 2026-11-25 19:55 UTC | 2026-11-25 22:05 UTC | Club Brugge - Liverpool |  |
-| 2026-11-25 22:05 UTC | 2026-11-25 23:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-25 23:00 UTC | 2026-11-26 00:45 UTC | Sabah FK - FC Barcelona |  |
-| 2026-11-26 00:45 UTC | 2026-11-26 02:30 UTC | Slavia Prague - Villarreal CF |  |
+| 2026-11-25 22:55 UTC | 2026-11-26 00:40 UTC | Sabah FK - FC Barcelona |  |
+| 2026-11-26 00:40 UTC | 2026-11-26 02:30 UTC | Slavia Prague - Villarreal CF |  |
 | 2026-11-26 02:30 UTC | 2026-11-26 04:15 UTC | Paris Saint Germain - AS Roma |  |
 | 2026-11-26 04:15 UTC | 2026-11-26 06:00 UTC | Club Brugge - Liverpool |  |
 | 2026-11-26 06:00 UTC | 2026-11-26 06:55 UTC | UEFA Champions League Highlights |  |
@@ -141,20 +134,21 @@
 | 2026-11-26 07:50 UTC | 2026-11-26 09:35 UTC | Sabah FK - FC Barcelona |  |
 | 2026-11-26 09:35 UTC | 2026-11-26 10:30 UTC | UEFA Champions League Highlights |  |
 | 2026-11-26 10:30 UTC | 2026-11-26 11:30 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 11:30 UTC | 2026-11-26 12:15 UTC | Troy Parrott: Icon in Ireland, Forged in Alkmaar |  |
-| 2026-11-26 12:15 UTC | 2026-11-26 12:30 UTC | Sabah FK - FC Barcelona (Summary) | Sabah FK - FC Barcelona |
-| 2026-11-26 12:30 UTC | 2026-11-26 12:40 UTC | Paris Saint-Germain - AS Roma (Samenvatting) | Paris Saint Germain - AS Roma |
-| 2026-11-26 12:40 UTC | 2026-11-26 13:30 UTC | UEFA Europa League And UEFA Conference League Magazine |  |
-| 2026-11-26 13:30 UTC | 2026-11-26 14:25 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 14:25 UTC | 2026-11-26 15:25 UTC | UEFA Champions League Highlights |  |
+| 2026-11-26 11:30 UTC | 2026-11-26 12:10 UTC | Troy Parrott: Icon in Ireland, Forged in Alkmaar |  |
+| 2026-11-26 12:10 UTC | 2026-11-26 12:25 UTC | Sabah FK - FC Barcelona (Summary) | Sabah FK - FC Barcelona |
+| 2026-11-26 12:25 UTC | 2026-11-26 12:35 UTC | Paris Saint-Germain - AS Roma (Samenvatting) | Paris Saint Germain - AS Roma |
+| 2026-11-26 12:35 UTC | 2026-11-26 13:25 UTC | UEFA Europa League And UEFA Conference League Magazine |  |
+| 2026-11-26 13:25 UTC | 2026-11-26 14:20 UTC | UEFA Champions League Highlights |  |
+| 2026-11-26 14:20 UTC | 2026-11-26 15:25 UTC | UEFA Champions League Highlights |  |
 | 2026-11-26 15:25 UTC | 2026-11-26 17:30 UTC | Mjällby AIF uit tegen Kairat Almaty |  |
-| 2026-11-26 17:30 UTC | 2026-11-26 18:00 UTC | Kick 't Met On Tour | Feyenoord - Internazionale |
+| 2026-11-26 17:30 UTC | 2026-11-26 17:50 UTC | Kick 't Met On Tour | Feyenoord - Internazionale |
+| 2026-11-26 17:50 UTC | 2026-11-26 18:00 UTC | Levante UD - Elche (Summary) | Levante UD - Elche |
 | 2026-11-26 18:00 UTC | 2026-11-26 19:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 19:00 UTC | 2026-11-26 20:00 UTC | UEFA Match Day |  |
-| 2026-11-26 20:00 UTC | 2026-11-26 22:05 UTC | SC Freiburg - FC Twente |  |
-| 2026-11-26 22:05 UTC | 2026-11-26 23:00 UTC | UEFA Champions League Highlights |  |
-| 2026-11-26 23:00 UTC | 2026-11-27 00:45 UTC | Ajax - FC Thun |  |
-| 2026-11-27 00:45 UTC | 2026-11-27 02:30 UTC | Sparta Praag - AZ |  |
+| 2026-11-26 19:00 UTC | 2026-11-26 19:50 UTC | UEFA Match Day |  |
+| 2026-11-26 19:50 UTC | 2026-11-26 22:00 UTC | SC Freiburg - FC Twente |  |
+| 2026-11-26 22:00 UTC | 2026-11-26 22:55 UTC | UEFA Champions League Highlights |  |
+| 2026-11-26 22:55 UTC | 2026-11-27 00:40 UTC | Ajax - FC Thun |  |
+| 2026-11-27 00:40 UTC | 2026-11-27 02:30 UTC | Sparta Praag - AZ |  |
 | 2026-11-27 02:30 UTC | 2026-11-27 04:15 UTC | SC Freiburg - FC Twente |  |
 | 2026-11-27 04:15 UTC | 2026-11-27 06:00 UTC | N.E.C. - Stade Rennais |  |
 | 2026-11-27 06:00 UTC | 2026-11-27 06:55 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
@@ -188,39 +182,40 @@
 | 2026-11-28 06:00 UTC | 2026-11-28 06:55 UTC | UEFA Champions League Highlights |  |
 | 2026-11-28 06:55 UTC | 2026-11-28 07:50 UTC | UEFA Champions League Highlights |  |
 | 2026-11-28 07:50 UTC | 2026-11-28 08:45 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
+| 2026-11-28 08:45 UTC | 2026-11-28 09:35 UTC | Wes And Raf | About the new Dutch era under Xavi |
+| 2026-11-28 09:35 UTC | 2026-11-28 10:05 UTC | Inside Series A |  |
+| 2026-11-28 10:05 UTC | 2026-11-28 10:35 UTC | LaLiga Preview Show |  |
+| 2026-11-28 10:35 UTC | 2026-11-28 11:05 UTC | Coppa Italia Preview |  |
+| 2026-11-28 11:05 UTC | 2026-11-28 12:00 UTC | Wes And Raf | About the new Dutch era under Xavi |
+| 2026-11-28 12:00 UTC | 2026-11-28 12:55 UTC | UEFA Champions League Highlights |  |
+| 2026-11-28 12:55 UTC | 2026-11-28 13:55 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
+| 2026-11-28 13:55 UTC | 2026-11-28 16:05 UTC | Frosinone - Parma |  |
+| 2026-11-28 16:05 UTC | 2026-11-28 16:55 UTC | Troy Parrott: Icon in Ireland, Forged in Alkmaar |  |
+| 2026-11-28 16:55 UTC | 2026-11-28 19:05 UTC | Torino - Lazio |  |
+| 2026-11-28 19:05 UTC | 2026-11-28 19:20 UTC | Ajax - FC Thun (Samenvatting) | Ajax - FC Thun |
+| 2026-11-28 19:20 UTC | 2026-11-28 19:30 UTC | SC Freiburg - FC Twente (Summary) | SC Freiburg - FC Twente |
+| 2026-11-28 19:30 UTC | 2026-11-28 19:40 UTC | Sparta Prague - AZ (Summary) | Sparta Praag - AZ |
+| 2026-11-28 19:40 UTC | 2026-11-28 21:50 UTC | Internazionale - Genoa |  |
+| 2026-11-28 21:50 UTC | 2026-11-28 23:00 UTC | Xabi Alonso: The Architect |  |
+| 2026-11-28 23:00 UTC | 2026-11-29 00:45 UTC | Elche - Atlético Madrid |  |
+| 2026-11-29 00:45 UTC | 2026-11-29 02:30 UTC | Internazionale - Genoa |  |
+| 2026-11-29 02:30 UTC | 2026-11-29 04:15 UTC | Real Madrid - Deportivo Alaves |  |
+| 2026-11-29 04:15 UTC | 2026-11-29 06:00 UTC | Torino - Lazio |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:25 UTC | Round Up |  |
+| 2026-11-29 06:25 UTC | 2026-11-29 07:20 UTC | UEFA Champions League Highlights |  |
+| 2026-11-29 07:20 UTC | 2026-11-29 08:15 UTC | UEFA Champions League Highlights |  |
+| 2026-11-29 08:15 UTC | 2026-11-29 09:10 UTC | UEFA Europa League And UEFA Conference League Highlights |  |
 
 ## ZiggoSport3.nl (78 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:30 UTC | 2026-11-24 23:05 UTC | ALL IN | The Future Starts Now: The Battle for No. 2 |
-| 2026-11-24 23:05 UTC | 2026-11-25 00:05 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 00:05 UTC | 2026-11-25 02:00 UTC | MotoGP | GP of Portugal: Race |
-| 2026-11-25 02:00 UTC | 2026-11-25 02:55 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
-| 2026-11-25 02:55 UTC | 2026-11-25 03:45 UTC | IndyCar Highlights | Annual review 2026 |
-| 2026-11-25 03:45 UTC | 2026-11-25 04:40 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 04:40 UTC | 2026-11-25 05:25 UTC | Powerboat Highlights | E1 Series Championship: Miami |
-| 2026-11-25 05:25 UTC | 2026-11-25 06:00 UTC | Marc Marquez - more than a comeback |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 07:00 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 09:00 UTC | MotoGP | GP of Portugal: Race |
-| 2026-11-25 09:00 UTC | 2026-11-25 10:00 UTC | NASCAR Cup Series Highlights | Championship Race |
-| 2026-11-25 10:00 UTC | 2026-11-25 11:00 UTC | NASCAR O'Reilly Auto Parts Series Highlights | Championship Race |
-| 2026-11-25 11:00 UTC | 2026-11-25 12:00 UTC | NASCAR Craftsman Truck Series Highlights | Championship Race |
-| 2026-11-25 12:00 UTC | 2026-11-25 13:00 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
-| 2026-11-25 13:00 UTC | 2026-11-25 13:55 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 13:55 UTC | 2026-11-25 14:25 UTC | Grand Prix Insights |  |
-| 2026-11-25 14:25 UTC | 2026-11-25 15:20 UTC | Powerboat Highlights | E1 Series Championship: Miami |
-| 2026-11-25 15:20 UTC | 2026-11-25 16:20 UTC | NASCAR Cup Series Highlights | Championship Race |
-| 2026-11-25 16:20 UTC | 2026-11-25 18:20 UTC | MotoGP | GP of Portugal: Race |
-| 2026-11-25 18:20 UTC | 2026-11-25 19:20 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-25 19:20 UTC | 2026-11-25 19:55 UTC | The Inside Line |  |
-| 2026-11-25 19:55 UTC | 2026-11-25 22:05 UTC | Lille - Bayern Munich |  |
-| 2026-11-25 22:05 UTC | 2026-11-25 23:50 UTC | The Magic of the TT - 100 years of TT |  |
-| 2026-11-25 23:50 UTC | 2026-11-26 00:50 UTC | Ziggo Sport Race Café De Stamtafel |  |
-| 2026-11-26 00:50 UTC | 2026-11-26 02:45 UTC | MotoGP | GP of Portugal: Race |
-| 2026-11-26 02:45 UTC | 2026-11-26 03:30 UTC | Powerboat Highlights | E1 Series Championship: Miami |
-| 2026-11-26 03:30 UTC | 2026-11-26 04:25 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
-| 2026-11-26 04:25 UTC | 2026-11-26 05:10 UTC | King of the Roads | Classic Bike Festival |
+| 2026-11-25 22:00 UTC | 2026-11-25 23:45 UTC | The Magic of the TT - 100 years of TT |  |
+| 2026-11-25 23:45 UTC | 2026-11-26 00:45 UTC | Ziggo Sport Race Café De Stamtafel |  |
+| 2026-11-26 00:45 UTC | 2026-11-26 02:40 UTC | MotoGP | GP of Portugal: Race |
+| 2026-11-26 02:40 UTC | 2026-11-26 03:25 UTC | Powerboat Highlights | E1 Series Championship: Miami |
+| 2026-11-26 03:25 UTC | 2026-11-26 04:20 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
+| 2026-11-26 04:20 UTC | 2026-11-26 05:10 UTC | King of the Roads | Classic Bike Festival |
 | 2026-11-26 05:10 UTC | 2026-11-26 06:00 UTC | IndyCar Highlights | Annual review 2026 |
 | 2026-11-26 06:00 UTC | 2026-11-26 07:00 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
 | 2026-11-26 07:00 UTC | 2026-11-26 08:00 UTC | Ziggo Sport Race Café De Stamtafel |  |
@@ -233,16 +228,16 @@
 | 2026-11-26 15:10 UTC | 2026-11-26 17:10 UTC | MotoGP | GP of Portugal: Race |
 | 2026-11-26 17:10 UTC | 2026-11-26 17:40 UTC | The Inside Line |  |
 | 2026-11-26 17:40 UTC | 2026-11-26 19:45 UTC | Olympiakos Piraeus - AC Milan |  |
-| 2026-11-26 19:45 UTC | 2026-11-26 20:00 UTC | UEFA Match Day |  |
-| 2026-11-26 20:00 UTC | 2026-11-26 22:00 UTC | N.E.C. - Stade Rennais |  |
-| 2026-11-26 22:00 UTC | 2026-11-26 22:40 UTC | UEFA Match Day |  |
+| 2026-11-26 19:45 UTC | 2026-11-26 19:55 UTC | UEFA Match Day |  |
+| 2026-11-26 19:55 UTC | 2026-11-26 22:05 UTC | N.E.C. - Stade Rennais |  |
+| 2026-11-26 22:05 UTC | 2026-11-26 22:40 UTC | UEFA Match Day |  |
 | 2026-11-26 22:40 UTC | 2026-11-26 23:40 UTC | Ziggo Sport Race Café De Stamtafel |  |
 | 2026-11-26 23:40 UTC | 2026-11-27 00:30 UTC | Powerboat Highlights | E1 Series Championship: Miami |
-| 2026-11-27 00:30 UTC | 2026-11-27 01:20 UTC | King of the Roads | Classic Bike Festival |
-| 2026-11-27 01:20 UTC | 2026-11-27 03:00 UTC | The Magic of the TT - 100 years of TT |  |
+| 2026-11-27 00:30 UTC | 2026-11-27 01:15 UTC | King of the Roads | Classic Bike Festival |
+| 2026-11-27 01:15 UTC | 2026-11-27 03:00 UTC | The Magic of the TT - 100 years of TT |  |
 | 2026-11-27 03:00 UTC | 2026-11-27 03:55 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
-| 2026-11-27 03:55 UTC | 2026-11-27 04:45 UTC | IndyCar Highlights | Annual review 2026 |
-| 2026-11-27 04:45 UTC | 2026-11-27 06:00 UTC | Porsche Sprint Challenge | Valencia: Sport Division Race 1 |
+| 2026-11-27 03:55 UTC | 2026-11-27 04:50 UTC | IndyCar Highlights | Annual review 2026 |
+| 2026-11-27 04:50 UTC | 2026-11-27 06:00 UTC | Porsche Sprint Challenge | Valencia: Sport Division Race 1 |
 | 2026-11-27 06:00 UTC | 2026-11-27 07:00 UTC | IndyCar Highlights | Annual review 2026 |
 | 2026-11-27 07:00 UTC | 2026-11-27 08:00 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
 | 2026-11-27 08:00 UTC | 2026-11-27 09:00 UTC | Ziggo Sport Race Café De Stamtafel |  |
@@ -271,26 +266,33 @@
 | 2026-11-28 06:00 UTC | 2026-11-28 07:05 UTC | Ziggo Sport Race Café |  |
 | 2026-11-28 07:05 UTC | 2026-11-28 08:00 UTC | IndyCar Highlights | Annual review 2026 |
 | 2026-11-28 08:00 UTC | 2026-11-28 09:00 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
+| 2026-11-28 09:00 UTC | 2026-11-28 10:00 UTC | SailGP Highlights | Dubai |
+| 2026-11-28 10:00 UTC | 2026-11-28 11:35 UTC | SailGP | Abu Dhabi: Day 1 |
+| 2026-11-28 11:35 UTC | 2026-11-28 12:05 UTC | The Inside Line |  |
+| 2026-11-28 12:05 UTC | 2026-11-28 13:00 UTC | Ferrari Challenge Highlights | Barcelona-Catalunya |
+| 2026-11-28 13:00 UTC | 2026-11-28 15:10 UTC | Finals Weekend: Wales - Japan |  |
+| 2026-11-28 15:10 UTC | 2026-11-28 17:15 UTC | Malaga - Athletic Bilbao |  |
+| 2026-11-28 17:15 UTC | 2026-11-28 17:25 UTC | Levante UD - Racing Santander (Summary) | Levante UD - Racing Santander |
+| 2026-11-28 17:25 UTC | 2026-11-28 19:30 UTC | Elche - Atlético Madrid |  |
+| 2026-11-28 19:30 UTC | 2026-11-28 20:50 UTC | DTM Highlights | Season Review |
+| 2026-11-28 20:50 UTC | 2026-11-28 22:00 UTC | Ziggo Sport Race Café |  |
+| 2026-11-28 22:00 UTC | 2026-11-28 22:55 UTC | Ferrari Challenge Highlights | Barcelona-Catalunya |
+| 2026-11-28 22:55 UTC | 2026-11-28 23:50 UTC | Powerboat Highlights | E1 Series Championship: Miami |
+| 2026-11-28 23:50 UTC | 2026-11-29 00:40 UTC | King of the Roads | Classic Bike Festival |
+| 2026-11-29 00:40 UTC | 2026-11-29 01:05 UTC | The Inside Line |  |
+| 2026-11-29 01:05 UTC | 2026-11-29 02:45 UTC | The Magic of the TT - 100 years of TT |  |
+| 2026-11-29 02:45 UTC | 2026-11-29 03:40 UTC | Ziggo Sport Race Café |  |
+| 2026-11-29 03:40 UTC | 2026-11-29 04:35 UTC | DTM Highlights | Season Review |
+| 2026-11-29 04:35 UTC | 2026-11-29 05:25 UTC | Ferrari Challenge Highlights | Barcelona-Catalunya |
+| 2026-11-29 05:25 UTC | 2026-11-29 06:00 UTC | Marc Marquez - more than a comeback |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 07:05 UTC | Ziggo Sport Race Café |  |
+| 2026-11-29 07:05 UTC | 2026-11-29 08:10 UTC | IMSA WeatherTech SportsCar Championship Highlights | Motul Petit Le Mans |
+| 2026-11-29 08:10 UTC | 2026-11-29 09:05 UTC | IndyCar Highlights | Annual review 2026 |
 
-## ZiggoSport4.nl (51 programmes)
+## ZiggoSport4.nl (48 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:05 UTC | 2026-11-25 00:10 UTC | Finals: Czech Republic - Canada |  |
-| 2026-11-25 00:10 UTC | 2026-11-25 00:40 UTC | ATP Tour: This Week |  |
-| 2026-11-25 00:40 UTC | 2026-11-25 02:30 UTC | Play-off, Day 2: United States - Hungary |  |
-| 2026-11-25 02:30 UTC | 2026-11-25 03:30 UTC | ATP Tennis Highlights | ABN AMRO Open |
-| 2026-11-25 03:30 UTC | 2026-11-25 04:00 UTC | ATP Tour: This Week |  |
-| 2026-11-25 04:00 UTC | 2026-11-25 06:00 UTC | Finals: Czech Republic - Canada |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 07:00 UTC | ATP Tennis Highlights | Rolex Paris Masters |
-| 2026-11-25 07:00 UTC | 2026-11-25 09:00 UTC | Finals: Czech Republic - Canada |  |
-| 2026-11-25 09:00 UTC | 2026-11-25 12:40 UTC | Classic Tennis | Sony Open Miami 2011: Nadal - Djokovic |
-| 2026-11-25 12:40 UTC | 2026-11-25 13:00 UTC | Boris Becker vs Pete Sampras: The best ATP Final ever |  |
-| 2026-11-25 13:00 UTC | 2026-11-25 15:00 UTC | Finals: Czech Republic - Canada |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 18:55 UTC | Finals: Italy - South Korea |  |
-| 2026-11-25 18:55 UTC | 2026-11-25 19:55 UTC | ATP Tennis Highlights | Nitto ATP Finals |
-| 2026-11-25 19:55 UTC | 2026-11-25 22:05 UTC | UEFA Champions League Switch |  |
-| 2026-11-25 22:05 UTC | 2026-11-25 22:40 UTC | ATP Tour: This Week |  |
 | 2026-11-25 22:40 UTC | 2026-11-25 23:40 UTC | ATP Tennis Highlights | Nitto ATP Finals |
 | 2026-11-25 23:40 UTC | 2026-11-26 01:35 UTC | Finals: Italy - South Korea |  |
 | 2026-11-26 01:35 UTC | 2026-11-26 02:05 UTC | Classic Tennis | Australian Open 2005: Marat Safin - Roger Fededer |
@@ -300,15 +302,14 @@
 | 2026-11-26 05:30 UTC | 2026-11-26 06:00 UTC | ATP Tour: This Week |  |
 | 2026-11-26 06:00 UTC | 2026-11-26 07:00 UTC | ATP Tennis Highlights | ABN AMRO Open |
 | 2026-11-26 07:00 UTC | 2026-11-26 09:00 UTC | Finals: Italy - South Korea |  |
-| 2026-11-26 09:00 UTC | 2026-11-26 16:00 UTC | Finals: Groot-Brittannië - Duitsland |  |
-| 2026-11-26 16:00 UTC | 2026-11-26 16:50 UTC | ATP Tennis Highlights | Nitto ATP Finals |
-| 2026-11-26 16:50 UTC | 2026-11-26 17:00 UTC | Ziggo Sports Top 14 | ABN AMRO Open Rotterdam |
-| 2026-11-26 17:00 UTC | 2026-11-26 17:40 UTC | ATP Tour: This Week |  |
+| 2026-11-26 09:00 UTC | 2026-11-26 16:05 UTC | Finals: Groot-Brittannië - Duitsland |  |
+| 2026-11-26 16:05 UTC | 2026-11-26 17:05 UTC | ATP Tennis Highlights | Nitto ATP Finals |
+| 2026-11-26 17:05 UTC | 2026-11-26 17:40 UTC | ATP Tour: This Week |  |
 | 2026-11-26 17:40 UTC | 2026-11-26 19:55 UTC | UEFA Europa League And UEFA Conference League Switch |  |
 | 2026-11-26 19:55 UTC | 2026-11-26 22:10 UTC | UEFA Europa League And UEFA Conference League Switch |  |
-| 2026-11-26 22:10 UTC | 2026-11-26 23:00 UTC | Finals: Oostenrijk - Spanje |  |
-| 2026-11-26 23:00 UTC | 2026-11-26 23:30 UTC | ATP Tour: This Week |  |
-| 2026-11-26 23:30 UTC | 2026-11-27 00:30 UTC | ATP Tennis Highlights | Nitto ATP Finals |
+| 2026-11-26 22:10 UTC | 2026-11-26 23:05 UTC | Finals: Oostenrijk - Spanje |  |
+| 2026-11-26 23:05 UTC | 2026-11-26 23:35 UTC | ATP Tour: This Week |  |
+| 2026-11-26 23:35 UTC | 2026-11-27 00:30 UTC | ATP Tennis Highlights | Nitto ATP Finals |
 | 2026-11-27 00:30 UTC | 2026-11-27 02:30 UTC | Finals: Groot-Brittannië - Duitsland |  |
 | 2026-11-27 02:30 UTC | 2026-11-27 03:00 UTC | ATP Tour: This Week |  |
 | 2026-11-27 03:00 UTC | 2026-11-27 05:00 UTC | Finals: Groot-Brittannië - Duitsland |  |
@@ -318,79 +319,33 @@
 | 2026-11-27 10:00 UTC | 2026-11-27 11:00 UTC | ATP Tennis Highlights | Nitto ATP Finals |
 | 2026-11-27 11:00 UTC | 2026-11-27 13:00 UTC | Finals: Italy - South Korea |  |
 | 2026-11-27 13:00 UTC | 2026-11-27 15:00 UTC | Finals: Groot-Brittannië - Duitsland |  |
-| 2026-11-27 15:00 UTC | 2026-11-27 22:00 UTC | Semi-final |  |
+| 2026-11-27 15:00 UTC | 2026-11-27 22:00 UTC | Semi-final: Italy - Czech Republic |  |
 | 2026-11-27 22:00 UTC | 2026-11-28 00:00 UTC | Play-off, Day 2: United States - Hungary |  |
 | 2026-11-28 00:00 UTC | 2026-11-28 00:30 UTC | ATP Tour: This Week |  |
 | 2026-11-28 00:30 UTC | 2026-11-28 01:30 UTC | ATP Tennis Highlights | Nitto ATP Finals |
-| 2026-11-28 01:30 UTC | 2026-11-28 03:30 UTC | Semi-final |  |
+| 2026-11-28 01:30 UTC | 2026-11-28 03:30 UTC | Semi-final: Italy - Czech Republic |  |
 | 2026-11-28 03:30 UTC | 2026-11-28 04:00 UTC | ATP Tour: This Week |  |
-| 2026-11-28 04:00 UTC | 2026-11-28 06:00 UTC | Semi-final |  |
+| 2026-11-28 04:00 UTC | 2026-11-28 06:00 UTC | Semi-final: Italy - Czech Republic |  |
 | 2026-11-28 06:00 UTC | 2026-11-28 07:30 UTC | Tennis: Rolex Paris Masters 2026 | Final, Men |
 | 2026-11-28 07:30 UTC | 2026-11-28 08:30 UTC | ATP Tennis Highlights | ABN AMRO Open |
+| 2026-11-28 08:30 UTC | 2026-11-28 10:30 UTC | Semi-final: Italy - Czech Republic |  |
+| 2026-11-28 10:30 UTC | 2026-11-28 11:00 UTC | ATP Tour: This Week |  |
+| 2026-11-28 11:00 UTC | 2026-11-28 18:00 UTC | Semi-final |  |
+| 2026-11-28 18:00 UTC | 2026-11-28 19:30 UTC | Tennis: Nitto ATP Finals 2026 | Final |
+| 2026-11-28 19:30 UTC | 2026-11-28 21:30 UTC | Play-off, Day 2: United States - Hungary |  |
+| 2026-11-28 21:30 UTC | 2026-11-28 23:30 UTC | Semi-final |  |
+| 2026-11-28 23:30 UTC | 2026-11-29 00:00 UTC | ATP Tour: This Week |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 01:30 UTC | Tennis: Nitto ATP Finals 2026 | Final |
+| 2026-11-29 01:30 UTC | 2026-11-29 02:00 UTC | ATP Tour: This Week |  |
+| 2026-11-29 02:00 UTC | 2026-11-29 04:00 UTC | Play-off, Day 2: United States - Hungary |  |
+| 2026-11-29 04:00 UTC | 2026-11-29 06:00 UTC | Semi-final |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:30 UTC | ATP Tour: This Week |  |
+| 2026-11-29 06:30 UTC | 2026-11-29 08:30 UTC | Semi-final |  |
 
-## ZiggoSport5.nl (200 programmes)
+## ZiggoSport5.nl (195 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:50 UTC | 2026-11-24 23:15 UTC | The Iconic | All Sports |
-| 2026-11-24 23:15 UTC | 2026-11-24 23:40 UTC | The Front Row | The sustainability |
-| 2026-11-24 23:40 UTC | 2026-11-25 00:00 UTC | The Front Row | Finding the 0.001 second |
-| 2026-11-25 00:00 UTC | 2026-11-25 00:25 UTC | TheRising | Serena Williams And Jackie Robinson |
-| 2026-11-25 00:25 UTC | 2026-11-25 00:50 UTC | TheRising |  |
-| 2026-11-25 00:50 UTC | 2026-11-25 01:15 UTC | TheRising |  |
-| 2026-11-25 01:15 UTC | 2026-11-25 01:40 UTC | TheRising |  |
-| 2026-11-25 01:40 UTC | 2026-11-25 02:00 UTC | The Iconic | MMA |
-| 2026-11-25 02:00 UTC | 2026-11-25 02:25 UTC | The Iconic | Olympic Sports Athletics |
-| 2026-11-25 02:25 UTC | 2026-11-25 02:50 UTC | Heroines | Role models |
-| 2026-11-25 02:50 UTC | 2026-11-25 03:15 UTC | Heroines | Mental health programs |
-| 2026-11-25 03:15 UTC | 2026-11-25 03:35 UTC | The Front Row | The sustainability |
-| 2026-11-25 03:35 UTC | 2026-11-25 04:00 UTC | The Front Row | Finding the 0.001 second |
-| 2026-11-25 04:00 UTC | 2026-11-25 04:25 UTC | Football's Greatest Stage |  |
-| 2026-11-25 04:25 UTC | 2026-11-25 04:50 UTC | Football's Greatest Stage |  |
-| 2026-11-25 04:50 UTC | 2026-11-25 05:15 UTC | Football Nation | Argentina |
-| 2026-11-25 05:15 UTC | 2026-11-25 05:35 UTC | Football's Greatest Stage |  |
-| 2026-11-25 05:35 UTC | 2026-11-25 05:40 UTC | Ziggo Sport Additional information |  |
-| 2026-11-25 05:40 UTC | 2026-11-25 06:00 UTC | Ziggo Sport Additional information |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:20 UTC | TheRising | LeBron James, Dominique Dawes and Jack Johnson |
-| 2026-11-25 06:20 UTC | 2026-11-25 06:45 UTC | TheRising |  |
-| 2026-11-25 06:45 UTC | 2026-11-25 07:10 UTC | The Iconic | N.B.A |
-| 2026-11-25 07:10 UTC | 2026-11-25 07:35 UTC | The Iconic | Olympic Sport Swimming |
-| 2026-11-25 07:35 UTC | 2026-11-25 08:00 UTC | Heroines | Cherish |
-| 2026-11-25 08:00 UTC | 2026-11-25 08:20 UTC | Heroines | Leadership |
-| 2026-11-25 08:20 UTC | 2026-11-25 08:45 UTC | The Front Row | Preparing the Paddock between race days |
-| 2026-11-25 08:45 UTC | 2026-11-25 09:10 UTC | The Front Row | Women in F1 |
-| 2026-11-25 09:10 UTC | 2026-11-25 09:35 UTC | Football's Greatest Stage |  |
-| 2026-11-25 09:35 UTC | 2026-11-25 10:00 UTC | Football's Greatest Stage |  |
-| 2026-11-25 10:00 UTC | 2026-11-25 10:20 UTC | Football Nation | USA |
-| 2026-11-25 10:20 UTC | 2026-11-25 10:45 UTC | Football Nation | Scotland |
-| 2026-11-25 10:45 UTC | 2026-11-25 11:10 UTC | All Blacks In Their Own Words | Honesty |
-| 2026-11-25 11:10 UTC | 2026-11-25 11:25 UTC | Behind The Fern: Black Ferns |  |
-| 2026-11-25 11:25 UTC | 2026-11-25 11:35 UTC | Behind The Fern: Black Ferns |  |
-| 2026-11-25 11:35 UTC | 2026-11-25 11:50 UTC | Together We Walk | From Japan, With Love |
-| 2026-11-25 11:50 UTC | 2026-11-25 12:10 UTC | Heroines | Seri Pak is revolutionizing golf |
-| 2026-11-25 12:10 UTC | 2026-11-25 12:35 UTC | Heroines | Perfection |
-| 2026-11-25 12:35 UTC | 2026-11-25 13:00 UTC | LaLiga Nations | England And Ireland |
-| 2026-11-25 13:00 UTC | 2026-11-25 13:30 UTC | LaLiga Nations | Eastern Europe |
-| 2026-11-25 13:30 UTC | 2026-11-25 13:55 UTC | LaLiga Nations | Scandinavia |
-| 2026-11-25 13:55 UTC | 2026-11-25 14:20 UTC | The Evolution of Sports |  |
-| 2026-11-25 14:20 UTC | 2026-11-25 14:45 UTC | The Evolution of Sports |  |
-| 2026-11-25 14:45 UTC | 2026-11-25 15:05 UTC | The Iconic | Football |
-| 2026-11-25 15:05 UTC | 2026-11-25 15:30 UTC | The Iconic | Golf |
-| 2026-11-25 15:30 UTC | 2026-11-25 15:55 UTC | Heroines | Legends retired and remembered |
-| 2026-11-25 15:55 UTC | 2026-11-25 16:20 UTC | Heroines | Analytical advantage |
-| 2026-11-25 16:20 UTC | 2026-11-25 16:45 UTC | TheRising |  |
-| 2026-11-25 16:45 UTC | 2026-11-25 17:05 UTC | The Front Row | The technology used |
-| 2026-11-25 17:05 UTC | 2026-11-25 17:30 UTC | The Front Row | The future of F1 |
-| 2026-11-25 17:30 UTC | 2026-11-25 17:55 UTC | The Evolution of Sports |  |
-| 2026-11-25 17:55 UTC | 2026-11-25 18:20 UTC | The Evolution of Sports |  |
-| 2026-11-25 18:20 UTC | 2026-11-25 18:40 UTC | Football's Greatest Stage |  |
-| 2026-11-25 18:40 UTC | 2026-11-25 19:05 UTC | LaLiga Legends | Diego Pablo Simeone |
-| 2026-11-25 19:05 UTC | 2026-11-25 19:30 UTC | LaLiga Nations | France |
-| 2026-11-25 19:30 UTC | 2026-11-25 19:55 UTC | Ziggo Sport Additional information |  |
-| 2026-11-25 19:55 UTC | 2026-11-25 22:00 UTC | Atlético Madrid - Viking FK |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 22:15 UTC | Behind The Fern: Black Ferns |  |
-| 2026-11-25 22:15 UTC | 2026-11-25 22:35 UTC | The Iconic | Football |
-| 2026-11-25 22:35 UTC | 2026-11-25 23:00 UTC | The Front Row | Drivers Training |
 | 2026-11-25 23:00 UTC | 2026-11-25 23:25 UTC | The Front Row | What makes a good driver |
 | 2026-11-25 23:25 UTC | 2026-11-25 23:50 UTC | The Front Row | The sprint format |
 | 2026-11-25 23:50 UTC | 2026-11-26 00:10 UTC | TheRising | LeBron James, Dominique Dawes and Jack Johnson |
@@ -426,44 +381,44 @@
 | 2026-11-26 11:15 UTC | 2026-11-26 11:30 UTC | Behind The Fern: Black Ferns |  |
 | 2026-11-26 11:30 UTC | 2026-11-26 11:45 UTC | Together We Walk | Swing High |
 | 2026-11-26 11:45 UTC | 2026-11-26 12:10 UTC | Heroines | Sportvrouwen en uitdagingen op het gebied van lichaamsbeeld |
-| 2026-11-26 12:10 UTC | 2026-11-26 12:30 UTC | Heroines | Zusterschap en teamspirit |
-| 2026-11-26 12:30 UTC | 2026-11-26 13:00 UTC | LaLiga Nations | Brazil |
-| 2026-11-26 13:00 UTC | 2026-11-26 13:25 UTC | LaLiga Nations | Argentina |
-| 2026-11-26 13:25 UTC | 2026-11-26 13:55 UTC | LaLiga Clubs | Madrid |
+| 2026-11-26 12:10 UTC | 2026-11-26 12:35 UTC | Heroines | Zusterschap en teamspirit |
+| 2026-11-26 12:35 UTC | 2026-11-26 13:05 UTC | LaLiga Nations | Brazil |
+| 2026-11-26 13:05 UTC | 2026-11-26 13:30 UTC | LaLiga Nations | Argentina |
+| 2026-11-26 13:30 UTC | 2026-11-26 13:55 UTC | LaLiga Clubs | Madrid |
 | 2026-11-26 13:55 UTC | 2026-11-26 14:20 UTC | The Evolution of Sports |  |
-| 2026-11-26 14:20 UTC | 2026-11-26 14:40 UTC | The Evolution of Sports |  |
-| 2026-11-26 14:40 UTC | 2026-11-26 15:05 UTC | The Iconic | Football |
-| 2026-11-26 15:05 UTC | 2026-11-26 15:30 UTC | The Iconic | Formula 1 |
+| 2026-11-26 14:20 UTC | 2026-11-26 14:45 UTC | The Evolution of Sports |  |
+| 2026-11-26 14:45 UTC | 2026-11-26 15:10 UTC | The Iconic | Football |
+| 2026-11-26 15:10 UTC | 2026-11-26 15:30 UTC | The Iconic | Formula 1 |
 | 2026-11-26 15:30 UTC | 2026-11-26 15:55 UTC | Heroines | Wereld kampioenen |
 | 2026-11-26 15:55 UTC | 2026-11-26 16:20 UTC | Heroines | Het leven na de sport |
-| 2026-11-26 16:20 UTC | 2026-11-26 16:40 UTC | TheRising |  |
-| 2026-11-26 16:40 UTC | 2026-11-26 17:05 UTC | The Front Row | The technology used |
+| 2026-11-26 16:20 UTC | 2026-11-26 16:45 UTC | TheRising |  |
+| 2026-11-26 16:45 UTC | 2026-11-26 17:05 UTC | The Front Row | The technology used |
 | 2026-11-26 17:05 UTC | 2026-11-26 17:30 UTC | The Evolution of Sports |  |
 | 2026-11-26 17:30 UTC | 2026-11-26 17:40 UTC | Ziggo Sport Additional information |  |
 | 2026-11-26 17:40 UTC | 2026-11-26 19:45 UTC | Viktoria Pilsen - Benfica |  |
 | 2026-11-26 19:45 UTC | 2026-11-26 19:55 UTC | Ziggo Sport Additional information |  |
 | 2026-11-26 19:55 UTC | 2026-11-26 22:00 UTC | TSG Hoffenheim - SK Sturm Graz |  |
 | 2026-11-26 22:00 UTC | 2026-11-26 22:10 UTC | Behind The Fern: Black Ferns |  |
-| 2026-11-26 22:10 UTC | 2026-11-26 22:25 UTC | Together We Walk | The Greatest Rivalry |
-| 2026-11-26 22:25 UTC | 2026-11-26 22:50 UTC | The Iconic | Football |
-| 2026-11-26 22:50 UTC | 2026-11-26 23:15 UTC | The Front Row | Preparing the Paddock between race days |
-| 2026-11-26 23:15 UTC | 2026-11-26 23:35 UTC | The Front Row | Women in F1 |
-| 2026-11-26 23:35 UTC | 2026-11-27 00:00 UTC | The Front Row | The technology used |
-| 2026-11-27 00:00 UTC | 2026-11-27 00:25 UTC | TheRising | Tiger Woods and Simone Manuel |
-| 2026-11-27 00:25 UTC | 2026-11-27 00:50 UTC | TheRising |  |
-| 2026-11-27 00:50 UTC | 2026-11-27 01:10 UTC | TheRising | LeBron James, Dominique Dawes and Jack Johnson |
-| 2026-11-27 01:10 UTC | 2026-11-27 01:35 UTC | TheRising |  |
-| 2026-11-27 01:35 UTC | 2026-11-27 02:00 UTC | The Iconic | N.B.A |
-| 2026-11-27 02:00 UTC | 2026-11-27 02:25 UTC | The Iconic | Olympic Sport Swimming |
-| 2026-11-27 02:25 UTC | 2026-11-27 02:50 UTC | Heroines | Cherish |
-| 2026-11-27 02:50 UTC | 2026-11-27 03:10 UTC | Heroines | Leadership |
-| 2026-11-27 03:10 UTC | 2026-11-27 03:35 UTC | The Front Row | Preparing the Paddock between race days |
-| 2026-11-27 03:35 UTC | 2026-11-27 04:00 UTC | The Front Row | Women in F1 |
-| 2026-11-27 04:00 UTC | 2026-11-27 04:25 UTC | Football's Greatest Stage |  |
-| 2026-11-27 04:25 UTC | 2026-11-27 04:50 UTC | Football's Greatest Stage |  |
-| 2026-11-27 04:50 UTC | 2026-11-27 05:10 UTC | Football Nation | USA |
-| 2026-11-27 05:10 UTC | 2026-11-27 05:35 UTC | Football Nation | Scotland |
-| 2026-11-27 05:35 UTC | 2026-11-27 06:00 UTC | Ziggo Sport Additional information |  |
+| 2026-11-26 22:10 UTC | 2026-11-26 22:30 UTC | Together We Walk | The Greatest Rivalry |
+| 2026-11-26 22:30 UTC | 2026-11-26 22:55 UTC | The Iconic | Football |
+| 2026-11-26 22:55 UTC | 2026-11-26 23:15 UTC | The Front Row | Preparing the Paddock between race days |
+| 2026-11-26 23:15 UTC | 2026-11-26 23:40 UTC | The Front Row | Women in F1 |
+| 2026-11-26 23:40 UTC | 2026-11-27 00:05 UTC | The Front Row | The technology used |
+| 2026-11-27 00:05 UTC | 2026-11-27 00:30 UTC | TheRising | Tiger Woods and Simone Manuel |
+| 2026-11-27 00:30 UTC | 2026-11-27 00:50 UTC | TheRising |  |
+| 2026-11-27 00:50 UTC | 2026-11-27 01:15 UTC | TheRising | LeBron James, Dominique Dawes and Jack Johnson |
+| 2026-11-27 01:15 UTC | 2026-11-27 01:40 UTC | TheRising |  |
+| 2026-11-27 01:40 UTC | 2026-11-27 02:05 UTC | The Iconic | N.B.A |
+| 2026-11-27 02:05 UTC | 2026-11-27 02:30 UTC | The Iconic | Olympic Sport Swimming |
+| 2026-11-27 02:30 UTC | 2026-11-27 02:50 UTC | Heroines | Cherish |
+| 2026-11-27 02:50 UTC | 2026-11-27 03:15 UTC | Heroines | Leadership |
+| 2026-11-27 03:15 UTC | 2026-11-27 03:40 UTC | The Front Row | Preparing the Paddock between race days |
+| 2026-11-27 03:40 UTC | 2026-11-27 04:05 UTC | The Front Row | Women in F1 |
+| 2026-11-27 04:05 UTC | 2026-11-27 04:30 UTC | Football's Greatest Stage |  |
+| 2026-11-27 04:30 UTC | 2026-11-27 04:50 UTC | Football's Greatest Stage |  |
+| 2026-11-27 04:50 UTC | 2026-11-27 05:15 UTC | Football Nation | USA |
+| 2026-11-27 05:15 UTC | 2026-11-27 05:40 UTC | Football Nation | Scotland |
+| 2026-11-27 05:40 UTC | 2026-11-27 06:00 UTC | Ziggo Sport Additional information |  |
 | 2026-11-27 06:00 UTC | 2026-11-27 06:20 UTC | TheRising | Pele, Cathy Freeman and Shani Davis |
 | 2026-11-27 06:20 UTC | 2026-11-27 06:45 UTC | TheRising |  |
 | 2026-11-27 06:45 UTC | 2026-11-27 07:10 UTC | The Iconic | Boxing |
@@ -532,44 +487,84 @@
 | 2026-11-28 07:35 UTC | 2026-11-28 08:00 UTC | Heroines | Strike a pose |
 | 2026-11-28 08:00 UTC | 2026-11-28 08:20 UTC | Heroines | New generation |
 | 2026-11-28 08:20 UTC | 2026-11-28 08:45 UTC | The Front Row | The business side of F1 |
+| 2026-11-28 08:45 UTC | 2026-11-28 09:10 UTC | The Front Row | The marketing |
+| 2026-11-28 09:10 UTC | 2026-11-28 09:35 UTC | Football's Greatest Stage |  |
+| 2026-11-28 09:35 UTC | 2026-11-28 10:00 UTC | Football's Greatest Stage |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 10:20 UTC | Football Nation | Portugal |
+| 2026-11-28 10:20 UTC | 2026-11-28 10:45 UTC | Football Nation | France |
+| 2026-11-28 10:45 UTC | 2026-11-28 11:00 UTC | All Blacks In Their Own Words | The final |
+| 2026-11-28 11:00 UTC | 2026-11-28 11:15 UTC | Behind The Fern: Black Ferns |  |
+| 2026-11-28 11:15 UTC | 2026-11-28 11:30 UTC | Together We Walk | England |
+| 2026-11-28 11:30 UTC | 2026-11-28 11:50 UTC | Heroines | The Williams effect |
+| 2026-11-28 11:50 UTC | 2026-11-28 12:15 UTC | Heroines | Pushing boundaries |
+| 2026-11-28 12:15 UTC | 2026-11-28 12:45 UTC | LaLiga Nations | France |
+| 2026-11-28 12:45 UTC | 2026-11-28 12:55 UTC | Ziggo Sport Additional information |  |
+| 2026-11-28 12:55 UTC | 2026-11-28 15:00 UTC | Real Betis - Rayo Vallecano |  |
+| 2026-11-28 15:00 UTC | 2026-11-28 15:25 UTC | Football's Greatest Stage | Modric |
+| 2026-11-28 15:25 UTC | 2026-11-28 15:35 UTC | Ziggo Sport Additional information |  |
+| 2026-11-28 15:35 UTC | 2026-11-28 17:40 UTC | Norway - Netherlands |  |
+| 2026-11-28 17:40 UTC | 2026-11-28 18:05 UTC | The Evolution of Sports |  |
+| 2026-11-28 18:05 UTC | 2026-11-28 18:25 UTC | The Evolution of Sports |  |
+| 2026-11-28 18:25 UTC | 2026-11-28 18:50 UTC | The Evolution of Sports |  |
+| 2026-11-28 18:50 UTC | 2026-11-28 19:15 UTC | Football's Greatest Stage |  |
+| 2026-11-28 19:15 UTC | 2026-11-28 19:45 UTC | LaLiga Legends | Samuel Eto'o |
+| 2026-11-28 19:45 UTC | 2026-11-28 20:10 UTC | LaLiga Nations | Belgium |
+| 2026-11-28 20:10 UTC | 2026-11-28 20:35 UTC | The Iconic | Football |
+| 2026-11-28 20:35 UTC | 2026-11-28 21:00 UTC | The Iconic |  |
+| 2026-11-28 21:00 UTC | 2026-11-28 21:20 UTC | The Evolution of Sports |  |
+| 2026-11-28 21:20 UTC | 2026-11-28 21:45 UTC | The Evolution of Sports |  |
+| 2026-11-28 21:45 UTC | 2026-11-28 22:00 UTC | Behind The Fern: Black Ferns |  |
+| 2026-11-28 22:00 UTC | 2026-11-28 22:20 UTC | Behind The Fern: Black Ferns |  |
+| 2026-11-28 22:20 UTC | 2026-11-28 22:45 UTC | The Iconic | All Sports |
+| 2026-11-28 22:45 UTC | 2026-11-28 23:10 UTC | The Front Row | Designing an F1 car |
+| 2026-11-28 23:10 UTC | 2026-11-28 23:30 UTC | The Front Row | The safety issues surrounding F1 |
+| 2026-11-28 23:30 UTC | 2026-11-28 23:55 UTC | The Front Row | Finding the 0.001 second |
+| 2026-11-28 23:55 UTC | 2026-11-29 00:20 UTC | TheRising | Muhammad Ali and Magic Johnson |
+| 2026-11-29 00:20 UTC | 2026-11-29 00:45 UTC | TheRising |  |
+| 2026-11-29 00:45 UTC | 2026-11-29 01:10 UTC | TheRising | Pele, Cathy Freeman and Shani Davis |
+| 2026-11-29 01:10 UTC | 2026-11-29 01:30 UTC | TheRising |  |
+| 2026-11-29 01:30 UTC | 2026-11-29 01:55 UTC | The Iconic | Boxing |
+| 2026-11-29 01:55 UTC | 2026-11-29 02:20 UTC | The Iconic | Olympic Sport Diving |
+| 2026-11-29 02:20 UTC | 2026-11-29 02:45 UTC | Heroines | Stand up straight |
+| 2026-11-29 02:45 UTC | 2026-11-29 03:10 UTC | Heroines | Technology |
+| 2026-11-29 03:10 UTC | 2026-11-29 03:30 UTC | The Front Row | Designing an F1 car |
+| 2026-11-29 03:30 UTC | 2026-11-29 03:55 UTC | The Front Row | The safety issues surrounding F1 |
+| 2026-11-29 03:55 UTC | 2026-11-29 04:20 UTC | Football's Greatest Stage |  |
+| 2026-11-29 04:20 UTC | 2026-11-29 04:45 UTC | Football's Greatest Stage |  |
+| 2026-11-29 04:45 UTC | 2026-11-29 05:05 UTC | Football Nation | Spain |
+| 2026-11-29 05:05 UTC | 2026-11-29 05:30 UTC | Football Nation | Brazil |
+| 2026-11-29 05:30 UTC | 2026-11-29 06:00 UTC | Ziggo Sport Additional information |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:20 UTC | TheRising |  |
+| 2026-11-29 06:20 UTC | 2026-11-29 06:45 UTC | TheRising |  |
+| 2026-11-29 06:45 UTC | 2026-11-29 07:10 UTC | The Iconic | Formula 1 |
+| 2026-11-29 07:10 UTC | 2026-11-29 07:35 UTC | The Iconic | The Winter Olympics |
+| 2026-11-29 07:35 UTC | 2026-11-29 08:00 UTC | Heroines | History and Evolution |
+| 2026-11-29 08:00 UTC | 2026-11-29 08:20 UTC | Heroines | Game Changers |
+| 2026-11-29 08:20 UTC | 2026-11-29 08:45 UTC | The Front Row | Building a great team |
 
-## ZiggoSport6.nl (45 programmes)
+## ZiggoSport6.nl (42 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 23:00 UTC | 2026-11-25 01:00 UTC | Boston Common Golf - Motor City Golf Club |  |
-| 2026-11-25 01:00 UTC | 2026-11-25 03:00 UTC | Atlanta Drive GC - Boston Common Golf |  |
-| 2026-11-25 03:00 UTC | 2026-11-25 05:00 UTC | Austin Championship: Dag 4 (Samenvatting) | Austin Championship: Day 4 |
-| 2026-11-25 05:00 UTC | 2026-11-25 06:00 UTC | EPGA Legends Tour Highlights | Champions UK European Senior Masters |
-| 2026-11-25 06:00 UTC | 2026-11-25 10:00 UTC | The Masters 2020 | Day 4 |
-| 2026-11-25 10:00 UTC | 2026-11-25 11:00 UTC | PGA Tour Highlights | Austin Championship |
-| 2026-11-25 11:00 UTC | 2026-11-25 11:30 UTC | On The Bubble: Fighting for their Future |  |
-| 2026-11-25 11:30 UTC | 2026-11-25 13:00 UTC | LPGA Tour Highlights | CME Group Tour Championship |
-| 2026-11-25 13:00 UTC | 2026-11-25 15:00 UTC | Boston Common Golf - Motor City Golf Club |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 16:00 UTC | Asian Tour Highlights | Philippine Open |
-| 2026-11-25 16:00 UTC | 2026-11-25 17:00 UTC | PGA Tour Highlights | The RSM Classic |
-| 2026-11-25 17:00 UTC | 2026-11-25 19:00 UTC | Boston Common Golf - Motor City Golf Club |  |
-| 2026-11-25 19:00 UTC | 2026-11-25 19:30 UTC | PGA Tour - The Cut |  |
-| 2026-11-25 19:30 UTC | 2026-11-25 19:55 UTC | On The Bubble: Fighting for their Future |  |
-| 2026-11-25 19:55 UTC | 2026-11-25 22:00 UTC | Sporting CP - Manchester United |  |
 | 2026-11-25 22:00 UTC | 2026-11-26 00:00 UTC | Boston Common Golf - Motor City Golf Club |  |
-| 2026-11-26 00:00 UTC | 2026-11-26 01:30 UTC | LPGA Tour Highlights | CME Group Tour Championship |
-| 2026-11-26 01:30 UTC | 2026-11-26 02:30 UTC | EPGA Legends Tour Highlights | Champions UK European Senior Masters |
-| 2026-11-26 02:30 UTC | 2026-11-26 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 1 |
+| 2026-11-26 00:00 UTC | 2026-11-26 01:00 UTC | PGA Tour Highlights | The RSM Classic |
+| 2026-11-26 01:00 UTC | 2026-11-26 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 1 |
 | 2026-11-26 06:00 UTC | 2026-11-26 09:00 UTC | PGA Tour | The RSM Classic: Day 4 |
 | 2026-11-26 09:00 UTC | 2026-11-26 10:30 UTC | LPGA Tour Highlights | CME Group Tour Championship |
 | 2026-11-26 10:30 UTC | 2026-11-26 12:30 UTC | Boston Common Golf - Motor City Golf Club |  |
 | 2026-11-26 12:30 UTC | 2026-11-26 13:00 UTC | PGA Tour - The Cut |  |
 | 2026-11-26 13:00 UTC | 2026-11-26 16:00 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Dag 1 |
 | 2026-11-26 16:00 UTC | 2026-11-26 17:30 UTC | LPGA Tour Highlights | CME Group Tour Championship |
-| 2026-11-26 17:30 UTC | 2026-11-26 17:40 UTC | Paris Saint-Germain - AS Roma (Samenvatting) | Paris Saint Germain - AS Roma |
+| 2026-11-26 17:30 UTC | 2026-11-26 17:40 UTC | Ziggo Sports Top 14 | Rescues 25/26 |
 | 2026-11-26 17:40 UTC | 2026-11-26 19:45 UTC | FC Iberia 1999 - Getafe CF |  |
 | 2026-11-26 19:45 UTC | 2026-11-26 19:55 UTC | Paris Saint-Germain - AS Roma (Samenvatting) | Paris Saint Germain - AS Roma |
 | 2026-11-26 19:55 UTC | 2026-11-26 22:00 UTC | Juventus - Omonia Nicosia |  |
-| 2026-11-26 22:00 UTC | 2026-11-27 00:00 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Dag 1 |
-| 2026-11-27 00:00 UTC | 2026-11-27 02:00 UTC | Boston Common Golf - Motor City Golf Club |  |
-| 2026-11-27 02:00 UTC | 2026-11-27 02:30 UTC | On The Bubble: Fighting for their Future |  |
-| 2026-11-27 02:30 UTC | 2026-11-27 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Dag 2 |
+| 2026-11-26 22:00 UTC | 2026-11-27 00:05 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Dag 1 |
+| 2026-11-27 00:05 UTC | 2026-11-27 01:00 UTC | PGA Tour Highlights | The RSM Classic |
+| 2026-11-27 01:00 UTC | 2026-11-27 04:30 UTC | PGA European Tour | BMW Australian PGA Championship: Dag 2 |
+| 2026-11-27 04:30 UTC | 2026-11-27 05:20 UTC | PGA Tour Highlights | The RSM Classic |
+| 2026-11-27 05:20 UTC | 2026-11-27 05:50 UTC | Chase the ACE |  |
+| 2026-11-27 05:50 UTC | 2026-11-27 06:00 UTC | The Masters Highlights | historical moments |
 | 2026-11-27 06:00 UTC | 2026-11-27 09:00 UTC | PGA European Tour | DP World Tour Championship: Day 4 |
 | 2026-11-27 09:00 UTC | 2026-11-27 11:00 UTC | Boston Common Golf - Motor City Golf Club |  |
 | 2026-11-27 11:00 UTC | 2026-11-27 13:00 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Dag 1 |
@@ -578,32 +573,26 @@
 | 2026-11-27 18:00 UTC | 2026-11-27 19:00 UTC | Asian Tour Highlights | Philippine Open |
 | 2026-11-27 19:00 UTC | 2026-11-27 22:00 UTC | PGA European Tour | BMW Australian PGA Championship: Dag 2 |
 | 2026-11-27 22:00 UTC | 2026-11-27 23:30 UTC | LPGA Tour Highlights | CME Group Tour Championship |
-| 2026-11-27 23:30 UTC | 2026-11-28 00:30 UTC | PGA Champions Tour Highlights | Charles Schwab Cup Championship |
-| 2026-11-28 00:30 UTC | 2026-11-28 02:30 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Day 2 |
-| 2026-11-28 02:30 UTC | 2026-11-28 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 3 |
+| 2026-11-27 23:30 UTC | 2026-11-28 00:00 UTC | PGA Tour - The Cut |  |
+| 2026-11-28 00:00 UTC | 2026-11-28 01:00 UTC | Asian Tour Highlights | Philippine Open |
+| 2026-11-28 01:00 UTC | 2026-11-28 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 3 |
 | 2026-11-28 06:00 UTC | 2026-11-28 09:00 UTC | PGA Tour | Austin Championship: Day 4 |
+| 2026-11-28 09:00 UTC | 2026-11-28 11:00 UTC | DP World Tour Championship: Day 4 (Recap) | DP World Tour Championship: Day 4 |
+| 2026-11-28 11:00 UTC | 2026-11-28 13:00 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Day 2 |
+| 2026-11-28 13:00 UTC | 2026-11-28 16:00 UTC | LPGA European Tour | Andalucia Costa del Sol Open de España: Day 3 |
+| 2026-11-28 16:00 UTC | 2026-11-28 16:30 UTC | On The Bubble: Fighting for their Future |  |
+| 2026-11-28 16:30 UTC | 2026-11-28 17:30 UTC | PGA Champions Tour Highlights | Charles Schwab Cup Championship |
+| 2026-11-28 17:30 UTC | 2026-11-28 19:00 UTC | LPGA Tour Highlights | CME Group Tour Championship |
+| 2026-11-28 19:00 UTC | 2026-11-28 22:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 3 |
+| 2026-11-28 22:00 UTC | 2026-11-29 00:00 UTC | Boston Common Golf - Motor City Golf Club |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 01:00 UTC | PGA Champions Tour Highlights | Charles Schwab Cup Championship |
+| 2026-11-29 01:00 UTC | 2026-11-29 06:00 UTC | PGA European Tour | BMW Australian PGA Championship: Day 4 |
+| 2026-11-29 06:00 UTC | 2026-11-29 09:00 UTC | PGA European Tour | DP World Tour Championship: Day 4 |
 
-## Arenasport1.hr (54 programmes)
+## Arenasport1.hr (53 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 23:00 UTC | 2026-11-25 01:00 UTC | CHAMPIONS LEAGUE: COMO - AEK, football |  |
-| 2026-11-25 01:00 UTC | 2026-11-25 04:00 UTC | NFL: DALLAS - SAN FRANCISCO, American football |  |
-| 2026-11-25 04:00 UTC | 2026-11-25 06:00 UTC | CHAMPIONS LEAGUE: FEYENOORD - PORTO, football |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:30 UTC | Sport without borders |  |
-| 2026-11-25 06:30 UTC | 2026-11-25 07:00 UTC | RED BULL: BTS WITH A LEGEND, documentary film |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 08:30 UTC | ABA LIGA: CEDEVITA - SLOVAN, basketball |  |
-| 2026-11-25 08:30 UTC | 2026-11-25 10:00 UTC | EUROPEAN LEAGUE M: ST. RAPHAEL - NEXE, handball |  |
-| 2026-11-25 10:00 UTC | 2026-11-25 12:00 UTC | FRENCH LEAGUE: LENS - TOULOUSE, football |  |
-| 2026-11-25 12:00 UTC | 2026-11-25 14:00 UTC | PREMIER LEAGUE: MANCHESTER CITY - FULHAM, football |  |
-| 2026-11-25 14:00 UTC | 2026-11-25 16:00 UTC | ITALIAN LEAGUE: MILAN - FROSINONE, football |  |
-| 2026-11-25 16:00 UTC | 2026-11-25 17:00 UTC | CHAMPIONS LEAGUE: SUMMARY, football |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 18:30 UTC | EUROPEAN LEAGUE M: PRESOV - SESVTE, handball |  |
-| 2026-11-25 18:30 UTC | 2026-11-25 19:00 UTC | We live for basketball |  |
-| 2026-11-25 19:00 UTC | 2026-11-25 20:00 UTC | LIVE: FOOTBALL: CHAMPIONS LEAGUE, studio |  |
-| 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | LIVE: CHAMPIONS LEAGUE: PSG - ROMA, football |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:00 UTC | LIVE: FOOTBALL: CHAMPIONS LEAGUE, studio |  |
-| 2026-11-25 23:00 UTC | 2026-11-26 00:00 UTC | CHAMPIONS LEAGUE: SUMMARY, football |  |
 | 2026-11-26 00:00 UTC | 2026-11-26 02:00 UTC | LIVE: ARGENTINE LEAGUE: BOCA JUNIORS - IND. RIVADAVIA, football |  |
 | 2026-11-26 02:00 UTC | 2026-11-26 04:00 UTC | NFL: WASHINGTON - CINCINNATI, American football |  |
 | 2026-11-26 04:00 UTC | 2026-11-26 06:00 UTC | CHAMPIONS LEAGUE: SPORTING - MANCHESTER UNITED, football |  |
@@ -641,26 +630,27 @@
 | 2026-11-28 06:00 UTC | 2026-11-28 06:30 UTC | We live for football |  |
 | 2026-11-28 06:30 UTC | 2026-11-28 07:00 UTC | RED BULL: BTS WITH A LEGEND, documentary film |  |
 | 2026-11-28 07:00 UTC | 2026-11-28 08:30 UTC | ABA LIGA: CLUJ - ZADAR, basketball |  |
+| 2026-11-28 08:30 UTC | 2026-11-28 10:00 UTC | EUROPEAN LEAGUE M: PRESOV - SESVTE, handball |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 11:15 UTC | ANNOUNCEMENT OF THE ITALIAN LEAGUE, studio |  |
+| 2026-11-28 11:15 UTC | 2026-11-28 12:30 UTC | PREMIER LEAGUE ANNOUNCEMENT, studio |  |
+| 2026-11-28 12:30 UTC | 2026-11-28 14:30 UTC | LIVE: CHAMPIONSHIP: PRESTON - NORWICH, football |  |
+| 2026-11-28 14:30 UTC | 2026-11-28 15:00 UTC | Out of frame |  |
+| 2026-11-28 15:00 UTC | 2026-11-28 17:00 UTC | LIVE: PREMIER LEAGUE: MANCHESTER UNITED - BRENTFORD, football |  |
+| 2026-11-28 17:00 UTC | 2026-11-28 17:30 UTC | NFL: NFL GAMEDAY, the show |  |
+| 2026-11-28 17:30 UTC | 2026-11-28 19:45 UTC | LIVE: PREMIER LEAGUE: IPSWICH - ASTON VILLA, football |  |
+| 2026-11-28 19:45 UTC | 2026-11-28 22:00 UTC | LIVE: ITALIAN LEAGUE: INTER - GENOA, football |  |
+| 2026-11-28 22:00 UTC | 2026-11-29 00:00 UTC | LIVE: ARGENTINE LEAGUE: TBD, Soccer |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 01:00 UTC | CHAMPIONS LEAGUE: SUMMARY, football |  |
+| 2026-11-29 01:00 UTC | 2026-11-29 04:00 UTC | NFL: TBD, American football |  |
+| 2026-11-29 04:00 UTC | 2026-11-29 06:00 UTC | CHAMPIONS LEAGUE: MANCHESTER CITY - NAPOLI, football |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:30 UTC | Out of frame |  |
+| 2026-11-29 06:30 UTC | 2026-11-29 07:00 UTC | RED BULL: BTS WITH A LEGEND, documentary film |  |
+| 2026-11-29 07:00 UTC | 2026-11-29 08:30 UTC | ABA LIGA: CRVENA ZVEZDA - CIBONA, basketball |  |
 
-## Arena3Premium.ba (50 programmes)
+## Arena3Premium.ba (51 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 00:00 UTC | 2026-11-25 02:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 02:00 UTC | 2026-11-25 04:00 UTC | Football - Spanish League: Racing - Real Sociedad 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 04:00 UTC | 2026-11-25 06:00 UTC | Football - Spanish league: Barcelona - Villarreal 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 06:00 UTC | 2026-11-25 08:00 UTC | Football - Spanish League: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 08:00 UTC | 2026-11-25 10:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 10:00 UTC | 2026-11-25 12:00 UTC | Football - Spanish League: Racing - Real Sociedad 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 12:00 UTC | 2026-11-25 14:00 UTC | Football - Spanish league: Barcelona - Villarreal 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 14:00 UTC | 2026-11-25 16:00 UTC | Football - Spanish league: Osasuna - Malaga 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 16:00 UTC | 2026-11-25 18:00 UTC | Football - Spanish league: Getafe - Atletico Madrid 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
-| 2026-11-25 18:00 UTC | 2026-11-25 18:45 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-25 18:45 UTC | 2026-11-25 20:45 UTC | Football - UEFA Champions League: Slavia - Villarreal | At the suggestion of the French journalist Gabriel Hanot, the Champions Cup was founded in 1955, an annual continental competition in which only the champions of their countries compete. With the media popularization of this format in 1992, the UEFA Champions League was founded, a competition for all the best clubs in Europe. Clubs are placed in the Champions League based on their results in their country's league competitions. The Champions League final has become the most televised football event on the planet. |
-| 2026-11-25 20:45 UTC | 2026-11-25 21:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-25 21:00 UTC | 2026-11-25 23:00 UTC | Football - UEFA Champions League: Club Brugge - Liverpool | At the suggestion of the French journalist Gabriel Hanot, the Champions Cup was founded in 1955, an annual continental competition in which only the champions of their countries compete. With the media popularization of this format in 1992, the UEFA Champions League was founded, a competition for all the best clubs in Europe. Clubs are placed in the Champions League based on their results in their country's league competitions. The Champions League final has become the most televised football event on the planet. |
-| 2026-11-25 23:00 UTC | 2026-11-25 23:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
-| 2026-11-25 23:30 UTC | 2026-11-26 00:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
 | 2026-11-26 00:00 UTC | 2026-11-26 02:00 UTC | Football - Spanish League: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-26 02:00 UTC | 2026-11-26 04:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-26 04:00 UTC | 2026-11-26 06:00 UTC | Football - Spanish League: Racing - Real Sociedad 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
@@ -696,29 +686,27 @@
 | 2026-11-28 04:00 UTC | 2026-11-28 06:00 UTC | Football - Spanish League: Racing - Real Sociedad 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-28 06:00 UTC | 2026-11-28 08:00 UTC | Football - Spanish League: Rayo Vallecano - Valencia 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 | 2026-11-28 08:00 UTC | 2026-11-28 10:00 UTC | Football - Spanish League: Sevilla - Betis 21.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 10:00 UTC | 2026-11-28 12:00 UTC | Football - Spanish League: Racing - Real Sociedad 22.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 12:00 UTC | 2026-11-28 14:00 UTC | Football - Spanish league: Levante - Racing 27.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 14:00 UTC | 2026-11-28 16:00 UTC | Football - Spanish league: Betis - Rayo Vallecano | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 16:00 UTC | 2026-11-28 16:15 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
+| 2026-11-28 16:15 UTC | 2026-11-28 18:15 UTC | Football - Spanish League: Málaga - Athletic Club | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 18:15 UTC | 2026-11-28 18:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
+| 2026-11-28 18:30 UTC | 2026-11-28 20:30 UTC | Football - Spanish league: Elche - Atlético Madrid | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 20:30 UTC | 2026-11-28 21:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
+| 2026-11-28 21:00 UTC | 2026-11-28 23:00 UTC | Football - Spanish League: Real Madrid - Deportivo Alavés | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-28 23:00 UTC | 2026-11-28 23:30 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
+| 2026-11-28 23:30 UTC | 2026-11-29 00:00 UTC | LaLiga Talking Football | Interesting conversations with current and former participants of the highest Spanish football league. They talk about their experiences, opinion and unforgettable time spent in the game. |
+| 2026-11-29 00:00 UTC | 2026-11-29 02:00 UTC | Football - Spanish league: Málaga - Athletic Club 28.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-29 02:00 UTC | 2026-11-29 04:00 UTC | Football - Spanish league: Elche - Atlético Madrid 28.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-29 04:00 UTC | 2026-11-29 06:00 UTC | Football - Spanish league: Real Madrid - Deportivo Alavés 28.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-29 06:00 UTC | 2026-11-29 08:00 UTC | Football - Spanish league: Levante - Racing 27.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
+| 2026-11-29 08:00 UTC | 2026-11-29 10:00 UTC | Football - Spanish league: Málaga - Athletic Club 28.11. | Primera or popularly La Liga is the first Spanish football league. With as many as 22 European Championship titles won, the Spanish Premier League has been considered the best European football league for years. Founded in 1929, Primera has 20 teams that try to collect the most points in the 38 rounds of the season. Real Madrid managed to do that the most times, while the second most successful team is Barcelona. In addition to the top teams, the Spanish league is also characterized by the extremely technical mentality of the game of most clubs with the aim of outplaying the opponent. |
 
-## CanalPlusFoot.fr (72 programmes)
+## CanalPlusFoot.fr (63 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 08:24 UTC | 2026-11-24 10:09 UTC | Toulouse / Marseille | Football. Arkema Première Ligue. 10e journéeToulouse / Marseille. |
-| 2026-11-24 10:09 UTC | 2026-11-24 11:54 UTC | Paris-SG / Saint-Malo | Football. Arkema Premier League. 10th dayParis-SG / Saint-Malo. |
-| 2026-11-24 11:54 UTC | 2026-11-24 12:06 UTC | 05/06/2027 On the way to Madrid | Bodo/Glimt - Lille06/05/2027 On the way to Madrid. |
-| 2026-11-24 12:06 UTC | 2026-11-24 13:07 UTC | Late Football Club | Late Football Club. |
-| 2026-11-24 13:07 UTC | 2026-11-24 14:52 UTC | Liverpool/Manchester United | Soccer. Premier League. Matchday 11Liverpool / Manchester United. |
-| 2026-11-24 14:52 UTC | 2026-11-24 16:36 UTC | Newcastle United/Arsenal | Soccer. Premier League. Matchday 11Newcastle United / Arsenal. |
-| 2026-11-24 16:36 UTC | 2026-11-24 17:04 UTC | Champions League Weekly | Preview of the 5th dayChampions League Weekly. |
-| 2026-11-24 17:04 UTC | 2026-11-24 17:20 UTC | Football: press conference | LensFootball: press conference. |
-| 2026-11-24 17:20 UTC | 2026-11-24 17:40 UTC | Channel Champions Club | Channel Champions Club. |
-| 2026-11-24 17:40 UTC | 2026-11-24 19:45 UTC | Football: Champions League | Football. Champions League. 5th dayFootball: Champions League. |
-| 2026-11-24 19:45 UTC | 2026-11-24 20:00 UTC | Channel Champions Club | Channel Champions Club. |
-| 2026-11-24 20:00 UTC | 2026-11-24 22:02 UTC | Football: Champions League | Football. Champions League. 5th dayFootball: Champions League. |
-| 2026-11-24 22:02 UTC | 2026-11-24 23:00 UTC | Canal Champions Club debrief | Canal Champions Club debrief. |
-| 2026-11-24 23:00 UTC | 2026-11-24 23:12 UTC | Football: press conference | LensFootball: press conference. |
-| 2026-11-24 23:12 UTC | 2026-11-24 23:38 UTC | Champions League Weekly | Preview of the 5th dayChampions League Weekly. |
-| 2026-11-24 23:38 UTC | 2026-11-25 00:30 UTC | Weekly UEL / UECL Magazine | 5th day of the Europa League and 4th day of the ConferenceWeekly UEL League / UECL Magazine. |
-| 2026-11-25 00:30 UTC | 2026-11-25 06:40 UTC | End of programs | End of programs. |
-| 2026-11-25 06:40 UTC | 2026-11-25 08:28 UTC | Brentford/Everton | Soccer. Premier League. 11th day Brentford / Everton. |
 | 2026-11-25 08:28 UTC | 2026-11-25 10:09 UTC | Toulouse / Marseille | Football. Arkema Première Ligue. 10e journéeToulouse / Marseille. |
 | 2026-11-25 10:09 UTC | 2026-11-25 11:54 UTC | Paris-SG / Saint-Malo | Football. Arkema Premier League. 10th dayParis-SG / Saint-Malo. |
 | 2026-11-25 11:54 UTC | 2026-11-25 12:06 UTC | 05/06/2027 On the way to Madrid | Bodo/Glimt - Lille06/05/2027 On the way to Madrid. |
@@ -732,72 +720,72 @@
 | 2026-11-25 19:44 UTC | 2026-11-25 20:00 UTC | Channel Champions Club | Channel Champions Club. |
 | 2026-11-25 20:00 UTC | 2026-11-25 22:01 UTC | Football: Champions League | Football. Champions League. 5th dayFootball: Champions League. |
 | 2026-11-25 22:01 UTC | 2026-11-25 23:00 UTC | Canal Champions Club debrief | Canal Champions Club debrief. |
-| 2026-11-25 23:44 UTC | 2026-11-26 00:34 UTC | Channel Football Club | Channel Football Club. |
-| 2026-11-26 00:34 UTC | 2026-11-26 01:10 UTC | Channel Football Club | La suiteCanal Football Club. |
-| 2026-11-26 01:10 UTC | 2026-11-26 06:07 UTC | End of programs | End of programs. |
-| 2026-11-26 06:07 UTC | 2026-11-26 06:57 UTC | Channel Football Club | Channel Football Club. |
-| 2026-11-26 06:57 UTC | 2026-11-26 07:34 UTC | Channel Football Club | La suiteCanal Football Club. |
-| 2026-11-26 07:34 UTC | 2026-11-26 09:17 UTC | Aston Villa / Sunderland | Soccer. Premier League. Matchday 11Aston Villa / Sunderland. |
-| 2026-11-26 09:17 UTC | 2026-11-26 11:01 UTC | Toulouse / Marseille | Football. Arkema Première Ligue. 10e journéeToulouse / Marseille. |
-| 2026-11-26 11:01 UTC | 2026-11-26 11:50 UTC | Channel Football Club | Channel Football Club. |
-| 2026-11-26 11:50 UTC | 2026-11-26 12:26 UTC | Channel Football Club | La suiteCanal Football Club. |
-| 2026-11-26 12:26 UTC | 2026-11-26 12:44 UTC | Split Football | Sur le banc du jubilé de PirèsFractionné Football. |
-| 2026-11-26 12:44 UTC | 2026-11-26 14:27 UTC | Newcastle United/Arsenal | Soccer. Premier League. Matchday 11Newcastle United / Arsenal. |
-| 2026-11-26 14:27 UTC | 2026-11-26 14:55 UTC | Premier League Stories | Histoires de Premier League. |
-| 2026-11-26 14:55 UTC | 2026-11-26 16:38 UTC | Manchester City/Fulham | Soccer. Premier League. Matchday 11 Manchester City / Fulham. |
-| 2026-11-26 16:38 UTC | 2026-11-26 16:51 UTC | Inside Ze Club | LiverpoolInside Ze Club. |
-| 2026-11-26 16:51 UTC | 2026-11-26 18:35 UTC | Liverpool/Manchester United | Soccer. Premier League. Matchday 11Liverpool / Manchester United. |
-| 2026-11-26 18:35 UTC | 2026-11-26 19:01 UTC | Champions League Weekly | Preview of the 5th dayChampions League Weekly. |
-| 2026-11-26 19:01 UTC | 2026-11-26 19:17 UTC | Premier League Day | 10th dayFirst League day. |
-| 2026-11-26 19:17 UTC | 2026-11-26 19:55 UTC | Football day | Football day. |
-| 2026-11-26 19:55 UTC | 2026-11-26 22:00 UTC | Brentford/Everton | Soccer. Premier League. 11th day Brentford / Everton. |
-| 2026-11-26 22:00 UTC | 2026-11-26 23:00 UTC | Late Football Club | Late Football Club. |
-| 2026-11-26 23:44 UTC | 2026-11-27 01:25 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
-| 2026-11-27 01:25 UTC | 2026-11-27 06:10 UTC | End of programs | End of programs. |
-| 2026-11-27 06:10 UTC | 2026-11-27 06:15 UTC | European evening | European evening. |
-| 2026-11-27 06:15 UTC | 2026-11-27 07:58 UTC | Lyon / Lillestrom | Soccer. Europa League. 5th dayLyon / Lillestrom. |
-| 2026-11-27 07:58 UTC | 2026-11-27 09:00 UTC | Evening of Europe the debrief | Evening of Europe the debrief. |
-| 2026-11-27 09:00 UTC | 2026-11-27 10:54 UTC | Multiplex | Soccer. Europa League and Conference League. 5th and 4th daysMultiplex. |
-| 2026-11-27 10:54 UTC | 2026-11-27 12:36 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
-| 2026-11-27 12:36 UTC | 2026-11-27 13:10 UTC | Canal Football Manager | Corners: New lethal weaponCanal Foot Manager. |
-| 2026-11-27 13:10 UTC | 2026-11-27 14:53 UTC | Heart of Midlothian / Monaco | Football. Conference League. 4th dayHeart of Midlothian / Monaco. |
+| 2026-11-25 23:04 UTC | 2026-11-26 00:50 UTC | Paris-SG / AS Roma | Soccer. Champions League. 5th dayParis-SG / AS Roma. |
+| 2026-11-26 00:50 UTC | 2026-11-26 06:28 UTC | End of programs | End of programs. |
+| 2026-11-26 06:28 UTC | 2026-11-26 07:27 UTC | Channel Champions Club | Channel Champions Club. |
+| 2026-11-26 07:27 UTC | 2026-11-26 09:11 UTC | Paris-SG / AS Roma | Soccer. Champions League. 5th dayParis-SG / AS Roma. |
+| 2026-11-26 09:11 UTC | 2026-11-26 10:13 UTC | Canal Champions Club debrief | Canal Champions Club debrief. |
+| 2026-11-26 10:13 UTC | 2026-11-26 11:57 UTC | Multiplex | Soccer. Champions League. 5th dayMultiplex. |
+| 2026-11-26 11:57 UTC | 2026-11-26 12:54 UTC | Detective Mathoux | Detective Mathoux. |
+| 2026-11-26 12:54 UTC | 2026-11-26 14:39 UTC | Lille / Bayern Munich | Soccer. Champions League. 5th day Lille / Bayern Munich. |
+| 2026-11-26 14:39 UTC | 2026-11-26 16:22 UTC | Paris-SG / AS Roma | Soccer. Champions League. 5th dayParis-SG / AS Roma. |
+| 2026-11-26 16:22 UTC | 2026-11-26 17:15 UTC | Weekly UEL / UECL Magazine | 5th day of the Europa League and 4th day of the ConferenceWeekly UEL League / UECL Magazine. |
+| 2026-11-26 17:15 UTC | 2026-11-26 17:40 UTC | UEFA Europa League pre-match board | Marseille / Levski SofiaPre-match table UEFA Europa League. |
+| 2026-11-26 17:40 UTC | 2026-11-26 19:44 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
+| 2026-11-26 19:44 UTC | 2026-11-26 20:00 UTC | UEFA Europa League pre-match board | 5th day: NEC Nijmegen - Rennes Plateau pre-match UEFA Europa League. |
+| 2026-11-26 20:00 UTC | 2026-11-26 22:01 UTC | NEC Nijmegen / Rennes | Soccer. Europa League. 5th dayNEC Nijmegen / Rennes. |
+| 2026-11-26 22:01 UTC | 2026-11-26 23:00 UTC | Marseille, the Tapie revolution | Marseille, the Tapie revolution. |
+| 2026-11-26 23:46 UTC | 2026-11-27 01:25 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
+| 2026-11-27 01:25 UTC | 2026-11-27 06:21 UTC | End of programs | End of programs. |
+| 2026-11-27 06:21 UTC | 2026-11-27 08:04 UTC | Lyon / Lillestrom | Soccer. Europa League. 5th dayLyon / Lillestrom. |
+| 2026-11-27 08:04 UTC | 2026-11-27 09:07 UTC | Evening of Europe the debrief | Evening of Europe the debrief. |
+| 2026-11-27 09:07 UTC | 2026-11-27 10:52 UTC | Multiplex | Soccer. Europa League and Conference League. 5th and 4th daysMultiplex. |
+| 2026-11-27 10:52 UTC | 2026-11-27 12:36 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
+| 2026-11-27 12:36 UTC | 2026-11-27 13:08 UTC | Canal Football Manager | Corners: New lethal weaponCanal Foot Manager. |
+| 2026-11-27 13:08 UTC | 2026-11-27 14:53 UTC | Heart of Midlothian / Monaco | Football. Conference League. 4th dayHeart of Midlothian / Monaco. |
 | 2026-11-27 14:53 UTC | 2026-11-27 16:37 UTC | NEC Nijmegen / Rennes | Soccer. Europa League. 5th dayNEC Nijmegen / Rennes. |
 | 2026-11-27 16:37 UTC | 2026-11-27 18:21 UTC | Lyon / Lillestrom | Soccer. Europa League. 5th dayLyon / Lillestrom. |
 | 2026-11-27 18:21 UTC | 2026-11-27 19:17 UTC | Premier League Review | Matchday 11Premier League Review. |
 | 2026-11-27 19:17 UTC | 2026-11-27 19:55 UTC | Football day | Football day. |
 | 2026-11-27 19:55 UTC | 2026-11-27 22:00 UTC | Nottingham Forest/Chelsea | Soccer. Premier League. Matchday 12 Nottingham Forest / Chelsea. |
 | 2026-11-27 22:00 UTC | 2026-11-27 23:00 UTC | Late Football Club | Late Football Club. |
-| 2026-11-27 23:00 UTC | 2026-11-27 23:13 UTC | UEFA: What you didn't see | 4th dayUEFA: What you didn't see. |
-| 2026-11-27 23:13 UTC | 2026-11-27 23:54 UTC | Everton/Coventry City | Soccer. Premier League. Matchday 10Everton / Coventry City. |
-| 2026-11-27 23:54 UTC | 2026-11-28 01:35 UTC | Football: Premier League | Soccer. Premier LeagueFootball: Premier League. |
-| 2026-11-28 01:35 UTC | 2026-11-28 06:19 UTC | End of programs | End of programs. |
-| 2026-11-28 06:19 UTC | 2026-11-28 08:02 UTC | Paris-SG / Le Havre | Football. Arkema Premier League. 8th dayParis-SG / Le Havre. |
-| 2026-11-28 08:02 UTC | 2026-11-28 08:56 UTC | Premier League Stories | Marcus StewartPremier League Stories. |
+| 2026-11-27 23:00 UTC | 2026-11-27 23:12 UTC | UEFA: What you didn't see | Paris-SG - AS RomaUEFA: What you haven't seen. |
+| 2026-11-27 23:12 UTC | 2026-11-27 23:38 UTC | Premier League Stories | Petr CechPremier League Stories. |
+| 2026-11-27 23:38 UTC | 2026-11-27 23:55 UTC | Premier League Stories | Histoires de Premier League. |
+| 2026-11-27 23:55 UTC | 2026-11-28 06:38 UTC | End of programs | End of programs. |
+| 2026-11-28 06:38 UTC | 2026-11-28 08:22 UTC | Football: Europa League | Soccer. Europa League. 5th dayFootball: Europa League. |
+| 2026-11-28 08:22 UTC | 2026-11-28 10:06 UTC | Football: Champions League | Football. Champions League. 5th dayFootball: Champions League. |
+| 2026-11-28 10:06 UTC | 2026-11-28 11:50 UTC | Football: Champions League | Football. Champions League. 5th dayFootball: Champions League. |
+| 2026-11-28 11:50 UTC | 2026-11-28 11:55 UTC | Split Football | The 10 best goals scored by Harry Kane in the Premier LeagueSplit Football. |
+| 2026-11-28 11:55 UTC | 2026-11-28 12:55 UTC | Late Football Club | Late Football Club. |
+| 2026-11-28 12:55 UTC | 2026-11-28 14:40 UTC | Paris-SG / AS Roma | Soccer. Champions League. 5th dayParis-SG / AS Roma. |
+| 2026-11-28 14:40 UTC | 2026-11-28 14:55 UTC | Match of ze Day | Match of ze Day. |
+| 2026-11-28 14:55 UTC | 2026-11-28 17:02 UTC | Manchester United/Brentford | Soccer. Premier League. Matchday 12 Manchester United / Brentford. |
+| 2026-11-28 17:02 UTC | 2026-11-28 17:24 UTC | Match of ze Day | Match of ze Day. |
+| 2026-11-28 17:24 UTC | 2026-11-28 19:33 UTC | Ipswich/Aston Villa | Soccer. Premier League. Matchday 12Ipswich / Aston Villa. |
+| 2026-11-28 19:33 UTC | 2026-11-28 19:53 UTC | 05/06/2027 On the way to Madrid | 5th day: Paris-SG / AS Roma05/06/2027 On the way to Madrid. |
+| 2026-11-28 19:53 UTC | 2026-11-28 21:37 UTC | Leeds/Coventry | Soccer. Premier League. 12th dayLeeds / Coventry. |
+| 2026-11-28 21:37 UTC | 2026-11-28 23:00 UTC | Manchester United/Brentford | Soccer. Premier League. Matchday 12 Manchester United / Brentford. |
+| 2026-11-29 00:00 UTC | 2026-11-29 02:00 UTC | Football: Premier League | Soccer. Premier League. 11th dayFootball: Premier League. |
+| 2026-11-29 02:00 UTC | 2026-11-29 06:03 UTC | End of programs | End of programs. |
+| 2026-11-29 06:03 UTC | 2026-11-29 07:47 UTC | Paris-SG / Saint-Malo | Football. Arkema Premier League. 10th dayParis-SG / Saint-Malo. |
+| 2026-11-29 07:47 UTC | 2026-11-29 09:31 UTC | Coventry/Crystal Palace | Soccer. Premier League. Matchday 11Coventry / Crystal Palace. |
 
-## CanalPlusLive3.fr (41 programmes)
+## CanalPlusLive3.fr (40 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 11:00 UTC | 2026-11-24 15:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-24 15:00 UTC | 2026-11-24 18:55 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-24 18:55 UTC | 2026-11-24 19:55 UTC | Coming up: Manchester City / Naples | Coming up: Manchester City / Naples. |
-| 2026-11-24 19:55 UTC | 2026-11-24 21:55 UTC | Manchester City / Napoli | Manchester City/Napoli. |
-| 2026-11-24 21:55 UTC | 2026-11-24 22:55 UTC | Completed: Manchester City / Napoli | Completed: Manchester City / Napoli. |
-| 2026-11-24 22:55 UTC | 2026-11-25 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-25 06:00 UTC | 2026-11-25 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
-| 2026-11-25 08:00 UTC | 2026-11-25 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-25 11:00 UTC | 2026-11-25 15:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-25 15:00 UTC | 2026-11-25 16:35 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-25 16:35 UTC | 2026-11-25 17:35 UTC | Coming soon: UEFA Champions League pre-match set | Coming soon: UEFA Champions League pre-match set. |
 | 2026-11-25 17:35 UTC | 2026-11-25 17:45 UTC | UEFA Champions League pre-match board | UEFA Champions League pre-match set. |
-| 2026-11-25 17:45 UTC | 2026-11-25 17:47 UTC | Coming up: Slavia Prague / Villarreal | Coming up: Slavia Prague / Villarreal. |
-| 2026-11-25 17:47 UTC | 2026-11-25 19:47 UTC | Slavia Prague / Villarreal | Slavia Prague / Villarreal. |
-| 2026-11-25 19:47 UTC | 2026-11-25 19:51 UTC | Coming soon: UEFA Champions League pre-match set | Coming soon: UEFA Champions League pre-match set. |
-| 2026-11-25 19:51 UTC | 2026-11-25 20:01 UTC | UEFA Champions League pre-match board | UEFA Champions League pre-match set. |
-| 2026-11-25 20:01 UTC | 2026-11-25 20:07 UTC | Upcoming: Club Bruges / Liverpool | Coming up: Club Bruges / Liverpool. |
-| 2026-11-25 20:07 UTC | 2026-11-25 22:07 UTC | Club Brugge / Liverpool | Club Brugge/Liverpool. |
-| 2026-11-25 22:07 UTC | 2026-11-25 23:07 UTC | Completed: Club Brugge / Liverpool | Completed: Club Brugge / Liverpool. |
-| 2026-11-25 23:07 UTC | 2026-11-26 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-25 17:45 UTC | 2026-11-25 19:45 UTC | Slavia Prague / Villarreal | Slavia Prague / Villarreal. |
+| 2026-11-25 19:45 UTC | 2026-11-25 19:50 UTC | Coming soon: UEFA Champions League pre-match set | Coming soon: UEFA Champions League pre-match set. |
+| 2026-11-25 19:50 UTC | 2026-11-25 19:59 UTC | UEFA Champions League pre-match board | UEFA Champions League pre-match set. |
+| 2026-11-25 19:59 UTC | 2026-11-25 20:00 UTC | Upcoming: Club Bruges / Liverpool | Coming up: Club Bruges / Liverpool. |
+| 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | Club Brugge / Liverpool | Club Brugge/Liverpool. |
+| 2026-11-25 22:00 UTC | 2026-11-25 23:00 UTC | Completed: Club Brugge / Liverpool | Completed: Club Brugge / Liverpool. |
+| 2026-11-25 23:00 UTC | 2026-11-26 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-26 06:00 UTC | 2026-11-26 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-26 08:00 UTC | 2026-11-26 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-26 11:00 UTC | 2026-11-26 15:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
@@ -819,23 +807,24 @@
 | 2026-11-27 21:25 UTC | 2026-11-28 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-28 06:00 UTC | 2026-11-28 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 | 2026-11-28 08:00 UTC | 2026-11-28 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-28 11:00 UTC | 2026-11-28 14:30 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-28 14:30 UTC | 2026-11-28 15:30 UTC | Coming soon: Bayonne / Castres | Coming soon: Bayonne / Castres. |
+| 2026-11-28 15:30 UTC | 2026-11-28 17:30 UTC | Bayonne / Castres | Bayonne / Castres. |
+| 2026-11-28 17:30 UTC | 2026-11-28 18:30 UTC | Completed: Bayonne / Castres | Completed: Bayonne / Castres. |
+| 2026-11-28 18:30 UTC | 2026-11-28 23:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-28 23:00 UTC | 2026-11-29 06:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-29 06:00 UTC | 2026-11-29 08:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
+| 2026-11-29 08:00 UTC | 2026-11-29 11:00 UTC | Experience CANAL+ events live | Experience CANAL+ events live. |
 
-## CanalPlusPremierLeague.fr (29 programmes)
+## CanalPlusPremierLeague.fr (25 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 11:00 UTC | 2026-11-24 16:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-24 16:00 UTC | 2026-11-24 20:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-24 20:00 UTC | 2026-11-24 22:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-24 22:00 UTC | 2026-11-24 23:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-25 00:00 UTC | 2026-11-25 05:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-25 05:00 UTC | 2026-11-25 08:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-25 08:00 UTC | 2026-11-25 11:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-25 11:00 UTC | 2026-11-25 16:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-25 16:00 UTC | 2026-11-25 20:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-25 22:00 UTC | 2026-11-25 23:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-26 00:00 UTC | 2026-11-26 05:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-25 23:39 UTC | 2026-11-26 05:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-26 05:00 UTC | 2026-11-26 08:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-26 08:00 UTC | 2026-11-26 11:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-26 11:00 UTC | 2026-11-26 16:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
@@ -846,40 +835,21 @@
 | 2026-11-27 05:00 UTC | 2026-11-27 08:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-27 08:00 UTC | 2026-11-27 11:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 | 2026-11-27 11:00 UTC | 2026-11-27 16:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-27 16:00 UTC | 2026-11-27 18:33 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
-| 2026-11-27 18:33 UTC | 2026-11-27 18:34 UTC | Summary Premier League | Matchday 12Summary Premier League. |
-| 2026-11-27 18:34 UTC | 2026-11-27 19:27 UTC | Premier League Review | Matchday 11Premier League Review. |
-| 2026-11-27 19:27 UTC | 2026-11-27 19:54 UTC | Premier League Preview | Matchday 12Premier League Preview. |
-| 2026-11-27 19:54 UTC | 2026-11-27 19:55 UTC | Summary Premier League | Matchday 12Summary Premier League. |
-| 2026-11-27 19:55 UTC | 2026-11-27 21:55 UTC | Nottingham Forest/Chelsea | Soccer. Premier League. Matchday 12 Nottingham Forest / Chelsea. |
-| 2026-11-27 21:55 UTC | 2026-11-27 23:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-27 16:00 UTC | 2026-11-27 20:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-27 20:00 UTC | 2026-11-27 22:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-27 22:00 UTC | 2026-11-27 23:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 00:00 UTC | 2026-11-28 05:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 05:00 UTC | 2026-11-28 08:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 08:00 UTC | 2026-11-28 11:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 11:00 UTC | 2026-11-28 16:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 16:00 UTC | 2026-11-28 20:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 20:00 UTC | 2026-11-28 22:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
+| 2026-11-28 22:00 UTC | 2026-11-28 23:00 UTC | The Premier League on Canal+ | The Premier League on Canal+. |
 
-## CanalPlusSport.fr (44 programmes)
+## CanalPlusSport.fr (22 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 16:21 UTC | 2026-11-24 16:33 UTC | The Podium |  |
-| 2026-11-24 16:33 UTC | 2026-11-24 17:08 UTC | Formula One, the mag |  |
-| 2026-11-24 17:08 UTC | 2026-11-24 17:35 UTC | Split Rugby |  |
-| 2026-11-24 17:35 UTC | 2026-11-24 17:45 UTC | UEFA Champions League pre-match board | Live. Before the UEFA Champions League matches, all the latest information on the clubs involved, the team compositions and the atmosphere at the side of the pitch. |
-| 2026-11-24 17:45 UTC | 2026-11-24 19:50 UTC | Bodø/Glimt / LASK Linz | Live. |
-| 2026-11-24 19:50 UTC | 2026-11-24 20:00 UTC | UEFA Champions League pre-match board | Live. Before the UEFA Champions League matches, all the latest information on the clubs involved, the team compositions and the atmosphere at the side of the pitch. |
-| 2026-11-24 20:00 UTC | 2026-11-24 22:01 UTC | Real Madrid / PSV Eindhoven | Live. |
-| 2026-11-24 22:01 UTC | 2026-11-24 22:33 UTC | Kimi Antonelli, the new star |  |
-| 2026-11-24 22:33 UTC | 2026-11-24 23:10 UTC | Fast Life Laurent Dupin | F1 journalist and editor-in-chief for Canal+ Laurent Dupin looks at Formula 1 news and takes us behind the scenes of the discipline. News, meetings with drivers and team bosses are on the program for this show. The Singapore Grand Prix, which took place on October 11, should be on the menu for this episode. |
-| 2026-11-24 23:10 UTC | 2026-11-25 00:08 UTC | Golf+, the mag |  |
-| 2026-11-25 00:08 UTC | 2026-11-25 00:43 UTC | Benzema: a golden season at Real Madrid |  |
-| 2026-11-25 00:43 UTC | 2026-11-25 06:29 UTC | End of programs |  |
-| 2026-11-25 06:29 UTC | 2026-11-25 08:15 UTC | Las Vegas Grand Prix |  |
-| 2026-11-25 08:15 UTC | 2026-11-25 08:26 UTC | The Podium |  |
-| 2026-11-25 08:26 UTC | 2026-11-25 08:57 UTC | Formula One, the mag |  |
-| 2026-11-25 08:57 UTC | 2026-11-25 09:43 UTC | Las Vegas Grand Prix |  |
-| 2026-11-25 09:43 UTC | 2026-11-25 09:54 UTC | Split F1 |  |
-| 2026-11-25 09:54 UTC | 2026-11-25 11:38 UTC | Biarritz / Narbonne |  |
-| 2026-11-25 11:38 UTC | 2026-11-25 12:39 UTC | Golf+, the mag |  |
-| 2026-11-25 12:39 UTC | 2026-11-25 13:55 UTC | Cesta Punta: International Open |  |
-| 2026-11-25 13:55 UTC | 2026-11-25 14:48 UTC | Rally: WRC, Rally of Saudi Arabia |  |
-| 2026-11-25 14:48 UTC | 2026-11-25 16:31 UTC | Rugby: Pro D2 |  |
 | 2026-11-25 16:31 UTC | 2026-11-25 17:35 UTC | Golf+, the mag |  |
 | 2026-11-25 17:35 UTC | 2026-11-25 17:45 UTC | UEFA Champions League pre-match board | Live. Before the UEFA Champions League matches, all the latest information on the clubs involved, the team compositions and the atmosphere at the side of the pitch. |
 | 2026-11-25 17:45 UTC | 2026-11-25 19:50 UTC | Slavia Prague / Villarreal | Live. |
@@ -903,40 +873,10 @@
 | 2026-11-26 20:00 UTC | 2026-11-26 21:50 UTC | Brive / Biarritz | Live. |
 | 2026-11-26 21:50 UTC | 2026-11-27 16:00 UTC | Pro D2 post-match | Live. |
 
-## CanalPlusSport360.fr (61 programmes)
+## CanalPlusSport360.fr (31 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 23:04 UTC | 2026-11-24 23:26 UTC | Motorcycle: the dinner of legends |  |
-| 2026-11-24 23:26 UTC | 2026-11-24 23:30 UTC | Zapsport 360 |  |
-| 2026-11-24 23:30 UTC | 2026-11-25 01:19 UTC | Night Session Europe | Live. It is at the end of the European evening that the sports channel's consultants look back in images on the different goals and results of this Europa League or Europa Conference League evening. They will also collect all the reactions and post-match interviews. Analyzes, debriefs and presentations of upcoming meetings are on the menu of this magazine which tours the pitches in Europe. |
-| 2026-11-25 01:19 UTC | 2026-11-25 01:35 UTC | Motorcycle: The podium |  |
-| 2026-11-25 01:35 UTC | 2026-11-25 02:14 UTC | Motorcycle Debrief |  |
-| 2026-11-25 02:14 UTC | 2026-11-25 03:14 UTC | Evening of padel | A look back at the biggest moments of the last tournament of the Premier Padel circuit, which sees the best players in the world compete. The magazine reviews the results, both in the men's and women's events, and presents the latest rankings. “Soir de padel” also takes stock of the players who leave their mark on the circuit. |
-| 2026-11-25 03:14 UTC | 2026-11-25 05:00 UTC | End of programs |  |
-| 2026-11-25 05:00 UTC | 2026-11-25 07:49 UTC | The morning | Live. |
-| 2026-11-25 07:49 UTC | 2026-11-25 08:05 UTC | Motorcycle: The podium |  |
-| 2026-11-25 08:05 UTC | 2026-11-25 08:44 UTC | Motorcycle Debrief |  |
-| 2026-11-25 08:44 UTC | 2026-11-25 09:25 UTC | Canal Sports Quiz |  |
-| 2026-11-25 09:25 UTC | 2026-11-25 09:42 UTC | 05/06/2027 On the way to Madrid | Close-up on the meeting between the Spaniards of Villarreal and the double title holders of Paris-SG. |
-| 2026-11-25 09:42 UTC | 2026-11-25 11:15 UTC | Dubai Grand Prix |  |
-| 2026-11-25 11:15 UTC | 2026-11-25 12:00 UTC | The news | Live. |
-| 2026-11-25 12:00 UTC | 2026-11-25 14:30 UTC | Rally Italy Sardinia |  |
-| 2026-11-25 14:30 UTC | 2026-11-25 14:33 UTC | Zapsport 360 |  |
-| 2026-11-25 14:33 UTC | 2026-11-25 14:45 UTC | UEFA: What you didn't see | The show takes a close look at UEFA Champions League matches, especially through the exchanges that take place between the players on the pitch. |
-| 2026-11-25 14:45 UTC | 2026-11-25 16:04 UTC | The news | Live. |
-| 2026-11-25 16:04 UTC | 2026-11-25 16:20 UTC | Motorcycle: The podium |  |
-| 2026-11-25 16:20 UTC | 2026-11-25 17:00 UTC | Motorcycle Debrief |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 18:00 UTC | Club 360 | Live. A 360° tour of sports news in this 360 Club where the latest information of the moment is analyzed and deciphered. |
-| 2026-11-25 18:00 UTC | 2026-11-25 18:16 UTC | 05/06/2027 On the way to Madrid | Focus on the meeting between the surprising and unpredictable Norwegians of Bodo/Glimt and the Lille Mastiffs. |
-| 2026-11-25 18:16 UTC | 2026-11-25 18:33 UTC | 05/06/2027 On the way to Madrid | Close-up on the meeting between the Spaniards of Villarreal and the double title holders of Paris-SG. |
-| 2026-11-25 18:33 UTC | 2026-11-25 18:42 UTC | Zapsport 360 |  |
-| 2026-11-25 18:42 UTC | 2026-11-25 19:14 UTC | Monday Grand Prix |  |
-| 2026-11-25 19:14 UTC | 2026-11-25 19:50 UTC | Monday Grand Prix |  |
-| 2026-11-25 19:50 UTC | 2026-11-25 20:00 UTC | UEFA Champions League pre-match board | Live. Before the UEFA Champions League matches, all the latest information on the clubs involved, the team compositions and the atmosphere at the side of the pitch. |
-| 2026-11-25 20:00 UTC | 2026-11-25 22:01 UTC | Multiplex | Live. |
-| 2026-11-25 22:01 UTC | 2026-11-25 22:29 UTC | Kimi Antonelli, the new star |  |
-| 2026-11-25 22:29 UTC | 2026-11-25 23:01 UTC | Formula One, the mag |  |
 | 2026-11-25 23:01 UTC | 2026-11-25 23:30 UTC | Sail GP: Racing on the Edge | The documentary series “Racing on the Edge” shares the different sailing races of the SailGP competition, an event initiated since 2019. |
 | 2026-11-25 23:30 UTC | 2026-11-26 00:30 UTC | Night Session Europe | Live. It is at the end of the European evening that the sports channel's consultants look back in images on the different goals and results of this Europa League or Europa Conference League evening. They will also collect all the reactions and post-match interviews. Analyzes, debriefs and presentations of upcoming meetings are on the menu of this magazine which tours the pitches in Europe. |
 | 2026-11-26 00:30 UTC | 2026-11-26 02:16 UTC | Las Vegas Grand Prix |  |
@@ -969,49 +909,10 @@
 | 2026-11-26 20:00 UTC | 2026-11-26 22:02 UTC | Multiplex | Live. |
 | 2026-11-26 22:02 UTC | 2026-11-26 22:55 UTC | Dubai Grand Prix |  |
 
-## DigiSport1.ro (122 programmes)
+## DigiSport1.ro (118 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 05:00 UTC | 2026-11-25 05:19 UTC | Digi Sport news |  |
-| 2026-11-25 05:20 UTC | 2026-11-25 05:39 UTC | Digi Sport news |  |
-| 2026-11-25 05:40 UTC | 2026-11-25 05:59 UTC | Digi Sport news |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:19 UTC | Digi Sport news |  |
-| 2026-11-25 06:20 UTC | 2026-11-25 06:39 UTC | Digi Sport news |  |
-| 2026-11-25 06:40 UTC | 2026-11-25 06:59 UTC | Digi Sport news |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 07:19 UTC | Digi Sport news |  |
-| 2026-11-25 07:20 UTC | 2026-11-25 07:39 UTC | Digi Sport news |  |
-| 2026-11-25 07:40 UTC | 2026-11-25 07:59 UTC | Digi Sport news |  |
-| 2026-11-25 08:00 UTC | 2026-11-25 08:14 UTC | Digi Sport news |  |
-| 2026-11-25 08:15 UTC | 2026-11-25 08:59 UTC | Euro Football |  |
-| 2026-11-25 09:00 UTC | 2026-11-25 09:14 UTC | Digi Sport news |  |
-| 2026-11-25 09:15 UTC | 2026-11-25 09:59 UTC | Football Club |  |
-| 2026-11-25 10:00 UTC | 2026-11-25 10:14 UTC | Digi Sport news |  |
-| 2026-11-25 10:15 UTC | 2026-11-25 10:59 UTC | Euro Football |  |
-| 2026-11-25 11:00 UTC | 2026-11-25 11:14 UTC | Digi Sport news |  |
-| 2026-11-25 11:15 UTC | 2026-11-25 11:59 UTC | Champions League: Summaries Stage 5 |  |
-| 2026-11-25 12:00 UTC | 2026-11-25 12:29 UTC | LIVE 2nd League: Stage Summaries Stage 14 |  |
-| 2026-11-25 12:30 UTC | 2026-11-25 12:59 UTC | LIVE Digi Sport News |  |
-| 2026-11-25 13:00 UTC | 2026-11-25 14:29 UTC | LIVE Digi Sport League |  |
-| 2026-11-25 14:30 UTC | 2026-11-25 14:59 UTC | LIVE Digi Sport News |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 16:29 UTC | LIVE Digi Sport Special |  |
-| 2026-11-25 16:30 UTC | 2026-11-25 16:59 UTC | LIVE Digi Sport News |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 17:39 UTC | LIVE Euro Football |  |
-| 2026-11-25 17:40 UTC | 2026-11-25 18:29 UTC | LIVE Champions League: Sabah-Barcelona Stage 5 |  |
-| 2026-11-25 18:30 UTC | 2026-11-25 18:44 UTC | LIVE Euro Football |  |
-| 2026-11-25 18:45 UTC | 2026-11-25 19:44 UTC | LIVE Champions League: Sabah-Barcelona Stage 5 |  |
-| 2026-11-25 19:45 UTC | 2026-11-25 19:54 UTC | LIVE Euro Football |  |
-| 2026-11-25 19:55 UTC | 2026-11-25 20:44 UTC | LIVE Champions League: PSG-Roma Stage 5 |  |
-| 2026-11-25 20:45 UTC | 2026-11-25 20:59 UTC | LIVE Euro Football |  |
-| 2026-11-25 21:00 UTC | 2026-11-25 21:59 UTC | LIVE Champions League: PSG-Roma Stage 5 |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:09 UTC | LIVE Euro Football |  |
-| 2026-11-25 23:10 UTC | 2026-11-25 23:59 UTC | Champions League premiere: Stage 5 recaps |  |
-| 2026-11-26 00:00 UTC | 2026-11-26 00:29 UTC | League 2: Stage Summaries Stage 14 |  |
-| 2026-11-26 00:30 UTC | 2026-11-26 00:44 UTC | Digi Sport news |  |
-| 2026-11-26 00:45 UTC | 2026-11-26 01:29 UTC | Euro Football |  |
-| 2026-11-26 01:30 UTC | 2026-11-26 02:14 UTC | Digi Sport Special |  |
-| 2026-11-26 02:15 UTC | 2026-11-26 03:59 UTC | Champions League: PSG-Roma Stage 5 |  |
-| 2026-11-26 04:00 UTC | 2026-11-26 04:59 UTC | Champions League: Summaries Stage 5 |  |
 | 2026-11-26 05:00 UTC | 2026-11-26 05:19 UTC | Digi Sport news |  |
 | 2026-11-26 05:20 UTC | 2026-11-26 05:39 UTC | Digi Sport news |  |
 | 2026-11-26 05:40 UTC | 2026-11-26 05:59 UTC | Digi Sport news |  |
@@ -1066,7 +967,7 @@
 | 2026-11-27 11:00 UTC | 2026-11-27 11:14 UTC | Digi Sport news |  |
 | 2026-11-27 11:15 UTC | 2026-11-27 11:59 UTC | Football Club |  |
 | 2026-11-27 12:00 UTC | 2026-11-27 12:14 UTC | Digi Sport news |  |
-| 2026-11-27 12:15 UTC | 2026-11-27 12:59 UTC | UEFA Europe premiere: Europa League, Conference League summaries |  |
+| 2026-11-27 12:15 UTC | 2026-11-27 12:59 UTC | UEFA Europa League Conference: Europa League Summaries |  |
 | 2026-11-27 13:00 UTC | 2026-11-27 13:29 UTC | LIVE Digi Sport News |  |
 | 2026-11-27 13:30 UTC | 2026-11-27 14:59 UTC | LIVE Digi Sport League |  |
 | 2026-11-27 15:00 UTC | 2026-11-27 15:29 UTC | LIVE Digi Sport News |  |
@@ -1095,28 +996,46 @@
 | 2026-11-28 07:20 UTC | 2026-11-28 07:39 UTC | Digi Sport news |  |
 | 2026-11-28 07:40 UTC | 2026-11-28 07:59 UTC | Digi Sport news |  |
 | 2026-11-28 08:00 UTC | 2026-11-28 09:29 UTC | LIVE Digi Sports Morning |  |
+| 2026-11-28 09:30 UTC | 2026-11-28 09:59 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 10:44 UTC | LIVE 2nd League: Politehnica Timisoara-Bihor Oradea Stage 15 |  |
+| 2026-11-28 10:45 UTC | 2026-11-28 10:59 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 11:00 UTC | 2026-11-28 11:59 UTC | LIVE 2nd League: Politehnica Timisoara-Bihor Oradea Stage 15 |  |
+| 2026-11-28 12:00 UTC | 2026-11-28 12:29 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 12:30 UTC | 2026-11-28 13:14 UTC | LIVE Superliga: Voluntari-CFR Cluj Stage 17 |  |
+| 2026-11-28 13:15 UTC | 2026-11-28 13:29 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 13:30 UTC | 2026-11-28 14:29 UTC | LIVE Superliga: Voluntari-CFR Cluj Stage 17 |  |
+| 2026-11-28 14:30 UTC | 2026-11-28 14:59 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 15:00 UTC | 2026-11-28 15:44 UTC | LIVE Superliga: Corvinul Hunedoara-Farul Constanta Stage 17 |  |
+| 2026-11-28 15:45 UTC | 2026-11-28 15:59 UTC | LIVE Digi Sport News |  |
+| 2026-11-28 16:00 UTC | 2026-11-28 16:59 UTC | LIVE Superliga: Corvinul Hunedoara-Farul Constanta Stage 17 |  |
+| 2026-11-28 17:00 UTC | 2026-11-28 17:59 UTC | LIVE Football Club |  |
+| 2026-11-28 18:00 UTC | 2026-11-28 18:44 UTC | LIVE Superliga: FCSB-Csikszereda Stage 17 |  |
+| 2026-11-28 18:45 UTC | 2026-11-28 18:59 UTC | LIVE Football Club |  |
+| 2026-11-28 19:00 UTC | 2026-11-28 19:59 UTC | LIVE Superliga: FCSB-Csikszereda Stage 17 |  |
+| 2026-11-28 20:00 UTC | 2026-11-28 21:14 UTC | LIVE Football Club |  |
+| 2026-11-28 21:15 UTC | 2026-11-28 22:14 UTC | Premiere Digi Sport Florentin Petre Interviews |  |
+| 2026-11-28 22:15 UTC | 2026-11-28 22:29 UTC | Digi Sport news |  |
+| 2026-11-28 22:30 UTC | 2026-11-28 23:44 UTC | Football Club |  |
+| 2026-11-28 23:45 UTC | 2026-11-28 23:59 UTC | Digi Sport news |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 01:44 UTC | Superliga: Corvinul Hunedoara-Farul Constanta Stage 17 |  |
+| 2026-11-29 01:45 UTC | 2026-11-29 01:59 UTC | Digi Sport news |  |
+| 2026-11-29 02:00 UTC | 2026-11-29 03:44 UTC | Superliga: FCSB-Csikszereda Stage 17 |  |
+| 2026-11-29 03:45 UTC | 2026-11-29 04:59 UTC | Football Club |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 05:19 UTC | Digi Sport news |  |
+| 2026-11-29 05:20 UTC | 2026-11-29 05:39 UTC | Digi Sport news |  |
+| 2026-11-29 05:40 UTC | 2026-11-29 05:59 UTC | Digi Sport news |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:19 UTC | Digi Sport news |  |
+| 2026-11-29 06:20 UTC | 2026-11-29 06:39 UTC | Digi Sport news |  |
+| 2026-11-29 06:40 UTC | 2026-11-29 06:59 UTC | Digi Sport news |  |
+| 2026-11-29 07:00 UTC | 2026-11-29 07:19 UTC | Digi Sport news |  |
+| 2026-11-29 07:20 UTC | 2026-11-29 07:39 UTC | Digi Sport news |  |
+| 2026-11-29 07:40 UTC | 2026-11-29 07:59 UTC | Digi Sport news |  |
+| 2026-11-29 08:00 UTC | 2026-11-29 09:29 UTC | LIVE Digi Sports Morning |  |
 
-## DigiSport2.ro (53 programmes)
+## DigiSport2.ro (55 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 05:00 UTC | 2026-11-25 06:44 UTC | Champions League: Galatasaray-Aston Villa Stage 5 |  |
-| 2026-11-25 06:45 UTC | 2026-11-25 08:29 UTC | Champions League: Como-AEK Athens Stage 5 |  |
-| 2026-11-25 08:30 UTC | 2026-11-25 10:29 UTC | Champions League: Manchester City-Napoli Stage 5 |  |
-| 2026-11-25 10:30 UTC | 2026-11-25 12:14 UTC | Champions League: Arsenal-Borussia Dortmund Stage 5 |  |
-| 2026-11-25 12:15 UTC | 2026-11-25 14:14 UTC | Champions League: Real Madrid-PSV Eindhoven Stage 5 |  |
-| 2026-11-25 14:15 UTC | 2026-11-25 14:59 UTC | Champions League: Summaries Stage 5 |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 16:59 UTC | LIVE Youth League: PSG-Roma Stage 5 |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 17:14 UTC | Digi Sport news |  |
-| 2026-11-25 17:15 UTC | 2026-11-25 17:44 UTC | Serie A premiere: Full Impact |  |
-| 2026-11-25 17:45 UTC | 2026-11-25 19:14 UTC | Stage 2 Handball: Dinamo-Kielce EHF Men's Champions League |  |
-| 2026-11-25 19:15 UTC | 2026-11-25 19:29 UTC | Digi Sport news |  |
-| 2026-11-25 19:30 UTC | 2026-11-25 19:54 UTC | League 2: Stage Summaries Stage 14 |  |
-| 2026-11-25 19:55 UTC | 2026-11-25 21:59 UTC | LIVE Champions League: Inter-Stuttgart Stage 5 |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:44 UTC | Champions League premiere: Lille-Bayern Munich Stage 5 |  |
-| 2026-11-25 23:45 UTC | 2026-11-26 01:29 UTC | Champions League: Sabah-Barcelona Stage 5 |  |
-| 2026-11-26 01:30 UTC | 2026-11-26 03:14 UTC | Champions League: Sporting-Manchester United Stage 5 |  |
-| 2026-11-26 03:15 UTC | 2026-11-26 04:59 UTC | Champions League: Lille-Bayern Munich Stage 5 |  |
 | 2026-11-26 05:00 UTC | 2026-11-26 06:59 UTC | Tennis: Davis Cup Final 8 Quarters |  |
 | 2026-11-26 07:00 UTC | 2026-11-26 08:59 UTC | Tennis: Davis Cup Final 8 Quarters |  |
 | 2026-11-26 09:00 UTC | 2026-11-26 10:59 UTC | Sferturi Tenis: Cupa Davis Marea Britanie-Germania - Final 8 |  |
@@ -1132,70 +1051,51 @@
 | 2026-11-26 23:45 UTC | 2026-11-27 01:29 UTC | Premiera Europa League: Ferencvaros-Celje Etapa 5 |  |
 | 2026-11-27 01:30 UTC | 2026-11-27 03:29 UTC | Europa League: Olympiacos-Milan Etapa 5 |  |
 | 2026-11-27 03:30 UTC | 2026-11-27 05:34 UTC | Ice Dance (Rhythm Dance) Patinaj Artistic: ISU Grand Prix Tokyo |  |
-| 2026-11-27 05:35 UTC | 2026-11-27 06:44 UTC | LIVE Patinaj Artistic:ISU Grand Prix, Tokyo Pairs (Short Program) |  |
+| 2026-11-27 05:35 UTC | 2026-11-27 06:44 UTC | Pairs (Short Program) Figure Skating: ISU Grand Prix Tokyo |  |
 | 2026-11-27 06:45 UTC | 2026-11-27 07:14 UTC | Serie A: Full Impact |  |
-| 2026-11-27 07:15 UTC | 2026-11-27 08:44 UTC | LIVE Patinaj Artistic:ISU Grand Prix, Tokyo Women (Short Program) |  |
-| 2026-11-27 08:45 UTC | 2026-11-27 09:59 UTC | Figure Skating: ISU Grand Prix, Tokyo Ice Dance (Rhythm Dance) |  |
-| 2026-11-27 10:00 UTC | 2026-11-27 11:29 UTC | LIVE Figure Skating: ISU Grand Prix, Tokyo Men (Short Program) |  |
-| 2026-11-27 11:30 UTC | 2026-11-27 12:59 UTC | Tennis: Davis Cup Austria-Spain, Final 8 – quarters |  |
-| 2026-11-27 13:00 UTC | 2026-11-27 14:59 UTC | Tennis: Davis Cup Austria-Spain, Final 8 – quarters |  |
+| 2026-11-27 07:15 UTC | 2026-11-27 08:44 UTC | Women (Short Program) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-27 08:45 UTC | 2026-11-27 09:59 UTC | Ice Dance (Rhythm Dance) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-27 10:00 UTC | 2026-11-27 11:29 UTC | Men (Short Program) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-27 11:30 UTC | 2026-11-27 12:59 UTC | Final 8 – quarters Tennis: Austria-Spain Davis Cup |  |
+| 2026-11-27 13:00 UTC | 2026-11-27 14:59 UTC | Final 8 – quarters Tennis: Austria-Spain Davis Cup |  |
 | 2026-11-27 15:00 UTC | 2026-11-27 16:59 UTC | LIVE Tennis: Davis Cup Final 8 – semi-finals |  |
 | 2026-11-27 17:00 UTC | 2026-11-27 18:29 UTC | LIVE Tennis: Davis Cup Final 8 – semi-finals |  |
 | 2026-11-27 18:30 UTC | 2026-11-27 20:01 UTC | LIVE Tennis: Davis Cup Final 8 – semi-finals |  |
-| 2026-11-27 20:02 UTC | 2026-11-27 22:14 UTC | LIVE Rugby: Nations Championship: Ireland - Australia |  |
+| 2026-11-27 20:02 UTC | 2026-11-27 22:14 UTC | LIVE Rugby: Ireland-Austria Nations Championship |  |
 | 2026-11-27 22:15 UTC | 2026-11-27 22:29 UTC | Digi Sport news |  |
 | 2026-11-27 22:30 UTC | 2026-11-27 23:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
 | 2026-11-28 00:00 UTC | 2026-11-28 01:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
 | 2026-11-28 02:00 UTC | 2026-11-28 02:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
-| 2026-11-28 03:00 UTC | 2026-11-28 04:29 UTC | LIVE Figure Skating: ISU Grand Prix, Tokyo Ice Dance (Free Dance) |  |
+| 2026-11-28 03:00 UTC | 2026-11-28 04:29 UTC | Ice Dance (Free Dance) Figure Skating: ISU Grand Prix Tokyo |  |
 | 2026-11-28 04:30 UTC | 2026-11-28 04:59 UTC | Digi Sport news |  |
-| 2026-11-28 05:00 UTC | 2026-11-28 06:19 UTC | LIVE Figure Skating: ISU Grand Prix, Tokyo Pairs (Free Skating) |  |
-| 2026-11-28 06:20 UTC | 2026-11-28 07:14 UTC | LIVE Figure Skating: ISU Grand Prix, Tokyo Victory Ceremony Pairs and Ice Dance |  |
+| 2026-11-28 05:00 UTC | 2026-11-28 06:19 UTC | Pairs (Free Skating) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 06:20 UTC | 2026-11-28 07:14 UTC | Victory Ceremony Pairs and Ice Dance Figure Skating: ISU Grand Prix Tokyo |  |
 | 2026-11-28 07:15 UTC | 2026-11-28 07:29 UTC | Digi Sport news |  |
-| 2026-11-28 07:30 UTC | 2026-11-28 09:24 UTC | LIVE Figure Skating: ISU Grand Prix, Tokyo Women (Free Skating) |  |
+| 2026-11-28 07:30 UTC | 2026-11-28 09:24 UTC | Women (Free Skating) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 09:25 UTC | 2026-11-28 09:44 UTC | Victory Ceremony Women Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 09:45 UTC | 2026-11-28 09:59 UTC | Digi Show |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 10:29 UTC | Digi Sport news |  |
+| 2026-11-28 10:30 UTC | 2026-11-28 12:24 UTC | Men (Free Skating) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 12:25 UTC | 2026-11-28 12:44 UTC | Victory Ceremony Men Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 12:45 UTC | 2026-11-28 12:59 UTC | Digi Sport news |  |
+| 2026-11-28 13:00 UTC | 2026-11-28 14:59 UTC | LIVE La Liga: Betis-Rayo Vallecano Stage 14 |  |
+| 2026-11-28 15:00 UTC | 2026-11-28 15:59 UTC | Ice Dance (Free Dance) Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-28 16:00 UTC | 2026-11-28 17:29 UTC | LIVE Handball: Romania-Poland Friendly Match |  |
+| 2026-11-28 17:30 UTC | 2026-11-28 19:29 UTC | LIVE La Liga: Elche-Atletico Madrid Stage 14 |  |
+| 2026-11-28 19:30 UTC | 2026-11-28 19:59 UTC | Digi Sport news |  |
+| 2026-11-28 20:00 UTC | 2026-11-28 21:59 UTC | LIVE La Liga: Real Madrid-Alaves Round 14 |  |
+| 2026-11-28 22:00 UTC | 2026-11-28 23:44 UTC | Serie A premiere: Frosinone-Parma Round 13 |  |
+| 2026-11-28 23:45 UTC | 2026-11-29 01:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
+| 2026-11-29 02:00 UTC | 2026-11-29 04:04 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
+| 2026-11-29 04:05 UTC | 2026-11-29 04:59 UTC | Figure Skating Gala Exhibition: ISU Grand Prix Tokyo |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 06:29 UTC | Figure Skating Gala Exhibition: ISU Grand Prix Tokyo |  |
+| 2026-11-29 06:30 UTC | 2026-11-29 07:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
+| 2026-11-29 08:00 UTC | 2026-11-29 09:59 UTC | Tennis: Davis Cup Final 8 – semi-finals |  |
 
-## DigiSport3.ro (130 programmes)
+## DigiSport3.ro (123 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 05:00 UTC | 2026-11-25 05:14 UTC | Morning gymnastics |  |
-| 2026-11-25 05:15 UTC | 2026-11-25 05:29 UTC | Morning gymnastics |  |
-| 2026-11-25 05:30 UTC | 2026-11-25 05:44 UTC | Morning gymnastics |  |
-| 2026-11-25 05:45 UTC | 2026-11-25 05:59 UTC | Morning gymnastics |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:14 UTC | Morning gymnastics |  |
-| 2026-11-25 06:15 UTC | 2026-11-25 06:29 UTC | Morning gymnastics |  |
-| 2026-11-25 06:30 UTC | 2026-11-25 06:44 UTC | Morning gymnastics |  |
-| 2026-11-25 06:45 UTC | 2026-11-25 06:59 UTC | Morning gymnastics |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 07:14 UTC | Morning gymnastics |  |
-| 2026-11-25 07:15 UTC | 2026-11-25 07:29 UTC | Morning gymnastics |  |
-| 2026-11-25 07:30 UTC | 2026-11-25 07:44 UTC | Morning gymnastics |  |
-| 2026-11-25 07:45 UTC | 2026-11-25 07:59 UTC | Morning gymnastics |  |
-| 2026-11-25 08:00 UTC | 2026-11-25 08:14 UTC | Digi Show |  |
-| 2026-11-25 08:15 UTC | 2026-11-25 08:59 UTC | Digi Sport news |  |
-| 2026-11-25 09:00 UTC | 2026-11-25 09:14 UTC | Digi Show |  |
-| 2026-11-25 09:15 UTC | 2026-11-25 09:59 UTC | Digi Sport news |  |
-| 2026-11-25 10:00 UTC | 2026-11-25 10:14 UTC | Scottish Premiership: Summary Round 14 |  |
-| 2026-11-25 10:15 UTC | 2026-11-25 10:59 UTC | Digi Sport news |  |
-| 2026-11-25 11:00 UTC | 2026-11-25 11:59 UTC | Bundesliga: Summary Round 10 |  |
-| 2026-11-25 12:00 UTC | 2026-11-25 12:29 UTC | Digi Sport news |  |
-| 2026-11-25 12:30 UTC | 2026-11-25 13:29 UTC | Serie A: Summary Stage 12 |  |
-| 2026-11-25 13:30 UTC | 2026-11-25 13:59 UTC | Digi Sport news |  |
-| 2026-11-25 14:00 UTC | 2026-11-25 14:59 UTC | La Liga: Summary Stage 13 |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 15:29 UTC | Digi Sport news |  |
-| 2026-11-25 15:30 UTC | 2026-11-25 17:14 UTC | Stage 10 Futsal: CSM Odorheiu Secuiesc-CSM Targu Mures League 1 |  |
-| 2026-11-25 17:15 UTC | 2026-11-25 17:44 UTC | Digi Sport news |  |
-| 2026-11-25 17:45 UTC | 2026-11-25 19:44 UTC | Live Champions League: Slavia Prague-Villarreal Stage 5 |  |
-| 2026-11-25 19:45 UTC | 2026-11-25 19:59 UTC | Digi Sport news |  |
-| 2026-11-25 20:00 UTC | 2026-11-25 21:59 UTC | Live Champions League: Sporting-Manchester United Stage 5 |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:44 UTC | Champions League premiere: Atletico Madrid - Viking Stage 5 |  |
-| 2026-11-25 23:45 UTC | 2026-11-26 00:14 UTC | Digi Sport news |  |
-| 2026-11-26 00:15 UTC | 2026-11-26 01:14 UTC | Bundesliga: Summary Round 10 |  |
-| 2026-11-26 01:15 UTC | 2026-11-26 01:44 UTC | Digi Sport news |  |
-| 2026-11-26 01:45 UTC | 2026-11-26 02:44 UTC | Serie A: Summary Stage 12 |  |
-| 2026-11-26 02:45 UTC | 2026-11-26 03:14 UTC | Digi Sport news |  |
-| 2026-11-26 03:15 UTC | 2026-11-26 03:29 UTC | Scottish Premiership: Summary Round 14 |  |
-| 2026-11-26 03:30 UTC | 2026-11-26 04:29 UTC | Digi Sport news |  |
-| 2026-11-26 04:30 UTC | 2026-11-26 04:59 UTC | Digi Sport news |  |
 | 2026-11-26 05:00 UTC | 2026-11-26 05:14 UTC | Morning gymnastics |  |
 | 2026-11-26 05:15 UTC | 2026-11-26 05:29 UTC | Morning gymnastics |  |
 | 2026-11-26 05:30 UTC | 2026-11-26 05:44 UTC | Morning gymnastics |  |
@@ -1288,23 +1188,42 @@
 | 2026-11-28 07:00 UTC | 2026-11-28 07:14 UTC | Morning gymnastics |  |
 | 2026-11-28 07:15 UTC | 2026-11-28 07:39 UTC | Morning gymnastics |  |
 | 2026-11-28 07:40 UTC | 2026-11-28 09:49 UTC | Live Moto: Valencia Grand Prix Practice Moto3 / Moto2 / MotoGP (FP2) |  |
+| 2026-11-28 09:50 UTC | 2026-11-28 10:44 UTC | Live Moto: Valencia Grand Prix MotoGP Qualifiers (Q1/Q2) |  |
+| 2026-11-28 10:45 UTC | 2026-11-28 11:14 UTC | Champions League: Shop Episode 13 |  |
+| 2026-11-28 11:15 UTC | 2026-11-28 11:44 UTC | Digi Sport news |  |
+| 2026-11-28 11:45 UTC | 2026-11-28 13:29 UTC | Live Moto: Valencia Grand Prix Qualifying Moto3 (Q1/Q2) / Moto2 (Q1/Q2) |  |
+| 2026-11-28 13:30 UTC | 2026-11-28 13:59 UTC | Digi Sport news |  |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:29 UTC | Live Moto: Grand Prix of Valencia MotoGP Sprint |  |
+| 2026-11-28 14:30 UTC | 2026-11-28 16:31 UTC | Live Bundesliga: Hamburg-Bayern Munich Stage 11 |  |
+| 2026-11-28 16:32 UTC | 2026-11-28 18:44 UTC | Live Rugby: England v New Zealand Nations Championship (Match for 3rd place) |  |
+| 2026-11-28 18:45 UTC | 2026-11-28 19:44 UTC | Skating: ISU Grand Prix (Tokyo) Women (Free Skating) |  |
+| 2026-11-28 19:45 UTC | 2026-11-28 21:44 UTC | Live Serie A: Inter-Genoa Stage 13 |  |
+| 2026-11-28 21:45 UTC | 2026-11-28 21:59 UTC | Digi Sport news |  |
+| 2026-11-28 22:00 UTC | 2026-11-28 23:59 UTC | La Liga premiere: Malaga-Athletic Bilbao Round 14 |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 00:59 UTC | Digi Sport news |  |
+| 2026-11-29 01:00 UTC | 2026-11-29 01:29 UTC | Digi Sport news |  |
+| 2026-11-29 01:30 UTC | 2026-11-29 01:59 UTC | Champions League: Shop Episode 13 |  |
+| 2026-11-29 02:00 UTC | 2026-11-29 02:59 UTC | Digi Sport news |  |
+| 2026-11-29 03:00 UTC | 2026-11-29 03:59 UTC | Digi Sport news |  |
+| 2026-11-29 04:00 UTC | 2026-11-29 04:59 UTC | Digi Sport news |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 05:14 UTC | Morning gymnastics |  |
+| 2026-11-29 05:15 UTC | 2026-11-29 05:29 UTC | Morning gymnastics |  |
+| 2026-11-29 05:30 UTC | 2026-11-29 05:44 UTC | Morning gymnastics |  |
+| 2026-11-29 05:45 UTC | 2026-11-29 05:59 UTC | Morning gymnastics |  |
+| 2026-11-29 06:00 UTC | 2026-11-29 06:14 UTC | Morning gymnastics |  |
+| 2026-11-29 06:15 UTC | 2026-11-29 06:29 UTC | Morning gymnastics |  |
+| 2026-11-29 06:30 UTC | 2026-11-29 06:44 UTC | Morning gymnastics |  |
+| 2026-11-29 06:45 UTC | 2026-11-29 06:59 UTC | Morning gymnastics |  |
+| 2026-11-29 07:00 UTC | 2026-11-29 07:14 UTC | Morning gymnastics |  |
+| 2026-11-29 07:15 UTC | 2026-11-29 07:29 UTC | Morning gymnastics |  |
+| 2026-11-29 07:30 UTC | 2026-11-29 07:44 UTC | Morning gymnastics |  |
+| 2026-11-29 07:45 UTC | 2026-11-29 07:59 UTC | Morning gymnastics |  |
+| 2026-11-29 08:00 UTC | 2026-11-29 08:39 UTC | Digi Sport news |  |
 
-## DigiSport4.ro (37 programmes)
+## DigiSport4.ro (34 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 05:00 UTC | 2026-11-25 05:59 UTC | La Liga: Summary Stage 13 |  |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:44 UTC | Superliga: Stage summaries Stage 16 |  |
-| 2026-11-25 06:45 UTC | 2026-11-25 07:29 UTC | Champions League: Summaries Stage 5 |  |
-| 2026-11-25 07:30 UTC | 2026-11-25 09:14 UTC | Champions League: Bodo/Glimt-LASK Stage 5 |  |
-| 2026-11-25 09:15 UTC | 2026-11-25 10:59 UTC | Champions League: Feyenoord-Porto Stage 5 |  |
-| 2026-11-25 11:00 UTC | 2026-11-25 14:59 UTC | Tennis: Davis Cup Czech Republic-Canada (Final 8/ Quarterfinals) |  |
-| 2026-11-25 15:00 UTC | 2026-11-25 19:59 UTC | Live Tennis: Davis Cup Italy-North Korea (Final 8/ Quarterfinals) |  |
-| 2026-11-25 20:00 UTC | 2026-11-25 21:59 UTC | Live Champions League: Club Brugge-Liverpool Stage 5 |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 22:29 UTC | Digi Sport news |  |
-| 2026-11-25 22:30 UTC | 2026-11-25 23:59 UTC | Handball: Dinamo-Kielce Men's Handball Champions League |  |
-| 2026-11-26 00:00 UTC | 2026-11-26 03:59 UTC | Tennis: Davis Cup Italy-North Korea (Final 8/ Quarterfinals) |  |
-| 2026-11-26 04:00 UTC | 2026-11-26 04:59 UTC | La Liga: Summary Stage 13 |  |
 | 2026-11-26 05:00 UTC | 2026-11-26 06:29 UTC | Champions League: Summaries Stage 5 |  |
 | 2026-11-26 06:30 UTC | 2026-11-26 08:14 UTC | Champions League: Club Brugge-Liverpool Stage 5 |  |
 | 2026-11-26 08:15 UTC | 2026-11-26 10:14 UTC | Champions League: Sporting-Manchester United Stage 5 |  |
@@ -1321,32 +1240,29 @@
 | 2026-11-27 12:30 UTC | 2026-11-27 14:14 UTC | Football match |  |
 | 2026-11-27 14:15 UTC | 2026-11-27 16:14 UTC | Europa League: Olympiacos-Milan Etapa 5 |  |
 | 2026-11-27 16:15 UTC | 2026-11-27 16:31 UTC | Digi Sport news |  |
-| 2026-11-27 16:32 UTC | 2026-11-27 18:44 UTC | Live Rugby: Fiji v Italy Nations Championship (11th place match) |  |
+| 2026-11-27 16:32 UTC | 2026-11-27 18:44 UTC | Live Rugby: Fiji-Italy Nations Championship (11th place match) |  |
 | 2026-11-27 18:45 UTC | 2026-11-27 18:59 UTC | Digi Sport news |  |
 | 2026-11-27 19:00 UTC | 2026-11-27 19:29 UTC | Bundesliga premiere: Stage 11 preview |  |
 | 2026-11-27 19:30 UTC | 2026-11-27 21:29 UTC | Live Bundesliga: Werder Bremen-Borussia Monchengladbach Stage 11 |  |
 | 2026-11-27 21:30 UTC | 2026-11-28 03:14 UTC | Figure Skating: ISU Grand Prix Tokyo |  |
-| 2026-11-28 03:15 UTC | 2026-11-28 04:59 UTC | Rugby Nations Championship (match for 5th place) |  |
+| 2026-11-28 03:15 UTC | 2026-11-28 04:59 UTC | Rugby: Fiji-Italy Nations Championship (5th place match) |  |
 | 2026-11-28 05:00 UTC | 2026-11-28 06:29 UTC | Super League: Cluj-Sepsi Sfantu Gheorghe University Stage 17 |  |
 | 2026-11-28 06:30 UTC | 2026-11-28 08:14 UTC | Superliga: Petrolul-FC Arges Stage 17 |  |
-| 2026-11-28 08:15 UTC | 2026-11-28 09:59 UTC | Rugby Nations Championship (match for 5th place) |  |
+| 2026-11-28 08:15 UTC | 2026-11-28 09:59 UTC | Rugby: Ireland-Australia Nations Championship (5th place match) |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 10:59 UTC | Live Tennis Aces |  |
+| 2026-11-28 11:00 UTC | 2026-11-28 16:59 UTC | Live Tennis: Davis Cup Semifinals |  |
+| 2026-11-28 17:00 UTC | 2026-11-28 18:59 UTC | Live Serie A: Torino-Lazio Round 13 |  |
+| 2026-11-28 19:00 UTC | 2026-11-28 20:59 UTC | Rugby Premiership: Wales v Japan Nations Championship (9th place match) |  |
+| 2026-11-28 21:00 UTC | 2026-11-29 01:29 UTC | Figure Skating: ISU Grand Prix Tokyo |  |
+| 2026-11-29 01:30 UTC | 2026-11-29 03:14 UTC | Bundesliga: Hamburg-Bayern Munich Stage 11 |  |
+| 2026-11-29 03:15 UTC | 2026-11-29 04:59 UTC | Serie A: Frosinone-Parma Round 13 |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 06:44 UTC | Superliga: FCSB-Csikszereda Stage 17 |  |
+| 2026-11-29 06:45 UTC | 2026-11-29 08:29 UTC | Serie A: Inter-Genoa Stage 13 |  |
 
-## NovasportsPremierLeague.gr (40 programmes)
+## NovasportsPremierLeague.gr (51 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 22:00 UTC | 2026-11-25 00:00 UTC | Football: Brighton - Brentford | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
-| 2026-11-25 00:00 UTC | 2026-11-25 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
-| 2026-11-25 04:00 UTC | 2026-11-25 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
-| 2026-11-25 08:00 UTC | 2026-11-25 10:00 UTC | Football: Sheffield United - Aston Villa | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
-| 2026-11-25 10:00 UTC | 2026-11-25 12:00 UTC | Football: Manchester United - West Ham | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
-| 2026-11-25 12:00 UTC | 2026-11-25 14:00 UTC | Football: Wolves - Brentford | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
-| 2026-11-25 14:00 UTC | 2026-11-25 16:00 UTC | Football: Fulham - Bournemouth | Premier League 2024-25. The most popular football league in the world exclusively on Novasports! Enjoy the unique action of the top division of English football, the most expensive league in the world, the exciting Premier League! |
-| 2026-11-25 16:00 UTC | 2026-11-25 17:00 UTC | Premier League Highlights 2026-27 | 11th Competition. Novasports channels take us on a tour of English living rooms, where some of the world's best teams star in the Premier League. Enjoy the goals and big moments of the previous matchday. |
-| 2026-11-25 17:00 UTC | 2026-11-25 19:00 UTC | Football: Brentford - Everton | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
-| 2026-11-25 19:00 UTC | 2026-11-25 19:30 UTC | Premier League Stories | Julian Dix. This program showcases the personalities who shaped the Premier League era, with a particular focus on stories that resonate with international audiences. |
-| 2026-11-25 19:30 UTC | 2026-11-25 20:00 UTC | Premier League Stories | Nemanja Matic. This program showcases the personalities who shaped the Premier League era, with a particular focus on stories that resonate with international audiences. |
-| 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | Football: Chelsea - Leeds | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-25 22:00 UTC | 2026-11-26 00:00 UTC | Football: Crystal Palace - Liverpool | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-26 00:00 UTC | 2026-11-26 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-26 04:00 UTC | 2026-11-26 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
@@ -1370,34 +1286,39 @@
 | 2026-11-27 17:00 UTC | 2026-11-27 19:00 UTC | Football: Newcastle - Arsenal | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-27 19:00 UTC | 2026-11-27 19:30 UTC | Classic Match | Arsenal - Newcastle (2012/13). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
 | 2026-11-27 19:30 UTC | 2026-11-27 20:00 UTC | Premier League Preview | 12th Competition. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
-| 2026-11-27 20:00 UTC | 2026-11-27 22:00 UTC | Live: Football: Nottingham Forest - Chelsea | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-27 20:00 UTC | 2026-11-27 22:00 UTC | Live: Football: Nottingham Forest - Chelsea | Premier League 2026/27. Nottingham Forest (17th-9b) and Chelsea (8th-16b) face off in the 12th matchday of the Premier League and are coming off defeats against Bournemouth away 2-0 and Leeds home 4-1 respectively. Description: Is. Printezis. |
 | 2026-11-27 22:00 UTC | 2026-11-28 00:00 UTC | Football: Fulham - Newcastle | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
 | 2026-11-28 00:00 UTC | 2026-11-28 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-28 04:00 UTC | 2026-11-28 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
 | 2026-11-28 08:00 UTC | 2026-11-28 08:30 UTC | Classic Match | Chelsea - Manchester City (2005/06). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 08:30 UTC | 2026-11-28 09:00 UTC | Classic Match | Southampton - Arsenal (2002/03). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 09:00 UTC | 2026-11-28 09:30 UTC | Classic Match | Wolves - Leicester (2003/04). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 09:30 UTC | 2026-11-28 10:00 UTC | Classic Match | Tottenham v Newcastle (1994/95). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 10:00 UTC | 2026-11-28 11:00 UTC | Premier League Highlights 2026-27 | 11th Competition. Novasports channels take us on a tour of English living rooms, where some of the world's best teams star in the Premier League. Enjoy the goals and big moments of the previous matchday. |
+| 2026-11-28 11:00 UTC | 2026-11-28 11:30 UTC | Classic Match | Arsenal - Newcastle (2012/13). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 11:30 UTC | 2026-11-28 12:30 UTC | Live: Premier League Kick-off | 12th Competition. The matchday preview live from the Novasports experts: analysis of the most important matches, the latest news and exclusive specials. Presented by Angelos Styliadis, analyzed by expert Giorgos Samaras. |
+| 2026-11-28 12:30 UTC | 2026-11-28 13:00 UTC | Classic Match | Chelsea - Manchester City (2011/12). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 13:00 UTC | 2026-11-28 13:30 UTC | Classic Match | Southampton - Arsenal (2015/16). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 13:30 UTC | 2026-11-28 14:00 UTC | Classic Match | Wolves - Leicester (2018/19). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:30 UTC | Classic Match | Tottenham v Newcastle (2006/07). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 14:30 UTC | 2026-11-28 15:00 UTC | Premier League Preview | 12th Competition. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
+| 2026-11-28 15:00 UTC | 2026-11-28 17:00 UTC | Live: Football: Manchester United - Brentford | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-28 17:00 UTC | 2026-11-28 17:30 UTC | Premier League Preview | 12th Competition. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
+| 2026-11-28 17:30 UTC | 2026-11-28 19:30 UTC | Live: Football: Ipswich - Aston Villa | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-28 19:30 UTC | 2026-11-28 20:00 UTC | Premier League Preview | 12th Competition. The show offers you a preview of the upcoming season's games, player and coach interviews and featured topics. |
+| 2026-11-28 20:00 UTC | 2026-11-28 22:00 UTC | Football: Tottenham - Ipswich | Premier League 2026/27. The Premier League, the top division of English football that captivates millions of fans, exclusively on Novasports! Enjoy the exciting action of the world's most popular soccer league. |
+| 2026-11-28 22:00 UTC | 2026-11-28 22:30 UTC | Premier League Stories | Η Απογείωση των Γλάρων. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό. |
+| 2026-11-28 22:30 UTC | 2026-11-28 23:00 UTC | Premier League Stories | Nemanja Matic. This program showcases the personalities who shaped the Premier League era, with a particular focus on stories that resonate with international audiences. |
+| 2026-11-28 23:00 UTC | 2026-11-28 23:30 UTC | Classic Match | Aston Villa - Liverpool (1998/99). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-28 23:30 UTC | 2026-11-29 00:00 UTC | Classic Match | Arsenal v West Ham (2005/06). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
+| 2026-11-29 00:00 UTC | 2026-11-29 04:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
+| 2026-11-29 04:00 UTC | 2026-11-29 08:00 UTC | Novasports Premier League | A channel exclusively dedicated to the organization of the Premier League! The TOP league in the world with live matches and specials, specials, documentaries and interviews from 1992 to the present day. |
+| 2026-11-29 08:00 UTC | 2026-11-29 08:30 UTC | Classic Match | Chelsea - Manchester City (2011/12). Watch a classic match from a previous Premier League season selected from the English top flight's rich archive. |
 
-## SkySportAustria1.at (70 programmes)
+## SkySportAustria1.at (74 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 23:00 UTC | 2026-11-25 01:00 UTC | UEFA CL |  |
-| 2026-11-25 01:00 UTC | 2026-11-25 01:30 UTC | The UEFA CL on Tuesday: All games, all goals |  |
-| 2026-11-25 01:30 UTC | 2026-11-25 03:30 UTC | UEFA CL |  |
-| 2026-11-25 03:30 UTC | 2026-11-25 04:00 UTC | The UEFA CL on Tuesday: All games, all goals |  |
-| 2026-11-25 04:00 UTC | 2026-11-25 04:45 UTC | Admiral BL: All games, all goals |  |
-| 2026-11-25 04:45 UTC | 2026-11-25 06:45 UTC | UEFA CL |  |
-| 2026-11-25 06:45 UTC | 2026-11-25 07:45 UTC | The UEFA CL on Tuesday: analysis |  |
-| 2026-11-25 07:45 UTC | 2026-11-25 09:45 UTC | UEFA CL |  |
-| 2026-11-25 09:45 UTC | 2026-11-25 10:15 UTC | The UEFA CL on Tuesday: All games, all goals |  |
-| 2026-11-25 10:15 UTC | 2026-11-25 12:20 UTC | UEFA CL |  |
-| 2026-11-25 12:20 UTC | 2026-11-25 14:25 UTC | UEFA CL |  |
-| 2026-11-25 14:25 UTC | 2026-11-25 14:55 UTC | The UEFA CL on Tuesday: All games, all goals |  |
-| 2026-11-25 14:55 UTC | 2026-11-25 17:00 UTC | UEFA Youth League |  |
-| 2026-11-25 17:00 UTC | 2026-11-25 17:35 UTC | The UEFA CL on Wednesday: preliminary report |  |
-| 2026-11-25 17:35 UTC | 2026-11-25 19:50 UTC | UEFA CL: Wednesday conference |  |
-| 2026-11-25 19:50 UTC | 2026-11-25 22:00 UTC | UEFA CL: Wednesday conference |  |
-| 2026-11-25 22:00 UTC | 2026-11-25 22:30 UTC | The UEFA CL on Tuesday: All games, all goals |  |
-| 2026-11-25 22:30 UTC | 2026-11-25 23:30 UTC | Football: UEL And UECL Magazine |  |
 | 2026-11-25 23:30 UTC | 2026-11-26 01:30 UTC | UEFA CL |  |
 | 2026-11-26 01:30 UTC | 2026-11-26 03:30 UTC | UEFA CL |  |
 | 2026-11-26 03:30 UTC | 2026-11-26 04:00 UTC | The UEFA CL on Tuesday: All games, all goals |  |
@@ -1450,53 +1371,33 @@
 | 2026-11-28 06:00 UTC | 2026-11-28 06:30 UTC | RISEN wheel: sports greats in wagon 28 |  |
 | 2026-11-28 06:30 UTC | 2026-11-28 07:00 UTC | RISEN wheel: sports greats in wagon 28 |  |
 | 2026-11-28 07:00 UTC | 2026-11-28 09:00 UTC | Admiral Bundesliga |  |
+| 2026-11-28 09:00 UTC | 2026-11-28 10:00 UTC | UEFA Super Thursday: All games, all goals |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 10:15 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 10:15 UTC | 2026-11-28 10:45 UTC | UEFA CL: Magazine |  |
+| 2026-11-28 10:45 UTC | 2026-11-28 11:00 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 11:00 UTC | 2026-11-28 12:45 UTC | Football: Classic of the week |  |
+| 2026-11-28 12:45 UTC | 2026-11-28 13:00 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 13:00 UTC | 2026-11-28 14:00 UTC | UEFA Super Thursday: All games, all goals |  |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:15 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 14:15 UTC | 2026-11-28 14:45 UTC | RISEN wheel: sports greats in wagon 28 |  |
+| 2026-11-28 14:45 UTC | 2026-11-28 15:00 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 15:00 UTC | 2026-11-28 15:30 UTC | UEFA CL: Magazine |  |
+| 2026-11-28 15:30 UTC | 2026-11-28 15:45 UTC | Admiral BL: Highlights XXL |  |
+| 2026-11-28 15:45 UTC | 2026-11-28 18:00 UTC | Admiral Bundesliga |  |
+| 2026-11-28 18:00 UTC | 2026-11-28 21:00 UTC | Admiral Bundesliga |  |
+| 2026-11-28 21:00 UTC | 2026-11-29 00:00 UTC | NHL |  |
+| 2026-11-29 00:00 UTC | 2026-11-29 02:00 UTC | Admiral Bundesliga |  |
+| 2026-11-29 02:00 UTC | 2026-11-29 04:00 UTC | Admiral Bundesliga |  |
+| 2026-11-29 04:00 UTC | 2026-11-29 04:30 UTC | Home game |  |
+| 2026-11-29 04:30 UTC | 2026-11-29 05:00 UTC | Home game - the talk |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 05:15 UTC | UEFA Supercup: Backstage Supercup - Behind the scenes of a mega production |  |
+| 2026-11-29 05:15 UTC | 2026-11-29 07:15 UTC | Admiral Bundesliga |  |
+| 2026-11-29 07:15 UTC | 2026-11-29 09:00 UTC | Football: Classic of the week |  |
 
-## SkySportPremierLeague.de (134 programmes)
+## SkySportPremierLeague.de (110 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 23:15 UTC | 2026-11-25 00:15 UTC | PL: Review, 11th matchday | The summary of all matches on matchday 11 of the Premier League. |
-| 2026-11-25 00:15 UTC | 2026-11-25 00:30 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
-| 2026-11-25 00:30 UTC | 2026-11-25 01:00 UTC | PL: Club 100: David James | A closer look is taken at former England goalkeeper David James, who once held the Premier League record with 169 games without conceding a goal in 572 appearances in the upper house during his playing days. |
-| 2026-11-25 01:00 UTC | 2026-11-25 03:00 UTC | PL: Goal Rush, CHE - LEE, Premier League Conference, 11th matchday | The Premier League in the conference: With Goal Rush you won't miss a goal or controversial scene during the main game on Saturday. |
-| 2026-11-25 03:00 UTC | 2026-11-25 05:00 UTC | PL: Newcastle United - Arsenal FC, 11th matchday | From St. James' Park in Newcastle upon Tyne, England. |
-| 2026-11-25 05:00 UTC | 2026-11-25 05:30 UTC | PL: PL Rewind: West Ham | **Football: England, Premier League PL Rewind: West Ham (2025/26)** — It looks back on legendary moments and iconic players from the Premier League. |
-| 2026-11-25 05:30 UTC | 2026-11-25 06:00 UTC | PL: PL Rewind: Peter Schmeichel | Peter Schmeichel is a true legend at Manchester United and in the Premier League. |
-| 2026-11-25 06:00 UTC | 2026-11-25 06:15 UTC | EFL: Highlights XXL: West Ham United - Preston North End, 16th matchday | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 06:15 UTC | 2026-11-25 06:30 UTC | EFL: Highlights XXL: Lincoln City - AFC Wrexham, matchday 16 | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 06:30 UTC | 2026-11-25 07:30 UTC | PL: Generation xG | A deep dive into the tactical trends and statistical insights of modern football will be provided, with contributions from players, managers and data experts from the analytics community. |
-| 2026-11-25 07:30 UTC | 2026-11-25 08:00 UTC | PL: Netbusters, 11th matchday | The show covers funny quotes, mishaps, goals and saves. |
-| 2026-11-25 08:00 UTC | 2026-11-25 08:30 UTC | PL: 90in30: LIV - MUN, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 08:30 UTC | 2026-11-25 09:00 UTC | PL: PL Stories (The Evolution of Goakeepers) | **The Evolution of Goalkeepers** — From keepers on the ball to building play under pressure, we explore the history, innovations, characters and changing demands that have revolutionized one of the most fascinating positions in football. |
-| 2026-11-25 09:00 UTC | 2026-11-25 09:30 UTC | PL: Club 100: Ryan Giggs | We sit down with 13-time Premier League winner Ryan Giggs and celebrate his 109 goals. |
-| 2026-11-25 09:30 UTC | 2026-11-25 10:00 UTC | PL: 90in30: NEW - ARS, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 10:00 UTC | 2026-11-25 10:15 UTC | EFL: Highlights XXL: FC Burnley - Blackburn Rovers, 16th matchday | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 10:15 UTC | 2026-11-25 10:45 UTC | PL: 90in30: TOT - IPS, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 10:45 UTC | 2026-11-25 11:00 UTC | EFL: Highlights XXL: Wolverhampton Wanderers - Charlton Athletic, 16th matchday | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 11:00 UTC | 2026-11-25 11:30 UTC | PL: 90in30: AVL - SUN, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 11:30 UTC | 2026-11-25 12:00 UTC | PL: 90in30: BOU - NFO, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 12:00 UTC | 2026-11-25 12:30 UTC | PL: 90in30: CHE - LEE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 12:30 UTC | 2026-11-25 13:00 UTC | PL: 90in30: COV - CRY, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 13:00 UTC | 2026-11-25 13:30 UTC | PL: 90in30: BRE - EVE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 13:30 UTC | 2026-11-25 13:45 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
-| 2026-11-25 13:45 UTC | 2026-11-25 14:15 UTC | PL: 90in30: MCI - FUL, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 14:15 UTC | 2026-11-25 15:15 UTC | PL: Review, 11th matchday | The summary of all matches on matchday 11 of the Premier League. |
-| 2026-11-25 15:15 UTC | 2026-11-25 15:45 UTC | PL: PL Stories (Pep - The Legacy) | **Pep: The Legacy** — As Manchester City embarks on a new chapter, the extraordinary legacy of Pep Guardiola will be honored - the visionary who transformed not just a football club, but the Premier League itself. |
-| 2026-11-25 15:45 UTC | 2026-11-25 16:00 UTC | PL: Challenge accepted - Matthias Jaissle Exclusive | Challenge accepted: Matthias Jaissle gives exclusive insights into his role as Newcastle United coach in an interview with Toni Tomic. |
-| 2026-11-25 16:00 UTC | 2026-11-25 16:30 UTC | PL: 90in30: AVL - SUN, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 16:30 UTC | 2026-11-25 17:00 UTC | PL: PL Rewind: Dimitar Berbatov (Man United 2010/11) | Dimitar Berbatov was a real goalscorer for Manchester United. We look at the Bulgarian attacker's best scenes. |
-| 2026-11-25 17:00 UTC | 2026-11-25 17:30 UTC | PL: 90in30: CHE - LEE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 17:30 UTC | 2026-11-25 18:00 UTC | PL: PL Rewind: Alan Shearer - My Newcastle Story | **Alan Shearer: My Newcastle Story** — Alan Shearer is a true Newcastle legend and offers insight into his great career. |
-| 2026-11-25 18:00 UTC | 2026-11-25 18:30 UTC | PL: 90in30: NEW - ARS, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 18:30 UTC | 2026-11-25 19:00 UTC | PL: PL Stories (Frank Lampard) | Great personalities and moments that shaped the Premier League are presented. |
-| 2026-11-25 19:00 UTC | 2026-11-25 19:30 UTC | PL: PL Stories (The Evolution of Goakeepers) | **The Evolution of Goalkeepers** — From keepers on the ball to building play under pressure, we explore the history, innovations, characters and changing demands that have revolutionized one of the most fascinating positions in football. |
-| 2026-11-25 19:30 UTC | 2026-11-25 20:00 UTC | PL: 90in30: BRE - EVE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-25 20:00 UTC | 2026-11-25 20:30 UTC | PL: PL Stories (Spurs - The Pochettino era) | **Pochettino's Spurs** — Great personalities and moments that shaped the Premier League are presented. |
-| 2026-11-25 20:30 UTC | 2026-11-25 21:00 UTC | PL: Netbusters, 11th matchday | The show covers funny quotes, mishaps, goals and saves. |
-| 2026-11-25 21:00 UTC | 2026-11-25 21:15 UTC | EFL: Highlights XXL: West Ham United - Preston North End, 16th matchday | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 21:15 UTC | 2026-11-25 21:30 UTC | EFL: Highlights XXL: Lincoln City - AFC Wrexham, matchday 16 | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-25 21:30 UTC | 2026-11-25 22:30 UTC | PL: Generation xG | A deep dive into the tactical trends and statistical insights of modern football will be provided, with contributions from players, managers and data experts from the analytics community. |
-| 2026-11-25 22:30 UTC | 2026-11-25 23:00 UTC | PL: Club 100: Michael Owen | The focus is on one of the Premier League's most successful goalscorers: Michael Owen. |
 | 2026-11-25 23:00 UTC | 2026-11-26 01:00 UTC | PL: Brentford FC - Everton FC, 11th matchday | From the Gtech Community Stadium in London, England. |
 | 2026-11-26 01:00 UTC | 2026-11-26 03:00 UTC | PL: Hull City - Brighton & Hove Albion, matchday 11 | From the MKM Stadium in Hull, England. |
 | 2026-11-26 03:00 UTC | 2026-11-26 03:30 UTC | PL: Club 100: Didier Drogba | **Football: England, Premier League Club 100: Didier Drogba** — This time the focus is on striker Didier Drogba, who has more than 100 goals to his name. |
@@ -1546,49 +1447,67 @@
 | 2026-11-27 04:00 UTC | 2026-11-27 04:30 UTC | PL: Club 100: Dwight Yorke | This exclusive club stands for goals, goals, goals: Club 100 highlights the best attackers in the Premier League who already have 100 or more goals to their name. |
 | 2026-11-27 04:30 UTC | 2026-11-27 05:00 UTC | PL: Club 100: Didier Drogba | **Football: England, Premier League Club 100: Didier Drogba** — This time the focus is on striker Didier Drogba, who has more than 100 goals to his name. |
 | 2026-11-27 05:00 UTC | 2026-11-27 06:00 UTC | PL: PL Moments: Kevin Keegan | A close look at the Premier League's legendary players and teams and their most memorable moments in the premier class. |
-| 2026-11-27 06:00 UTC | 2026-11-27 07:00 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
-| 2026-11-27 07:00 UTC | 2026-11-27 07:30 UTC | PL: Classic Match: Arsenal FC - Manchester City | Information about this program will be coming soon! |
+| 2026-11-27 06:00 UTC | 2026-11-27 07:00 UTC | PL: The Catch Up Show | Goals, saves and great emotions on the pitch: “Catch-Up” shows the best scenes from the Premier League stadiums. |
+| 2026-11-27 07:00 UTC | 2026-11-27 07:30 UTC | PL: Classic Match: Arsenal FC - Manchester City | Legendary duels that no one forgets: Classic Match shows the best games in the history of the Premier League. |
 | 2026-11-27 07:30 UTC | 2026-11-27 08:00 UTC | PL: 90in30: TOT - IPS, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 08:00 UTC | 2026-11-27 08:15 UTC | PL: Goal of the Season Winners | The 2025/26 Premier League season once again offered spectacular top-class football with numerous outstanding goals. Relive the most beautiful goals and first-class play and long-range shots from the past season! |
-| 2026-11-27 08:15 UTC | 2026-11-27 08:30 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Information about this program will be coming soon! |
+| 2026-11-27 08:00 UTC | 2026-11-27 08:15 UTC | PL: Goal of the Season Winners | Goals, goals, goals: There were also some impressive goals in the Premier League in the 2025/26 season. A look at the most beautiful goals of the past season. |
+| 2026-11-27 08:15 UTC | 2026-11-27 08:30 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Legendary duels that no one forgets: “Greatest Games” shows some of the best games in the history of the Premier League. |
 | 2026-11-27 08:30 UTC | 2026-11-27 09:00 UTC | PL: 90in30: NEW - ARS, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 09:00 UTC | 2026-11-27 09:30 UTC | PL: PL Stories (Arteta's Arsenal) | **Mikel Arteta** — Beleuchtet wird der prägende Einfluss sowie der strategische Führungsansatz von Mikel Arteta bei Arsenal. Es wird gezeigt, wie seine Kindheit und Fußballausbildung im baskischen San Sebastián sein Denken geformt haben. |
+| 2026-11-27 09:00 UTC | 2026-11-27 09:30 UTC | PL: PL Stories (Arteta's Arsenal) | "PL Stories" introduces the personalities who have shaped Premier League history. |
 | 2026-11-27 09:30 UTC | 2026-11-27 10:00 UTC | PL: 90in30: MCI - FUL, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 10:00 UTC | 2026-11-27 10:30 UTC | PL: Best Goals: Merseyside Derby | Information about this program will be coming soon! |
+| 2026-11-27 10:00 UTC | 2026-11-27 10:30 UTC | PL: Best Goals: Merseyside Derby | Sky shows the best goals from legendary Premier League games. |
 | 2026-11-27 10:30 UTC | 2026-11-27 11:00 UTC | PL: 90in30: CHE - LEE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 11:00 UTC | 2026-11-27 11:30 UTC | PL: Classic Match: Manchester City - Arsenal FC | Information about this program will be coming soon! |
+| 2026-11-27 11:00 UTC | 2026-11-27 11:30 UTC | PL: Classic Match: Manchester City - Arsenal FC | Legendary duels that no one forgets: Classic Match shows the best games in the history of the Premier League. |
 | 2026-11-27 11:30 UTC | 2026-11-27 12:00 UTC | PL: 90in30: COV - CRY, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 12:00 UTC | 2026-11-27 12:30 UTC | PL: PL Stories (Kevin Keegan) | From fearless striker to one of the most inspiring personalities in English football - this is the story of Kevin Keegan. His playing career with Liverpool, Hamburg and the English national team is traced. |
+| 2026-11-27 12:00 UTC | 2026-11-27 12:30 UTC | PL: PL Stories (Kevin Keegan) | PL Stories introduces the personalities who have shaped Premier League history. |
 | 2026-11-27 12:30 UTC | 2026-11-27 13:00 UTC | PL: 90in30: AVL - SUN, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 13:00 UTC | 2026-11-27 13:15 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Information about this program will be coming soon! |
-| 2026-11-27 13:15 UTC | 2026-11-27 13:30 UTC | PL: Rooney - Out of this World | **Rooney: Out of This World** — Wayne Rooney was the English football prodigy of the early 2000s. After starting his career at Everton FC, Rooney celebrated titles, trophies and magical moments with Man United. |
+| 2026-11-27 13:00 UTC | 2026-11-27 13:15 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Legendary duels that no one forgets: “Greatest Games” shows some of the best games in the history of the Premier League. |
+| 2026-11-27 13:15 UTC | 2026-11-27 13:30 UTC | PL: Rooney - Out of this World | Wayne Rooney was the English football prodigy of the early 2000s. After starting his career at Everton FC, Rooney celebrated titles, trophies and magical moments with Man United. |
 | 2026-11-27 13:30 UTC | 2026-11-27 14:00 UTC | PL: 90in30: BRE - EVE, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 14:00 UTC | 2026-11-27 14:30 UTC | PL: Best Goals: Merseyside Derby | Information about this program will be coming soon! |
+| 2026-11-27 14:00 UTC | 2026-11-27 14:30 UTC | PL: Best Goals: Merseyside Derby | Sky shows the best goals from legendary Premier League games. |
 | 2026-11-27 14:30 UTC | 2026-11-27 14:45 UTC | EFL: Highlights XXL: Sheffield United - FC Southampton, 17. Spieltag | English football in a compact form: The highlights from the EFL games. |
 | 2026-11-27 14:45 UTC | 2026-11-27 15:00 UTC | EFL: Highlights XXL: FC Burnley - Birmingham City, 17. Spieltag | English football in a compact form: The highlights from the EFL games. |
 | 2026-11-27 15:00 UTC | 2026-11-27 15:30 UTC | PL: 90in30: LIV - MUN, 11th matchday | 90 minutes in 30 minutes: The top game in the Premier League in a compressed form. |
-| 2026-11-27 15:30 UTC | 2026-11-27 16:00 UTC | PL: Classic Match: Arsenal FC - Manchester City | Information about this program will be coming soon! |
+| 2026-11-27 15:30 UTC | 2026-11-27 16:00 UTC | PL: Classic Match: Arsenal FC - Manchester City | Legendary duels that no one forgets: Classic Match shows the best games in the history of the Premier League. |
 | 2026-11-27 16:00 UTC | 2026-11-27 16:15 UTC | EFL: Highlights XXL: Stoke City - FC Millwall, 17. Spieltag | English football in a compact form: The highlights from the EFL games. |
-| 2026-11-27 16:15 UTC | 2026-11-27 16:30 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Information about this program will be coming soon! |
-| 2026-11-27 16:30 UTC | 2026-11-27 17:00 UTC | PL: PL Stories (Arteta's Arsenal) | **Mikel Arteta** — Beleuchtet wird der prägende Einfluss sowie der strategische Führungsansatz von Mikel Arteta bei Arsenal. Es wird gezeigt, wie seine Kindheit und Fußballausbildung im baskischen San Sebastián sein Denken geformt haben. |
-| 2026-11-27 17:00 UTC | 2026-11-27 17:30 UTC | PL: Classic Match Rewind: Everton - Liverpool | Legendäre Duelle, die niemand mehr vergisst: In Classic Match Rewind werden einige der besten Partien in der Geschichte der Premier League gezeigt. |
-| 2026-11-27 17:30 UTC | 2026-11-27 17:40 UTC | PL: Under the Skin: Coventry City | The look behind the scenes of the Premier League clubs: Under the Skin sheds light on what is happening inside the clubs. |
-| 2026-11-27 17:40 UTC | 2026-11-27 18:35 UTC | PL: The Catch Up Show | The show reports on the latest developments in the English Premier League. |
-| 2026-11-27 18:35 UTC | 2026-11-27 18:50 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Information about this program will be coming soon! |
-| 2026-11-27 18:50 UTC | 2026-11-27 19:20 UTC | PL: Netbusters, 11th matchday | The show covers funny quotes, mishaps, goals and saves. |
+| 2026-11-27 16:15 UTC | 2026-11-27 16:30 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Legendary duels that no one forgets: “Greatest Games” shows some of the best games in the history of the Premier League. |
+| 2026-11-27 16:30 UTC | 2026-11-27 17:00 UTC | PL: PL Stories (Arteta's Arsenal) | "PL Stories" introduces the personalities who have shaped Premier League history. |
+| 2026-11-27 17:00 UTC | 2026-11-27 17:30 UTC | PL: Classic Match Rewind: Everton - Liverpool | Legendary duels that no one forgets: “Classic Match Rewind” shows some of the best games in the history of the Premier League. |
+| 2026-11-27 17:30 UTC | 2026-11-27 17:40 UTC | PL: Under the Skin: Coventry City | A look behind the scenes of the Premier League clubs: "Under the Skin" sheds light on what's happening inside the clubs. |
+| 2026-11-27 17:40 UTC | 2026-11-27 18:35 UTC | PL: The Catch Up Show | Goals, saves and great emotions on the pitch: “Catch-Up” shows the best scenes from the Premier League stadiums. |
+| 2026-11-27 18:35 UTC | 2026-11-27 18:50 UTC | PL: Greatest Games: Liverpool FC - Everton FC | Legendary duels that no one forgets: “Greatest Games” shows some of the best games in the history of the Premier League. |
+| 2026-11-27 18:50 UTC | 2026-11-27 19:20 UTC | PL: Netbusters, 11th matchday | A quick look back at the last games - accompanied by cool music: Netbusters shows all the goals, brilliant saves, missed chances and great tackles from the previous matchday. |
 | 2026-11-27 19:20 UTC | 2026-11-27 19:50 UTC | PL: Preview, 12th matchday (Friday) | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 12th matchday of the Premier League. |
-| 2026-11-27 19:50 UTC | 2026-11-27 22:00 UTC | Live PL: Nottingham Forest - Chelsea FC, matchday 12 | From The City Ground in Nottingham, England. |
-| 2026-11-27 22:00 UTC | 2026-11-27 22:30 UTC | PL: PL Stories (Arteta's Arsenal) | **Mikel Arteta** — Beleuchtet wird der prägende Einfluss sowie der strategische Führungsansatz von Mikel Arteta bei Arsenal. Es wird gezeigt, wie seine Kindheit und Fußballausbildung im baskischen San Sebastián sein Denken geformt haben. |
-| 2026-11-27 22:30 UTC | 2026-11-28 00:30 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | From The City Ground in Nottingham, England. |
-| 2026-11-28 00:30 UTC | 2026-11-28 01:00 UTC | PL: PL Stories (Norwich - The Nearly Men) | **Norwich, the Nearly Men** — The legendary 1992/93 season is highlighted, in which the English football club Norwich City F.C. fought sensationally for the very first championship of the new Premier League, but in the end “just missed out”. |
-| 2026-11-28 01:00 UTC | 2026-11-28 02:00 UTC | PL: PL Moments: Robert Pires | The career of former French winger Robert Pires is examined. |
-| 2026-11-28 02:00 UTC | 2026-11-28 04:00 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | From The City Ground in Nottingham, England. |
-| 2026-11-28 04:00 UTC | 2026-11-28 05:00 UTC | PL: PL Moments: Leicester City 2015/16 | PL Moments combines archive and contemporary witness reports to review the best games, goals, players and performances of the last 30 years with guests Wes Morgan and Marc Albrighton. |
+| 2026-11-27 19:50 UTC | 2026-11-27 22:00 UTC | Live PL: Nottingham Forest - Chelsea FC, matchday 12 | Tight box: Apart from the surprise win against ManCity, Nottingham barely picked up any points and is just above the relegation zone. How are things going against Chelsea? Comment: Joachim Hebel. |
+| 2026-11-27 22:00 UTC | 2026-11-27 22:30 UTC | PL: PL Stories (Arteta's Arsenal) | "PL Stories" introduces the personalities who have shaped Premier League history. |
+| 2026-11-27 22:30 UTC | 2026-11-28 00:30 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | Tight box: Apart from the surprise win against ManCity, Nottingham barely picked up any points and is just above the relegation zone. How are things going against Chelsea? Comment: Joachim Hebel. |
+| 2026-11-28 00:30 UTC | 2026-11-28 01:00 UTC | PL: PL Stories (Norwich - The Nearly Men) | PL Stories introduces the personalities who have shaped Premier League history. |
+| 2026-11-28 01:00 UTC | 2026-11-28 02:00 UTC | PL: PL Moments: Robert Pires | **Kevin Keegan** — A close look at the Premier League's legendary players and teams and their most memorable moments in the premier class. |
+| 2026-11-28 02:00 UTC | 2026-11-28 04:00 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | Tight box: Apart from the surprise win against ManCity, Nottingham barely picked up any points and is just above the relegation zone. How are things going against Chelsea? Comment: Joachim Hebel. |
+| 2026-11-28 04:00 UTC | 2026-11-28 05:00 UTC | PL: PL Moments: Leicester City 2015/16 | Moments in the Premier League that you never forget: “PL Moments” looks at defining moments in Premier League history. |
 | 2026-11-28 05:00 UTC | 2026-11-28 05:30 UTC | PL: Club 100: David James | A closer look is taken at former England goalkeeper David James, who once held the Premier League record with 169 games without conceding a goal in 572 appearances in the upper house during his playing days. |
 | 2026-11-28 05:30 UTC | 2026-11-28 05:45 UTC | PL: Goal of the Season Winners | The 2025/26 Premier League season once again offered spectacular top-class football with numerous outstanding goals. Relive the most beautiful goals and first-class play and long-range shots from the past season! |
 | 2026-11-28 05:45 UTC | 2026-11-28 07:45 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | From The City Ground in Nottingham, England. |
 | 2026-11-28 07:45 UTC | 2026-11-28 08:00 UTC | PL: Superhuman PL Moments | Artistic overhead kicks, spectacular saves and tough tackles: Superhuman Premier League Moments shows the most extraordinary scenes of the last 30 years. |
 | 2026-11-28 08:00 UTC | 2026-11-28 08:30 UTC | PL: Best Goals: Merseyside Derby | Information about this program will be coming soon! |
+| 2026-11-28 08:30 UTC | 2026-11-28 08:55 UTC | PL: Best free kicks | Placed in the corner: Best Free Kicks shows the best and most beautiful free kick goals in the history of the Premier League. |
+| 2026-11-28 08:55 UTC | 2026-11-28 10:55 UTC | PL: Nottingham Forest - Chelsea FC, 12th matchday | From The City Ground in Nottingham, England. |
+| 2026-11-28 10:55 UTC | 2026-11-28 11:25 UTC | PL: Classic Match: Arsenal FC - Manchester City | Information about this program will be coming soon! |
+| 2026-11-28 11:25 UTC | 2026-11-28 11:55 UTC | PL: Preview, 12th matchday | The tension is rising, the kick-off for the next matchday is approaching: the outlook for the 12th matchday of the Premier League. |
+| 2026-11-28 11:55 UTC | 2026-11-28 12:25 UTC | PL: PL Stories (Norwich - The Nearly Men) | **Norwich, the Nearly Men** — The legendary 1992/93 season is highlighted, in which the English football club Norwich City F.C. fought sensationally for the very first championship of the new Premier League, but in the end “just missed out”. |
+| 2026-11-28 12:25 UTC | 2026-11-28 14:50 UTC | Live EFL: Preston North End - Norwich City, matchday 18 | From Deepdale in Preston, Lancashire, England. |
+| 2026-11-28 14:50 UTC | 2026-11-28 17:20 UTC | Live PL: Manchester United - Brentford FC, matchday 12 | From the Old Trafford Stadium in Manchester, England. |
+| 2026-11-28 17:20 UTC | 2026-11-28 19:30 UTC | Live PL: Ipswich Town - Aston Villa, matchday 12 | From Portman Road Stadium in Ipswich, England. |
+| 2026-11-28 19:30 UTC | 2026-11-28 21:30 UTC | PL: Manchester United - Brentford FC, matchday 12 | From the Old Trafford Stadium in Manchester, England. |
+| 2026-11-28 21:30 UTC | 2026-11-28 23:30 UTC | PL: Ipswich Town - Aston Villa, matchday 12 | From Portman Road Stadium in Ipswich, England. |
+| 2026-11-28 23:30 UTC | 2026-11-29 01:30 UTC | PL: Leeds United - Coventry City, matchday 12 | From Elland Road Stadium in Leeds, England, United Kingdom. |
+| 2026-11-29 01:30 UTC | 2026-11-29 02:00 UTC | PL: Club 100: Ryan Giggs | We sit down with 13-time Premier League winner Ryan Giggs and celebrate his 109 goals. |
+| 2026-11-29 02:00 UTC | 2026-11-29 03:00 UTC | PL: 1 to 11 (Thomas Hitzlsperger) | **Thomas Hitzelsberger** — What does the perfect Premier League eleven look like? Thomas Hitzlsperger presents his dream team. |
+| 2026-11-29 03:00 UTC | 2026-11-29 05:00 UTC | PL: Manchester United - Brentford FC, matchday 12 | From the Old Trafford Stadium in Manchester, England. |
+| 2026-11-29 05:00 UTC | 2026-11-29 07:00 UTC | PL: Manchester United - Brentford FC, matchday 12 | From the Old Trafford Stadium in Manchester, England. |
+| 2026-11-29 07:00 UTC | 2026-11-29 07:30 UTC | PL: PL Stories (Arteta's Arsenal) | **Mikel Arteta** — Beleuchtet wird der prägende Einfluss sowie der strategische Führungsansatz von Mikel Arteta bei Arsenal. Es wird gezeigt, wie seine Kindheit und Fußballausbildung im baskischen San Sebastián sein Denken geformt haben. |
+| 2026-11-29 07:30 UTC | 2026-11-29 08:00 UTC | PL: Classic Match: Manchester City - Arsenal FC | Information about this program will be coming soon! |
+| 2026-11-29 08:00 UTC | 2026-11-29 08:30 UTC | PL: Best Goals: Merseyside Derby | Information about this program will be coming soon! |
 
 ## Sky Sport Calcio.it (0 programmes)
 
@@ -1600,25 +1519,10 @@
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
 
-## DAZN1.pt (47 programmes)
+## DAZN1.pt (49 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 05:00 UTC | 2026-11-25 06:00 UTC | Bundesliga - Matchday Summaries | Watch the best moments of this Bundesliga journey. |
-| 2026-11-25 06:00 UTC | 2026-11-25 08:00 UTC | La Liga EA Sports 2026-27 - Ath. Bilbao x Espanyol | Watch the LALIGA game between Athletic Club x Espanyol. |
-| 2026-11-25 08:00 UTC | 2026-11-25 10:00 UTC | Bundesliga 26/27 - Augsburg x Mainz 05 | Watch the Bundesliga game between Augsburg x Mainz 05. |
-| 2026-11-25 10:00 UTC | 2026-11-25 11:55 UTC | UEFA Champions League 26/27 - Man. City x Naples | Watch the UEFA Champions League game between Manchester City and Napoli. |
-| 2026-11-25 11:55 UTC | 2026-11-25 12:55 UTC | Premier Pub 26/27 - Premier Pub |  |
-| 2026-11-25 12:55 UTC | 2026-11-25 15:00 UTC | UEFA Youth League 26/27 - Sporting x Man. United (Live) | Watch the UEFA Youth League game between Sporting CP x Manchester United. |
-| 2026-11-25 15:00 UTC | 2026-11-25 16:50 UTC | UEFA Champions League 26/27 - Real Madrid x PSV | Watch the UEFA Champions League game between Real Madrid and PSV. |
-| 2026-11-25 16:50 UTC | 2026-11-25 17:35 UTC | Uel/Uecl Magazine 2026/2027 - Uel/Uecl Magazine 2026/2027 - Episode 5 |  |
-| 2026-11-25 17:35 UTC | 2026-11-25 19:30 UTC | UEFA Champions League 26/27 - Sabah x Barcelona (Live) | Watch the UEFA Champions League game between Sabah and Barcelona. |
-| 2026-11-25 19:30 UTC | 2026-11-25 23:15 UTC | UEFA Champions League 26/27 - PSG x Roma (Live) | Watch the UEFA Champions League match between PSG and Roma. |
-| 2026-11-25 23:15 UTC | 2026-11-25 23:45 UTC | UEFA Champions League 26/27 - Feyenoord x FC Porto | Watch the UEFA Champions League game between Feyenoord and FC Porto. |
-| 2026-11-25 23:45 UTC | 2026-11-26 00:00 UTC | NFL Extra | Behind the scenes of the National Football League. |
-| 2026-11-26 00:00 UTC | 2026-11-26 01:00 UTC | NFL Generation (Direct) |  |
-| 2026-11-26 01:00 UTC | 2026-11-26 03:00 UTC | Premier League 26/27 - Liverpool x Man United | Watch the Premier League game between Liverpool and Manchester United. |
-| 2026-11-26 03:00 UTC | 2026-11-26 04:55 UTC | Bundesliga 26/27 - B. Munich x Cologne | Watch the Bundesliga game between Bayern Munchen and Koln. |
 | 2026-11-26 04:55 UTC | 2026-11-26 06:00 UTC | Premier Pub 26/27 - Premier Pub |  |
 | 2026-11-26 06:00 UTC | 2026-11-26 08:00 UTC | Bundesliga 26/27 - BoRussia M'Gladbach x B. Dortmund | Watch the Bundesliga game between Borussia M'gladbach x Borussia Dortmund. |
 | 2026-11-26 08:00 UTC | 2026-11-26 09:50 UTC | La Liga EA Sports 2026-27 - Rayo Vallecano x Valencia | Watch the LALIGA game between Rayo Vallecano x Valencia. |
@@ -1651,26 +1555,28 @@
 | 2026-11-28 04:00 UTC | 2026-11-28 06:00 UTC | UEFA Conference League 26/27 - Hearts x Monaco | Watch the UEFA Conference League match between Hearts and Monaco. |
 | 2026-11-28 06:00 UTC | 2026-11-28 08:00 UTC | UEFA Europa League 26/27 - Juventus x Omonia Nicosia | Assiste ao jogo da UEFA Europa League entre Juventus x Omonia Nicosia. |
 | 2026-11-28 08:00 UTC | 2026-11-28 10:00 UTC | UEFA Champions League 26/27 - Sabah x Barcelona | Watch the UEFA Champions League game between Sabah and Barcelona. |
+| 2026-11-28 10:00 UTC | 2026-11-28 11:55 UTC | Premier League 26/27 – Nottingham Forest x Chelsea | Watch the Premier League game between Nottingham Forest and Chelsea. |
+| 2026-11-28 11:55 UTC | 2026-11-28 14:00 UTC | 2. Bundesliga 2026-27 - Holstein Kiel x FC Kaiserslautern (Live) | Watch the 2 Bundesliga game between Holstein Kiel x Kaiserlautern. |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:30 UTC | Premier League The Big Interview 26/27 - Ep 14 - Alex SCott | The best interviews from the Premier League. |
+| 2026-11-28 14:30 UTC | 2026-11-28 14:50 UTC | Premier League Stories 2025-26 - Ep. 25 - Nemanja Matic | Watch Premier League Stories. |
+| 2026-11-28 14:50 UTC | 2026-11-28 17:05 UTC | Premier League 26/27 - Man United x Brentford (Live) | Watch the Premier League game between Manchester United and Brentford. |
+| 2026-11-28 17:05 UTC | 2026-11-28 17:20 UTC | Premier League The Big Interview 26/27 - Emerson | The great Premier League interviews. |
+| 2026-11-28 17:20 UTC | 2026-11-28 19:30 UTC | Premier League 26/27 – Ipswich Town x Aston Villa (Live) | Watch the Premier League game between Ipswich Town and Aston Villa. |
+| 2026-11-28 19:30 UTC | 2026-11-28 19:50 UTC | Freetour La Liga 2026/2027 | Watch the LALIGA Freetour. |
+| 2026-11-28 19:50 UTC | 2026-11-28 22:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Alavés (Live) | Watch the LALIGA game between Real Madrid x Alavés. |
+| 2026-11-28 22:00 UTC | 2026-11-29 00:00 UTC | La Liga EA Sports 2026-27 - Elche x At. Madrid | Watch the LALIGA game between Elche x Atl. Madrid. |
+| 2026-11-29 00:00 UTC | 2026-11-29 02:00 UTC | Bundesliga 26/27 - Stuttgart x E. Frankfurt | Watch the Bundesliga game between Stuttgart and Frankfurt. |
+| 2026-11-29 02:00 UTC | 2026-11-29 03:50 UTC | La Liga EA Sports 2026-27 - Malaga x Ath. Bilbao | Watch the LALIGA game between Malaga x Athletic Club. |
+| 2026-11-29 03:50 UTC | 2026-11-29 04:15 UTC | La Liga Rookies |  |
+| 2026-11-29 04:15 UTC | 2026-11-29 04:30 UTC | UEFA Europa League 26/27 - Viktoria Plzeň x Benfica | Watch the UEFA Europa League match between Viktoria Plzeň x SL Benfica. |
+| 2026-11-29 04:30 UTC | 2026-11-29 05:00 UTC | Bundesliga Special Report | Special informative space about the Bundesliga. |
+| 2026-11-29 05:00 UTC | 2026-11-29 07:00 UTC | 2. Bundesliga 2026-27 - Holstein Kiel x FC Kaiserslautern | Watch the 2 Bundesliga game between Holstein Kiel x Kaiserlautern. |
+| 2026-11-29 07:00 UTC | 2026-11-29 09:00 UTC | Premier League 26/27 - Man United x Brentford | Watch the Premier League game between Manchester United and Brentford. |
 
-## DAZN2.pt (47 programmes)
+## DAZN2.pt (49 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 04:10 UTC | 2026-11-25 06:00 UTC | 2. Bundesliga 2026-27 - Darmstadt 98 x Heidenheim | Watch the 2 Bundesliga game between Darmstadt 98 x Heidenheim. |
-| 2026-11-25 06:00 UTC | 2026-11-25 08:00 UTC | Premier League 26/27 – Coventry City x Crystal Palace | Watch the Premier League game between Coventry City and Crystal Palace. |
-| 2026-11-25 08:00 UTC | 2026-11-25 10:00 UTC | UEFA Champions League 26/27 - Arsenal x B. Dortmund | Watch the UEFA Champions League game between Arsenal and Borussia Dortmund. |
-| 2026-11-25 10:00 UTC | 2026-11-25 11:00 UTC | Bundesliga - Matchday Summaries | Watch the best moments of this Bundesliga journey. |
-| 2026-11-25 11:00 UTC | 2026-11-25 13:00 UTC | UEFA Champions League 26/27 - RB Leipzig x Lens | Watch the UEFA Champions League game between RB Leipzig and Lens. |
-| 2026-11-25 13:00 UTC | 2026-11-25 15:00 UTC | Premier League 26/27 - Liverpool x Man United | Watch the Premier League game between Liverpool and Manchester United. |
-| 2026-11-25 15:00 UTC | 2026-11-25 15:30 UTC | Premier League Stories 2025-26 - Ep. 25 - Nemanja Matic | Watch Premier League Stories. |
-| 2026-11-25 15:30 UTC | 2026-11-25 17:20 UTC | La Liga EA Sports 2026-27 - Barcelona x Villarreal | Watch the LALIGA game between Barcelona x Villarreal. |
-| 2026-11-25 17:20 UTC | 2026-11-25 17:35 UTC | La Liga Rookies |  |
-| 2026-11-25 17:35 UTC | 2026-11-25 19:50 UTC | UEFA Champions League 26/27 - Slavia Prague x Villarreal (Live) | Watch the UEFA Champions League match between Slavia Praha and Villarreal. |
-| 2026-11-25 19:50 UTC | 2026-11-25 22:00 UTC | UEFA Champions League 26/27 - Club Brugge x Liverpool (Live) | Watch the UEFA Champions League match between Club Brugge and Liverpool. |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:00 UTC | Premier League - Summaries | Watch the best moments of this Premier League journey. |
-| 2026-11-25 23:00 UTC | 2026-11-26 00:55 UTC | UEFA Champions League 26/27 - Sabah x Barcelona | Watch the UEFA Champions League game between Sabah and Barcelona. |
-| 2026-11-26 00:55 UTC | 2026-11-26 02:55 UTC | UEFA Champions League 26/27 - Lille x B. Munich | Watch the UEFA Champions League game between Lille and Bayern München. |
-| 2026-11-26 02:55 UTC | 2026-11-26 04:00 UTC | Top Or Not For That 2026/27 |  |
 | 2026-11-26 04:00 UTC | 2026-11-26 06:00 UTC | UEFA Champions League 26/27 - Inter x Stuttgart | Watch the UEFA Champions League game between Inter x Stuttgart. |
 | 2026-11-26 06:00 UTC | 2026-11-26 08:00 UTC | Premier League 26/27 - Bournemouth x Nottingham Forest | Watch the Premier League game between AFC Bournemouth and Nottingham Forest. |
 | 2026-11-26 08:00 UTC | 2026-11-26 10:00 UTC | UEFA Champions League 26/27 - Inter x Stuttgart | Watch the UEFA Champions League game between Inter x Stuttgart. |
@@ -1703,32 +1609,28 @@
 | 2026-11-28 04:00 UTC | 2026-11-28 06:00 UTC | UEFA Champions League 26/27 - Bodø / Glimt x Lask | Watch the UEFA Champions League game between Bodø / Glimt vs LASK. |
 | 2026-11-28 06:00 UTC | 2026-11-28 08:00 UTC | UEFA Champions League 26/27 - Atl. de Madrid x Viking | Assiste ao jogo da UEFA Champions League entre Atl. Madrid x Viking. |
 | 2026-11-28 08:00 UTC | 2026-11-28 10:00 UTC | UEFA Europa League 26/27 - Torreense x Celtic | Assiste ao jogo da UEFA Europa League entre Torreense x Celtic. |
+| 2026-11-28 10:00 UTC | 2026-11-28 12:00 UTC | La Liga EA Sports 2026-27 - Levante x Racing de Santander | Watch the LALIGA game between Levante x Racing de Santander. |
+| 2026-11-28 12:00 UTC | 2026-11-28 13:50 UTC | UEFA Europa League 26/27 - Ol. Marseille x Levski Sofia | Watch the UEFA Europa League match between Olympique Marseille and Levski Sofia. |
+| 2026-11-28 13:50 UTC | 2026-11-28 14:00 UTC | Rico Momento - New Era, New Jersey 7 | In this week's Rico Momento, we take a look at what's going on in the Real Madrid locker room, discover Kimi Antonelli's new look and discover what's new in Cristiano Ronaldo's life. |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:25 UTC | Bundesliga Special Report | Special informative space about the Bundesliga. |
+| 2026-11-28 14:25 UTC | 2026-11-28 16:35 UTC | Bundesliga 26/27 – Hamburg Sv x B. Munich (Live) | Watch the Bundesliga game between Hamburg and Bayern Munchen. |
+| 2026-11-28 16:35 UTC | 2026-11-28 16:50 UTC | Bundesliga Clubs - B. Munich Ep2 | Don't miss the historical profile of the clubs that will be part of the Bundesliga this season, an exclusive Eleven Sports Portugal. |
+| 2026-11-28 16:50 UTC | 2026-11-28 17:10 UTC | UEFA Champions League 26/27 - Feyenoord x FC Porto | Watch the UEFA Champions League game between Feyenoord and FC Porto. |
+| 2026-11-28 17:10 UTC | 2026-11-28 17:20 UTC | La Liga Rookies |  |
+| 2026-11-28 17:20 UTC | 2026-11-28 19:30 UTC | La Liga EA Sports 2026-27 - Elche x At. Madrid (Live) | Watch the LALIGA game between Elche x Atl. Madrid. |
+| 2026-11-28 19:30 UTC | 2026-11-28 20:00 UTC | Premier League The Big Interview 26/27 - Ep 14 - Alex SCott | The best interviews from the Premier League. |
+| 2026-11-28 20:00 UTC | 2026-11-28 22:00 UTC | Premier League 26/27 - Man United x Brentford | Watch the Premier League game between Manchester United and Brentford. |
+| 2026-11-28 22:00 UTC | 2026-11-29 00:00 UTC | Bundesliga 26/27 - Cologne x Elversberg | Watch the Bundesliga game between Kõln and Elversberg. |
+| 2026-11-29 00:00 UTC | 2026-11-29 02:00 UTC | La Liga EA Sports 2026-27 - Real Madrid x Alavés | Watch the LALIGA game between Real Madrid x Alavés. |
+| 2026-11-29 02:00 UTC | 2026-11-29 04:00 UTC | Premier League 26/27 – Ipswich Town x Aston Villa | Watch the Premier League game between Ipswich Town and Aston Villa. |
+| 2026-11-29 04:00 UTC | 2026-11-29 06:00 UTC | La Liga EA Sports 2026-27 - Betis x Rayo Vallecano | Watch the LALIGA game between Real Madrid x Rayo Vallecano. |
+| 2026-11-29 06:00 UTC | 2026-11-29 08:00 UTC | Eredivisie 2026-27 - PSV x Go Ahead Eagles | Watch the Eredivisie game between PSV x Go Ahead Eagles. |
+| 2026-11-29 08:00 UTC | 2026-11-29 10:00 UTC | UEFA Europa League 26/27 - Celta de Vigo x Bournemouth | Assiste ao jogo da UEFA Europa League entre Celta de Vigo x AFC Bournemouth. |
 
-## DAZN3.pt (74 programmes)
+## DAZN3.pt (77 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-25 02:35 UTC | 2026-11-25 07:00 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 07:00 UTC | 2026-11-25 07:40 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 07:40 UTC | 2026-11-25 08:20 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 08:20 UTC | 2026-11-25 09:00 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 09:00 UTC | 2026-11-25 09:40 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 09:40 UTC | 2026-11-25 10:00 UTC | Information Not Available Through the Channel |  |
-| 2026-11-25 10:00 UTC | 2026-11-25 12:00 UTC | Liga Acb 26/27 - Tenerife x Barcelona | Watch the Liga ACB game between Tenerife x Barça. |
-| 2026-11-25 12:00 UTC | 2026-11-25 14:00 UTC | Betclic Men's Basketball League 26/27 - Benfica x Ovarense | Watch the Betclic Basquetebol Men's League game between SL Benfica x Ovarense. |
-| 2026-11-25 14:00 UTC | 2026-11-25 16:00 UTC | Premier League 26/27 - Hull City x Brighton And Hove Albion | Watch the Premier League game between Hull City x Brighton And Hove Albion. |
-| 2026-11-25 16:00 UTC | 2026-11-25 18:00 UTC | World Rugby Nations Cup 2026 - Portugal x Uruguay | Watch the World Rugby Nations Cup game between Portugal x Uruguay. |
-| 2026-11-25 18:00 UTC | 2026-11-25 20:00 UTC | UEFA Champions League 26/27 - Slovan Bratislava x Betis | Watch the UEFA Champions league game between Slovan Bratislava x Real Betis. |
-| 2026-11-25 20:00 UTC | 2026-11-25 22:00 UTC | UEFA Champions League 26/27 - Lille x B. Munich (Live) | Watch the UEFA Champions League game between Lille and Bayern München. |
-| 2026-11-25 22:00 UTC | 2026-11-25 23:00 UTC | Jupiler Pro League Summaries 2026/27 - Matchday 12 | Watch the best moments of this Jupiler Pro League journey. |
-| 2026-11-25 23:00 UTC | 2026-11-26 01:00 UTC | UEFA Champions League 26/27 - Slavia Prague x Villarreal | Watch the UEFA Champions League match between Slavia Praha and Villarreal. |
-| 2026-11-26 01:00 UTC | 2026-11-26 01:40 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 01:40 UTC | 2026-11-26 02:20 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 02:20 UTC | 2026-11-26 03:00 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 03:00 UTC | 2026-11-26 03:40 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 03:40 UTC | 2026-11-26 04:20 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 04:20 UTC | 2026-11-26 05:00 UTC | Information Not Available Through the Channel |  |
-| 2026-11-26 05:00 UTC | 2026-11-26 05:40 UTC | Information Not Available Through the Channel |  |
 | 2026-11-26 05:40 UTC | 2026-11-26 06:20 UTC | Information Not Available Through the Channel |  |
 | 2026-11-26 06:20 UTC | 2026-11-26 07:00 UTC | Information Not Available Through the Channel |  |
 | 2026-11-26 07:00 UTC | 2026-11-26 07:40 UTC | Information Not Available Through the Channel |  |
@@ -1782,48 +1684,35 @@
 | 2026-11-28 07:00 UTC | 2026-11-28 07:40 UTC | Information Not Available Through the Channel |  |
 | 2026-11-28 07:40 UTC | 2026-11-28 08:20 UTC | Information Not Available Through the Channel |  |
 | 2026-11-28 08:20 UTC | 2026-11-28 09:00 UTC | Information Not Available Through the Channel |  |
+| 2026-11-28 09:00 UTC | 2026-11-28 09:40 UTC | Information Not Available Through the Channel |  |
+| 2026-11-28 09:40 UTC | 2026-11-28 10:00 UTC | Information Not Available Through the Channel |  |
+| 2026-11-28 10:00 UTC | 2026-11-28 11:00 UTC | UCL Summaries 2026/27 - Journey 5 | Watch the best moments of this UCL journey. |
+| 2026-11-28 11:00 UTC | 2026-11-28 13:01 UTC | UEFA Conference League 26/27 - Borac Banja Luka x Atalanta | Watch the UEFA Conference League game between Borac Banja Luka vs Atalanta. |
+| 2026-11-28 13:01 UTC | 2026-11-28 15:00 UTC | La Liga EA Sports 2026-27 - Betis x Rayo Vallecano (Live) | Watch the LALIGA game between Real Madrid x Rayo Vallecano. |
+| 2026-11-28 15:00 UTC | 2026-11-28 15:15 UTC | UEFA Champions League 26/27 - Sporting x Man. United | Assiste ao jogo da UEFA Champions League entre Sporting CP x Manchester United. |
+| 2026-11-28 15:15 UTC | 2026-11-28 17:20 UTC | La Liga EA Sports 2026-27 - Malaga x Ath. Bilbao (Live) | Watch the LALIGA game between Malaga x Athletic Club. |
+| 2026-11-28 17:20 UTC | 2026-11-28 17:30 UTC | Rico Momento - New Era, New Jersey 7 | In this week's Rico Momento, we take a look at what's going on in the Real Madrid locker room, discover Kimi Antonelli's new look and discover what's new in Cristiano Ronaldo's life. |
+| 2026-11-28 17:30 UTC | 2026-11-28 19:35 UTC | Bundesliga 26/27 – Stuttgart x E. Frankfurt (Live) | Watch the Bundesliga game between Stuttgart and Frankfurt. |
+| 2026-11-28 19:35 UTC | 2026-11-28 21:30 UTC | Bundesliga 26/27 - Mainz 05 x Union Berlin | Watch the Bundesliga game between Mainz 05 x Union Berlin. |
+| 2026-11-28 21:30 UTC | 2026-11-28 23:00 UTC | Liga Betclic Men's Basketball 26/27 - Oliveirense x Ca Queluz | Watch the Betclic Basketball Men's League game between Oliveirense x CA Queluz. |
+| 2026-11-28 23:00 UTC | 2026-11-29 01:00 UTC | Premier League 26/27 - Leeds United x Coventry City | Watch the Premier League game between Leeds United and Coventry City. |
+| 2026-11-29 01:00 UTC | 2026-11-29 01:40 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 01:40 UTC | 2026-11-29 02:20 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 02:20 UTC | 2026-11-29 03:00 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 03:00 UTC | 2026-11-29 03:40 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 03:40 UTC | 2026-11-29 04:20 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 04:20 UTC | 2026-11-29 05:00 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 05:00 UTC | 2026-11-29 05:40 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 05:40 UTC | 2026-11-29 06:20 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 06:20 UTC | 2026-11-29 07:00 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 07:00 UTC | 2026-11-29 07:40 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 07:40 UTC | 2026-11-29 08:20 UTC | Information Not Available Through the Channel |  |
+| 2026-11-29 08:20 UTC | 2026-11-29 09:00 UTC | Information Not Available Through the Channel |  |
 
-## DAZN4.pt (151 programmes)
+## DAZN4.pt (149 programmes)
 
 | Start (UTC) | Stop (UTC) | Title | Sub-title / Description |
 |---|---|---|---|
-| 2026-11-24 08:40 UTC | 2026-11-24 09:10 UTC | No Emission | S1 — Tue 24-Nov, 08:40No Broadcast. |
-| 2026-11-24 09:10 UTC | 2026-11-24 09:45 UTC | No Emission | S1 — Tue 24-Nov, 09:10No Broadcast. |
-| 2026-11-24 09:45 UTC | 2026-11-24 10:15 UTC | No Emission | S1 — Tue 24-Nov, 09:45 No Broadcast. |
-| 2026-11-24 10:15 UTC | 2026-11-24 10:50 UTC | No Emission | S1 — Tue 24-Nov, 10:15 No Broadcast. |
-| 2026-11-24 10:50 UTC | 2026-11-24 11:20 UTC | No Emission | S1 — Tue 24-Nov, 10:50 No Broadcast. |
-| 2026-11-24 11:20 UTC | 2026-11-24 11:55 UTC | No Emission | S1 — Tue 24-Nov, 11:20No Broadcast. |
-| 2026-11-24 11:55 UTC | 2026-11-24 12:25 UTC | No Emission | S1 — Tue 24-Nov, 11:55 No Broadcast. |
-| 2026-11-24 12:25 UTC | 2026-11-24 13:00 UTC | No Emission | S1 — Tue 24-Nov, 12:25No Broadcast. |
-| 2026-11-24 13:00 UTC | 2026-11-24 13:30 UTC | No Emission | S1 — Tue 24-Nov, 13:00No Broadcast. |
-| 2026-11-24 13:30 UTC | 2026-11-24 14:05 UTC | No Emission | S1 — Tue 24-Nov, 13:30No Broadcast. |
-| 2026-11-24 14:05 UTC | 2026-11-24 14:35 UTC | No Emission | S1 — Tue 24-Nov, 14:05 No Broadcast. |
-| 2026-11-24 14:35 UTC | 2026-11-24 15:10 UTC | No Emission | S1 — Tue 24-Nov, 14:35 No Broadcast. |
-| 2026-11-24 15:10 UTC | 2026-11-24 15:40 UTC | No Emission | S1 — Tue 24-Nov, 15:10No Broadcast. |
-| 2026-11-24 15:40 UTC | 2026-11-24 16:15 UTC | No Emission | S1 — Tue 24-Nov, 15:40No Broadcast. |
-| 2026-11-24 16:15 UTC | 2026-11-24 16:45 UTC | No Emission | S1 — Tue 24-Nov, 16:15 No Broadcast. |
-| 2026-11-24 16:45 UTC | 2026-11-24 17:20 UTC | No Emission | S1 — Tue 24-Nov, 16:45 No Broadcast. |
-| 2026-11-24 17:20 UTC | 2026-11-24 17:50 UTC | No Emission | S1 — Tue 24-Nov, 17:20No Broadcast. |
-| 2026-11-24 17:50 UTC | 2026-11-24 18:25 UTC | No Emission | S1 — Tue 24-Nov, 17:50 No Broadcast. |
-| 2026-11-24 18:25 UTC | 2026-11-24 18:45 UTC | No Emission | S1 — Tue 24-Nov, 18:25No Broadcast. |
-| 2026-11-24 18:45 UTC | 2026-11-24 19:50 UTC | The Premier Pub | S1 E6After the day, time to go to the Pub. Analysis and reactions to the Premier League day. |
-| 2026-11-24 19:50 UTC | 2026-11-24 22:00 UTC | Champions League | S1 — Como x AEK AthensWatch the UEFA Champions League game between Como x AEK Athens. |
-| 2026-11-24 22:00 UTC | 2026-11-24 23:55 UTC | UEFA Youth League | S1 — Feyenoord x FC PortoWatch the UEFA Youth League match between Feyenoord x FC Porto. |
-| 2026-11-24 23:55 UTC | 2026-11-25 00:25 UTC | No Emission | S1 — Tue 24-Nov, 23:55 No Broadcast. |
-| 2026-11-25 00:25 UTC | 2026-11-25 01:00 UTC | No Emission | S1 — Wed 25-Nov, 00:25No Broadcast. |
-| 2026-11-25 01:00 UTC | 2026-11-25 01:30 UTC | No Emission | S1 — Wed 25-Nov, 01:00No Broadcast. |
-| 2026-11-25 01:30 UTC | 2026-11-25 02:05 UTC | No Emission | S1 — Wed 25-Nov, 01:30No Broadcast. |
-| 2026-11-25 02:05 UTC | 2026-11-25 02:35 UTC | No Emission | S1 — Wed 25-Nov, 02:05 No Broadcast. |
-| 2026-11-25 02:35 UTC | 2026-11-25 03:10 UTC | No Emission | S1 — Wed 25-Nov, 02:35No Broadcast. |
-| 2026-11-25 03:10 UTC | 2026-11-25 03:40 UTC | No Emission | S1 — Wed 25-Nov, 03:10No Broadcast. |
-| 2026-11-25 03:40 UTC | 2026-11-25 04:15 UTC | No Emission | S1 — Wed 25-Nov, 03:40No Broadcast. |
-| 2026-11-25 04:15 UTC | 2026-11-25 04:45 UTC | No Emission | S1 — Wed 25-Nov, 04:15No Broadcast. |
-| 2026-11-25 04:45 UTC | 2026-11-25 05:20 UTC | No Emission | S1 — Wed 25-Nov, 04:45No Broadcast. |
-| 2026-11-25 05:20 UTC | 2026-11-25 05:50 UTC | No Emission | S1 — Wed 25-Nov, 05:20No Broadcast. |
-| 2026-11-25 05:50 UTC | 2026-11-25 06:25 UTC | No Emission | S1 — Wed 25-Nov, 05:50 No Broadcast. |
-| 2026-11-25 06:25 UTC | 2026-11-25 07:00 UTC | No Emission | S1 — Wed 25-Nov, 06:25 No Broadcast. |
-| 2026-11-25 07:00 UTC | 2026-11-25 07:35 UTC | No Emission | S1 — Wed 25-Nov, 07:00No Broadcast. |
-| 2026-11-25 07:35 UTC | 2026-11-25 08:10 UTC | No Emission | S1 — Wed 25-Nov, 07:35 No Broadcast. |
 | 2026-11-25 08:10 UTC | 2026-11-25 08:45 UTC | No Emission | S1 — Wed 25-Nov, 08:10 No Broadcast. |
 | 2026-11-25 08:45 UTC | 2026-11-25 09:20 UTC | No Emission | S1 — Wed 25-Nov, 08:45 No Broadcast. |
 | 2026-11-25 09:20 UTC | 2026-11-25 09:55 UTC | No Emission | S1 — Wed 25-Nov, 09:20 No Broadcast. |
@@ -1938,6 +1827,41 @@
 | 2026-11-28 07:00 UTC | 2026-11-28 07:35 UTC | No Emission | S1 — Sat 28-Nov, 07:00No Broadcast. |
 | 2026-11-28 07:35 UTC | 2026-11-28 08:10 UTC | No Emission | S1 — Sat 28-Nov, 07:35 No Broadcast. |
 | 2026-11-28 08:10 UTC | 2026-11-28 08:45 UTC | No Emission | S1 — Sat 28-Nov, 08:10No Broadcast. |
+| 2026-11-28 08:45 UTC | 2026-11-28 09:20 UTC | No Emission | S1 — Sat 28-Nov, 08:45No Broadcast. |
+| 2026-11-28 09:20 UTC | 2026-11-28 09:55 UTC | No Emission | S1 — Sat 28-Nov, 09:20No Broadcast. |
+| 2026-11-28 09:55 UTC | 2026-11-28 10:30 UTC | No Emission | S1 — Sat 28-Nov, 09:55 No Broadcast. |
+| 2026-11-28 10:30 UTC | 2026-11-28 11:05 UTC | NFL Extra | S1 E10Watch the best of American football on NFL Extra. |
+| 2026-11-28 11:05 UTC | 2026-11-28 11:30 UTC | NFL Extra | S1 E11Watch the best of American football on NFL Extra. |
+| 2026-11-28 11:30 UTC | 2026-11-28 13:30 UTC | Cab Madeira x Sporting CP - Liga Betclic Basquetebol Feminino | S1 — Cab Madeira x Sporting CpWatch the Betclic Basketball Women's League game between Cab Madeira x Sporting Cp. |
+| 2026-11-28 13:30 UTC | 2026-11-28 14:00 UTC | WTA Tournament Highlights 2026 | S1 E7 — Finals RiyhadWTA Tournament Highlights 2026. |
+| 2026-11-28 14:00 UTC | 2026-11-28 14:15 UTC | Custom Series | S1 E10Watch the Custom Series. |
+| 2026-11-28 14:15 UTC | 2026-11-28 14:30 UTC | Europa League | S1 — Viktoria Plzeň x SL BenficaWatch the UEFA Europa League game between Viktoria Plzeň x SL Benfica. |
+| 2026-11-28 14:30 UTC | 2026-11-28 15:00 UTC | Coventry Rising - Premier League Stories | S1 — Coventry RisingWatch Premier League Stories. |
+| 2026-11-28 15:00 UTC | 2026-11-28 17:00 UTC | Leeds United x Coventry City - Premier League | S1 — Leeds United x Coventry CityWatch the Premier League game between Leeds United x Coventry City. |
+| 2026-11-28 17:00 UTC | 2026-11-28 17:25 UTC | Premier League - The Big Interview | S1 E9 — Noah OkaforThe best interviews from the Premier League. |
+| 2026-11-28 17:25 UTC | 2026-11-28 17:45 UTC | Champions League | S1 — Feyenoord x FC PortoAssiste ao jogo da UEFA Champions League entre Feyenoord x FC Porto. |
+| 2026-11-28 17:45 UTC | 2026-11-28 19:45 UTC | PSV x Go Ahead Eagles - Eredivisie | S1 — PSV x Go Ahead EaglesWatch the Eredivisie game between PSV x Go Ahead Eagles. |
+| 2026-11-28 19:45 UTC | 2026-11-28 21:20 UTC | Bundesliga | S1 — Paderborn x Schalke 04Watch the Bundesliga game between Paderborn Schalke 04. |
+| 2026-11-28 21:20 UTC | 2026-11-28 21:55 UTC | No Emission | S1 — Sat 28-Nov, 21:20No Broadcast. |
+| 2026-11-28 21:55 UTC | 2026-11-28 22:25 UTC | No Emission | S1 — Sat 28-Nov, 21:55 No Broadcast. |
+| 2026-11-28 22:25 UTC | 2026-11-28 23:00 UTC | No Emission | S1 — Sat 28-Nov, 22:25No Broadcast. |
+| 2026-11-28 23:00 UTC | 2026-11-28 23:35 UTC | No Emission | S1 — Sat 28-Nov, 23:00No Broadcast. |
+| 2026-11-28 23:35 UTC | 2026-11-29 00:10 UTC | No Emission | S1 — Sat 28-Nov, 23:35No Broadcast. |
+| 2026-11-29 00:10 UTC | 2026-11-29 00:45 UTC | No Emission | S1 — Sun 29-Nov, 00:10No Broadcast. |
+| 2026-11-29 00:45 UTC | 2026-11-29 01:20 UTC | No Emission | S1 — Sun 29-Nov, 00:45 No Broadcast. |
+| 2026-11-29 01:20 UTC | 2026-11-29 01:55 UTC | No Emission | S1 — Sun 29-Nov, 01:20 No Broadcast. |
+| 2026-11-29 01:55 UTC | 2026-11-29 02:30 UTC | No Emission | S1 — Sun 29-Nov, 01:55 No Broadcast. |
+| 2026-11-29 02:30 UTC | 2026-11-29 03:00 UTC | No Emission | S1 — Sun 29-Nov, 02:30No Broadcast. |
+| 2026-11-29 03:00 UTC | 2026-11-29 03:35 UTC | No Emission | S1 — Sun 29-Nov, 03:00No Broadcast. |
+| 2026-11-29 03:35 UTC | 2026-11-29 04:10 UTC | No Emission | S1 — Sun 29-Nov, 03:35 No Broadcast. |
+| 2026-11-29 04:10 UTC | 2026-11-29 04:45 UTC | No Emission | S1 — Sun 29-Nov, 04:10 No Broadcast. |
+| 2026-11-29 04:45 UTC | 2026-11-29 05:20 UTC | No Emission | S1 — Sun 29-Nov, 04:45 No Broadcast. |
+| 2026-11-29 05:20 UTC | 2026-11-29 05:55 UTC | No Emission | S1 — Sun 29-Nov, 05:20 No Broadcast. |
+| 2026-11-29 05:55 UTC | 2026-11-29 06:30 UTC | No Emission | S1 — Sun 29-Nov, 05:55 No Broadcast. |
+| 2026-11-29 06:30 UTC | 2026-11-29 07:00 UTC | No Emission | S1 — Sun 29-Nov, 06:30 No Broadcast. |
+| 2026-11-29 07:00 UTC | 2026-11-29 07:35 UTC | No Emission | S1 — Sun 29-Nov, 07:00 No Broadcast. |
+| 2026-11-29 07:35 UTC | 2026-11-29 08:10 UTC | No Emission | S1 — Sun 29-Nov, 07:35 No Broadcast. |
+| 2026-11-29 08:10 UTC | 2026-11-29 08:45 UTC | No Emission | S1 — Sun 29-Nov, 08:10 No Broadcast. |
 
 ## KompasTV.id@SD (74 programmes)
 
